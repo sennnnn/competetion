@@ -1,4 +1,13 @@
 
+def average(iterable_object):
+    temp = 0
+    sum = 0
+    for i in iterable_object:
+        sum += i
+        temp += 1
+    
+    return sum/temp
+
 def catch_ball_time_calculate(info_1, info_2, member):
     """
     统计单个球员单次接球传球的时间。

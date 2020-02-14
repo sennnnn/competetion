@@ -2,7 +2,7 @@ import csv
 import sys
 
 from util import csv_process,team_member_get,team_key_word_extract,cooperation_detect,\
-                 catch_ball_time_calculate
+                 catch_ball_time_calculate,average
 
 fullevents_path = 'data/fullevents.csv'
 matches_path = 'data/matches.csv'
@@ -33,7 +33,7 @@ sys_args = sys.argv[1:]
 flag_cooperation_pass = True if('--coop_pass' in sys_args) else False
 flag_pass_origin_dest_per_team_member = True if('--pass_ori_dst_pm' in sys_args) else False
 flag_attractive_force_item_per_team_member = True if('--attrc_force_item_pm' in sys_args) else False
-flag_coordinate_per_origin_player = True if('--coordinate_per_op' in sys_args) else False
+flag_event_coordinate_per_player = True if('--coordinate_per_op' in sys_args) else False
 
 # 队伍综合能力
 # 队伍传球能力：累计传球次数
@@ -178,5 +178,36 @@ if(flag_attractive_force_item_per_team_member):
 
     f.close()
 
-# if(flag_coordinate_per_origin_player):
+if(flag_event_coordinate_per_player):
+    f = open('{}/{}_coordinate_origin_dest_avg.txt'.format(result_path, team_name), 'w', encoding='utf-8')
+    # 'OriginPlayerID', 'DestinationPlayerID'
+    # 'EventOrigin_x', 'EventOrigin_y', 'EventDestination_x', 'EventDestination_y'
+    coordinate_per_player = {member:{'origin':[], 'dest':[]} for member in team_members}
+    coordinate_avg_per_player = {member:{'origin':None, 'dest':None} for member in team_members}
+    for line in all_info:
+        origin_player_ID = line['OriginPlayerID']
+        dest_player_ID = line['DestinationPlayerID']
+        if(team_name not in origin_player_ID or team_name not in dest_player_ID):
+            continue
+        origin_x = float(line['EventOrigin_x'])
+        origin_y = float(line['EventOrigin_y'])
+        dest_x = float(line['EventDestination_x'])
+        dest_y = float(line['EventDestination_y'])
+        coordinate_per_player[origin_player_ID]['origin'].append((origin_x, origin_y))
+        coordinate_per_player[dest_player_ID]['dest'].append((dest_x, dest_y))
     
+    for member in team_members:
+        origin_temp = coordinate_per_player[member]['origin']
+        dest_temp = coordinate_per_player[member]['dest']
+        coordinate_avg_per_player[member]['origin'] = (average([x[0] for x in origin_temp]), \
+                                                       average([x[1] for x in origin_temp])) 
+        coordinate_avg_per_player[member]['dest']   = (average([x[0] for x in dest_temp]), \
+                                                       average([x[1] for x in dest_temp]))        
+    
+    f.write('队伍成员传接球站位统计!!\n=========================================================\n')
+    for member in team_members:
+        f.write('[{}]\n'.format(member))
+        f.write('传球平均坐标：x:{} y:{}\n'.format(*coordinate_avg_per_player[member]['origin']))
+        f.write('传球平均坐标：x:{} y:{}\n'.format(*coordinate_avg_per_player[member]['dest']))
+        f.write('\n')
+    f.close()
