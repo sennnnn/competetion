@@ -166,7 +166,7 @@ if(flag_attractive_force_item_per_team_member):
 
     for member in team_members:
         f.write('[{}]\n'.format(member))
-        f.write('持球时间 = {}\n'.format(single_member_attract_items[member]['catch_ball_time']))
+        f.write('持球时间 = {} min\n'.format(single_member_attract_items[member]['catch_ball_time']/60))
         f.write('参赛次数 = {}\n'.format(len(single_member_attract_items[member]['attend_race_ID_list'])))
         f.write('传球各种类触发次数统计：\n')
         temp = single_member_attract_items[member]['pass_all_kind_count']
