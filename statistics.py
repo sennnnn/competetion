@@ -211,6 +211,6 @@ if(flag_event_coordinate_per_player):
     for member in team_members:
         f.write('[{}]\n'.format(member))
         f.write('传球平均坐标：x:{} y:{}\n'.format(*coordinate_avg_per_player[member]['origin']))
-        f.write('传球平均坐标：x:{} y:{}\n'.format(*coordinate_avg_per_player[member]['dest']))
+        f.write('接球平均坐标：x:{} y:{}\n'.format(*coordinate_avg_per_player[member]['dest']))
         f.write('\n')
     f.close()
