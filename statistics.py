@@ -170,9 +170,12 @@ if(flag_attractive_force_item_per_team_member):
         f.write('参赛次数 = {}\n'.format(len(single_member_attract_items[member]['attend_race_ID_list'])))
         f.write('传球各种类触发次数统计：\n')
         temp = single_member_attract_items[member]['pass_all_kind_count']
+        temp_string_ = '一下按顺序分别为：\n'
         temp_string = ''
         for key in temp.keys():
-            temp_string += '{} = {} '.format(key, temp[key])
+            temp_string_ += ' {} |'.format(key)
+            temp_string += '{} '.format(temp[key])
+        f.write('{}\n'.format(temp_string_))
         f.write('{}\n'.format(temp_string))
         f.write('\n')
 

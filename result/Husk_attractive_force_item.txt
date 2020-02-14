@@ -2,179 +2,239 @@
 持球时间 = 1913.7326539999985
 参赛次数 = 30
 传球各种类触发次数统计：
-Head pass = 77 Simple pass = 688 Launch = 10 High pass = 71 Hand pass = 0 Smart pass = 3 Cross = 2 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+77 688 10 71 0 3 2 
 
 [Huskies_D2]
 持球时间 = 1251.5383660000066
 参赛次数 = 23
 传球各种类触发次数统计：
-Head pass = 55 Simple pass = 491 Launch = 4 High pass = 29 Hand pass = 0 Smart pass = 1 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+55 491 4 29 0 1 0 
 
 [Huskies_D3]
 持球时间 = 1531.8316600000044
 参赛次数 = 24
 传球各种类触发次数统计：
-Head pass = 58 Simple pass = 590 Launch = 20 High pass = 58 Hand pass = 0 Smart pass = 1 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+58 590 20 58 0 1 0 
 
 [Huskies_D4]
 持球时间 = 1302.8558359999981
 参赛次数 = 22
 传球各种类触发次数统计：
-Head pass = 20 Simple pass = 494 Launch = 4 High pass = 30 Hand pass = 0 Smart pass = 5 Cross = 16 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+20 494 4 30 0 5 16 
 
 [Huskies_D5]
 持球时间 = 1337.154225000001
 参赛次数 = 21
 传球各种类触发次数统计：
-Head pass = 48 Simple pass = 505 Launch = 8 High pass = 40 Hand pass = 0 Smart pass = 3 Cross = 21 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+48 505 8 40 0 3 21 
 
 [Huskies_D6]
 持球时间 = 707.4207489999956
 参赛次数 = 15
 传球各种类触发次数统计：
-Head pass = 28 Simple pass = 251 Launch = 2 High pass = 38 Hand pass = 0 Smart pass = 0 Cross = 3 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+28 251 2 38 0 0 3 
 
 [Huskies_D7]
 持球时间 = 1108.3931729999968
 参赛次数 = 19
 传球各种类触发次数统计：
-Head pass = 29 Simple pass = 318 Launch = 5 High pass = 37 Hand pass = 0 Smart pass = 2 Cross = 17 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+29 318 5 37 0 2 17 
 
 [Huskies_D8]
 持球时间 = 638.5857489999946
 参赛次数 = 12
 传球各种类触发次数统计：
-Head pass = 28 Simple pass = 207 Launch = 3 High pass = 19 Hand pass = 0 Smart pass = 3 Cross = 3 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+28 207 3 19 0 3 3 
 
 [Huskies_D9]
 持球时间 = 162.65981899999645
 参赛次数 = 2
 传球各种类触发次数统计：
-Head pass = 1 Simple pass = 50 Launch = 3 High pass = 3 Hand pass = 0 Smart pass = 0 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 50 3 3 0 0 0 
 
 [Huskies_D10]
 持球时间 = 101.81474100000065
 参赛次数 = 4
 传球各种类触发次数统计：
-Head pass = 4 Simple pass = 31 Launch = 0 High pass = 3 Hand pass = 0 Smart pass = 0 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 31 0 3 0 0 0 
 
 [Huskies_F1]
 持球时间 = 612.5644910000042
 参赛次数 = 32
 传球各种类触发次数统计：
-Head pass = 21 Simple pass = 202 Launch = 1 High pass = 2 Hand pass = 0 Smart pass = 3 Cross = 9 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+21 202 1 2 0 3 9 
 
 [Huskies_F2]
 持球时间 = 1785.3582540000036
 参赛次数 = 31
 传球各种类触发次数统计：
-Head pass = 17 Simple pass = 749 Launch = 3 High pass = 65 Hand pass = 0 Smart pass = 14 Cross = 11 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+17 749 3 65 0 14 11 
 
 [Huskies_F3]
 持球时间 = 70.7209549999991
 参赛次数 = 7
 传球各种类触发次数统计：
-Head pass = 1 Simple pass = 52 Launch = 0 High pass = 1 Hand pass = 0 Smart pass = 0 Cross = 2 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 52 0 1 0 0 2 
 
 [Huskies_F4]
 持球时间 = 789.3890060000018
 参赛次数 = 19
 传球各种类触发次数统计：
-Head pass = 6 Simple pass = 108 Launch = 0 High pass = 1 Hand pass = 0 Smart pass = 6 Cross = 4 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+6 108 0 1 0 6 4 
 
 [Huskies_F5]
 持球时间 = 346.91847600000165
 参赛次数 = 14
 传球各种类触发次数统计：
-Head pass = 8 Simple pass = 144 Launch = 0 High pass = 1 Hand pass = 0 Smart pass = 3 Cross = 2 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+8 144 0 1 0 3 2 
 
 [Huskies_F6]
 持球时间 = 844.3551000000049
 参赛次数 = 14
 传球各种类触发次数统计：
-Head pass = 15 Simple pass = 187 Launch = 0 High pass = 7 Hand pass = 0 Smart pass = 2 Cross = 12 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+15 187 0 7 0 2 12 
 
 [Huskies_M1]
 持球时间 = 2698.186524
 参赛次数 = 33
 传球各种类触发次数统计：
-Head pass = 47 Simple pass = 1160 Launch = 10 High pass = 29 Hand pass = 0 Smart pass = 5 Cross = 4 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+47 1160 10 29 0 5 4 
 
 [Huskies_M2]
 持球时间 = 82.5861199999996
 参赛次数 = 7
 传球各种类触发次数统计：
-Head pass = 4 Simple pass = 69 Launch = 0 High pass = 2 Hand pass = 0 Smart pass = 1 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 69 0 2 0 1 0 
 
 [Huskies_M3]
 持球时间 = 1906.2680260000088
 参赛次数 = 30
 传球各种类触发次数统计：
-Head pass = 38 Simple pass = 793 Launch = 5 High pass = 50 Hand pass = 0 Smart pass = 0 Cross = 1 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+38 793 5 50 0 0 1 
 
 [Huskies_M4]
 持球时间 = 1186.2793250000038
 参赛次数 = 33
 传球各种类触发次数统计：
-Head pass = 29 Simple pass = 448 Launch = 1 High pass = 12 Hand pass = 0 Smart pass = 4 Cross = 3 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+29 448 1 12 0 4 3 
 
 [Huskies_M5]
 持球时间 = 136.78642699999773
 参赛次数 = 5
 传球各种类触发次数统计：
-Head pass = 0 Simple pass = 41 Launch = 0 High pass = 0 Hand pass = 0 Smart pass = 1 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 41 0 0 0 1 0 
 
 [Huskies_M6]
 持球时间 = 867.6763539999973
 参赛次数 = 27
 传球各种类触发次数统计：
-Head pass = 19 Simple pass = 459 Launch = 3 High pass = 10 Hand pass = 0 Smart pass = 7 Cross = 10 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+19 459 3 10 0 7 10 
 
 [Huskies_M7]
 持球时间 = 49.88048499999968
 参赛次数 = 1
 传球各种类触发次数统计：
-Head pass = 0 Simple pass = 22 Launch = 0 High pass = 0 Hand pass = 0 Smart pass = 0 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 22 0 0 0 0 0 
 
 [Huskies_M8]
 持球时间 = 242.89066099999576
 参赛次数 = 15
 传球各种类触发次数统计：
-Head pass = 1 Simple pass = 142 Launch = 3 High pass = 2 Hand pass = 0 Smart pass = 1 Cross = 4 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 142 3 2 0 1 4 
 
 [Huskies_M9]
 持球时间 = 191.9937060000016
 参赛次数 = 12
 传球各种类触发次数统计：
-Head pass = 8 Simple pass = 119 Launch = 0 High pass = 1 Hand pass = 0 Smart pass = 1 Cross = 1 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+8 119 0 1 0 1 1 
 
 [Huskies_M10]
 持球时间 = 67.31763799999862
 参赛次数 = 7
 传球各种类触发次数统计：
-Head pass = 0 Simple pass = 35 Launch = 0 High pass = 1 Hand pass = 0 Smart pass = 0 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 35 0 1 0 0 0 
 
 [Huskies_M11]
 持球时间 = 99.95361199999911
 参赛次数 = 8
 传球各种类触发次数统计：
-Head pass = 1 Simple pass = 62 Launch = 0 High pass = 2 Hand pass = 0 Smart pass = 0 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 62 0 2 0 0 0 
 
 [Huskies_M12]
 持球时间 = 360.4325099999993
 参赛次数 = 15
 传球各种类触发次数统计：
-Head pass = 4 Simple pass = 115 Launch = 0 High pass = 3 Hand pass = 0 Smart pass = 5 Cross = 7 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 115 0 3 0 5 7 
 
 [Huskies_M13]
 持球时间 = 98.20463200000012
 参赛次数 = 4
 传球各种类触发次数统计：
-Head pass = 5 Simple pass = 65 Launch = 0 High pass = 2 Hand pass = 0 Smart pass = 2 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 65 0 2 0 2 0 
 
 [Huskies_G1]
 持球时间 = 1874.1197130000032
 参赛次数 = 38
 传球各种类触发次数统计：
-Head pass = 0 Simple pass = 152 Launch = 127 High pass = 67 Hand pass = 127 Smart pass = 0 Cross = 0 
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 152 127 67 127 0 0 
 
