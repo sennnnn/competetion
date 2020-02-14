@@ -80,8 +80,8 @@ for one in team_cooperation_list[team_name]:
 f.close()
 
 
-f = open('{}/pass_origin.txt'.format(result_path), 'w', encoding='utf-8')
-f_ = open('{}/pass_dest.txt'.format(result_path), 'w', encoding='utf-8')
+f = open('{}/{}_pass_origin.txt'.format(result_path, team_name), 'w', encoding='utf-8')
+f_ = open('{}/{}_pass_dest.txt'.format(result_path, team_name), 'w', encoding='utf-8')
 
 f.write('这个是传出的记录!\n\n========================================================================\n')
 f_.write('这个是接住的记录!\n\n========================================================================\n')
