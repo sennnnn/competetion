@@ -33,6 +33,7 @@ sys_args = sys.argv[1:]
 flag_cooperation_pass = True if('--coop_pass' in sys_args) else False
 flag_pass_origin_dest_per_team_member = True if('--pass_ori_dst_pm' in sys_args) else False
 flag_attractive_force_item_per_team_member = True if('--attrc_force_item_pm' in sys_args) else False
+flag_coordinate_per_origin_player = True if('--coordinate_per_op' in sys_args) else False
 
 # 队伍综合能力
 # 队伍传球能力：累计传球次数
@@ -143,11 +144,15 @@ if(flag_attractive_force_item_per_team_member):
         origin_player_ID = info_temp['OriginPlayerID']
         if(team_name not in origin_player_ID):
             continue
+        # 统计出场 ID
+        race_id = info_temp['MatchID']
+        if(race_id not in single_member_attract_items[origin_player_ID]['attend_race_ID_list']):
+            single_member_attract_items[origin_player_ID]['attend_race_ID_list'].append(race_id)
         pass_type = info_temp['EventSubType']
         single_member_attract_items[origin_player_ID]['pass_all_kind_count'][pass_type] += 1
+        # 统计带球时间
         if(i == 0):
             continue
-        # 统计带球时间
         info_1 = all_info[i-1]
         info_2 = all_info[i]
         race_id_1 = info_1['MatchID']
@@ -155,8 +160,6 @@ if(flag_attractive_force_item_per_team_member):
         if(race_id_1 != race_id_2):
             continue
         for member in team_members:
-            if(race_id_1 not in single_member_attract_items[member]['attend_race_ID_list']):
-                single_member_attract_items[member]['attend_race_ID_list'].append(race_id_1)
             flag,time = catch_ball_time_calculate(info_1, info_2, member)
             if(flag and time > 0):
                 single_member_attract_items[member]["catch_ball_time"] += time
@@ -172,5 +175,8 @@ if(flag_attractive_force_item_per_team_member):
             temp_string += '{} = {} '.format(key, temp[key])
         f.write('{}\n'.format(temp_string))
         f.write('\n')
-    
+
     f.close()
+
+# if(flag_coordinate_per_origin_player):
+    
