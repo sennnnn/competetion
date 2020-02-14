@@ -1,4 +1,26 @@
 
+def catch_ball_time_calculate(info_1, info_2, member):
+    """
+    统计单个球员单次接球传球的时间。
+    Args:
+        info_1,info_2:信息条目。
+        member:成员标识名。
+    Return:
+        bool:该球员是否成功控球。
+        time_period:该球员此次控球时间。
+    """
+    Origin_1 = info_1['OriginPlayerID']
+    Origin_2 = info_2['OriginPlayerID']
+    Dest_1 = info_1['DestinationPlayerID']
+    Dest_2 = info_2['DestinationPlayerID']
+    time_stamp_1 = float(info_1['EventTime'])
+    time_stamp_2 = float(info_2['EventTime'])
+    if(Dest_1 != member or Origin_2 != member):
+        return False,0
+
+    return True,time_stamp_2-time_stamp_1
+
+
 def csv_process(csv_list):
     item_list = csv_list[0]
     ret_list = []
@@ -87,7 +109,7 @@ def cooperation_detect(info_1, info_2):
     time_stamp_1 = float(info_1['EventTime'])
     time_stamp_2 = float(info_2['EventTime'])
     # 第一次传球与第二次传球判断
-    if((time_stamp_1-time_stamp_2) > 5):
+    if((time_stamp_2-time_stamp_1) > 5 or (time_stamp_2-time_stamp_1) < 0):
         return players, False
     else:
         if(team_key_word_extract(Origin_1) != team_key_word_extract(Origin_2)):
