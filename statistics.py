@@ -30,9 +30,9 @@ team_members = team_member_get(OriginPlayerID_all, DesinationPlayerID_all, team_
 
 sys_args = sys.argv[1:]
 
-flag_cooperation_pass = True if(sys_args[0] == 'coop_pass') else False
-flag_pass_origin_dest_per_team_member = True if(sys_args[0] == 'pass_ori_dst_pm') else False
-flag_attractive_force_item_per_team_member = True if(sys_args[0] == 'attrc_force_item_pm') else False
+flag_cooperation_pass = True if('--coop_pass' in sys_args) else False
+flag_pass_origin_dest_per_team_member = True if('--pass_ori_dst_pm' in sys_args) else False
+flag_attractive_force_item_per_team_member = True if('--attrc_force_item_pm' in sys_args) else False
 
 # 队伍综合能力
 # 队伍传球能力：累计传球次数
@@ -63,7 +63,7 @@ if(flag_cooperation_pass):
     print(team_pass_count)
     print(team_cooperation_count)
 
-    f = open('{}/cooperation&pass_count.txt'.format(result_path), 'w', encoding='utf-8')
+    f = open('{}/{}_cooperation&pass_count.txt'.format(result_path, team_name), 'w', encoding='utf-8')
     f.write('p.s. 注意 Oppo 是敌队的意思。\n传球次数统计：\n{}队:{}  {}队:{}\n\n'.format('Husk', team_pass_count['Husk'], \
                                                                                     'Oppo', team_pass_count['Oppo']))
 
