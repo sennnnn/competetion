@@ -7,6 +7,7 @@ team_name = 'Husk'
 
 result_path = 'result'
 
+f = open('{}/{}_Matchwise_attrct_cal.txt'.format(result_path, team_name), 'w', encoding='utf-8')
 
 MatchID_list = range(1, 39)
 for MatchID in MatchID_list:
@@ -63,6 +64,11 @@ for MatchID in MatchID_list:
                 members_info[infos[0]]['attrc'] = catch_time/60 + sum(get_all_type_list) + sum(pass_all_type_list)
             break
 
+    
+    f.write('[{}]\n'.format(MatchID))
+    [f.write('{} {}\n'.format(member, members_info[member]['attrc'])) for member in members_ID]
+    f.write('\n')
+
     G = nx.generators.directed.random_k_out_graph(len(members_ID), 3, 0.5)
 
     remove_list = [(x,y) for x,y,i in G.edges]
@@ -111,6 +117,7 @@ for MatchID in MatchID_list:
     edges = nx.draw_networkx_edges(G, pos, node_size=node_sizes, arrowstyle='->',
                                 arrowsize=8, edge_color=edge_colors,
                                 edge_cmap=plt.cm.Blues, width=1)
+    labels = nx.draw_networkx_labels(G, pos, {i:members_ID[i].split('_')[1] for i in range(len(members_ID))})
 
     # set alpha value for each edge
     # for i in range(M):
@@ -121,4 +128,5 @@ for MatchID in MatchID_list:
     # plt.colorbar(pc)
     ax = plt.gca()
     ax.set_axis_off()
+
     plt.savefig('pic/Match_{}_network.png'.format(MatchID))
