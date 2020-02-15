@@ -1,9 +1,11 @@
 # 说明
 
+## 传球事件分析
+
 执行:  
 
 ``` python
-python statistics.py [可选]
+python pass_event_analyse.py [可选]
 可选项中有：  
 --coop_pass 获取 [team_name]_cooperation&pass_count.txt
 
