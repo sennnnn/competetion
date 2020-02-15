@@ -23,3 +23,14 @@ python pass_event_analyse.py [可选]
 + [team_name]_Husk_pass_origin.txt 存储 Husky 队伍队员的传球情况。  
 + [team_name]_attractive_force_item.txt 存储计算球员吸引力系数的各参数。
 + [team_name]_coordinate_origin_dest_avg.txt 存储球员传接球平均坐标。
+
+## 绘图
+
+修改你要检索的队伍，例如 "Opponent1_" 这里加 '_' 的原因是因为可能会与 "Opponent11" 重叠，这是个很恶心的问题。   
+
+首先执行：  
+
+``` python
+python pass_event_analyse.py --coop_pass --pass_ori_dst_pm --attrc_force_item_pm --coordinate_per_op
+python Matchwise_graph.py
+```
