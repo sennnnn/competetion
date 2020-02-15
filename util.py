@@ -1,4 +1,32 @@
 
+def Matchwise_team_members_get(Single_Match_all_info, team_name):
+    OriginPlayerID_all = [x['OriginPlayerID'] for x in Single_Match_all_info]
+    DesinationPlayerID_all = [x['DestinationPlayerID'] for x in Single_Match_all_info]
+
+    team_members = team_member_get(OriginPlayerID_all, DesinationPlayerID_all, team_name)
+
+    return team_members,OriginPlayerID_all,DesinationPlayerID_all
+
+def MatchID_list_get(all_info):
+    ret_list = []
+    for line in all_info:
+        if(int(line['MatchID']) not in ret_list):
+            ret_list.append(int(line['MatchID']))
+    
+    return ret_list
+
+def Matchwise_all_info_get(all_info):
+    ret_dict = {}
+    old_Match_ID = 0
+    for line in all_info:
+        MatchID = int(line['MatchID'])
+        if(old_Match_ID != MatchID):
+            ret_dict[old_Match_ID] = []
+            old_Match_ID = MatchID
+        ret_dict[MatchID-1].append(line)
+    
+    return ret_dict
+
 def average(iterable_object):
     temp = 0
     sum = 0
@@ -55,6 +83,19 @@ def ret_from_player_ID(ID, int_max):
         temp = int_max*4
     
     return temp + int(char_2)
+
+def origin_or_dest_team_member_get(PlayerID_all, team_key_word):
+    members = []
+    for i in PlayerID_all:
+        if(team_key_word not in i):
+            continue
+        if(i not in members):
+            members.append(i)
+
+    member_count = len(members)
+    members = sorted(members, key=lambda x : ret_from_player_ID(x, member_count))
+
+    return members
 
 def team_member_get(OriginPlayerID_all, DestinationPlayerID_all, team_key_word):
     """

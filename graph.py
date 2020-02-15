@@ -2,8 +2,13 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 import networkx as nx
 
-G = nx.generators.directed.random_k_out_graph(10, 3, 0.5)
+G = nx.generators.directed.random_k_out_graph(30, 3, 0.5)
+# G.add_node(10)
+# print(G.nodes)
 pos = nx.layout.spring_layout(G)
+
+pos[10][0] = 0.01
+pos[10][1] = 0.05
 
 node_sizes = [3 + 10 * i for i in range(len(G))]
 M = G.number_of_edges()

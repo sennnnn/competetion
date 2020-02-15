@@ -1,240 +1,3817 @@
+[1]
+
 [Huskies_D1]
-持球时间 = 31.895544233333307 min
-参赛次数 = 30
+持球时间 = 1.9761045666666783 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-77 688 10 71 0 3 2 
+3 47 0 1 0 0 1 
 
 [Huskies_D2]
-持球时间 = 20.858972766666778 min
-参赛次数 = 23
+持球时间 = 1.3787643500000049 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-55 491 4 29 0 1 0 
+1 35 0 0 0 0 0 
 
 [Huskies_D3]
-持球时间 = 25.53052766666674 min
-参赛次数 = 24
+持球时间 = 2.616712500000008 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-58 590 20 58 0 1 0 
+2 42 0 4 0 0 0 
 
 [Huskies_D4]
-持球时间 = 21.714263933333303 min
-参赛次数 = 22
+持球时间 = 0.6195547833333327 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-20 494 4 30 0 5 16 
+0 16 0 1 0 0 0 
 
 [Huskies_D5]
-持球时间 = 22.285903750000013 min
-参赛次数 = 21
+持球时间 = 0.5647731666666231 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-48 505 8 40 0 3 21 
-
-[Huskies_D6]
-持球时间 = 11.790345816666592 min
-参赛次数 = 15
-传球各种类触发次数统计：
-一下按顺序分别为：
- Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-28 251 2 38 0 0 3 
-
-[Huskies_D7]
-持球时间 = 18.473219549999946 min
-参赛次数 = 19
-传球各种类触发次数统计：
-一下按顺序分别为：
- Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-29 318 5 37 0 2 17 
-
-[Huskies_D8]
-持球时间 = 10.643095816666577 min
-参赛次数 = 12
-传球各种类触发次数统计：
-一下按顺序分别为：
- Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-28 207 3 19 0 3 3 
-
-[Huskies_D9]
-持球时间 = 2.710996983333274 min
-参赛次数 = 2
-传球各种类触发次数统计：
-一下按顺序分别为：
- Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-1 50 3 3 0 0 0 
-
-[Huskies_D10]
-持球时间 = 1.696912350000011 min
-参赛次数 = 4
-传球各种类触发次数统计：
-一下按顺序分别为：
- Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-4 31 0 3 0 0 0 
+1 15 0 0 0 0 1 
 
 [Huskies_F1]
-持球时间 = 10.209408183333403 min
-参赛次数 = 32
+持球时间 = 0.38080526666666403 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-21 202 1 2 0 3 9 
+1 9 0 0 0 0 1 
 
 [Huskies_F2]
-持球时间 = 29.75597090000006 min
-参赛次数 = 31
+持球时间 = 1.2687081833333422 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-17 749 3 65 0 14 11 
+1 31 0 2 0 2 2 
 
 [Huskies_F3]
-持球时间 = 1.1786825833333183 min
-参赛次数 = 7
+持球时间 = 0.08810276666666444 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-1 52 0 1 0 0 2 
-
-[Huskies_F4]
-持球时间 = 13.156483433333364 min
-参赛次数 = 19
-传球各种类触发次数统计：
-一下按顺序分别为：
- Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-6 108 0 1 0 6 4 
-
-[Huskies_F5]
-持球时间 = 5.781974600000027 min
-参赛次数 = 14
-传球各种类触发次数统计：
-一下按顺序分别为：
- Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-8 144 0 1 0 3 2 
-
-[Huskies_F6]
-持球时间 = 14.072585000000082 min
-参赛次数 = 14
-传球各种类触发次数统计：
-一下按顺序分别为：
- Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-15 187 0 7 0 2 12 
+0 9 0 0 0 0 0 
 
 [Huskies_M1]
-持球时间 = 44.9697754 min
-参赛次数 = 33
+持球时间 = 2.041327233333317 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-47 1160 10 29 0 5 4 
+2 48 1 1 0 0 0 
 
 [Huskies_M2]
-持球时间 = 1.3764353333333266 min
-参赛次数 = 7
+持球时间 = 0.2929994333333222 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-4 69 0 2 0 1 0 
+1 19 0 0 0 0 0 
 
 [Huskies_M3]
-持球时间 = 31.771133766666814 min
-参赛次数 = 30
+持球时间 = 1.5080471000000482 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-38 793 5 50 0 0 1 
+0 45 0 0 0 0 0 
 
 [Huskies_M4]
-持球时间 = 19.7713220833334 min
-参赛次数 = 33
+持球时间 = 0.21448276666668184 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-29 448 1 12 0 4 3 
+1 8 0 0 0 0 0 
 
 [Huskies_M5]
-持球时间 = 2.2797737833332956 min
-参赛次数 = 5
+持球时间 = 0.8515042166666718 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-0 41 0 0 0 1 0 
+0 3 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 1.1551337333333302 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 0 6 4 0 0 
+
+===========================================================================
+[2]
+
+[Huskies_D1]
+持球时间 = 0.4748305166666645 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 20 0 1 0 0 0 
+
+[Huskies_D2]
+持球时间 = 0.3724347000000004 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 9 0 0 0 0 0 
+
+[Huskies_D3]
+持球时间 = 0.6669262666666611 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 15 2 2 0 0 0 
+
+[Huskies_D4]
+持球时间 = 0.2828041333333336 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 8 0 0 0 0 0 
+
+[Huskies_D6]
+持球时间 = 0.48521356666665744 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 11 0 4 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.45329418333332305 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 0 0 0 1 
+
+[Huskies_F2]
+持球时间 = 0.5161474500000016 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 16 0 3 0 0 0 
+
+[Huskies_M1]
+持球时间 = 1.0432352500000055 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 25 0 2 0 0 0 
+
+[Huskies_M2]
+持球时间 = 0.017767716666670215 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.38465066666666986 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 16 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.11510831666665808 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 9 0 0 0 0 0 
 
 [Huskies_M6]
-持球时间 = 14.461272566666622 min
-参赛次数 = 27
+持球时间 = 0.0157350666666692 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-19 459 3 10 0 7 10 
+0 5 0 0 0 0 0 
+
+[Huskies_M7]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.25117548333333656 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 2 2 1 0 0 
+
+===========================================================================
+[3]
+
+[Huskies_D1]
+持球时间 = 1.3599692000000232 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 35 0 1 0 0 0 
+
+[Huskies_D2]
+持球时间 = 1.2935862166666747 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 34 0 2 0 0 0 
+
+[Huskies_D3]
+持球时间 = 1.5681729166666556 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 39 0 1 0 0 0 
+
+[Huskies_D4]
+持球时间 = 0.8567163166666821 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 18 0 1 0 0 0 
+
+[Huskies_D6]
+持球时间 = 1.6029317666666525 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 19 0 2 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.04646201666666153 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.2501015166666793 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 28 0 2 0 0 0 
+
+[Huskies_F3]
+持球时间 = 0.14330008333333807 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 9 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 1.8126913833333351 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 34 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 1.0287756333333353 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 22 0 2 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.5647430833333317 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 21 0 0 0 0 0 
 
 [Huskies_M7]
 持球时间 = 0.8313414166666614 min
-参赛次数 = 1
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
 0 22 0 0 0 0 0 
 
 [Huskies_M8]
-持球时间 = 4.048177683333263 min
-参赛次数 = 15
+持球时间 = 0.11522790000000592 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-1 142 3 2 0 1 4 
+0 2 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 2.0211121666666827 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 9 6 2 7 0 0 
+
+===========================================================================
+[4]
+
+[Huskies_D1]
+持球时间 = 1.3120241166666546 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 33 0 3 0 0 0 
+
+[Huskies_D2]
+持球时间 = 1.782868383333336 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 41 0 0 0 0 0 
+
+[Huskies_D4]
+持球时间 = 1.2703161833333232 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 38 0 2 0 0 3 
+
+[Huskies_D5]
+持球时间 = 1.650605833333329 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 38 0 3 0 0 3 
+
+[Huskies_F1]
+持球时间 = 0.22627948333333733 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 3.131661233333346 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 20 0 1 0 2 0 
+
+[Huskies_F3]
+持球时间 = 0.1380708499999969 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 0 0 0 1 
+
+[Huskies_M1]
+持球时间 = 1.139662099999965 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 27 0 2 0 0 1 
+
+[Huskies_M2]
+持球时间 = 0.22260590000000585 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 8 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 1.4594823833333495 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 30 0 1 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.5718026000000009 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 14 0 2 0 0 1 
+
+[Huskies_M6]
+持球时间 = 0.7484675666666535 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 25 0 0 0 1 1 
 
 [Huskies_M9]
-持球时间 = 3.1998951000000266 min
-参赛次数 = 12
+持球时间 = 0.048311866666669326 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-8 119 0 1 0 1 1 
+0 4 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 3.3676400166666487 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 7 6 2 6 0 0 
+
+===========================================================================
+[5]
+
+[Huskies_D1]
+持球时间 = 1.3816346833333009 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 34 0 2 0 0 0 
+
+[Huskies_D2]
+持球时间 = 0.6442875666666623 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 19 0 0 0 1 0 
+
+[Huskies_D3]
+持球时间 = 1.8228493666666585 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 35 0 1 0 0 0 
+
+[Huskies_D4]
+持球时间 = 1.1024214333333342 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 27 0 1 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.997461666666634 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 26 1 1 0 0 2 
+
+[Huskies_F1]
+持球时间 = 0.1548002333333443 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 2 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.0196050999999537 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 33 0 0 0 0 0 
+
+[Huskies_F3]
+持球时间 = 0.28481103333333524 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 9 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 1.6336163500000358 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 52 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 1.8894991833333734 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 56 0 1 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.42884696666667615 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 14 0 0 0 0 0 
+
+[Huskies_M5]
+持球时间 = 0.20330239999999927 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.8607028500000012 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 26 0 0 0 1 0 
+
+[Huskies_G1]
+持球时间 = 1.6594968833333241 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 7 2 4 0 0 
+
+===========================================================================
+[6]
+
+[Huskies_D2]
+持球时间 = 1.3019920999999972 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 26 0 1 0 0 0 
+
+[Huskies_D4]
+持球时间 = 0.6990179499999992 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 19 0 0 0 2 2 
+
+[Huskies_D5]
+持球时间 = 2.476969633333344 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 19 0 3 0 1 2 
+
+[Huskies_D6]
+持球时间 = 1.1028504833333395 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 20 0 5 0 0 0 
+
+[Huskies_D7]
+持球时间 = 0.19448824999999487 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 0 0 0 1 1 
+
+[Huskies_F1]
+持球时间 = 0.37233190000000604 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 8 0 0 0 0 1 
+
+[Huskies_F2]
+持球时间 = 0.49725469999999444 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 19 0 0 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.06229814999999993 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 1.5502052833333229 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 57 0 3 0 1 0 
+
+[Huskies_M2]
+持球时间 = 0.2671735999999972 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 13 0 0 0 1 0 
+
+[Huskies_M3]
+持球时间 = 1.7513988500000115 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 46 0 5 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.5895706666666684 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 10 0 0 0 1 0 
+
+[Huskies_M6]
+持球时间 = 0.3286942333333504 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 19 1 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 1.4827870000000039 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 5 1 0 0 
+
+===========================================================================
+[7]
+
+[Huskies_D1]
+持球时间 = 1.52362748333331 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 35 0 2 0 0 1 
+
+[Huskies_D2]
+持球时间 = 2.804681583333338 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 43 0 2 0 0 0 
+
+[Huskies_D4]
+持球时间 = 1.877441133333349 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 34 0 1 0 0 5 
+
+[Huskies_D5]
+持球时间 = 1.6263681166666724 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 36 1 1 0 0 3 
+
+[Huskies_F1]
+持球时间 = 0.503085316666693 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 15 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 0.866452233333348 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 11 0 1 0 0 0 
+
+[Huskies_F3]
+持球时间 = 0.12308276666666036 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 0 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.2936609166666641 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 10 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 1.9763791833333424 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 54 0 1 0 0 1 
+
+[Huskies_M3]
+持球时间 = 1.592634549999985 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 34 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.36965154999999567 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 8 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.7783606166666563 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 21 0 0 0 0 2 
+
+[Huskies_M9]
+持球时间 = 0.36314736666665604 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 14 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.645950633333327 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 4 2 3 0 0 
+
+===========================================================================
+[8]
+
+[Huskies_D1]
+持球时间 = 2.0442922833333244 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 37 0 4 0 0 0 
+
+[Huskies_D3]
+持球时间 = 1.6007692833333276 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 37 0 2 0 0 0 
+
+[Huskies_D4]
+持球时间 = 1.2555503333333187 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 31 0 1 0 0 0 
+
+[Huskies_D6]
+持球时间 = 0.5764853166666607 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 18 0 0 0 0 1 
+
+[Huskies_F1]
+持球时间 = 0.3816174333333341 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 11 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.0330535333333264 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 23 0 1 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 3.9587554000000154 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 33 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 2.456705083333325 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 34 0 1 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 0 0 0 0 0 
+
+[Huskies_M5]
+持球时间 = 0.04604576666665707 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.2744198166666782 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 16 0 0 0 0 0 
+
+[Huskies_M9]
+持球时间 = 0.5837616333333339 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 13 0 0 0 1 0 
+
+[Huskies_G1]
+持球时间 = 0.5492123833333447 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 1 5 6 0 0 
+
+===========================================================================
+[9]
+
+[Huskies_D1]
+持球时间 = 0.4624249166666734 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 19 0 2 0 0 0 
+
+[Huskies_D2]
+持球时间 = 0.17067311666666665 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 5 0 0 0 0 0 
+
+[Huskies_D3]
+持球时间 = 0.6045077166666833 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 18 0 0 0 0 0 
+
+[Huskies_D4]
+持球时间 = 0.3636500000000069 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 8 1 1 0 0 1 
+
+[Huskies_D7]
+持球时间 = 3.5797878166666672 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 15 0 0 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.18755561666666837 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 4 0 0 0 0 1 
+
+[Huskies_F2]
+持球时间 = 0.3123052166666639 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 13 0 1 0 0 2 
+
+[Huskies_F4]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 0.2046200666666645 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 14 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.15336433333332025 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 8 0 1 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.3503493999999913 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 14 0 0 0 1 0 
+
+[Huskies_M9]
+持球时间 = 0.4936741333333354 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 15 0 0 0 0 0 
 
 [Huskies_M10]
-持球时间 = 1.1219606333333103 min
-参赛次数 = 7
+持球时间 = 0.11778029999998883 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.04783716666665896 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 1 3 3 0 0 
+
+===========================================================================
+[10]
+
+[Huskies_D2]
+持球时间 = 1.082642616666692 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 30 0 2 0 0 0 
+
+[Huskies_D3]
+持球时间 = 1.235354033333339 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 33 0 4 0 0 0 
+
+[Huskies_D4]
+持球时间 = 1.6333319166667006 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 37 0 0 0 0 2 
+
+[Huskies_D7]
+持球时间 = 1.9093745333333534 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 34 0 2 0 0 3 
+
+[Huskies_F1]
+持球时间 = 0.043087466666664416 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 7 0 1 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.4789740333333745 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 39 0 3 0 1 1 
+
+[Huskies_F4]
+持球时间 = 0.07880746666664891 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 3.8043734166666807 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 53 2 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 1.047270516666676 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 27 0 1 0 0 1 
+
+[Huskies_M5]
+持球时间 = 1.0455263833333068 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 20 0 0 0 1 0 
+
+[Huskies_M6]
+持球时间 = 0.15075416666665356 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_M8]
+持球时间 = 0.2737120333333375 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 11 0 0 0 0 0 
+
+[Huskies_M11]
+持球时间 = 0.576643366666652 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 14 0 2 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.2520324333333406 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 3 3 1 0 0 
+
+===========================================================================
+[11]
+
+[Huskies_D1]
+持球时间 = 0.3771681833333294 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 12 0 1 0 0 0 
+
+[Huskies_D3]
+持球时间 = 0.463767966666677 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 15 2 3 0 0 0 
+
+[Huskies_D4]
+持球时间 = 0.46959059999999986 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 10 0 1 0 0 0 
+
+[Huskies_D7]
+持球时间 = 0.19224670000000021 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 2 3 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.03284541666666883 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 0 0 0 1 1 
+
+[Huskies_F2]
+持球时间 = 0.38278825000001004 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 15 0 0 0 1 1 
+
+[Huskies_F4]
+持球时间 = 6.346800449999995 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 7 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 0.773959583333332 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 29 1 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.4116079500000031 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 13 0 1 0 1 0 
+
+[Huskies_M6]
+持球时间 = 0.18997130000000956 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 15 1 0 0 0 0 
+
+[Huskies_M8]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 0 0 0 0 0 
+
+[Huskies_M10]
+持球时间 = 0.08049001666666603 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 1 0 0 0 
+
+[Huskies_M11]
+持球时间 = 0.4153194666666612 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 15 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.34417820000000365 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 3 2 1 0 0 
+
+===========================================================================
+[12]
+
+[Huskies_D1]
+持球时间 = 0.4437847166666529 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 14 0 0 0 0 0 
+
+[Huskies_D3]
+持球时间 = 0.23765433333334016 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 12 1 1 0 0 0 
+
+[Huskies_D4]
+持球时间 = 0.6131880666666708 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 9 1 0 0 1 0 
+
+[Huskies_D7]
+持球时间 = 0.22852356666666462 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 10 0 1 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.1802321666666709 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 0 0 0 1 
+
+[Huskies_F3]
+持球时间 = 0.16520413333332726 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 1 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.20163421666666181 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 0.472961616666665 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 15 0 1 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.2122486333333389 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 7 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.14065094999999322 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.22527990000000575 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 14 0 0 0 0 1 
+
+[Huskies_M8]
+持球时间 = 0.16935189999999997 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 7 0 0 0 0 1 
+
+[Huskies_M10]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.2258937666666687 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 0 2 0 0 0 
+
+===========================================================================
+[13]
+
+[Huskies_D1]
+持球时间 = 0.6652138666666616 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 12 0 1 0 0 0 
+
+[Huskies_D2]
+持球时间 = 0.45321086666667726 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 13 0 3 0 0 0 
+
+[Huskies_D3]
+持球时间 = 1.16839110000001 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 19 0 5 0 0 0 
+
+[Huskies_D4]
+持球时间 = 0.14235148333333617 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 0 0 0 0 
+
+[Huskies_D7]
+持球时间 = 1.042386450000031 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 18 0 3 0 0 1 
+
+[Huskies_F1]
+持球时间 = 0.16094970000001277 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 7 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 0.9738428166666703 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 36 0 1 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.8278991666666722 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 27 0 1 0 0 0 
+
+[Huskies_M5]
+持球时间 = 0.13339501666666062 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 11 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.34401149999997455 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 16 0 0 0 0 0 
+
+[Huskies_M8]
+持球时间 = 0.821097166666623 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 23 0 1 0 0 0 
+
+[Huskies_M9]
+持球时间 = 0.14245673333333192 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 0 0 0 0 
+
+[Huskies_M10]
+持球时间 = 0.4079903499999697 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.7698722833333326 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 11 0 3 0 0 
+
+===========================================================================
+[14]
+
+[Huskies_D2]
+持球时间 = 1.1427159000000235 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 34 0 1 0 0 0 
+
+[Huskies_D5]
+持球时间 = 1.2002741666667063 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 25 1 3 0 0 2 
+
+[Huskies_D6]
+持球时间 = 1.3390663333333095 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 28 0 3 0 0 0 
+
+[Huskies_D7]
+持球时间 = 0.9051844833333178 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 21 0 7 0 0 1 
+
+[Huskies_F1]
+持球时间 = 0.46676108333332894 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 12 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.8591251666667068 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 48 1 4 0 1 0 
+
+[Huskies_M1]
+持球时间 = 1.3934071666666834 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 45 0 1 0 0 0 
+
+[Huskies_M4]
+持球时间 = 1.1730217 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 24 0 0 0 0 1 
+
+[Huskies_M6]
+持球时间 = 1.8282825666666724 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 26 0 0 0 0 1 
+
+[Huskies_M8]
+持球时间 = 0.44623538333333196 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 21 0 0 0 0 0 
+
+[Huskies_M9]
+持球时间 = 0.09120666666666087 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_M10]
+持球时间 = 0.2564201333333282 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_M11]
+持球时间 = 0.23235621666666095 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 1.580629383333338 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 6 5 1 0 0 
+
+===========================================================================
+[15]
+
+[Huskies_D1]
+持球时间 = 0.17333193333333838 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 3 0 1 0 0 0 
+
+[Huskies_D2]
+持球时间 = 0.7756996999999795 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 17 0 1 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.7856785000000239 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 18 0 3 0 0 0 
+
+[Huskies_D6]
+持球时间 = 0.6371841166666854 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 15 1 3 0 0 0 
+
+[Huskies_D7]
+持球时间 = 0.9360020333333068 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 26 2 2 0 0 2 
+
+[Huskies_F1]
+持球时间 = 0.7555357500000061 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 11 0 0 0 1 0 
+
+[Huskies_F2]
+持球时间 = 0.8368260333333145 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 32 0 0 0 2 0 
+
+[Huskies_M1]
+持球时间 = 0.5927927333333533 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 31 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.08114806666667392 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 2.856858949999998 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 19 0 0 0 2 0 
+
+[Huskies_M6]
+持球时间 = 0.546156583333315 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 21 0 1 0 0 0 
+
+[Huskies_M8]
+持球时间 = 0.2285759666666574 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 0 0 1 0 
+
+[Huskies_M10]
+持球时间 = 0.19688581666667535 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 10 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.9573714166666776 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 9 1 4 0 0 
+
+===========================================================================
+[16]
+
+[Huskies_D2]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 4 0 0 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.0699916833333333 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 6 0 0 0 0 0 
+
+[Huskies_D6]
+持球时间 = 0.08242334999999912 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 4 0 0 0 0 0 
+
+[Huskies_D7]
+持球时间 = 0.08979914999999891 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 1 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.09859941666666903 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 0.2938637999999969 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 1 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.18451743333332996 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 0 1 0 1 0 
+
+[Huskies_M1]
+持球时间 = 0.17495003333332876 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 10 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.033917349999993955 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.06198360000000017 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.10733191666666547 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 7 0 1 0 0 0 
+
+[Huskies_M8]
+持球时间 = 0.08512669999998555 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 1 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.06616220000000037 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 3 1 2 0 0 
+
+===========================================================================
+[17]
+
+[Huskies_D2]
+持球时间 = 1.0347706833333348 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 23 1 0 0 0 0 
+
+[Huskies_D3]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 0 0 0 0 0 
+
+[Huskies_D5]
+持球时间 = 1.4752716000000077 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+6 35 0 0 0 0 0 
+
+[Huskies_D6]
+持球时间 = 1.3876269833333046 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 28 0 4 0 0 0 
+
+[Huskies_D7]
+持球时间 = 0.791481683333338 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 20 0 1 0 0 1 
+
+[Huskies_F1]
+持球时间 = 0.46393390000000256 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 7 0 0 0 0 1 
+
+[Huskies_F2]
+持球时间 = 0.6731580166666599 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 28 0 1 0 0 0 
+
+[Huskies_M1]
+持球时间 = 1.4898639999999943 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 55 1 1 0 0 0 
+
+[Huskies_M3]
+持球时间 = 2.745780850000034 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 38 0 1 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.09803811666667267 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 0 1 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.6540935999999912 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 17 0 0 0 0 0 
+
+[Huskies_M8]
+持球时间 = 0.14869436666666994 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 0 0 0 0 0 
+
+[Huskies_M9]
+持球时间 = 0.04802946666666988 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.544196999999995 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 4 0 2 0 0 
+
+===========================================================================
+[18]
+
+[Huskies_D2]
+持球时间 = 1.1867092500000032 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 29 0 1 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.9815102166666728 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 28 0 3 0 1 0 
+
+[Huskies_D6]
+持球时间 = 1.418283933333341 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 35 0 3 0 0 0 
+
+[Huskies_D7]
+持球时间 = 1.00461551666666 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 19 1 2 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.9502819500000171 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 7 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 0.936914549999986 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 27 0 1 0 0 0 
+
+[Huskies_M1]
+持球时间 = 1.6813875333333366 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 51 1 1 0 0 0 
+
+[Huskies_M3]
+持球时间 = 1.3251931166666462 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 30 0 2 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.34808193333334053 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 11 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.49167751666666676 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 19 0 0 0 0 0 
+
+[Huskies_M8]
+持球时间 = 0.2757727000000064 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 11 0 0 0 0 0 
+
+[Huskies_M10]
+持球时间 = 0.06239401666668224 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.460659050000019 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 1 1 1 0 0 
+
+===========================================================================
+[19]
+
+[Huskies_D1]
+持球时间 = 0.7361407499999842 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 17 0 6 0 0 0 
+
+[Huskies_D2]
+持球时间 = 0.1701706833333295 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 5 0 0 0 0 0 
+
+[Huskies_D3]
+持球时间 = 0.857830733333346 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 23 4 0 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.743181499999984 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 19 1 0 0 0 1 
+
+[Huskies_D7]
+持球时间 = 0.8893843499999766 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 19 0 1 0 0 2 
+
+[Huskies_F1]
+持球时间 = 0.6643614000000118 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 10 0 0 0 0 0 
+
+[Huskies_F3]
+持球时间 = 0.236110949999996 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 9 0 0 0 0 1 
+
+[Huskies_M1]
+持球时间 = 0.39144918333334433 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 15 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.9007650333333364 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 31 0 3 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.18339931666666492 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.5462396500000087 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 18 0 2 0 0 0 
+
+[Huskies_M8]
+持球时间 = 0.18847013333333582 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 1 0 0 0 1 
+
+[Huskies_M11]
+持球时间 = 0.27994920000000245 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 10 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.5438066166666734 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 11 0 4 0 0 
+
+===========================================================================
+[20]
+
+[Huskies_D1]
+持球时间 = 1.0370620833333457 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 15 0 6 0 1 0 
+
+[Huskies_D2]
+持球时间 = 0.4932975833333425 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 14 0 1 0 0 0 
+
+[Huskies_D5]
+持球时间 = 1.3107623333333445 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 22 0 2 0 0 1 
+
+[Huskies_D6]
+持球时间 = 0.6299043833333277 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 15 0 8 0 0 0 
+
+[Huskies_D7]
+持球时间 = 1.5134641500000006 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 15 0 2 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.11770996666666633 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 0 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.09624021666666825 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.9897599999999935 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 29 1 4 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.6838796666666856 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 21 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.4422774500000022 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 23 0 1 0 0 0 
+
+[Huskies_M8]
+持球时间 = 0.20621104999998655 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 0 0 0 0 0 
+
+[Huskies_M11]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 0 0 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.6628321333333427 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 10 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 1.7907811833333256 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 1 0 10 0 0 
+
+===========================================================================
+[21]
+
+[Huskies_D1]
+持球时间 = 1.8545617833333352 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 38 0 2 0 0 0 
+
+[Huskies_D3]
+持球时间 = 1.7042311166666593 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 38 2 4 0 0 0 
+
+[Huskies_D5]
+持球时间 = 1.0304780833333373 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 24 3 4 0 0 3 
+
+[Huskies_D7]
+持球时间 = 0.8462094666666445 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 19 0 3 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.3448838999999983 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 9 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 0.3969950166666649 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 14 0 1 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.30754706666668125 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 7 0 0 0 1 0 
+
+[Huskies_M1]
+持球时间 = 1.6541470000000211 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 44 2 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 1.393471666666659 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 35 0 4 0 0 0 
+
+[Huskies_M6]
+持球时间 = 1.0221016166666776 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 29 0 0 0 1 0 
+
+[Huskies_M8]
+持球时间 = 0.4490669000000063 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 13 1 0 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.2726743833333179 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 1 0 0 0 
+
+[Huskies_M13]
+持球时间 = 0.3522136333333426 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 15 0 0 0 1 0 
+
+[Huskies_G1]
+持球时间 = 1.74894 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 11 9 0 5 0 0 
+
+===========================================================================
+[22]
+
+[Huskies_D1]
+持球时间 = 0.19926918333333296 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 6 0 2 0 0 0 
+
+[Huskies_D2]
+持球时间 = 0.613979283333337 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 15 1 1 0 0 0 
+
+[Huskies_D5]
+持球时间 = 1.6612140833333238 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 30 0 0 0 0 0 
+
+[Huskies_D6]
+持球时间 = 0.634767866666661 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 15 0 1 0 0 2 
+
+[Huskies_F1]
+持球时间 = 0.11288570000000012 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.1375469500000037 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 25 0 4 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.2271974333333361 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 10 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 1.0118978166666532 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 29 0 1 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.32079124999999065 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 20 0 0 0 0 0 
+
+[Huskies_M8]
+持球时间 = 0.15587560000000547 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 0 0 0 0 
+
+[Huskies_M9]
+持球时间 = 0.44858910000002084 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 22 0 0 0 0 1 
+
+[Huskies_M12]
+持球时间 = 0.4378430499999837 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 14 0 0 0 1 2 
+
+[Huskies_M13]
+持球时间 = 0.30943070000001477 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 11 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.6532363333333364 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 1 1 5 0 0 
+
+===========================================================================
+[23]
+
+[Huskies_D3]
+持球时间 = 0.4297000833333376 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 12 2 5 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.87563300000002 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 27 0 3 0 0 0 
+
+[Huskies_D6]
+持球时间 = 0.4665706499999847 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 13 0 2 0 0 0 
+
+[Huskies_D7]
+持球时间 = 0.37771254999999354 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 11 0 0 0 0 1 
+
+[Huskies_F1]
+持球时间 = 0.10455469999998665 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.2785575833333183 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 13 0 2 0 1 0 
+
+[Huskies_F5]
+持球时间 = 0.2787684833333496 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 12 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 1.0169704666666557 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 38 0 3 0 2 0 
+
+[Huskies_M3]
+持球时间 = 0.2189276833333376 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 9 0 1 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.3478802166666791 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 10 0 3 0 1 0 
+
+[Huskies_M8]
+持球时间 = 0.16022741666665752 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 1 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.05081304999999929 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 1 0 0 0 
+
+[Huskies_M13]
+持球时间 = 0.26664411666666105 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 20 0 2 0 1 0 
+
+[Huskies_G1]
+持球时间 = 0.806997750000005 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 5 4 0 0 
+
+===========================================================================
+[24]
+
+[Huskies_D2]
+持球时间 = 1.4818062000000263 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 34 0 4 0 0 0 
+
+[Huskies_D5]
+持球时间 = 1.3010082333332975 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 36 1 1 0 0 0 
+
+[Huskies_D6]
+持球时间 = 1.1279462833333203 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 23 1 2 0 0 0 
+
+[Huskies_D7]
+持球时间 = 1.2923664333333325 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 26 0 1 0 0 0 
+
+[Huskies_F2]
+持球时间 = 0.5349444166666671 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 19 0 2 0 0 1 
+
+[Huskies_F4]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 0 0 0 0 0 
+
+[Huskies_F5]
+持球时间 = 0.38568738333333197 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 16 0 0 0 1 0 
+
+[Huskies_F6]
+持球时间 = 1.060897900000011 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 17 0 0 0 0 1 
+
+[Huskies_M3]
+持球时间 = 0.8090955333333435 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 24 0 3 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.27436441666665323 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 20 0 0 0 0 0 
+
+[Huskies_M9]
+持球时间 = 0.5630961333333403 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 15 0 0 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.4667762499999829 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 15 0 0 0 0 0 
+
+[Huskies_M13]
+持球时间 = 0.7084554166666502 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 19 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.6857422333333337 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 2 1 4 0 0 
+
+===========================================================================
+[25]
+
+[Huskies_D1]
+持球时间 = 1.0629949333333286 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 19 0 4 0 0 0 
+
+[Huskies_D3]
+持球时间 = 0.6847340666666422 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 17 0 2 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.4755657166666765 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 15 0 4 0 0 0 
+
+[Huskies_D8]
+持球时间 = 1.22440171666665 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 20 0 4 0 1 1 
+
+[Huskies_F1]
+持球时间 = 0.9594568166666704 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 0.6287210833333252 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 26 0 2 0 0 1 
+
+[Huskies_F4]
+持球时间 = 0.30583366666665673 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 3 0 0 0 1 0 
+
+[Huskies_F6]
+持球时间 = 1.3639076166666722 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 15 0 2 0 0 1 
+
+[Huskies_M1]
+持球时间 = 0.7872960666666547 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 33 0 1 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.027919016666677027 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 1 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 1.2544570833333373 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 12 0 1 0 0 0 
+
+[Huskies_M6]
+持球时间 = 1.2740445833333411 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 13 1 1 0 0 1 
+
+[Huskies_G1]
+持球时间 = 0.44382398333334927 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 6 1 8 0 0 
+
+===========================================================================
+[26]
+
+[Huskies_D1]
+持球时间 = 1.436218666666675 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 13 0 1 0 0 0 
+
+[Huskies_D2]
+持球时间 = 1.3180340166666724 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 26 0 2 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.8130411333333408 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 21 0 3 0 1 0 
+
+[Huskies_D7]
+持球时间 = 1.304847766666694 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 25 0 5 0 0 2 
+
+[Huskies_D9]
+持球时间 = 2.064691949999949 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 32 1 2 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.30006341666665626 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 0 0 0 1 0 
+
+[Huskies_F4]
+持球时间 = 2.611414216666678 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 9 0 0 0 0 1 
+
+[Huskies_F5]
+持球时间 = 0.1265499999999823 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_F6]
+持球时间 = 1.2693435000000042 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 0 0 0 1 
+
+[Huskies_M1]
+持球时间 = 0.8843796999999881 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 32 0 1 0 1 0 
+
+[Huskies_M3]
+持球时间 = 1.3129068333333682 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 35 1 6 0 0 1 
+
+[Huskies_M4]
+持球时间 = 0.5234768833333571 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 13 0 0 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.44498815000000985 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 10 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.9008586333333407 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 3 1 3 0 0 
+
+===========================================================================
+[27]
+
+[Huskies_D1]
+持球时间 = 1.4948194166666686 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 21 0 6 0 0 0 
+
+[Huskies_D2]
+持球时间 = 0.36348971666668606 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 14 0 2 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.9002602666666689 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 22 0 1 0 0 1 
+
+[Huskies_D7]
+持球时间 = 0.45715371666664545 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 12 0 1 0 0 1 
+
+[Huskies_D8]
+持球时间 = 0.7067826166666701 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 17 0 2 0 0 0 
+
+[Huskies_D9]
+持球时间 = 0.6463050333333248 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 18 2 1 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.445772766666685 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 33 0 7 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.1792617833333452 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 0 0 1 1 
+
+[Huskies_F6]
+持球时间 = 0.951510650000002 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 23 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 2.909009116666677 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
 0 35 0 1 0 0 0 
 
-[Huskies_M11]
-持球时间 = 1.6658935333333185 min
-参赛次数 = 8
+[Huskies_M3]
+持球时间 = 0.0 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-1 62 0 2 0 0 0 
+1 1 0 0 0 0 0 
 
-[Huskies_M12]
-持球时间 = 6.007208499999988 min
-参赛次数 = 15
+[Huskies_M4]
+持球时间 = 0.995860766666658 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-4 115 0 3 0 5 7 
+1 20 0 1 0 0 0 
 
-[Huskies_M13]
-持球时间 = 1.6367438666666687 min
-参赛次数 = 4
+[Huskies_M6]
+持球时间 = 0.19505283333333334 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-5 65 0 2 0 2 0 
+0 8 0 0 0 1 1 
 
 [Huskies_G1]
-持球时间 = 31.235328550000055 min
-参赛次数 = 38
+持球时间 = 0.5785044333333303 min
 传球各种类触发次数统计：
 一下按顺序分别为：
  Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
-0 152 127 67 127 0 0 
+0 9 0 0 1 0 0 
 
+===========================================================================
+[28]
+
+[Huskies_D1]
+持球时间 = 0.5066488833333513 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 16 1 1 0 0 0 
+
+[Huskies_D2]
+持球时间 = 0.6743480333333186 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+7 14 0 3 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.6692961166666672 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 20 0 2 0 0 0 
+
+[Huskies_D7]
+持球时间 = 0.9181909333333238 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 15 0 2 0 1 2 
+
+[Huskies_F1]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 0.5565533833333386 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 21 1 5 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.48301608333333285 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 0 0 0 0 0 
+
+[Huskies_F5]
+持球时间 = 0.3108538000000029 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 0 0 0 0 
+
+[Huskies_F6]
+持球时间 = 1.1151774333333377 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 12 0 2 0 0 1 
+
+[Huskies_M1]
+持球时间 = 0.9433859666666838 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 33 1 2 0 0 1 
+
+[Huskies_M4]
+持球时间 = 1.382539483333314 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 18 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.663159683333322 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 11 0 1 0 0 2 
+
+[Huskies_M12]
+持球时间 = 0.030564216666668167 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 1.549752783333338 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 2 4 2 0 0 
+
+===========================================================================
+[29]
+
+[Huskies_D1]
+持球时间 = 0.3275997499999941 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 9 2 0 0 0 0 
+
+[Huskies_D2]
+持球时间 = 0.3188102166666738 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 7 2 3 0 0 0 
+
+[Huskies_D5]
+持球时间 = 0.6765587000000058 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 23 0 3 0 0 2 
+
+[Huskies_D8]
+持球时间 = 0.9452013999999925 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 14 2 0 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.7658204833333665 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 13 0 0 0 0 2 
+
+[Huskies_F2]
+持球时间 = 0.6289580666666477 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 17 0 2 0 0 1 
+
+[Huskies_F4]
+持球时间 = 0.035646299999992456 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 0 0 0 0 
+
+[Huskies_F5]
+持球时间 = 2.075482566666657 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 14 0 0 0 1 0 
+
+[Huskies_F6]
+持球时间 = 3.9895708166666792 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 14 0 0 0 0 1 
+
+[Huskies_M1]
+持球时间 = 0.5863526000000282 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 23 1 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.24614558333332137 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 9 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.6359345499999961 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 20 0 0 0 0 1 
+
+[Huskies_M12]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.1910285166666578 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 4 1 0 0 0 
+
+===========================================================================
+[30]
+
+[Huskies_D1]
+持球时间 = 1.4849186833333192 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 24 1 3 0 0 0 
+
+[Huskies_D3]
+持球时间 = 1.649455983333354 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 37 0 2 0 0 0 
+
+[Huskies_D4]
+持球时间 = 1.6779893666666548 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 33 0 2 0 0 1 
+
+[Huskies_D6]
+持球时间 = 0.1793147666666755 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 6 0 0 0 0 0 
+
+[Huskies_D8]
+持球时间 = 0.5827882666666625 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+6 15 0 1 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.05000108333332112 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.3254041500000275 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 42 1 3 0 1 0 
+
+[Huskies_F5]
+持球时间 = 0.3599779000000112 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 21 0 0 0 0 0 
+
+[Huskies_F6]
+持球时间 = 0.7980345666666513 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 15 0 0 0 0 2 
+
+[Huskies_M2]
+持球时间 = 0.14033558333333834 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.9616688166666771 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 29 0 0 0 0 0 
+
+[Huskies_M6]
+持球时间 = 0.6011858833333217 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 22 0 0 0 1 0 
+
+[Huskies_M12]
+持球时间 = 1.1512484666666751 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 7 0 1 0 1 1 
+
+[Huskies_G1]
+持球时间 = 0.5902116999999824 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 4 2 0 0 0 
+
+===========================================================================
+[31]
+
+[Huskies_D1]
+持球时间 = 1.5845415833333159 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 33 0 2 0 0 0 
+
+[Huskies_D3]
+持球时间 = 1.2403738666667057 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+6 34 1 0 0 0 0 
+
+[Huskies_D4]
+持球时间 = 1.649267016666633 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 37 1 0 0 1 0 
+
+[Huskies_D6]
+持球时间 = 0.11977601666667397 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 0 1 0 0 0 
+
+[Huskies_D8]
+持球时间 = 0.889439399999984 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 25 0 1 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.45327739999999417 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 10 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.9070333500000127 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 42 0 5 0 3 1 
+
+[Huskies_F5]
+持球时间 = 0.1374322500000062 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 9 0 0 0 0 0 
+
+[Huskies_F6]
+持球时间 = 1.0263168166666654 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 19 0 0 0 0 3 
+
+[Huskies_M1]
+持球时间 = 1.8574375499999978 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 45 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.08567990000001373 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 2 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.336884283333337 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 9 1 0 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.374291883333323 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 8 0 0 0 1 2 
+
+[Huskies_G1]
+持球时间 = 0.6711079166666626 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 1 1 5 0 0 
+
+===========================================================================
+[32]
+
+[Huskies_D1]
+持球时间 = 0.4287206666666961 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 14 0 2 0 0 0 
+
+[Huskies_D3]
+持球时间 = 0.41267440000000877 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 11 0 5 0 0 0 
+
+[Huskies_D4]
+持球时间 = 0.4069176333333038 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 15 0 1 0 0 0 
+
+[Huskies_D8]
+持球时间 = 0.17199080000000605 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 0 0 1 0 
+
+[Huskies_F1]
+持球时间 = 0.06686515000000479 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 1 1 0 0 0 
+
+[Huskies_F2]
+持球时间 = 0.10192886666667013 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 1 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.05818981666666332 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 0 0 0 0 0 0 
+
+[Huskies_F5]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 0 0 0 0 0 
+
+[Huskies_F6]
+持球时间 = 0.12724741666666736 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 0 1 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.19816496666667263 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 11 0 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.16488884999998846 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 0 1 0 0 0 
+
+[Huskies_M11]
+持球时间 = 0.03705701666666149 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 6 0 0 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.08882545000000164 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 1 0 
+
+[Huskies_G1]
+持球时间 = 0.10225198333334144 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 1 1 1 0 0 
+
+===========================================================================
+[33]
+
+[Huskies_D1]
+持球时间 = 1.281107450000033 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 24 1 3 0 0 0 
+
+[Huskies_D3]
+持球时间 = 0.9539125999999745 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 22 0 2 0 0 0 
+
+[Huskies_D4]
+持球时间 = 0.6995166666666545 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 22 1 1 0 0 1 
+
+[Huskies_D8]
+持球时间 = 0.7685346666666665 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 15 0 3 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.3678292333333199 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 8 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 0.24906706666666215 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 11 0 0 0 0 0 
+
+[Huskies_F5]
+持球时间 = 0.2302641000000013 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 11 0 0 0 0 0 
+
+[Huskies_F6]
+持球时间 = 0.28582831666667324 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 9 0 1 0 0 1 
+
+[Huskies_M1]
+持球时间 = 0.2833228833333275 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 14 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 0.8283288833333434 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 26 0 1 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.09339205000001888 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 6 0 0 0 0 0 
+
+[Huskies_M11]
+持球时间 = 0.08974293333333966 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.5678051000000001 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 0 0 0 1 
+
+[Huskies_G1]
+持球时间 = 0.30281234999999546 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 2 1 0 0 0 
+
+===========================================================================
+[34]
+
+[Huskies_D1]
+持球时间 = 1.3580872333333331 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 30 2 3 0 1 0 
+
+[Huskies_D3]
+持球时间 = 1.5027309166666807 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 30 2 4 0 0 0 
+
+[Huskies_D4]
+持球时间 = 0.8070584166666929 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 21 0 6 0 0 1 
+
+[Huskies_D8]
+持球时间 = 1.08660901666665 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 23 0 3 0 1 0 
+
+[Huskies_D10]
+持球时间 = 0.15499260000001414 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 3 0 1 0 0 0 
+
+[Huskies_F2]
+持球时间 = 0.9539373999999934 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 33 0 2 0 0 0 
+
+[Huskies_F5]
+持球时间 = 0.5132104000000207 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 12 0 1 0 0 2 
+
+[Huskies_F6]
+持球时间 = 0.25717919999999406 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 9 0 0 0 0 1 
+
+[Huskies_M1]
+持球时间 = 0.9464275333333195 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 33 0 1 0 0 0 
+
+[Huskies_M3]
+持球时间 = 1.5560715499999787 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 50 1 1 0 0 0 
+
+[Huskies_M9]
+持球时间 = 0.016636400000000624 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 0 1 0 0 0 
+
+[Huskies_M11]
+持球时间 = 0.0348253333333408 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 7 0 0 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.4211102166666819 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 15 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 1.153327266666681 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 6 3 4 0 0 
+
+===========================================================================
+[35]
+
+[Huskies_D1]
+持球时间 = 2.291090933333325 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+6 44 0 3 0 0 0 
+
+[Huskies_D3]
+持球时间 = 1.9785007833333235 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 40 0 4 0 0 0 
+
+[Huskies_D4]
+持球时间 = 1.6359631833333177 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 37 0 3 0 0 0 
+
+[Huskies_D8]
+持球时间 = 1.0795171499999836 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 18 0 1 0 0 0 
+
+[Huskies_F1]
+持球时间 = 0.0432406333333347 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.2045290000000142 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 34 0 3 0 0 1 
+
+[Huskies_F4]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 0 0 0 0 0 
+
+[Huskies_F5]
+持球时间 = 0.1461732833333315 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 11 0 0 0 0 0 
+
+[Huskies_F6]
+持球时间 = 0.6397655000000119 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 15 0 1 0 1 0 
+
+[Huskies_M1]
+持球时间 = 1.1726314333333183 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 33 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 1.3781128000000291 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 33 0 4 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.25048406666667994 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 11 0 0 0 0 0 
+
+[Huskies_M12]
+持球时间 = 1.0105576499999962 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 14 0 0 0 0 1 
+
+[Huskies_G1]
+持球时间 = 0.6850958666666941 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 8 1 0 9 0 0 
+
+===========================================================================
+[36]
+
+[Huskies_D1]
+持球时间 = 0.6790896500000255 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 16 3 2 0 0 0 
+
+[Huskies_D3]
+持球时间 = 0.6271613666666591 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+6 16 4 4 0 1 0 
+
+[Huskies_D4]
+持球时间 = 1.0914234166666754 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 27 0 4 0 0 0 
+
+[Huskies_D8]
+持球时间 = 0.9413638499999835 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+6 15 1 2 0 0 0 
+
+[Huskies_D10]
+持球时间 = 0.17822789999998653 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 5 0 0 0 0 0 
+
+[Huskies_F2]
+持球时间 = 1.0490827833333385 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 24 0 5 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.24341003333333902 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 0 0 0 0 0 1 
+
+[Huskies_F5]
+持球时间 = 0.28724098333334497 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 7 0 0 0 1 0 
+
+[Huskies_F6]
+持球时间 = 0.7739438000000102 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 17 0 0 0 1 0 
+
+[Huskies_M1]
+持球时间 = 2.1504498166666584 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 38 0 0 0 1 0 
+
+[Huskies_M3]
+持球时间 = 1.1708168333333429 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 40 1 7 0 0 0 
+
+[Huskies_M4]
+持球时间 = 0.2134941833333111 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 7 0 0 0 0 0 
+
+[Huskies_M9]
+持球时间 = 0.276021050000008 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 15 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.54918139999999 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 1 0 6 0 0 
+
+===========================================================================
+[37]
+
+[Huskies_D1]
+持球时间 = 0.9815813166666753 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 27 0 1 0 0 0 
+
+[Huskies_D3]
+持球时间 = 1.0291115333333474 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+5 30 0 1 0 0 0 
+
+[Huskies_D4]
+持球时间 = 1.2621245166666692 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 22 0 2 0 0 0 
+
+[Huskies_D8]
+持球时间 = 1.3266776666666318 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 23 0 1 0 0 1 
+
+[Huskies_D10]
+持球时间 = 1.0822910000000092 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 18 0 2 0 0 0 
+
+[Huskies_F4]
+持球时间 = 0.37791991666667096 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 4 0 0 0 0 1 
+
+[Huskies_F5]
+持球时间 = 0.5677084333333274 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 12 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 1.1508694500000047 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 32 0 3 0 0 1 
+
+[Huskies_M2]
+持球时间 = 0.0900570666666681 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 5 0 0 0 0 0 
+
+[Huskies_M3]
+持球时间 = 1.533783216666624 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 34 0 3 0 0 0 
+
+[Huskies_M4]
+持球时间 = 1.4289296333333728 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 31 0 0 0 0 0 
+
+[Huskies_M9]
+持球时间 = 0.1249645499999995 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 7 0 0 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.0 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 3 0 0 0 0 0 
+
+[Huskies_G1]
+持球时间 = 0.7267857333333192 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 7 3 1 4 0 0 
+
+===========================================================================
+[38]
+
+[Huskies_D1]
+持球时间 = 0.9566847999999776 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 21 0 5 0 1 0 
+
+[Huskies_D3]
+持球时间 = 0.4750047333333403 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+2 14 0 2 0 0 0 
+
+[Huskies_D4]
+持球时间 = 1.2980693833333115 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 21 0 2 0 1 0 
+
+[Huskies_D8]
+持球时间 = 0.9197892666666945 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 17 0 1 0 0 1 
+
+[Huskies_D10]
+持球时间 = 0.2814008500000009 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 5 0 0 0 0 0 
+
+[Huskies_F4]
+持球时间 = 1.0630882666666992 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 19 0 0 0 2 0 
+
+[Huskies_F5]
+持球时间 = 0.36262501666665986 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+1 7 0 0 0 0 0 
+
+[Huskies_F6]
+持球时间 = 0.41386146666670054 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 10 0 0 0 0 0 
+
+[Huskies_M1]
+持球时间 = 1.5176154833333007 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+4 43 0 3 0 0 0 
+
+[Huskies_M2]
+持球时间 = 0.3454960333333247 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 12 0 2 0 0 0 
+
+[Huskies_M3]
+持球时间 = 2.0868270333333196 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 31 1 0 0 0 0 
+
+[Huskies_M4]
+持球时间 = 1.1219136166666601 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+3 24 0 1 0 0 0 
+
+[Huskies_M12]
+持球时间 = 0.026878500000005565 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 1 0 0 0 1 0 
+
+[Huskies_G1]
+持球时间 = 0.17974066666666885 min
+传球各种类触发次数统计：
+一下按顺序分别为：
+ Head pass | Simple pass | Launch | High pass | Hand pass | Smart pass | Cross |
+0 4 2 0 2 0 0 
+
+===========================================================================
