@@ -106,7 +106,7 @@ edge_colors = range(2, M+2)
 
 nodes = nx.draw_networkx_nodes(G, pos, node_size=node_sizes, node_color='blue')
 edges = nx.draw_networkx_edges(G, pos, node_size=node_sizes, arrowstyle='->',
-                               arrowsize=5, edge_color=edge_colors,
+                               arrowsize=8, edge_color=edge_colors,
                                edge_cmap=plt.cm.Blues, width=1)
 
 # set alpha value for each edge
