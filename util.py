@@ -1,4 +1,11 @@
+def teamwise_info_get(all_info, team_name):
+    ret_info = []
+    for line in all_info:
+        if(team_name not in line['OriginPlayerID'] or team_name not in line['DestinationPlayerID']):
+            continue
+        ret_info.append(line)
 
+    return ret_info
 
 def Matchwise_team_members_get(Single_Match_all_info, team_name):
     OriginPlayerID_all = [x['OriginPlayerID'] for x in Single_Match_all_info]
@@ -22,10 +29,10 @@ def Matchwise_all_info_get(all_info):
     for line in all_info:
         MatchID = int(line['MatchID'])
         if(old_Match_ID != MatchID):
-            ret_dict[old_Match_ID] = []
+            ret_dict[MatchID] = []
             old_Match_ID = MatchID
-        ret_dict[MatchID-1].append(line)
-    
+        ret_dict[MatchID].append(line)
+        
     return ret_dict
 
 def average(iterable_object):
@@ -57,7 +64,6 @@ def catch_ball_time_calculate(info_1, info_2, member):
         return False,0
 
     return True,time_stamp_2-time_stamp_1
-
 
 def csv_process(csv_list):
     item_list = csv_list[0]

@@ -1,9 +1,10 @@
+import os
 import csv
 import sys
 
 from util import csv_process,team_member_get,team_key_word_extract,cooperation_detect,\
                  catch_ball_time_calculate,average,Matchwise_all_info_get,MatchID_list_get,\
-                 Matchwise_team_members_get,origin_or_dest_team_member_get
+                 Matchwise_team_members_get,origin_or_dest_team_member_get,teamwise_info_get
 
 fullevents_path = 'data/fullevents.csv'
 matches_path = 'data/matches.csv'
@@ -13,10 +14,14 @@ csv_file = csv.reader(open(passingevents_path, 'r'))
 
 all_info = list(csv_file)
 
+# team_name = 'Opponent1_'
+
 team_name = 'Husk'
 
 result_path = 'result'
 
+if(not os.path.exists(os.path.join(team_name, result_path))):
+    os.makedirs(os.path.join(team_name, result_path), 0x777)
 
 # 总共有这么些数据项目
 # ['MatchID', 'TeamID', 'OriginPlayerID', 'DestinationPlayerID', 'MatchPeriod', 'EventTime', \
@@ -24,9 +29,11 @@ result_path = 'result'
 
 all_info = csv_process(all_info)
 
-MatchID_list = MatchID_list_get(all_info)
+teamwise_all_info = teamwise_info_get(all_info, team_name)
 
-Matchwise_all_info = Matchwise_all_info_get(all_info)
+MatchID_list = MatchID_list_get(teamwise_all_info)
+
+Matchwise_all_info = Matchwise_all_info_get(teamwise_all_info)
 
 sys_args = sys.argv[1:]
 
@@ -41,56 +48,51 @@ flag_event_coordinate_per_player = True if('--coordinate_per_op' in sys_args) el
 # 小队配合能力：二人配合次数，三人配合次数
 # 个人配合能力：传球次数，接球次数
 if(flag_cooperation_pass):
-    team_key_word_list = ['Husk', 'Oppo']
-    team_pass_count = {'Husk':[], 'Oppo':[]}
-    team_cooperation_count = {'Husk':{2:[], 3:[]}, 'Oppo':{2:[], 3:[]}}
-    team_cooperation_list = {'Husk':[], 'Oppo':[]}
+    team_pass_count = {}
+    team_cooperation_count = {}
+    team_cooperation_list = {2:[], 3:[]}
 
     old_MatchID = 0
 
-    for i in range(len(all_info)):
-        Origin_player = all_info[i]['OriginPlayerID']
-        team_key_word = team_key_word_extract(Origin_player)
-        MatchID = int(all_info[i]['MatchID'])
+    for i in range(len(teamwise_all_info)):
+        Origin_player_ID = teamwise_all_info[i]['OriginPlayerID']
+        Dest_player_ID = teamwise_all_info[i]['DestinationPlayerID']
+        MatchID = int(teamwise_all_info[i]['MatchID'])
         if(old_MatchID != MatchID):
-            team_pass_count['Husk'].append(0)
-            team_pass_count['Oppo'].append(0)
-            team_cooperation_count['Husk'][2].append(0)
-            team_cooperation_count['Oppo'][2].append(0)
-            team_cooperation_count['Husk'][3].append(0)
-            team_cooperation_count['Oppo'][3].append(0)
-            team_cooperation_list['Husk'].append([])
-            team_cooperation_list['Oppo'].append([])
+            team_pass_count[MatchID] = 0
+            team_cooperation_count[MatchID] = {2:0, 3:0}
+            team_cooperation_list[MatchID] = {2:[], 3:[]}
             old_MatchID = MatchID
+        if(team_name not in Origin_player_ID or team_name not in Dest_player_ID):
+            continue
         # 统计传球次数
-        team_pass_count[team_key_word][MatchID-1] += 1
+        team_pass_count[MatchID] += 1
         if(i == 0):
             continue
         # 统计合作次数
-        info_1 = all_info[i-1]
-        info_2 = all_info[i]
+        info_1 = teamwise_all_info[i-1]
+        info_2 = teamwise_all_info[i]
         players,flag = cooperation_detect(info_1, info_2)
         if(flag):
-            team_cooperation_list[team_key_word][MatchID-1].append((i+1, tuple(players)))
-            team_cooperation_count[team_key_word][len(players)][MatchID-1] += 1
+            team_cooperation_list[MatchID][len(players)].append(tuple(players))
+            team_cooperation_count[MatchID][len(players)] += 1
 
     print(team_pass_count)
     print(team_cooperation_count)
     
-    f = open('{}/{}_cooperation&pass_count.txt'.format(result_path, team_name), 'w', encoding='utf-8')
+    f = open('{}/{}/cooperation&pass_count.txt'.format(team_name, result_path), 'w', encoding='utf-8')
     f.write('p.s. 注意 Oppo 是敌队的意思。\n')
-    f.write('[传球次数统计] \n比赛场次 | {}队 | {}队\n'.format('Husk', 'Oppo'))
+    f.write('[传球次数统计] \n比赛场次 | {}队\n'.format('Husk', 'Oppo'))
     for MatchID in MatchID_list:
-        f.write('{}  {}  {}\n'.format(MatchID, team_pass_count['Husk'][MatchID-1], team_pass_count['Oppo'][MatchID-1]))
+        f.write('{}  {}  \n'.format(MatchID, team_pass_count[MatchID]))
 
     f.write('\n')
 
-    f.write('[配合次数统计] \n比赛场次 | {}队二元配合 | {} 队二元配合 | {} 队三元配合 | {} 队三元配合\n'\
-            .format('Husk', 'Oppo', 'Husk', 'Oppo'))    
+    f.write('[配合次数统计] \n比赛场次 | {}队二元配合 | {} 队三元配合\n'\
+            .format(team_name, team_name))    
     for MatchID in MatchID_list:
-        f.write('{} {} {} {} {}\n'.format(MatchID, \
-                                     team_cooperation_count['Husk'][2][MatchID-1], team_cooperation_count['Oppo'][2][MatchID-1], \
-                                     team_cooperation_count['Husk'][3][MatchID-1], team_cooperation_count['Oppo'][3][MatchID-1]))
+        f.write('{} {} {}\n'.format(MatchID, \
+                                    team_cooperation_count[MatchID][2], team_cooperation_count[MatchID][3]))
         
     # f.write('!!! 以下是配合明细 !!!\n================================================================================\n')
 
@@ -115,13 +117,13 @@ if(flag_cooperation_pass):
         # f.close()
 
 if(flag_pass_origin_dest_per_team_member):
-    f = open('{}/{}_pass_origin.txt'.format(result_path, team_name), 'w', encoding='utf-8')
-    f_ = open('{}/{}_pass_dest.txt'.format(result_path, team_name), 'w', encoding='utf-8')
+    f = open('{}/{}/pass_origin.txt'.format(team_name, result_path), 'w', encoding='utf-8')
+    f_ = open('{}/{}/pass_dest.txt'.format(team_name, result_path), 'w', encoding='utf-8')
 
     for MatchID in MatchID_list:
         f.write('[{}]\n'.format(MatchID))
         f_.write('[{}]\n'.format(MatchID))
-        single_Match_all_info = Matchwise_all_info[MatchID-1]
+        single_Match_all_info = Matchwise_all_info[MatchID]
 
         team_members,OriginPlayerID_all,DesinationPlayerID_all = \
         Matchwise_team_members_get(single_Match_all_info, team_name)
@@ -178,7 +180,8 @@ if(flag_pass_origin_dest_per_team_member):
     f_.close()
 
 if(flag_attractive_force_item_per_team_member):
-    f = open('{}/{}_attractive_force_item.txt'.format(result_path, team_name), 'w', encoding='utf-8')
+    f = open('{}/{}/attractive_force_item.txt'.format(team_name, result_path), 'w', encoding='utf-8')
+    f_ = open('{}/{}/extra_info.txt'.format(team_name, result_path), 'w', encoding='utf-8')
     pass_type_list = ['Head pass', 'Simple pass', 'Launch', 'High pass', 'Hand pass', 'Smart pass', 'Cross']
 
     all_pass_type_count = [0]*len(pass_type_list)
@@ -188,7 +191,7 @@ if(flag_attractive_force_item_per_team_member):
 
         f.write('[{}]\n'.format(MatchID))
 
-        single_Match_all_info = Matchwise_all_info[MatchID-1]
+        single_Match_all_info = Matchwise_all_info[MatchID]
 
         team_members,OriginPlayerID_all,DesinationPlayerID_all = \
         Matchwise_team_members_get(single_Match_all_info, team_name)
@@ -250,18 +253,21 @@ if(flag_attractive_force_item_per_team_member):
             f.write('\n')
         f.write('\n')
     f.close()
-    print(all_get_type_count)
+    f_.write(str(MatchID_list) + '\n')
+    f_.write(str(all_pass_type_count) + '\n')
+    f_.write(str(all_get_type_count) + '\n')
     print(all_pass_type_count)
+    print(all_get_type_count)
 
 
 if(flag_event_coordinate_per_player):
-    f = open('{}/{}_coordinate_origin_avg.txt'.format(result_path, team_name), 'w', encoding='utf-8')
+    f = open('{}/{}/coordinate_origin_avg.txt'.format(team_name, result_path), 'w', encoding='utf-8')
     # 'OriginPlayerID', 'DestinationPlayerID'
     # 'EventOrigin_x', 'EventOrigin_y', 'EventDestination_x', 'EventDestination_y'
     for MatchID in MatchID_list:
         f.write('[{}]\n'.format(MatchID))
 
-        single_Match_all_info = Matchwise_all_info[MatchID-1]
+        single_Match_all_info = Matchwise_all_info[MatchID]
 
         team_members,OriginPlayerID_all,DesinationPlayerID_all = \
         Matchwise_team_members_get(single_Match_all_info, team_name)

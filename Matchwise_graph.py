@@ -1,3 +1,5 @@
+import os
+
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import networkx as nx
@@ -7,17 +9,24 @@ team_name = 'Husk'
 
 result_path = 'result'
 
-f = open('{}/{}_Matchwise_attrct_cal.txt'.format(result_path, team_name), 'w', encoding='utf-8')
-f_ = open('{}/{}_Matchwise_weight_point.txt'.format(result_path, team_name), 'w', encoding='utf-8')
+f = open('{}/{}/Matchwise_attrct_cal.txt'.format(team_name, result_path), 'w', encoding='utf-8')
+f_ = open('{}/{}/Matchwise_weight_point.txt'.format(team_name, result_path), 'w', encoding='utf-8')
 
-MatchID_list = range(1, 39)
+temp_f = open('{}/{}/extra_info.txt'.format(team_name, result_path), 'r')
+MatchID_list = eval(temp_f.readline().strip())
+pass_kind_weight = eval(temp_f.readline().strip())
+get_kind_weight = eval(temp_f.readline().strip())
+
 for MatchID in MatchID_list:
     plt.cla()
     # one Match
 
-    coordinate_txt_path = '{}/{}_coordinate_origin_avg.txt'.format(result_path, team_name)
-    attrc_txt_path = '{}/{}_attractive_force_item.txt'.format(result_path, team_name)
-    pass_origin_path = '{}/{}_pass_origin.txt'.format(result_path, team_name)
+    if(not os.path.exists('{}/pic'.format(team_name))):
+        os.makedirs('{}/pic'.format(team_name), 0x777)
+
+    coordinate_txt_path = '{}/{}/coordinate_origin_avg.txt'.format(team_name, result_path)
+    attrc_txt_path = '{}/{}/attractive_force_item.txt'.format(team_name, result_path)
+    pass_origin_path = '{}/{}/pass_origin.txt'.format(team_name, result_path)
 
     f_1 = open(coordinate_txt_path, 'r')
     f_2 = open(attrc_txt_path, 'r')
@@ -38,11 +47,10 @@ for MatchID in MatchID_list:
                 members_info[infos[0]]['coordinate'] = (float(infos[1])/100, float(infos[2])/100)
             break
 
-
     members_ID = list(members_info.keys())
 
-    pass_kind_weight = [1/572, 1/8735, 1/212, 1/586, 1/127, 1/73, 1/130];pass_kind_sum = sum(pass_kind_weight)
-    get_kind_weight = [1/571, 1/8730, 1/211, 1/583, 1/127, 1/73, 1/130];get_kind_sum = sum(get_kind_weight)
+    pass_kind_weight = [1/x for x in pass_kind_weight];pass_kind_sum = sum(pass_kind_weight)
+    get_kind_weight = [1/x for x in get_kind_weight];get_kind_sum = sum(get_kind_weight)
     pass_kind_weight = [x/pass_kind_sum for x in pass_kind_weight]
     get_kind_weight = [x/get_kind_sum for x in get_kind_weight]
 
@@ -78,7 +86,6 @@ for MatchID in MatchID_list:
     miyi = sum([xy[1]*m for xy,m in zip(x_y, weight)])
     weight_point = (mixi/M*100, miyi/M*100)
     f_.write('{} {} {}\n'.format(MatchID, *weight_point))
-
 
     G = nx.generators.directed.random_k_out_graph(len(members_ID), 3, 0.5)
 
@@ -117,14 +124,17 @@ for MatchID in MatchID_list:
 
     pos = {i:np.array(members_info[members_ID[i]]['coordinate']) for i in range(len(members_ID))}
 
-    node_sizes = [100*members_info[members_ID[i]]['attrc'] for i in range(len(members_ID))]
+    attrc_list = [members_info[members_ID[i]]['attrc'] for i in range(len(members_ID))]
+
+    node_sizes = [300*x/max(attrc_list) for x in attrc_list]
 
     M = G.number_of_edges()
 
-    edge_colors = range(2, M+2)
+    edge_colors = [x*5 for x in edge_info_list]
     # edge_alphas = [(5 + i) / (M + 4) for i in range(M)]
 
-    nodes = nx.draw_networkx_nodes(G, pos, node_size=node_sizes, node_color='blue')
+
+    nodes = nx.draw_networkx_nodes(G, pos, cmap=plt.cm.Blues , node_size=node_sizes)
     edges = nx.draw_networkx_edges(G, pos, node_size=node_sizes, arrowstyle='->',
                                 arrowsize=8, edge_color=edge_colors,
                                 edge_cmap=plt.cm.Blues, width=1)
@@ -140,4 +150,4 @@ for MatchID in MatchID_list:
     ax = plt.gca()
     ax.set_axis_off()
 
-    plt.savefig('pic/Match_{}_network.png'.format(MatchID))
+    plt.savefig('{}/pic/Match_{}_network.png'.format(team_name, MatchID))
