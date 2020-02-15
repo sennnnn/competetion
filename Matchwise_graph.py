@@ -10,7 +10,7 @@ result_path = 'result'
 
 MatchID_list = range(1, 39)
 for MatchID in MatchID_list:
-
+    plt.cla()
     # one Match
 
     coordinate_txt_path = '{}/{}_coordinate_origin_avg.txt'.format(result_path, team_name)
@@ -35,6 +35,7 @@ for MatchID in MatchID_list:
                 members_info[infos[0]] = {}
                 members_info[infos[0]]['coordinate'] = (float(infos[1])/100, float(infos[2])/100)
             break
+
 
     members_ID = list(members_info.keys())
 
@@ -118,7 +119,6 @@ for MatchID in MatchID_list:
     # pc = mpl.collections.PatchCollection(edges, cmap=plt.cm.Blues)
     # pc.set_array(edge_colors)
     # plt.colorbar(pc)
-
     ax = plt.gca()
     ax.set_axis_off()
     plt.savefig('pic/Match_{}_network.png'.format(MatchID))
