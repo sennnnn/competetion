@@ -118,26 +118,26 @@ if(flag_pass_origin_dest_per_team_member):
     f = open('{}/{}_pass_origin.txt'.format(result_path, team_name), 'w', encoding='utf-8')
     f_ = open('{}/{}_pass_dest.txt'.format(result_path, team_name), 'w', encoding='utf-8')
 
-    f.write('这个是传出的记录!\n')
-    f_.write('这个是接住的记录!\n')
-
     for MatchID in MatchID_list:
-        f.write('\n========================================================================\n')
-        f_.write('\n========================================================================\n')
-        f.write('[{}]\n\n'.format(MatchID))
-        f_.write('[{}]\n\n'.format(MatchID))
+        f.write('[{}]\n'.format(MatchID))
+        f_.write('[{}]\n'.format(MatchID))
         single_Match_all_info = Matchwise_all_info[MatchID-1]
 
         team_members,OriginPlayerID_all,DesinationPlayerID_all = \
         Matchwise_team_members_get(single_Match_all_info, team_name)
 
+        origin_team_members = origin_or_dest_team_member_get(OriginPlayerID_all, team_name)
+        dest_team_members = origin_or_dest_team_member_get(DesinationPlayerID_all, team_name)
+
         # 传球统计
-        playerwise_pass_origin_count = {member:{member_:0 for member_ in team_members} for member in team_members}
+        playerwise_pass_origin_count = {member:{member_:0 for member_ in team_members} for member in origin_team_members}
         # 接球统计
-        playerwise_pass_dest_count  = {member:{member_:0 for member_ in team_members} for member in team_members}
-        for member in team_members:
-            playerwise_pass_origin_count[member]['all'] = 0
-            playerwise_pass_dest_count[member]['all'] = 0
+        playerwise_pass_dest_count  = {member:{member_:0 for member_ in team_members} for member in dest_team_members}
+        for member_origin in origin_team_members:
+            playerwise_pass_origin_count[member_origin]['all'] = 0
+
+        for member_dest in dest_team_members:
+            playerwise_pass_dest_count[member_dest]['all'] = 0
 
         for i,j in zip(OriginPlayerID_all, DesinationPlayerID_all):
             if(team_name not in i or team_name not in j):
@@ -150,35 +150,54 @@ if(flag_pass_origin_dest_per_team_member):
             playerwise_pass_dest_count[j][i] += 1
             playerwise_pass_dest_count[j]['all'] += 1
 
-        for member in team_members:
-            f.write('[{}]\n'.format(member))
-            f_.write('[{}]\n'.format(member))
+        f.write(str(len(origin_team_members)) + '\n')
+        f_.write(str(len(dest_team_members)) + '\n')
+
+        for member in origin_team_members:
             member_dict = playerwise_pass_origin_count[member]
-            member_dict_ = playerwise_pass_dest_count[member]
-            for i,j in zip(member_dict.keys(), member_dict_.keys()):
-                f.write('{}:{}\n'.format(i, member_dict[i]))
-                f_.write('{}:{}\n'.format(j, member_dict_[j]))
+            f.write('[{}]\n'.format(member))
+            for i in member_dict.keys():
+                if(i == 'all'):
+                    continue
+                f.write('{} {} {}\n'.format(member, i, member_dict[i]))
             f.write('\n')
+
+        for member in dest_team_members:
+            member_dict = playerwise_pass_dest_count[member]
+            f_.write('[{}]\n'.format(member))
+            for i in member_dict.keys():
+                if(i == 'all'):
+                    continue
+                f_.write('{} {} {}\n'.format(member, i, member_dict[i]))
             f_.write('\n')
+        
+
+        f.write('\n')
+        f_.write('\n')
     f.close()
     f_.close()
 
 if(flag_attractive_force_item_per_team_member):
     f = open('{}/{}_attractive_force_item.txt'.format(result_path, team_name), 'w', encoding='utf-8')
     pass_type_list = ['Head pass', 'Simple pass', 'Launch', 'High pass', 'Hand pass', 'Smart pass', 'Cross']
-    
+
+    all_pass_type_count = [0]*len(pass_type_list)
+    all_get_type_count = [0]*len(pass_type_list)
+
     for MatchID in MatchID_list:
 
-        f.write('[{}]\n\n'.format(MatchID))
+        f.write('[{}]\n'.format(MatchID))
 
         single_Match_all_info = Matchwise_all_info[MatchID-1]
 
         team_members,OriginPlayerID_all,DesinationPlayerID_all = \
         Matchwise_team_members_get(single_Match_all_info, team_name)
-        
-        single_member_attract_items = {member:{'catch_ball_time':0, 'pass_all_kind_count':\
-                                      {pass_type:0 for pass_type in pass_type_list}} for member in team_members}
 
+        origin_team_members = origin_or_dest_team_member_get(OriginPlayerID_all, team_name)
+
+        single_origin_member_attract_items = {member:{'catch_ball_time':0, 'get_count':0, 'pass_count':0, 
+        'pass_all_kind_count':{pass_type:0 for pass_type in pass_type_list}, \
+        'get_all_kind_count':{pass_type:0 for pass_type in pass_type_list}} for member in origin_team_members}
 
         for i in range(len(single_Match_all_info)):
             # 统计传球种类
@@ -189,9 +208,20 @@ if(flag_attractive_force_item_per_team_member):
                 continue
             if(team_key_word_extract(origin_player_ID) != team_key_word_extract(dest_player_ID)):
                 continue
-            # 统计出场 ID
-            pass_type = info_temp['EventSubType']
-            single_member_attract_items[origin_player_ID]['pass_all_kind_count'][pass_type] += 1
+            if(origin_player_ID in origin_team_members):
+                single_origin_member_attract_items[origin_player_ID]['pass_count'] += 1
+                # 统计传球事件
+                pass_type = info_temp['EventSubType']
+                single_origin_member_attract_items[origin_player_ID]['pass_all_kind_count'][pass_type] += 1
+                # 统计各种传球总数
+                all_pass_type_count[pass_type_list.index(pass_type)] += 1
+            if(dest_player_ID in origin_team_members):
+                single_origin_member_attract_items[dest_player_ID]['get_count'] += 1
+                # 统计接球事件
+                get_type = info_temp['EventSubType']
+                single_origin_member_attract_items[dest_player_ID]['get_all_kind_count'][pass_type] += 1
+                # 统计各种接球总数
+                all_get_type_count[pass_type_list.index(pass_type)] += 1
             # 统计带球时间
             if(i == 0):
                 continue
@@ -201,33 +231,35 @@ if(flag_attractive_force_item_per_team_member):
             race_id_2 = info_2['MatchID']
             if(race_id_1 != race_id_2):
                 continue
-            for member in team_members:
+            for member in origin_team_members:
                 flag,time = catch_ball_time_calculate(info_1, info_2, member)
                 if(flag and time > 0):
-                    single_member_attract_items[member]["catch_ball_time"] += time
+                    single_origin_member_attract_items[member]["catch_ball_time"] += time
 
-        for member in team_members:
-            f.write('[{}]\n'.format(member))
-            f.write('持球时间 = {} min\n'.format(single_member_attract_items[member]['catch_ball_time']/60))
-            f.write('传球各种类触发次数统计：\n')
-            temp = single_member_attract_items[member]['pass_all_kind_count']
-            temp_string_ = '一下按顺序分别为：\n'
-            temp_string = ''
-            for key in temp.keys():
-                temp_string_ += ' {} |'.format(key)
-                temp_string += '{} '.format(temp[key])
-            f.write('{}\n'.format(temp_string_))
-            f.write('{}\n'.format(temp_string))
+        f.write('%d\n'%(len(origin_team_members)))
+        for member in origin_team_members:
+            f.write('{} {} {} {} '.format(member, single_origin_member_attract_items[member]['catch_ball_time'], 
+                                          single_origin_member_attract_items[member]['get_count'], \
+                                          single_origin_member_attract_items[member]['pass_count']))
+            temp_pass = single_origin_member_attract_items[member]['pass_all_kind_count']
+            temp_get = single_origin_member_attract_items[member]['get_all_kind_count']
+            for key in temp_get.keys():
+                f.write('{} '.format(temp_get[key]))
+            for key in temp_pass.keys():
+                f.write('{} '.format(temp_pass[key]))
             f.write('\n')
-        f.write('===========================================================================\n')
+        f.write('\n')
     f.close()
+    print(all_get_type_count)
+    print(all_pass_type_count)
+
 
 if(flag_event_coordinate_per_player):
     f = open('{}/{}_coordinate_origin_avg.txt'.format(result_path, team_name), 'w', encoding='utf-8')
     # 'OriginPlayerID', 'DestinationPlayerID'
     # 'EventOrigin_x', 'EventOrigin_y', 'EventDestination_x', 'EventDestination_y'
     for MatchID in MatchID_list:
-        f.write('[{}]\n\n'.format(MatchID))
+        f.write('[{}]\n'.format(MatchID))
 
         single_Match_all_info = Matchwise_all_info[MatchID-1]
 
@@ -235,7 +267,7 @@ if(flag_event_coordinate_per_player):
         Matchwise_team_members_get(single_Match_all_info, team_name)
 
         origin_team_members = origin_or_dest_team_member_get(OriginPlayerID_all, team_name)
-        
+
         coordinate_per_player = {member:{'origin':[]} for member in origin_team_members}
         coordinate_avg_per_player = {member:{'origin':None} for member in origin_team_members}
 
@@ -246,18 +278,15 @@ if(flag_event_coordinate_per_player):
             origin_x = float(line['EventOrigin_x'])
             origin_y = float(line['EventOrigin_y'])
             coordinate_per_player[origin_player_ID]['origin'].append((origin_x, origin_y))
-        
+
         for member in origin_team_members:
             origin_temp = coordinate_per_player[member]['origin']
             coordinate_avg_per_player[member]['origin'] = (average([x[0] for x in origin_temp]), \
                                                            average([x[1] for x in origin_temp]))    
 
-        f.write('队伍成员传接球站位统计!!\n=========================================================\n')
-
+        f.write(str(len(origin_team_members)) + '\n')
         for member in origin_team_members:
-            f.write('[{}]\n'.format(member))
-            f.write('传球平均坐标：x:{} y:{}\n'.format(*coordinate_avg_per_player[member]['origin']))
-            f.write('\n')
+            f.write('{} {} {}\n'.format(member, *coordinate_avg_per_player[member]['origin']))
 
         f.write('\n')
     f.close()
