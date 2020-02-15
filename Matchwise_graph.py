@@ -8,6 +8,7 @@ team_name = 'Husk'
 result_path = 'result'
 
 f = open('{}/{}_Matchwise_attrct_cal.txt'.format(result_path, team_name), 'w', encoding='utf-8')
+f_ = open('{}/{}_Matchwise_weight_point.txt'.format(result_path, team_name), 'w', encoding='utf-8')
 
 MatchID_list = range(1, 39)
 for MatchID in MatchID_list:
@@ -64,10 +65,20 @@ for MatchID in MatchID_list:
                 members_info[infos[0]]['attrc'] = catch_time/60 + sum(get_all_type_list) + sum(pass_all_type_list)
             break
 
-    
+    # 吸引力计算
     f.write('[{}]\n'.format(MatchID))
     [f.write('{} {}\n'.format(member, members_info[member]['attrc'])) for member in members_ID]
     f.write('\n')
+
+    # 质心计算
+    x_y = [members_info[member]['coordinate'] for member in members_ID]
+    weight = [members_info[member]['attrc'] for member in members_ID]
+    M = sum(weight)
+    mixi = sum([xy[0]*m for xy,m in zip(x_y, weight)])
+    miyi = sum([xy[1]*m for xy,m in zip(x_y, weight)])
+    weight_point = (mixi/M*100, miyi/M*100)
+    f_.write('{} {} {}\n'.format(MatchID, *weight_point))
+
 
     G = nx.generators.directed.random_k_out_graph(len(members_ID), 3, 0.5)
 
