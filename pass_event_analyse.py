@@ -14,14 +14,12 @@ csv_file = csv.reader(open(passingevents_path, 'r'))
 
 all_info = list(csv_file)
 
-# team_name = 'Opponent1_'
-
-team_name = 'Husk'
+team_name = sys.argv[1]
 
 result_path = 'result'
 
-if(not os.path.exists(os.path.join(team_name, result_path))):
-    os.makedirs(os.path.join(team_name, result_path), 0x777)
+if(not os.path.exists(os.path.join('build', team_name, result_path))):
+    os.makedirs(os.path.join('build', team_name, result_path), 0x777)
 
 # 总共有这么些数据项目
 # ['MatchID', 'TeamID', 'OriginPlayerID', 'DestinationPlayerID', 'MatchPeriod', 'EventTime', \
@@ -35,7 +33,7 @@ MatchID_list = MatchID_list_get(teamwise_all_info)
 
 Matchwise_all_info = Matchwise_all_info_get(teamwise_all_info)
 
-sys_args = sys.argv[1:]
+sys_args = sys.argv[2:]
 
 flag_cooperation_pass = True if('--coop_pass' in sys_args) else False
 flag_pass_origin_dest_per_team_member = True if('--pass_ori_dst_pm' in sys_args) else False
@@ -80,7 +78,7 @@ if(flag_cooperation_pass):
     print(team_pass_count)
     print(team_cooperation_count)
     
-    f = open('{}/{}/cooperation&pass_count.txt'.format(team_name, result_path), 'w', encoding='utf-8')
+    f = open('build/{}/{}/cooperation&pass_count.txt'.format(team_name, result_path), 'w', encoding='utf-8')
     f.write('p.s. 注意 Oppo 是敌队的意思。\n')
     f.write('[传球次数统计] \n比赛场次 | {}队\n'.format('Husk', 'Oppo'))
     for MatchID in MatchID_list:
@@ -117,8 +115,8 @@ if(flag_cooperation_pass):
         # f.close()
 
 if(flag_pass_origin_dest_per_team_member):
-    f = open('{}/{}/pass_origin.txt'.format(team_name, result_path), 'w', encoding='utf-8')
-    f_ = open('{}/{}/pass_dest.txt'.format(team_name, result_path), 'w', encoding='utf-8')
+    f = open('build/{}/{}/pass_origin.txt'.format(team_name, result_path), 'w', encoding='utf-8')
+    f_ = open('build/{}/{}/pass_dest.txt'.format(team_name, result_path), 'w', encoding='utf-8')
 
     for MatchID in MatchID_list:
         f.write('[{}]\n'.format(MatchID))
@@ -180,8 +178,8 @@ if(flag_pass_origin_dest_per_team_member):
     f_.close()
 
 if(flag_attractive_force_item_per_team_member):
-    f = open('{}/{}/attractive_force_item.txt'.format(team_name, result_path), 'w', encoding='utf-8')
-    f_ = open('{}/{}/extra_info.txt'.format(team_name, result_path), 'w', encoding='utf-8')
+    f = open('build/{}/{}/attractive_force_item.txt'.format(team_name, result_path), 'w', encoding='utf-8')
+    f_ = open('build/{}/{}/extra_info.txt'.format(team_name, result_path), 'w', encoding='utf-8')
     pass_type_list = ['Head pass', 'Simple pass', 'Launch', 'High pass', 'Hand pass', 'Smart pass', 'Cross']
 
     all_pass_type_count = [0]*len(pass_type_list)
@@ -261,7 +259,7 @@ if(flag_attractive_force_item_per_team_member):
 
 
 if(flag_event_coordinate_per_player):
-    f = open('{}/{}/coordinate_origin_avg.txt'.format(team_name, result_path), 'w', encoding='utf-8')
+    f = open('build/{}/{}/coordinate_origin_avg.txt'.format(team_name, result_path), 'w', encoding='utf-8')
     # 'OriginPlayerID', 'DestinationPlayerID'
     # 'EventOrigin_x', 'EventOrigin_y', 'EventDestination_x', 'EventDestination_y'
     for MatchID in MatchID_list:

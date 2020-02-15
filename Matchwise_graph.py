@@ -1,18 +1,21 @@
 import os
+import sys
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
 
-team_name = 'Husk'
+team_name = sys.argv[1]
 
 result_path = 'result'
 
-f = open('{}/{}/Matchwise_attrct_cal.txt'.format(team_name, result_path), 'w', encoding='utf-8')
-f_ = open('{}/{}/Matchwise_weight_point.txt'.format(team_name, result_path), 'w', encoding='utf-8')
+f = open('build/{}/{}/Matchwise_attrct_cal.txt'.format(team_name, \
+         result_path), 'w', encoding='utf-8')
+f_ = open('build/{}/{}/Matchwise_weight_point.txt'.format(team_name, \
+         result_path), 'w', encoding='utf-8')
 
-temp_f = open('{}/{}/extra_info.txt'.format(team_name, result_path), 'r')
+temp_f = open('build/{}/{}/extra_info.txt'.format(team_name, result_path), 'r')
 MatchID_list = eval(temp_f.readline().strip())
 pass_kind_weight = eval(temp_f.readline().strip())
 get_kind_weight = eval(temp_f.readline().strip())
@@ -21,12 +24,12 @@ for MatchID in MatchID_list:
     plt.cla()
     # one Match
 
-    if(not os.path.exists('{}/pic'.format(team_name))):
-        os.makedirs('{}/pic'.format(team_name), 0x777)
+    if(not os.path.exists('build/{}/pic'.format(team_name))):
+        os.makedirs('build/{}/pic'.format(team_name), 0x777)
 
-    coordinate_txt_path = '{}/{}/coordinate_origin_avg.txt'.format(team_name, result_path)
-    attrc_txt_path = '{}/{}/attractive_force_item.txt'.format(team_name, result_path)
-    pass_origin_path = '{}/{}/pass_origin.txt'.format(team_name, result_path)
+    coordinate_txt_path = 'build/{}/{}/coordinate_origin_avg.txt'.format(team_name, result_path)
+    attrc_txt_path = 'build/{}/{}/attractive_force_item.txt'.format(team_name, result_path)
+    pass_origin_path = 'build/{}/{}/pass_origin.txt'.format(team_name, result_path)
 
     f_1 = open(coordinate_txt_path, 'r')
     f_2 = open(attrc_txt_path, 'r')
@@ -49,8 +52,8 @@ for MatchID in MatchID_list:
 
     members_ID = list(members_info.keys())
 
-    pass_kind_weight = [1/x for x in pass_kind_weight];pass_kind_sum = sum(pass_kind_weight)
-    get_kind_weight = [1/x for x in get_kind_weight];get_kind_sum = sum(get_kind_weight)
+    pass_kind_weight = [1/x if x != 0 else 0 for x in pass_kind_weight];pass_kind_sum = sum(pass_kind_weight)
+    get_kind_weight = [1/x if x != 0 else 0 for x in get_kind_weight];get_kind_sum = sum(get_kind_weight)
     pass_kind_weight = [x/pass_kind_sum for x in pass_kind_weight]
     get_kind_weight = [x/get_kind_sum for x in get_kind_weight]
 
@@ -150,4 +153,4 @@ for MatchID in MatchID_list:
     ax = plt.gca()
     ax.set_axis_off()
 
-    plt.savefig('{}/pic/Match_{}_network.png'.format(team_name, MatchID))
+    plt.savefig('build/{}/pic/Match_{}_network.png'.format(team_name, MatchID))
