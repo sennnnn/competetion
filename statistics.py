@@ -223,7 +223,7 @@ if(flag_attractive_force_item_per_team_member):
     f.close()
 
 if(flag_event_coordinate_per_player):
-    f = open('{}/{}_coordinate_origin_dest_avg.txt'.format(result_path, team_name), 'w', encoding='utf-8')
+    f = open('{}/{}_coordinate_origin_avg.txt'.format(result_path, team_name), 'w', encoding='utf-8')
     # 'OriginPlayerID', 'DestinationPlayerID'
     # 'EventOrigin_x', 'EventOrigin_y', 'EventDestination_x', 'EventDestination_y'
     for MatchID in MatchID_list:

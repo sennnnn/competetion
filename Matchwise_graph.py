@@ -2,6 +2,14 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 import networkx as nx
 
+team_name = 'Husk'
+
+result_path = 'result'
+
+# one Match
+
+coordinate_txt_path = '{}/{}_coordinate_origin_avg.txt'.format(result_path, team_name)
+
 G = nx.generators.directed.random_k_out_graph(30, 3, 0.5)
 # G.add_node(10)
 # print(G.nodes)
