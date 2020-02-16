@@ -1,8 +1,8 @@
 # folder
-.vscode
-__pycache__
-Oppo*
-Husk*
+.vscode/
+__pycache__/
+Oppo*/
+Husk*/
 !Husk*.png
 !Oppo*.png
 
