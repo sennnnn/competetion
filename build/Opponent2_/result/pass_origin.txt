@@ -1,0 +1,454 @@
+[2]
+14
+[Opponent2_D1]
+Opponent2_D1 Opponent2_D1 0
+Opponent2_D1 Opponent2_D2 1
+Opponent2_D1 Opponent2_D3 2
+Opponent2_D1 Opponent2_D4 1
+Opponent2_D1 Opponent2_D5 0
+Opponent2_D1 Opponent2_F1 1
+Opponent2_D1 Opponent2_F2 2
+Opponent2_D1 Opponent2_F3 0
+Opponent2_D1 Opponent2_M1 1
+Opponent2_D1 Opponent2_M2 1
+Opponent2_D1 Opponent2_M3 0
+Opponent2_D1 Opponent2_M4 2
+Opponent2_D1 Opponent2_M5 0
+Opponent2_D1 Opponent2_G1 0
+
+[Opponent2_D2]
+Opponent2_D2 Opponent2_D1 1
+Opponent2_D2 Opponent2_D2 0
+Opponent2_D2 Opponent2_D3 6
+Opponent2_D2 Opponent2_D4 7
+Opponent2_D2 Opponent2_D5 1
+Opponent2_D2 Opponent2_F1 8
+Opponent2_D2 Opponent2_F2 4
+Opponent2_D2 Opponent2_F3 2
+Opponent2_D2 Opponent2_M1 12
+Opponent2_D2 Opponent2_M2 1
+Opponent2_D2 Opponent2_M3 2
+Opponent2_D2 Opponent2_M4 8
+Opponent2_D2 Opponent2_M5 1
+Opponent2_D2 Opponent2_G1 3
+
+[Opponent2_D3]
+Opponent2_D3 Opponent2_D1 1
+Opponent2_D3 Opponent2_D2 10
+Opponent2_D3 Opponent2_D3 0
+Opponent2_D3 Opponent2_D4 7
+Opponent2_D3 Opponent2_D5 0
+Opponent2_D3 Opponent2_F1 0
+Opponent2_D3 Opponent2_F2 0
+Opponent2_D3 Opponent2_F3 0
+Opponent2_D3 Opponent2_M1 1
+Opponent2_D3 Opponent2_M2 2
+Opponent2_D3 Opponent2_M3 1
+Opponent2_D3 Opponent2_M4 0
+Opponent2_D3 Opponent2_M5 0
+Opponent2_D3 Opponent2_G1 4
+
+[Opponent2_D4]
+Opponent2_D4 Opponent2_D1 1
+Opponent2_D4 Opponent2_D2 8
+Opponent2_D4 Opponent2_D3 4
+Opponent2_D4 Opponent2_D4 0
+Opponent2_D4 Opponent2_D5 2
+Opponent2_D4 Opponent2_F1 3
+Opponent2_D4 Opponent2_F2 3
+Opponent2_D4 Opponent2_F3 3
+Opponent2_D4 Opponent2_M1 9
+Opponent2_D4 Opponent2_M2 5
+Opponent2_D4 Opponent2_M3 1
+Opponent2_D4 Opponent2_M4 6
+Opponent2_D4 Opponent2_M5 2
+Opponent2_D4 Opponent2_G1 6
+
+[Opponent2_D5]
+Opponent2_D5 Opponent2_D1 0
+Opponent2_D5 Opponent2_D2 0
+Opponent2_D5 Opponent2_D3 0
+Opponent2_D5 Opponent2_D4 2
+Opponent2_D5 Opponent2_D5 0
+Opponent2_D5 Opponent2_F1 0
+Opponent2_D5 Opponent2_F2 1
+Opponent2_D5 Opponent2_F3 3
+Opponent2_D5 Opponent2_M1 0
+Opponent2_D5 Opponent2_M2 2
+Opponent2_D5 Opponent2_M3 0
+Opponent2_D5 Opponent2_M4 4
+Opponent2_D5 Opponent2_M5 4
+Opponent2_D5 Opponent2_G1 0
+
+[Opponent2_F1]
+Opponent2_F1 Opponent2_D1 1
+Opponent2_F1 Opponent2_D2 4
+Opponent2_F1 Opponent2_D3 0
+Opponent2_F1 Opponent2_D4 2
+Opponent2_F1 Opponent2_D5 0
+Opponent2_F1 Opponent2_F1 0
+Opponent2_F1 Opponent2_F2 1
+Opponent2_F1 Opponent2_F3 0
+Opponent2_F1 Opponent2_M1 3
+Opponent2_F1 Opponent2_M2 2
+Opponent2_F1 Opponent2_M3 0
+Opponent2_F1 Opponent2_M4 7
+Opponent2_F1 Opponent2_M5 0
+Opponent2_F1 Opponent2_G1 0
+
+[Opponent2_F2]
+Opponent2_F2 Opponent2_D1 2
+Opponent2_F2 Opponent2_D2 0
+Opponent2_F2 Opponent2_D3 0
+Opponent2_F2 Opponent2_D4 2
+Opponent2_F2 Opponent2_D5 1
+Opponent2_F2 Opponent2_F1 2
+Opponent2_F2 Opponent2_F2 0
+Opponent2_F2 Opponent2_F3 2
+Opponent2_F2 Opponent2_M1 1
+Opponent2_F2 Opponent2_M2 7
+Opponent2_F2 Opponent2_M3 1
+Opponent2_F2 Opponent2_M4 3
+Opponent2_F2 Opponent2_M5 0
+Opponent2_F2 Opponent2_G1 0
+
+[Opponent2_F3]
+Opponent2_F3 Opponent2_D1 0
+Opponent2_F3 Opponent2_D2 2
+Opponent2_F3 Opponent2_D3 0
+Opponent2_F3 Opponent2_D4 0
+Opponent2_F3 Opponent2_D5 5
+Opponent2_F3 Opponent2_F1 0
+Opponent2_F3 Opponent2_F2 2
+Opponent2_F3 Opponent2_F3 1
+Opponent2_F3 Opponent2_M1 0
+Opponent2_F3 Opponent2_M2 5
+Opponent2_F3 Opponent2_M3 0
+Opponent2_F3 Opponent2_M4 2
+Opponent2_F3 Opponent2_M5 0
+Opponent2_F3 Opponent2_G1 0
+
+[Opponent2_M1]
+Opponent2_M1 Opponent2_D1 2
+Opponent2_M1 Opponent2_D2 4
+Opponent2_M1 Opponent2_D3 2
+Opponent2_M1 Opponent2_D4 8
+Opponent2_M1 Opponent2_D5 1
+Opponent2_M1 Opponent2_F1 1
+Opponent2_M1 Opponent2_F2 7
+Opponent2_M1 Opponent2_F3 2
+Opponent2_M1 Opponent2_M1 0
+Opponent2_M1 Opponent2_M2 5
+Opponent2_M1 Opponent2_M3 2
+Opponent2_M1 Opponent2_M4 12
+Opponent2_M1 Opponent2_M5 1
+Opponent2_M1 Opponent2_G1 3
+
+[Opponent2_M2]
+Opponent2_M2 Opponent2_D1 1
+Opponent2_M2 Opponent2_D2 6
+Opponent2_M2 Opponent2_D3 2
+Opponent2_M2 Opponent2_D4 3
+Opponent2_M2 Opponent2_D5 2
+Opponent2_M2 Opponent2_F1 2
+Opponent2_M2 Opponent2_F2 7
+Opponent2_M2 Opponent2_F3 5
+Opponent2_M2 Opponent2_M1 4
+Opponent2_M2 Opponent2_M2 2
+Opponent2_M2 Opponent2_M3 3
+Opponent2_M2 Opponent2_M4 7
+Opponent2_M2 Opponent2_M5 5
+Opponent2_M2 Opponent2_G1 0
+
+[Opponent2_M3]
+Opponent2_M3 Opponent2_D1 0
+Opponent2_M3 Opponent2_D2 2
+Opponent2_M3 Opponent2_D3 1
+Opponent2_M3 Opponent2_D4 2
+Opponent2_M3 Opponent2_D5 0
+Opponent2_M3 Opponent2_F1 1
+Opponent2_M3 Opponent2_F2 0
+Opponent2_M3 Opponent2_F3 0
+Opponent2_M3 Opponent2_M1 2
+Opponent2_M3 Opponent2_M2 3
+Opponent2_M3 Opponent2_M3 0
+Opponent2_M3 Opponent2_M4 2
+Opponent2_M3 Opponent2_M5 0
+Opponent2_M3 Opponent2_G1 1
+
+[Opponent2_M4]
+Opponent2_M4 Opponent2_D1 1
+Opponent2_M4 Opponent2_D2 5
+Opponent2_M4 Opponent2_D3 2
+Opponent2_M4 Opponent2_D4 6
+Opponent2_M4 Opponent2_D5 4
+Opponent2_M4 Opponent2_F1 2
+Opponent2_M4 Opponent2_F2 4
+Opponent2_M4 Opponent2_F3 4
+Opponent2_M4 Opponent2_M1 6
+Opponent2_M4 Opponent2_M2 7
+Opponent2_M4 Opponent2_M3 2
+Opponent2_M4 Opponent2_M4 0
+Opponent2_M4 Opponent2_M5 4
+Opponent2_M4 Opponent2_G1 0
+
+[Opponent2_M5]
+Opponent2_M5 Opponent2_D1 0
+Opponent2_M5 Opponent2_D2 2
+Opponent2_M5 Opponent2_D3 0
+Opponent2_M5 Opponent2_D4 0
+Opponent2_M5 Opponent2_D5 5
+Opponent2_M5 Opponent2_F1 0
+Opponent2_M5 Opponent2_F2 1
+Opponent2_M5 Opponent2_F3 3
+Opponent2_M5 Opponent2_M1 1
+Opponent2_M5 Opponent2_M2 2
+Opponent2_M5 Opponent2_M3 0
+Opponent2_M5 Opponent2_M4 1
+Opponent2_M5 Opponent2_M5 0
+Opponent2_M5 Opponent2_G1 0
+
+[Opponent2_G1]
+Opponent2_G1 Opponent2_D1 0
+Opponent2_G1 Opponent2_D2 4
+Opponent2_G1 Opponent2_D3 3
+Opponent2_G1 Opponent2_D4 9
+Opponent2_G1 Opponent2_D5 1
+Opponent2_G1 Opponent2_F1 0
+Opponent2_G1 Opponent2_F2 0
+Opponent2_G1 Opponent2_F3 0
+Opponent2_G1 Opponent2_M1 2
+Opponent2_G1 Opponent2_M2 0
+Opponent2_G1 Opponent2_M3 2
+Opponent2_G1 Opponent2_M4 0
+Opponent2_G1 Opponent2_M5 0
+Opponent2_G1 Opponent2_G1 0
+
+
+[32]
+14
+[Opponent2_D1]
+Opponent2_D1 Opponent2_D1 0
+Opponent2_D1 Opponent2_D2 12
+Opponent2_D1 Opponent2_D4 2
+Opponent2_D1 Opponent2_D5 0
+Opponent2_D1 Opponent2_D6 0
+Opponent2_D1 Opponent2_F1 4
+Opponent2_D1 Opponent2_F3 3
+Opponent2_D1 Opponent2_M1 5
+Opponent2_D1 Opponent2_M2 3
+Opponent2_D1 Opponent2_M3 1
+Opponent2_D1 Opponent2_M4 11
+Opponent2_D1 Opponent2_M5 1
+Opponent2_D1 Opponent2_M6 1
+Opponent2_D1 Opponent2_G1 1
+
+[Opponent2_D2]
+Opponent2_D2 Opponent2_D1 7
+Opponent2_D2 Opponent2_D2 0
+Opponent2_D2 Opponent2_D4 11
+Opponent2_D2 Opponent2_D5 0
+Opponent2_D2 Opponent2_D6 1
+Opponent2_D2 Opponent2_F1 4
+Opponent2_D2 Opponent2_F3 3
+Opponent2_D2 Opponent2_M1 29
+Opponent2_D2 Opponent2_M2 3
+Opponent2_D2 Opponent2_M3 5
+Opponent2_D2 Opponent2_M4 27
+Opponent2_D2 Opponent2_M5 5
+Opponent2_D2 Opponent2_M6 7
+Opponent2_D2 Opponent2_G1 5
+
+[Opponent2_D4]
+Opponent2_D4 Opponent2_D1 2
+Opponent2_D4 Opponent2_D2 21
+Opponent2_D4 Opponent2_D4 0
+Opponent2_D4 Opponent2_D5 2
+Opponent2_D4 Opponent2_D6 14
+Opponent2_D4 Opponent2_F1 0
+Opponent2_D4 Opponent2_F3 0
+Opponent2_D4 Opponent2_M1 16
+Opponent2_D4 Opponent2_M2 7
+Opponent2_D4 Opponent2_M3 1
+Opponent2_D4 Opponent2_M4 19
+Opponent2_D4 Opponent2_M5 2
+Opponent2_D4 Opponent2_M6 1
+Opponent2_D4 Opponent2_G1 5
+
+[Opponent2_D5]
+Opponent2_D5 Opponent2_D1 0
+Opponent2_D5 Opponent2_D2 0
+Opponent2_D5 Opponent2_D4 0
+Opponent2_D5 Opponent2_D5 0
+Opponent2_D5 Opponent2_D6 0
+Opponent2_D5 Opponent2_F1 0
+Opponent2_D5 Opponent2_F3 0
+Opponent2_D5 Opponent2_M1 0
+Opponent2_D5 Opponent2_M2 1
+Opponent2_D5 Opponent2_M3 0
+Opponent2_D5 Opponent2_M4 0
+Opponent2_D5 Opponent2_M5 0
+Opponent2_D5 Opponent2_M6 0
+Opponent2_D5 Opponent2_G1 0
+
+[Opponent2_D6]
+Opponent2_D6 Opponent2_D1 1
+Opponent2_D6 Opponent2_D2 2
+Opponent2_D6 Opponent2_D4 17
+Opponent2_D6 Opponent2_D5 0
+Opponent2_D6 Opponent2_D6 0
+Opponent2_D6 Opponent2_F1 4
+Opponent2_D6 Opponent2_F3 1
+Opponent2_D6 Opponent2_M1 12
+Opponent2_D6 Opponent2_M2 9
+Opponent2_D6 Opponent2_M3 13
+Opponent2_D6 Opponent2_M4 4
+Opponent2_D6 Opponent2_M5 2
+Opponent2_D6 Opponent2_M6 1
+Opponent2_D6 Opponent2_G1 4
+
+[Opponent2_F1]
+Opponent2_F1 Opponent2_D1 4
+Opponent2_F1 Opponent2_D2 1
+Opponent2_F1 Opponent2_D4 3
+Opponent2_F1 Opponent2_D5 0
+Opponent2_F1 Opponent2_D6 3
+Opponent2_F1 Opponent2_F1 0
+Opponent2_F1 Opponent2_F3 3
+Opponent2_F1 Opponent2_M1 8
+Opponent2_F1 Opponent2_M2 5
+Opponent2_F1 Opponent2_M3 1
+Opponent2_F1 Opponent2_M4 5
+Opponent2_F1 Opponent2_M5 0
+Opponent2_F1 Opponent2_M6 2
+Opponent2_F1 Opponent2_G1 0
+
+[Opponent2_F3]
+Opponent2_F3 Opponent2_D1 1
+Opponent2_F3 Opponent2_D2 4
+Opponent2_F3 Opponent2_D4 1
+Opponent2_F3 Opponent2_D5 0
+Opponent2_F3 Opponent2_D6 1
+Opponent2_F3 Opponent2_F1 1
+Opponent2_F3 Opponent2_F3 0
+Opponent2_F3 Opponent2_M1 6
+Opponent2_F3 Opponent2_M2 8
+Opponent2_F3 Opponent2_M3 0
+Opponent2_F3 Opponent2_M4 6
+Opponent2_F3 Opponent2_M5 0
+Opponent2_F3 Opponent2_M6 0
+Opponent2_F3 Opponent2_G1 0
+
+[Opponent2_M1]
+Opponent2_M1 Opponent2_D1 2
+Opponent2_M1 Opponent2_D2 15
+Opponent2_M1 Opponent2_D4 12
+Opponent2_M1 Opponent2_D5 0
+Opponent2_M1 Opponent2_D6 16
+Opponent2_M1 Opponent2_F1 15
+Opponent2_M1 Opponent2_F3 8
+Opponent2_M1 Opponent2_M1 0
+Opponent2_M1 Opponent2_M2 37
+Opponent2_M1 Opponent2_M3 12
+Opponent2_M1 Opponent2_M4 30
+Opponent2_M1 Opponent2_M5 7
+Opponent2_M1 Opponent2_M6 9
+Opponent2_M1 Opponent2_G1 0
+
+[Opponent2_M2]
+Opponent2_M2 Opponent2_D1 3
+Opponent2_M2 Opponent2_D2 6
+Opponent2_M2 Opponent2_D4 4
+Opponent2_M2 Opponent2_D5 0
+Opponent2_M2 Opponent2_D6 9
+Opponent2_M2 Opponent2_F1 4
+Opponent2_M2 Opponent2_F3 7
+Opponent2_M2 Opponent2_M1 25
+Opponent2_M2 Opponent2_M2 0
+Opponent2_M2 Opponent2_M3 12
+Opponent2_M2 Opponent2_M4 14
+Opponent2_M2 Opponent2_M5 4
+Opponent2_M2 Opponent2_M6 2
+Opponent2_M2 Opponent2_G1 1
+
+[Opponent2_M3]
+Opponent2_M3 Opponent2_D1 2
+Opponent2_M3 Opponent2_D2 1
+Opponent2_M3 Opponent2_D4 4
+Opponent2_M3 Opponent2_D5 0
+Opponent2_M3 Opponent2_D6 4
+Opponent2_M3 Opponent2_F1 1
+Opponent2_M3 Opponent2_F3 2
+Opponent2_M3 Opponent2_M1 9
+Opponent2_M3 Opponent2_M2 8
+Opponent2_M3 Opponent2_M3 2
+Opponent2_M3 Opponent2_M4 4
+Opponent2_M3 Opponent2_M5 0
+Opponent2_M3 Opponent2_M6 5
+Opponent2_M3 Opponent2_G1 0
+
+[Opponent2_M4]
+Opponent2_M4 Opponent2_D1 17
+Opponent2_M4 Opponent2_D2 16
+Opponent2_M4 Opponent2_D4 16
+Opponent2_M4 Opponent2_D5 0
+Opponent2_M4 Opponent2_D6 5
+Opponent2_M4 Opponent2_F1 5
+Opponent2_M4 Opponent2_F3 5
+Opponent2_M4 Opponent2_M1 35
+Opponent2_M4 Opponent2_M2 9
+Opponent2_M4 Opponent2_M3 4
+Opponent2_M4 Opponent2_M4 0
+Opponent2_M4 Opponent2_M5 7
+Opponent2_M4 Opponent2_M6 0
+Opponent2_M4 Opponent2_G1 3
+
+[Opponent2_M5]
+Opponent2_M5 Opponent2_D1 5
+Opponent2_M5 Opponent2_D2 4
+Opponent2_M5 Opponent2_D4 2
+Opponent2_M5 Opponent2_D5 0
+Opponent2_M5 Opponent2_D6 1
+Opponent2_M5 Opponent2_F1 0
+Opponent2_M5 Opponent2_F3 0
+Opponent2_M5 Opponent2_M1 4
+Opponent2_M5 Opponent2_M2 3
+Opponent2_M5 Opponent2_M3 1
+Opponent2_M5 Opponent2_M4 8
+Opponent2_M5 Opponent2_M5 0
+Opponent2_M5 Opponent2_M6 2
+Opponent2_M5 Opponent2_G1 0
+
+[Opponent2_M6]
+Opponent2_M6 Opponent2_D1 1
+Opponent2_M6 Opponent2_D2 10
+Opponent2_M6 Opponent2_D4 2
+Opponent2_M6 Opponent2_D5 0
+Opponent2_M6 Opponent2_D6 1
+Opponent2_M6 Opponent2_F1 1
+Opponent2_M6 Opponent2_F3 0
+Opponent2_M6 Opponent2_M1 8
+Opponent2_M6 Opponent2_M2 1
+Opponent2_M6 Opponent2_M3 1
+Opponent2_M6 Opponent2_M4 0
+Opponent2_M6 Opponent2_M5 3
+Opponent2_M6 Opponent2_M6 0
+Opponent2_M6 Opponent2_G1 1
+
+[Opponent2_G1]
+Opponent2_G1 Opponent2_D1 0
+Opponent2_G1 Opponent2_D2 10
+Opponent2_G1 Opponent2_D4 4
+Opponent2_G1 Opponent2_D5 0
+Opponent2_G1 Opponent2_D6 3
+Opponent2_G1 Opponent2_F1 0
+Opponent2_G1 Opponent2_F3 1
+Opponent2_G1 Opponent2_M1 2
+Opponent2_G1 Opponent2_M2 2
+Opponent2_G1 Opponent2_M3 0
+Opponent2_G1 Opponent2_M4 2
+Opponent2_G1 Opponent2_M5 0
+Opponent2_G1 Opponent2_M6 1
+Opponent2_G1 Opponent2_G1 0
+
+

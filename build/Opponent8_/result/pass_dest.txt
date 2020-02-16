@@ -1,0 +1,454 @@
+[8]
+14
+[Opponent8_D1]
+Opponent8_D1 Opponent8_D1 0
+Opponent8_D1 Opponent8_D2 2
+Opponent8_D1 Opponent8_D3 0
+Opponent8_D1 Opponent8_D4 0
+Opponent8_D1 Opponent8_D5 1
+Opponent8_D1 Opponent8_F1 1
+Opponent8_D1 Opponent8_F2 0
+Opponent8_D1 Opponent8_F3 0
+Opponent8_D1 Opponent8_M1 4
+Opponent8_D1 Opponent8_M2 7
+Opponent8_D1 Opponent8_M3 7
+Opponent8_D1 Opponent8_M4 0
+Opponent8_D1 Opponent8_M5 7
+Opponent8_D1 Opponent8_G1 2
+
+[Opponent8_D2]
+Opponent8_D2 Opponent8_D1 4
+Opponent8_D2 Opponent8_D2 0
+Opponent8_D2 Opponent8_D3 4
+Opponent8_D2 Opponent8_D4 0
+Opponent8_D2 Opponent8_D5 0
+Opponent8_D2 Opponent8_F1 0
+Opponent8_D2 Opponent8_F2 0
+Opponent8_D2 Opponent8_F3 0
+Opponent8_D2 Opponent8_M1 3
+Opponent8_D2 Opponent8_M2 0
+Opponent8_D2 Opponent8_M3 1
+Opponent8_D2 Opponent8_M4 0
+Opponent8_D2 Opponent8_M5 1
+Opponent8_D2 Opponent8_G1 0
+
+[Opponent8_D3]
+Opponent8_D3 Opponent8_D1 0
+Opponent8_D3 Opponent8_D2 6
+Opponent8_D3 Opponent8_D3 0
+Opponent8_D3 Opponent8_D4 6
+Opponent8_D3 Opponent8_D5 0
+Opponent8_D3 Opponent8_F1 1
+Opponent8_D3 Opponent8_F2 1
+Opponent8_D3 Opponent8_F3 0
+Opponent8_D3 Opponent8_M1 8
+Opponent8_D3 Opponent8_M2 0
+Opponent8_D3 Opponent8_M3 5
+Opponent8_D3 Opponent8_M4 2
+Opponent8_D3 Opponent8_M5 2
+Opponent8_D3 Opponent8_G1 3
+
+[Opponent8_D4]
+Opponent8_D4 Opponent8_D1 0
+Opponent8_D4 Opponent8_D2 0
+Opponent8_D4 Opponent8_D3 8
+Opponent8_D4 Opponent8_D4 0
+Opponent8_D4 Opponent8_D5 0
+Opponent8_D4 Opponent8_F1 0
+Opponent8_D4 Opponent8_F2 2
+Opponent8_D4 Opponent8_F3 0
+Opponent8_D4 Opponent8_M1 2
+Opponent8_D4 Opponent8_M2 1
+Opponent8_D4 Opponent8_M3 2
+Opponent8_D4 Opponent8_M4 3
+Opponent8_D4 Opponent8_M5 0
+Opponent8_D4 Opponent8_G1 2
+
+[Opponent8_D5]
+Opponent8_D5 Opponent8_D1 2
+Opponent8_D5 Opponent8_D2 0
+Opponent8_D5 Opponent8_D3 0
+Opponent8_D5 Opponent8_D4 0
+Opponent8_D5 Opponent8_D5 0
+Opponent8_D5 Opponent8_F1 0
+Opponent8_D5 Opponent8_F2 0
+Opponent8_D5 Opponent8_F3 0
+Opponent8_D5 Opponent8_M1 0
+Opponent8_D5 Opponent8_M2 0
+Opponent8_D5 Opponent8_M3 0
+Opponent8_D5 Opponent8_M4 0
+Opponent8_D5 Opponent8_M5 0
+Opponent8_D5 Opponent8_G1 0
+
+[Opponent8_F1]
+Opponent8_F1 Opponent8_D1 0
+Opponent8_F1 Opponent8_D2 1
+Opponent8_F1 Opponent8_D3 4
+Opponent8_F1 Opponent8_D4 1
+Opponent8_F1 Opponent8_D5 0
+Opponent8_F1 Opponent8_F1 0
+Opponent8_F1 Opponent8_F2 0
+Opponent8_F1 Opponent8_F3 0
+Opponent8_F1 Opponent8_M1 4
+Opponent8_F1 Opponent8_M2 2
+Opponent8_F1 Opponent8_M3 2
+Opponent8_F1 Opponent8_M4 1
+Opponent8_F1 Opponent8_M5 4
+Opponent8_F1 Opponent8_G1 7
+
+[Opponent8_F2]
+Opponent8_F2 Opponent8_D1 1
+Opponent8_F2 Opponent8_D2 0
+Opponent8_F2 Opponent8_D3 0
+Opponent8_F2 Opponent8_D4 0
+Opponent8_F2 Opponent8_D5 0
+Opponent8_F2 Opponent8_F1 0
+Opponent8_F2 Opponent8_F2 0
+Opponent8_F2 Opponent8_F3 1
+Opponent8_F2 Opponent8_M1 0
+Opponent8_F2 Opponent8_M2 1
+Opponent8_F2 Opponent8_M3 1
+Opponent8_F2 Opponent8_M4 0
+Opponent8_F2 Opponent8_M5 0
+Opponent8_F2 Opponent8_G1 0
+
+[Opponent8_F3]
+Opponent8_F3 Opponent8_D1 1
+Opponent8_F3 Opponent8_D2 0
+Opponent8_F3 Opponent8_D3 0
+Opponent8_F3 Opponent8_D4 0
+Opponent8_F3 Opponent8_D5 0
+Opponent8_F3 Opponent8_F1 0
+Opponent8_F3 Opponent8_F2 0
+Opponent8_F3 Opponent8_F3 1
+Opponent8_F3 Opponent8_M1 0
+Opponent8_F3 Opponent8_M2 1
+Opponent8_F3 Opponent8_M3 1
+Opponent8_F3 Opponent8_M4 0
+Opponent8_F3 Opponent8_M5 0
+Opponent8_F3 Opponent8_G1 0
+
+[Opponent8_M1]
+Opponent8_M1 Opponent8_D1 1
+Opponent8_M1 Opponent8_D2 1
+Opponent8_M1 Opponent8_D3 6
+Opponent8_M1 Opponent8_D4 2
+Opponent8_M1 Opponent8_D5 0
+Opponent8_M1 Opponent8_F1 2
+Opponent8_M1 Opponent8_F2 1
+Opponent8_M1 Opponent8_F3 0
+Opponent8_M1 Opponent8_M1 1
+Opponent8_M1 Opponent8_M2 2
+Opponent8_M1 Opponent8_M3 1
+Opponent8_M1 Opponent8_M4 6
+Opponent8_M1 Opponent8_M5 3
+Opponent8_M1 Opponent8_G1 0
+
+[Opponent8_M2]
+Opponent8_M2 Opponent8_D1 5
+Opponent8_M2 Opponent8_D2 0
+Opponent8_M2 Opponent8_D3 1
+Opponent8_M2 Opponent8_D4 5
+Opponent8_M2 Opponent8_D5 1
+Opponent8_M2 Opponent8_F1 3
+Opponent8_M2 Opponent8_F2 0
+Opponent8_M2 Opponent8_F3 0
+Opponent8_M2 Opponent8_M1 4
+Opponent8_M2 Opponent8_M2 0
+Opponent8_M2 Opponent8_M3 3
+Opponent8_M2 Opponent8_M4 2
+Opponent8_M2 Opponent8_M5 6
+Opponent8_M2 Opponent8_G1 1
+
+[Opponent8_M3]
+Opponent8_M3 Opponent8_D1 6
+Opponent8_M3 Opponent8_D2 2
+Opponent8_M3 Opponent8_D3 2
+Opponent8_M3 Opponent8_D4 1
+Opponent8_M3 Opponent8_D5 0
+Opponent8_M3 Opponent8_F1 1
+Opponent8_M3 Opponent8_F2 2
+Opponent8_M3 Opponent8_F3 0
+Opponent8_M3 Opponent8_M1 3
+Opponent8_M3 Opponent8_M2 1
+Opponent8_M3 Opponent8_M3 0
+Opponent8_M3 Opponent8_M4 3
+Opponent8_M3 Opponent8_M5 4
+Opponent8_M3 Opponent8_G1 0
+
+[Opponent8_M4]
+Opponent8_M4 Opponent8_D1 0
+Opponent8_M4 Opponent8_D2 1
+Opponent8_M4 Opponent8_D3 3
+Opponent8_M4 Opponent8_D4 7
+Opponent8_M4 Opponent8_D5 0
+Opponent8_M4 Opponent8_F1 3
+Opponent8_M4 Opponent8_F2 0
+Opponent8_M4 Opponent8_F3 0
+Opponent8_M4 Opponent8_M1 3
+Opponent8_M4 Opponent8_M2 4
+Opponent8_M4 Opponent8_M3 0
+Opponent8_M4 Opponent8_M4 1
+Opponent8_M4 Opponent8_M5 0
+Opponent8_M4 Opponent8_G1 1
+
+[Opponent8_M5]
+Opponent8_M5 Opponent8_D1 6
+Opponent8_M5 Opponent8_D2 2
+Opponent8_M5 Opponent8_D3 0
+Opponent8_M5 Opponent8_D4 1
+Opponent8_M5 Opponent8_D5 0
+Opponent8_M5 Opponent8_F1 2
+Opponent8_M5 Opponent8_F2 1
+Opponent8_M5 Opponent8_F3 1
+Opponent8_M5 Opponent8_M1 2
+Opponent8_M5 Opponent8_M2 2
+Opponent8_M5 Opponent8_M3 6
+Opponent8_M5 Opponent8_M4 0
+Opponent8_M5 Opponent8_M5 0
+Opponent8_M5 Opponent8_G1 1
+
+[Opponent8_G1]
+Opponent8_G1 Opponent8_D1 4
+Opponent8_G1 Opponent8_D2 4
+Opponent8_G1 Opponent8_D3 6
+Opponent8_G1 Opponent8_D4 0
+Opponent8_G1 Opponent8_D5 0
+Opponent8_G1 Opponent8_F1 0
+Opponent8_G1 Opponent8_F2 0
+Opponent8_G1 Opponent8_F3 0
+Opponent8_G1 Opponent8_M1 0
+Opponent8_G1 Opponent8_M2 0
+Opponent8_G1 Opponent8_M3 0
+Opponent8_G1 Opponent8_M4 0
+Opponent8_G1 Opponent8_M5 0
+Opponent8_G1 Opponent8_G1 0
+
+
+[30]
+14
+[Opponent8_D2]
+Opponent8_D2 Opponent8_D2 0
+Opponent8_D2 Opponent8_D3 3
+Opponent8_D2 Opponent8_D4 0
+Opponent8_D2 Opponent8_D6 0
+Opponent8_D2 Opponent8_D7 2
+Opponent8_D2 Opponent8_F1 0
+Opponent8_D2 Opponent8_F2 0
+Opponent8_D2 Opponent8_F4 0
+Opponent8_D2 Opponent8_F5 0
+Opponent8_D2 Opponent8_M1 0
+Opponent8_D2 Opponent8_M2 3
+Opponent8_D2 Opponent8_M5 0
+Opponent8_D2 Opponent8_M6 3
+Opponent8_D2 Opponent8_G1 2
+
+[Opponent8_D3]
+Opponent8_D3 Opponent8_D2 0
+Opponent8_D3 Opponent8_D3 0
+Opponent8_D3 Opponent8_D4 0
+Opponent8_D3 Opponent8_D6 4
+Opponent8_D3 Opponent8_D7 0
+Opponent8_D3 Opponent8_F1 0
+Opponent8_D3 Opponent8_F2 0
+Opponent8_D3 Opponent8_F4 0
+Opponent8_D3 Opponent8_F5 0
+Opponent8_D3 Opponent8_M1 3
+Opponent8_D3 Opponent8_M2 2
+Opponent8_D3 Opponent8_M5 1
+Opponent8_D3 Opponent8_M6 1
+Opponent8_D3 Opponent8_G1 1
+
+[Opponent8_D4]
+Opponent8_D4 Opponent8_D2 0
+Opponent8_D4 Opponent8_D3 0
+Opponent8_D4 Opponent8_D4 0
+Opponent8_D4 Opponent8_D6 0
+Opponent8_D4 Opponent8_D7 0
+Opponent8_D4 Opponent8_F1 0
+Opponent8_D4 Opponent8_F2 0
+Opponent8_D4 Opponent8_F4 0
+Opponent8_D4 Opponent8_F5 0
+Opponent8_D4 Opponent8_M1 0
+Opponent8_D4 Opponent8_M2 2
+Opponent8_D4 Opponent8_M5 0
+Opponent8_D4 Opponent8_M6 0
+Opponent8_D4 Opponent8_G1 0
+
+[Opponent8_D6]
+Opponent8_D6 Opponent8_D2 0
+Opponent8_D6 Opponent8_D3 4
+Opponent8_D6 Opponent8_D4 0
+Opponent8_D6 Opponent8_D6 0
+Opponent8_D6 Opponent8_D7 0
+Opponent8_D6 Opponent8_F1 2
+Opponent8_D6 Opponent8_F2 1
+Opponent8_D6 Opponent8_F4 0
+Opponent8_D6 Opponent8_F5 0
+Opponent8_D6 Opponent8_M1 2
+Opponent8_D6 Opponent8_M2 3
+Opponent8_D6 Opponent8_M5 1
+Opponent8_D6 Opponent8_M6 0
+Opponent8_D6 Opponent8_G1 1
+
+[Opponent8_D7]
+Opponent8_D7 Opponent8_D2 3
+Opponent8_D7 Opponent8_D3 1
+Opponent8_D7 Opponent8_D4 0
+Opponent8_D7 Opponent8_D6 0
+Opponent8_D7 Opponent8_D7 1
+Opponent8_D7 Opponent8_F1 0
+Opponent8_D7 Opponent8_F2 1
+Opponent8_D7 Opponent8_F4 0
+Opponent8_D7 Opponent8_F5 1
+Opponent8_D7 Opponent8_M1 3
+Opponent8_D7 Opponent8_M2 3
+Opponent8_D7 Opponent8_M5 4
+Opponent8_D7 Opponent8_M6 6
+Opponent8_D7 Opponent8_G1 1
+
+[Opponent8_F1]
+Opponent8_F1 Opponent8_D2 0
+Opponent8_F1 Opponent8_D3 0
+Opponent8_F1 Opponent8_D4 0
+Opponent8_F1 Opponent8_D6 1
+Opponent8_F1 Opponent8_D7 0
+Opponent8_F1 Opponent8_F1 0
+Opponent8_F1 Opponent8_F2 1
+Opponent8_F1 Opponent8_F4 0
+Opponent8_F1 Opponent8_F5 0
+Opponent8_F1 Opponent8_M1 3
+Opponent8_F1 Opponent8_M2 2
+Opponent8_F1 Opponent8_M5 2
+Opponent8_F1 Opponent8_M6 0
+Opponent8_F1 Opponent8_G1 1
+
+[Opponent8_F2]
+Opponent8_F2 Opponent8_D2 0
+Opponent8_F2 Opponent8_D3 1
+Opponent8_F2 Opponent8_D4 0
+Opponent8_F2 Opponent8_D6 1
+Opponent8_F2 Opponent8_D7 0
+Opponent8_F2 Opponent8_F1 2
+Opponent8_F2 Opponent8_F2 0
+Opponent8_F2 Opponent8_F4 0
+Opponent8_F2 Opponent8_F5 1
+Opponent8_F2 Opponent8_M1 3
+Opponent8_F2 Opponent8_M2 2
+Opponent8_F2 Opponent8_M5 0
+Opponent8_F2 Opponent8_M6 0
+Opponent8_F2 Opponent8_G1 0
+
+[Opponent8_F4]
+Opponent8_F4 Opponent8_D2 1
+Opponent8_F4 Opponent8_D3 1
+Opponent8_F4 Opponent8_D4 0
+Opponent8_F4 Opponent8_D6 0
+Opponent8_F4 Opponent8_D7 0
+Opponent8_F4 Opponent8_F1 0
+Opponent8_F4 Opponent8_F2 0
+Opponent8_F4 Opponent8_F4 0
+Opponent8_F4 Opponent8_F5 0
+Opponent8_F4 Opponent8_M1 0
+Opponent8_F4 Opponent8_M2 0
+Opponent8_F4 Opponent8_M5 0
+Opponent8_F4 Opponent8_M6 0
+Opponent8_F4 Opponent8_G1 0
+
+[Opponent8_F5]
+Opponent8_F5 Opponent8_D2 0
+Opponent8_F5 Opponent8_D3 0
+Opponent8_F5 Opponent8_D4 0
+Opponent8_F5 Opponent8_D6 0
+Opponent8_F5 Opponent8_D7 0
+Opponent8_F5 Opponent8_F1 0
+Opponent8_F5 Opponent8_F2 0
+Opponent8_F5 Opponent8_F4 0
+Opponent8_F5 Opponent8_F5 1
+Opponent8_F5 Opponent8_M1 0
+Opponent8_F5 Opponent8_M2 1
+Opponent8_F5 Opponent8_M5 0
+Opponent8_F5 Opponent8_M6 0
+Opponent8_F5 Opponent8_G1 0
+
+[Opponent8_M1]
+Opponent8_M1 Opponent8_D2 0
+Opponent8_M1 Opponent8_D3 2
+Opponent8_M1 Opponent8_D4 0
+Opponent8_M1 Opponent8_D6 1
+Opponent8_M1 Opponent8_D7 1
+Opponent8_M1 Opponent8_F1 1
+Opponent8_M1 Opponent8_F2 3
+Opponent8_M1 Opponent8_F4 0
+Opponent8_M1 Opponent8_F5 0
+Opponent8_M1 Opponent8_M1 0
+Opponent8_M1 Opponent8_M2 2
+Opponent8_M1 Opponent8_M5 2
+Opponent8_M1 Opponent8_M6 0
+Opponent8_M1 Opponent8_G1 0
+
+[Opponent8_M2]
+Opponent8_M2 Opponent8_D2 2
+Opponent8_M2 Opponent8_D3 4
+Opponent8_M2 Opponent8_D4 0
+Opponent8_M2 Opponent8_D6 3
+Opponent8_M2 Opponent8_D7 7
+Opponent8_M2 Opponent8_F1 1
+Opponent8_M2 Opponent8_F2 3
+Opponent8_M2 Opponent8_F4 0
+Opponent8_M2 Opponent8_F5 2
+Opponent8_M2 Opponent8_M1 3
+Opponent8_M2 Opponent8_M2 0
+Opponent8_M2 Opponent8_M5 3
+Opponent8_M2 Opponent8_M6 1
+Opponent8_M2 Opponent8_G1 0
+
+[Opponent8_M5]
+Opponent8_M5 Opponent8_D2 1
+Opponent8_M5 Opponent8_D3 0
+Opponent8_M5 Opponent8_D4 0
+Opponent8_M5 Opponent8_D6 0
+Opponent8_M5 Opponent8_D7 3
+Opponent8_M5 Opponent8_F1 1
+Opponent8_M5 Opponent8_F2 2
+Opponent8_M5 Opponent8_F4 0
+Opponent8_M5 Opponent8_F5 0
+Opponent8_M5 Opponent8_M1 1
+Opponent8_M5 Opponent8_M2 4
+Opponent8_M5 Opponent8_M5 0
+Opponent8_M5 Opponent8_M6 1
+Opponent8_M5 Opponent8_G1 2
+
+[Opponent8_M6]
+Opponent8_M6 Opponent8_D2 4
+Opponent8_M6 Opponent8_D3 0
+Opponent8_M6 Opponent8_D4 0
+Opponent8_M6 Opponent8_D6 1
+Opponent8_M6 Opponent8_D7 2
+Opponent8_M6 Opponent8_F1 1
+Opponent8_M6 Opponent8_F2 1
+Opponent8_M6 Opponent8_F4 0
+Opponent8_M6 Opponent8_F5 0
+Opponent8_M6 Opponent8_M1 1
+Opponent8_M6 Opponent8_M2 1
+Opponent8_M6 Opponent8_M5 4
+Opponent8_M6 Opponent8_M6 0
+Opponent8_M6 Opponent8_G1 0
+
+[Opponent8_G1]
+Opponent8_G1 Opponent8_D2 4
+Opponent8_G1 Opponent8_D3 5
+Opponent8_G1 Opponent8_D4 0
+Opponent8_G1 Opponent8_D6 0
+Opponent8_G1 Opponent8_D7 0
+Opponent8_G1 Opponent8_F1 0
+Opponent8_G1 Opponent8_F2 0
+Opponent8_G1 Opponent8_F4 0
+Opponent8_G1 Opponent8_F5 0
+Opponent8_G1 Opponent8_M1 0
+Opponent8_G1 Opponent8_M2 1
+Opponent8_G1 Opponent8_M5 0
+Opponent8_G1 Opponent8_M6 2
+Opponent8_G1 Opponent8_G1 0
+
+

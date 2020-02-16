@@ -1,0 +1,398 @@
+[18]
+14
+[Opponent18_D1]
+Opponent18_D1 Opponent18_D1 0
+Opponent18_D1 Opponent18_D2 1
+Opponent18_D1 Opponent18_D3 2
+Opponent18_D1 Opponent18_D4 10
+Opponent18_D1 Opponent18_F1 0
+Opponent18_D1 Opponent18_F2 0
+Opponent18_D1 Opponent18_F3 0
+Opponent18_D1 Opponent18_M1 2
+Opponent18_D1 Opponent18_M2 3
+Opponent18_D1 Opponent18_M3 0
+Opponent18_D1 Opponent18_M4 5
+Opponent18_D1 Opponent18_M5 2
+Opponent18_D1 Opponent18_M6 1
+Opponent18_D1 Opponent18_G1 2
+
+[Opponent18_D2]
+Opponent18_D2 Opponent18_D1 8
+Opponent18_D2 Opponent18_D2 0
+Opponent18_D2 Opponent18_D3 4
+Opponent18_D2 Opponent18_D4 0
+Opponent18_D2 Opponent18_F1 0
+Opponent18_D2 Opponent18_F2 0
+Opponent18_D2 Opponent18_F3 0
+Opponent18_D2 Opponent18_M1 0
+Opponent18_D2 Opponent18_M2 1
+Opponent18_D2 Opponent18_M3 2
+Opponent18_D2 Opponent18_M4 4
+Opponent18_D2 Opponent18_M5 1
+Opponent18_D2 Opponent18_M6 0
+Opponent18_D2 Opponent18_G1 5
+
+[Opponent18_D3]
+Opponent18_D3 Opponent18_D1 0
+Opponent18_D3 Opponent18_D2 4
+Opponent18_D3 Opponent18_D3 1
+Opponent18_D3 Opponent18_D4 0
+Opponent18_D3 Opponent18_F1 0
+Opponent18_D3 Opponent18_F2 2
+Opponent18_D3 Opponent18_F3 0
+Opponent18_D3 Opponent18_M1 2
+Opponent18_D3 Opponent18_M2 7
+Opponent18_D3 Opponent18_M3 7
+Opponent18_D3 Opponent18_M4 4
+Opponent18_D3 Opponent18_M5 0
+Opponent18_D3 Opponent18_M6 0
+Opponent18_D3 Opponent18_G1 1
+
+[Opponent18_D4]
+Opponent18_D4 Opponent18_D1 2
+Opponent18_D4 Opponent18_D2 0
+Opponent18_D4 Opponent18_D3 0
+Opponent18_D4 Opponent18_D4 0
+Opponent18_D4 Opponent18_F1 0
+Opponent18_D4 Opponent18_F2 0
+Opponent18_D4 Opponent18_F3 3
+Opponent18_D4 Opponent18_M1 7
+Opponent18_D4 Opponent18_M2 1
+Opponent18_D4 Opponent18_M3 0
+Opponent18_D4 Opponent18_M4 9
+Opponent18_D4 Opponent18_M5 6
+Opponent18_D4 Opponent18_M6 0
+Opponent18_D4 Opponent18_G1 0
+
+[Opponent18_F1]
+Opponent18_F1 Opponent18_D1 0
+Opponent18_F1 Opponent18_D2 0
+Opponent18_F1 Opponent18_D3 1
+Opponent18_F1 Opponent18_D4 0
+Opponent18_F1 Opponent18_F1 0
+Opponent18_F1 Opponent18_F2 0
+Opponent18_F1 Opponent18_F3 0
+Opponent18_F1 Opponent18_M1 0
+Opponent18_F1 Opponent18_M2 0
+Opponent18_F1 Opponent18_M3 0
+Opponent18_F1 Opponent18_M4 0
+Opponent18_F1 Opponent18_M5 0
+Opponent18_F1 Opponent18_M6 0
+Opponent18_F1 Opponent18_G1 0
+
+[Opponent18_F2]
+Opponent18_F2 Opponent18_D1 0
+Opponent18_F2 Opponent18_D2 1
+Opponent18_F2 Opponent18_D3 4
+Opponent18_F2 Opponent18_D4 1
+Opponent18_F2 Opponent18_F1 0
+Opponent18_F2 Opponent18_F2 0
+Opponent18_F2 Opponent18_F3 0
+Opponent18_F2 Opponent18_M1 2
+Opponent18_F2 Opponent18_M2 0
+Opponent18_F2 Opponent18_M3 1
+Opponent18_F2 Opponent18_M4 3
+Opponent18_F2 Opponent18_M5 1
+Opponent18_F2 Opponent18_M6 0
+Opponent18_F2 Opponent18_G1 1
+
+[Opponent18_F3]
+Opponent18_F3 Opponent18_D1 1
+Opponent18_F3 Opponent18_D2 0
+Opponent18_F3 Opponent18_D3 0
+Opponent18_F3 Opponent18_D4 2
+Opponent18_F3 Opponent18_F1 0
+Opponent18_F3 Opponent18_F2 0
+Opponent18_F3 Opponent18_F3 0
+Opponent18_F3 Opponent18_M1 0
+Opponent18_F3 Opponent18_M2 0
+Opponent18_F3 Opponent18_M3 0
+Opponent18_F3 Opponent18_M4 4
+Opponent18_F3 Opponent18_M5 0
+Opponent18_F3 Opponent18_M6 2
+Opponent18_F3 Opponent18_G1 0
+
+[Opponent18_M1]
+Opponent18_M1 Opponent18_D1 0
+Opponent18_M1 Opponent18_D2 1
+Opponent18_M1 Opponent18_D3 5
+Opponent18_M1 Opponent18_D4 4
+Opponent18_M1 Opponent18_F1 0
+Opponent18_M1 Opponent18_F2 1
+Opponent18_M1 Opponent18_F3 1
+Opponent18_M1 Opponent18_M1 2
+Opponent18_M1 Opponent18_M2 3
+Opponent18_M1 Opponent18_M3 2
+Opponent18_M1 Opponent18_M4 5
+Opponent18_M1 Opponent18_M5 10
+Opponent18_M1 Opponent18_M6 0
+Opponent18_M1 Opponent18_G1 0
+
+[Opponent18_M2]
+Opponent18_M2 Opponent18_D1 2
+Opponent18_M2 Opponent18_D2 4
+Opponent18_M2 Opponent18_D3 4
+Opponent18_M2 Opponent18_D4 1
+Opponent18_M2 Opponent18_F1 1
+Opponent18_M2 Opponent18_F2 3
+Opponent18_M2 Opponent18_F3 1
+Opponent18_M2 Opponent18_M1 1
+Opponent18_M2 Opponent18_M2 0
+Opponent18_M2 Opponent18_M3 4
+Opponent18_M2 Opponent18_M4 1
+Opponent18_M2 Opponent18_M5 1
+Opponent18_M2 Opponent18_M6 1
+Opponent18_M2 Opponent18_G1 1
+
+[Opponent18_M3]
+Opponent18_M3 Opponent18_D1 0
+Opponent18_M3 Opponent18_D2 6
+Opponent18_M3 Opponent18_D3 11
+Opponent18_M3 Opponent18_D4 0
+Opponent18_M3 Opponent18_F1 0
+Opponent18_M3 Opponent18_F2 4
+Opponent18_M3 Opponent18_F3 0
+Opponent18_M3 Opponent18_M1 2
+Opponent18_M3 Opponent18_M2 7
+Opponent18_M3 Opponent18_M3 0
+Opponent18_M3 Opponent18_M4 1
+Opponent18_M3 Opponent18_M5 0
+Opponent18_M3 Opponent18_M6 1
+Opponent18_M3 Opponent18_G1 0
+
+[Opponent18_M4]
+Opponent18_M4 Opponent18_D1 5
+Opponent18_M4 Opponent18_D2 6
+Opponent18_M4 Opponent18_D3 3
+Opponent18_M4 Opponent18_D4 4
+Opponent18_M4 Opponent18_F1 0
+Opponent18_M4 Opponent18_F2 2
+Opponent18_M4 Opponent18_F3 1
+Opponent18_M4 Opponent18_M1 6
+Opponent18_M4 Opponent18_M2 4
+Opponent18_M4 Opponent18_M3 1
+Opponent18_M4 Opponent18_M4 0
+Opponent18_M4 Opponent18_M5 2
+Opponent18_M4 Opponent18_M6 0
+Opponent18_M4 Opponent18_G1 0
+
+[Opponent18_M5]
+Opponent18_M5 Opponent18_D1 4
+Opponent18_M5 Opponent18_D2 0
+Opponent18_M5 Opponent18_D3 0
+Opponent18_M5 Opponent18_D4 5
+Opponent18_M5 Opponent18_F1 0
+Opponent18_M5 Opponent18_F2 0
+Opponent18_M5 Opponent18_F3 0
+Opponent18_M5 Opponent18_M1 11
+Opponent18_M5 Opponent18_M2 0
+Opponent18_M5 Opponent18_M3 0
+Opponent18_M5 Opponent18_M4 4
+Opponent18_M5 Opponent18_M5 2
+Opponent18_M5 Opponent18_M6 0
+Opponent18_M5 Opponent18_G1 0
+
+[Opponent18_M6]
+Opponent18_M6 Opponent18_D1 0
+Opponent18_M6 Opponent18_D2 0
+Opponent18_M6 Opponent18_D3 0
+Opponent18_M6 Opponent18_D4 0
+Opponent18_M6 Opponent18_F1 0
+Opponent18_M6 Opponent18_F2 0
+Opponent18_M6 Opponent18_F3 1
+Opponent18_M6 Opponent18_M1 0
+Opponent18_M6 Opponent18_M2 2
+Opponent18_M6 Opponent18_M3 0
+Opponent18_M6 Opponent18_M4 2
+Opponent18_M6 Opponent18_M5 0
+Opponent18_M6 Opponent18_M6 0
+Opponent18_M6 Opponent18_G1 0
+
+[Opponent18_G1]
+Opponent18_G1 Opponent18_D1 8
+Opponent18_G1 Opponent18_D2 3
+Opponent18_G1 Opponent18_D3 0
+Opponent18_G1 Opponent18_D4 1
+Opponent18_G1 Opponent18_F1 0
+Opponent18_G1 Opponent18_F2 0
+Opponent18_G1 Opponent18_F3 0
+Opponent18_G1 Opponent18_M1 0
+Opponent18_G1 Opponent18_M2 0
+Opponent18_G1 Opponent18_M3 0
+Opponent18_G1 Opponent18_M4 1
+Opponent18_G1 Opponent18_M5 0
+Opponent18_G1 Opponent18_M6 0
+Opponent18_G1 Opponent18_G1 0
+
+
+[34]
+12
+[Opponent18_D1]
+Opponent18_D1 Opponent18_D1 0
+Opponent18_D1 Opponent18_D2 5
+Opponent18_D1 Opponent18_D3 0
+Opponent18_D1 Opponent18_D4 2
+Opponent18_D1 Opponent18_F2 0
+Opponent18_D1 Opponent18_F3 1
+Opponent18_D1 Opponent18_M1 1
+Opponent18_D1 Opponent18_M3 0
+Opponent18_D1 Opponent18_M5 0
+Opponent18_D1 Opponent18_M7 6
+Opponent18_D1 Opponent18_M8 3
+Opponent18_D1 Opponent18_G1 2
+
+[Opponent18_D2]
+Opponent18_D2 Opponent18_D1 6
+Opponent18_D2 Opponent18_D2 0
+Opponent18_D2 Opponent18_D3 7
+Opponent18_D2 Opponent18_D4 0
+Opponent18_D2 Opponent18_F2 0
+Opponent18_D2 Opponent18_F3 0
+Opponent18_D2 Opponent18_M1 1
+Opponent18_D2 Opponent18_M3 1
+Opponent18_D2 Opponent18_M5 0
+Opponent18_D2 Opponent18_M7 5
+Opponent18_D2 Opponent18_M8 6
+Opponent18_D2 Opponent18_G1 2
+
+[Opponent18_D3]
+Opponent18_D3 Opponent18_D1 1
+Opponent18_D3 Opponent18_D2 4
+Opponent18_D3 Opponent18_D3 1
+Opponent18_D3 Opponent18_D4 0
+Opponent18_D3 Opponent18_F2 0
+Opponent18_D3 Opponent18_F3 5
+Opponent18_D3 Opponent18_M1 1
+Opponent18_D3 Opponent18_M3 7
+Opponent18_D3 Opponent18_M5 4
+Opponent18_D3 Opponent18_M7 14
+Opponent18_D3 Opponent18_M8 2
+Opponent18_D3 Opponent18_G1 2
+
+[Opponent18_D4]
+Opponent18_D4 Opponent18_D1 2
+Opponent18_D4 Opponent18_D2 1
+Opponent18_D4 Opponent18_D3 1
+Opponent18_D4 Opponent18_D4 0
+Opponent18_D4 Opponent18_F2 0
+Opponent18_D4 Opponent18_F3 0
+Opponent18_D4 Opponent18_M1 10
+Opponent18_D4 Opponent18_M3 0
+Opponent18_D4 Opponent18_M5 1
+Opponent18_D4 Opponent18_M7 4
+Opponent18_D4 Opponent18_M8 1
+Opponent18_D4 Opponent18_G1 2
+
+[Opponent18_F2]
+Opponent18_F2 Opponent18_D1 0
+Opponent18_F2 Opponent18_D2 0
+Opponent18_F2 Opponent18_D3 2
+Opponent18_F2 Opponent18_D4 1
+Opponent18_F2 Opponent18_F2 0
+Opponent18_F2 Opponent18_F3 1
+Opponent18_F2 Opponent18_M1 2
+Opponent18_F2 Opponent18_M3 0
+Opponent18_F2 Opponent18_M5 2
+Opponent18_F2 Opponent18_M7 0
+Opponent18_F2 Opponent18_M8 0
+Opponent18_F2 Opponent18_G1 0
+
+[Opponent18_F3]
+Opponent18_F3 Opponent18_D1 1
+Opponent18_F3 Opponent18_D2 0
+Opponent18_F3 Opponent18_D3 3
+Opponent18_F3 Opponent18_D4 2
+Opponent18_F3 Opponent18_F2 0
+Opponent18_F3 Opponent18_F3 0
+Opponent18_F3 Opponent18_M1 8
+Opponent18_F3 Opponent18_M3 3
+Opponent18_F3 Opponent18_M5 1
+Opponent18_F3 Opponent18_M7 2
+Opponent18_F3 Opponent18_M8 1
+Opponent18_F3 Opponent18_G1 2
+
+[Opponent18_M1]
+Opponent18_M1 Opponent18_D1 2
+Opponent18_M1 Opponent18_D2 3
+Opponent18_M1 Opponent18_D3 1
+Opponent18_M1 Opponent18_D4 5
+Opponent18_M1 Opponent18_F2 0
+Opponent18_M1 Opponent18_F3 6
+Opponent18_M1 Opponent18_M1 0
+Opponent18_M1 Opponent18_M3 2
+Opponent18_M1 Opponent18_M5 1
+Opponent18_M1 Opponent18_M7 4
+Opponent18_M1 Opponent18_M8 2
+Opponent18_M1 Opponent18_G1 0
+
+[Opponent18_M3]
+Opponent18_M3 Opponent18_D1 0
+Opponent18_M3 Opponent18_D2 2
+Opponent18_M3 Opponent18_D3 2
+Opponent18_M3 Opponent18_D4 0
+Opponent18_M3 Opponent18_F2 0
+Opponent18_M3 Opponent18_F3 0
+Opponent18_M3 Opponent18_M1 1
+Opponent18_M3 Opponent18_M3 0
+Opponent18_M3 Opponent18_M5 0
+Opponent18_M3 Opponent18_M7 3
+Opponent18_M3 Opponent18_M8 2
+Opponent18_M3 Opponent18_G1 0
+
+[Opponent18_M5]
+Opponent18_M5 Opponent18_D1 0
+Opponent18_M5 Opponent18_D2 3
+Opponent18_M5 Opponent18_D3 2
+Opponent18_M5 Opponent18_D4 0
+Opponent18_M5 Opponent18_F2 2
+Opponent18_M5 Opponent18_F3 1
+Opponent18_M5 Opponent18_M1 0
+Opponent18_M5 Opponent18_M3 0
+Opponent18_M5 Opponent18_M5 1
+Opponent18_M5 Opponent18_M7 1
+Opponent18_M5 Opponent18_M8 3
+Opponent18_M5 Opponent18_G1 0
+
+[Opponent18_M7]
+Opponent18_M7 Opponent18_D1 6
+Opponent18_M7 Opponent18_D2 3
+Opponent18_M7 Opponent18_D3 6
+Opponent18_M7 Opponent18_D4 5
+Opponent18_M7 Opponent18_F2 0
+Opponent18_M7 Opponent18_F3 5
+Opponent18_M7 Opponent18_M1 2
+Opponent18_M7 Opponent18_M3 1
+Opponent18_M7 Opponent18_M5 1
+Opponent18_M7 Opponent18_M7 0
+Opponent18_M7 Opponent18_M8 4
+Opponent18_M7 Opponent18_G1 0
+
+[Opponent18_M8]
+Opponent18_M8 Opponent18_D1 1
+Opponent18_M8 Opponent18_D2 3
+Opponent18_M8 Opponent18_D3 6
+Opponent18_M8 Opponent18_D4 1
+Opponent18_M8 Opponent18_F2 0
+Opponent18_M8 Opponent18_F3 1
+Opponent18_M8 Opponent18_M1 3
+Opponent18_M8 Opponent18_M3 1
+Opponent18_M8 Opponent18_M5 2
+Opponent18_M8 Opponent18_M7 4
+Opponent18_M8 Opponent18_M8 0
+Opponent18_M8 Opponent18_G1 1
+
+[Opponent18_G1]
+Opponent18_G1 Opponent18_D1 4
+Opponent18_G1 Opponent18_D2 0
+Opponent18_G1 Opponent18_D3 3
+Opponent18_G1 Opponent18_D4 0
+Opponent18_G1 Opponent18_F2 0
+Opponent18_G1 Opponent18_F3 0
+Opponent18_G1 Opponent18_M1 0
+Opponent18_G1 Opponent18_M3 0
+Opponent18_G1 Opponent18_M5 0
+Opponent18_G1 Opponent18_M7 2
+Opponent18_G1 Opponent18_M8 0
+Opponent18_G1 Opponent18_G1 0
+
+

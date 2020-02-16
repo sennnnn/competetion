@@ -1,0 +1,454 @@
+[13]
+14
+[Opponent13_D1]
+Opponent13_D1 Opponent13_D1 0
+Opponent13_D1 Opponent13_D2 18
+Opponent13_D1 Opponent13_D3 6
+Opponent13_D1 Opponent13_D4 1
+Opponent13_D1 Opponent13_D5 0
+Opponent13_D1 Opponent13_F1 1
+Opponent13_D1 Opponent13_F2 0
+Opponent13_D1 Opponent13_M1 2
+Opponent13_D1 Opponent13_M2 10
+Opponent13_D1 Opponent13_M3 11
+Opponent13_D1 Opponent13_M4 2
+Opponent13_D1 Opponent13_M5 0
+Opponent13_D1 Opponent13_M6 0
+Opponent13_D1 Opponent13_G1 4
+
+[Opponent13_D2]
+Opponent13_D2 Opponent13_D1 16
+Opponent13_D2 Opponent13_D2 0
+Opponent13_D2 Opponent13_D3 1
+Opponent13_D2 Opponent13_D4 11
+Opponent13_D2 Opponent13_D5 0
+Opponent13_D2 Opponent13_F1 1
+Opponent13_D2 Opponent13_F2 0
+Opponent13_D2 Opponent13_M1 0
+Opponent13_D2 Opponent13_M2 12
+Opponent13_D2 Opponent13_M3 8
+Opponent13_D2 Opponent13_M4 2
+Opponent13_D2 Opponent13_M5 1
+Opponent13_D2 Opponent13_M6 2
+Opponent13_D2 Opponent13_G1 4
+
+[Opponent13_D3]
+Opponent13_D3 Opponent13_D1 14
+Opponent13_D3 Opponent13_D2 5
+Opponent13_D3 Opponent13_D3 1
+Opponent13_D3 Opponent13_D4 0
+Opponent13_D3 Opponent13_D5 1
+Opponent13_D3 Opponent13_F1 2
+Opponent13_D3 Opponent13_F2 0
+Opponent13_D3 Opponent13_M1 5
+Opponent13_D3 Opponent13_M2 11
+Opponent13_D3 Opponent13_M3 9
+Opponent13_D3 Opponent13_M4 10
+Opponent13_D3 Opponent13_M5 2
+Opponent13_D3 Opponent13_M6 1
+Opponent13_D3 Opponent13_G1 2
+
+[Opponent13_D4]
+Opponent13_D4 Opponent13_D1 2
+Opponent13_D4 Opponent13_D2 18
+Opponent13_D4 Opponent13_D3 0
+Opponent13_D4 Opponent13_D4 1
+Opponent13_D4 Opponent13_D5 0
+Opponent13_D4 Opponent13_F1 0
+Opponent13_D4 Opponent13_F2 0
+Opponent13_D4 Opponent13_M1 7
+Opponent13_D4 Opponent13_M2 15
+Opponent13_D4 Opponent13_M3 7
+Opponent13_D4 Opponent13_M4 3
+Opponent13_D4 Opponent13_M5 15
+Opponent13_D4 Opponent13_M6 0
+Opponent13_D4 Opponent13_G1 1
+
+[Opponent13_D5]
+Opponent13_D5 Opponent13_D1 0
+Opponent13_D5 Opponent13_D2 0
+Opponent13_D5 Opponent13_D3 0
+Opponent13_D5 Opponent13_D4 0
+Opponent13_D5 Opponent13_D5 0
+Opponent13_D5 Opponent13_F1 0
+Opponent13_D5 Opponent13_F2 0
+Opponent13_D5 Opponent13_M1 0
+Opponent13_D5 Opponent13_M2 0
+Opponent13_D5 Opponent13_M3 0
+Opponent13_D5 Opponent13_M4 0
+Opponent13_D5 Opponent13_M5 0
+Opponent13_D5 Opponent13_M6 1
+Opponent13_D5 Opponent13_G1 0
+
+[Opponent13_F1]
+Opponent13_F1 Opponent13_D1 0
+Opponent13_F1 Opponent13_D2 2
+Opponent13_F1 Opponent13_D3 2
+Opponent13_F1 Opponent13_D4 4
+Opponent13_F1 Opponent13_D5 0
+Opponent13_F1 Opponent13_F1 0
+Opponent13_F1 Opponent13_F2 0
+Opponent13_F1 Opponent13_M1 2
+Opponent13_F1 Opponent13_M2 3
+Opponent13_F1 Opponent13_M3 0
+Opponent13_F1 Opponent13_M4 1
+Opponent13_F1 Opponent13_M5 3
+Opponent13_F1 Opponent13_M6 0
+Opponent13_F1 Opponent13_G1 0
+
+[Opponent13_F2]
+Opponent13_F2 Opponent13_D1 0
+Opponent13_F2 Opponent13_D2 0
+Opponent13_F2 Opponent13_D3 0
+Opponent13_F2 Opponent13_D4 0
+Opponent13_F2 Opponent13_D5 0
+Opponent13_F2 Opponent13_F1 0
+Opponent13_F2 Opponent13_F2 0
+Opponent13_F2 Opponent13_M1 0
+Opponent13_F2 Opponent13_M2 1
+Opponent13_F2 Opponent13_M3 1
+Opponent13_F2 Opponent13_M4 1
+Opponent13_F2 Opponent13_M5 0
+Opponent13_F2 Opponent13_M6 0
+Opponent13_F2 Opponent13_G1 0
+
+[Opponent13_M1]
+Opponent13_M1 Opponent13_D1 1
+Opponent13_M1 Opponent13_D2 1
+Opponent13_M1 Opponent13_D3 2
+Opponent13_M1 Opponent13_D4 5
+Opponent13_M1 Opponent13_D5 0
+Opponent13_M1 Opponent13_F1 1
+Opponent13_M1 Opponent13_F2 0
+Opponent13_M1 Opponent13_M1 0
+Opponent13_M1 Opponent13_M2 2
+Opponent13_M1 Opponent13_M3 4
+Opponent13_M1 Opponent13_M4 3
+Opponent13_M1 Opponent13_M5 4
+Opponent13_M1 Opponent13_M6 0
+Opponent13_M1 Opponent13_G1 0
+
+[Opponent13_M2]
+Opponent13_M2 Opponent13_D1 8
+Opponent13_M2 Opponent13_D2 16
+Opponent13_M2 Opponent13_D3 3
+Opponent13_M2 Opponent13_D4 6
+Opponent13_M2 Opponent13_D5 0
+Opponent13_M2 Opponent13_F1 4
+Opponent13_M2 Opponent13_F2 0
+Opponent13_M2 Opponent13_M1 3
+Opponent13_M2 Opponent13_M2 0
+Opponent13_M2 Opponent13_M3 7
+Opponent13_M2 Opponent13_M4 3
+Opponent13_M2 Opponent13_M5 9
+Opponent13_M2 Opponent13_M6 2
+Opponent13_M2 Opponent13_G1 0
+
+[Opponent13_M3]
+Opponent13_M3 Opponent13_D1 8
+Opponent13_M3 Opponent13_D2 4
+Opponent13_M3 Opponent13_D3 6
+Opponent13_M3 Opponent13_D4 5
+Opponent13_M3 Opponent13_D5 0
+Opponent13_M3 Opponent13_F1 2
+Opponent13_M3 Opponent13_F2 0
+Opponent13_M3 Opponent13_M1 6
+Opponent13_M3 Opponent13_M2 11
+Opponent13_M3 Opponent13_M3 0
+Opponent13_M3 Opponent13_M4 9
+Opponent13_M3 Opponent13_M5 0
+Opponent13_M3 Opponent13_M6 0
+Opponent13_M3 Opponent13_G1 0
+
+[Opponent13_M4]
+Opponent13_M4 Opponent13_D1 3
+Opponent13_M4 Opponent13_D2 0
+Opponent13_M4 Opponent13_D3 16
+Opponent13_M4 Opponent13_D4 6
+Opponent13_M4 Opponent13_D5 0
+Opponent13_M4 Opponent13_F1 2
+Opponent13_M4 Opponent13_F2 1
+Opponent13_M4 Opponent13_M1 3
+Opponent13_M4 Opponent13_M2 4
+Opponent13_M4 Opponent13_M3 9
+Opponent13_M4 Opponent13_M4 0
+Opponent13_M4 Opponent13_M5 1
+Opponent13_M4 Opponent13_M6 1
+Opponent13_M4 Opponent13_G1 0
+
+[Opponent13_M5]
+Opponent13_M5 Opponent13_D1 0
+Opponent13_M5 Opponent13_D2 4
+Opponent13_M5 Opponent13_D3 3
+Opponent13_M5 Opponent13_D4 18
+Opponent13_M5 Opponent13_D5 0
+Opponent13_M5 Opponent13_F1 1
+Opponent13_M5 Opponent13_F2 0
+Opponent13_M5 Opponent13_M1 1
+Opponent13_M5 Opponent13_M2 8
+Opponent13_M5 Opponent13_M3 2
+Opponent13_M5 Opponent13_M4 2
+Opponent13_M5 Opponent13_M5 0
+Opponent13_M5 Opponent13_M6 0
+Opponent13_M5 Opponent13_G1 1
+
+[Opponent13_M6]
+Opponent13_M6 Opponent13_D1 0
+Opponent13_M6 Opponent13_D2 1
+Opponent13_M6 Opponent13_D3 1
+Opponent13_M6 Opponent13_D4 0
+Opponent13_M6 Opponent13_D5 0
+Opponent13_M6 Opponent13_F1 0
+Opponent13_M6 Opponent13_F2 0
+Opponent13_M6 Opponent13_M1 0
+Opponent13_M6 Opponent13_M2 2
+Opponent13_M6 Opponent13_M3 0
+Opponent13_M6 Opponent13_M4 1
+Opponent13_M6 Opponent13_M5 0
+Opponent13_M6 Opponent13_M6 0
+Opponent13_M6 Opponent13_G1 0
+
+[Opponent13_G1]
+Opponent13_G1 Opponent13_D1 4
+Opponent13_G1 Opponent13_D2 4
+Opponent13_G1 Opponent13_D3 0
+Opponent13_G1 Opponent13_D4 1
+Opponent13_G1 Opponent13_D5 1
+Opponent13_G1 Opponent13_F1 0
+Opponent13_G1 Opponent13_F2 0
+Opponent13_G1 Opponent13_M1 0
+Opponent13_G1 Opponent13_M2 1
+Opponent13_G1 Opponent13_M3 0
+Opponent13_G1 Opponent13_M4 0
+Opponent13_G1 Opponent13_M5 1
+Opponent13_G1 Opponent13_M6 0
+Opponent13_G1 Opponent13_G1 0
+
+
+[37]
+14
+[Opponent13_D2]
+Opponent13_D2 Opponent13_D2 0
+Opponent13_D2 Opponent13_D3 1
+Opponent13_D2 Opponent13_D4 2
+Opponent13_D2 Opponent13_D5 8
+Opponent13_D2 Opponent13_D6 2
+Opponent13_D2 Opponent13_F1 1
+Opponent13_D2 Opponent13_F2 0
+Opponent13_D2 Opponent13_M1 1
+Opponent13_D2 Opponent13_M2 3
+Opponent13_D2 Opponent13_M4 0
+Opponent13_D2 Opponent13_M6 0
+Opponent13_D2 Opponent13_M7 2
+Opponent13_D2 Opponent13_M8 1
+Opponent13_D2 Opponent13_G2 1
+
+[Opponent13_D3]
+Opponent13_D3 Opponent13_D2 3
+Opponent13_D3 Opponent13_D3 0
+Opponent13_D3 Opponent13_D4 0
+Opponent13_D3 Opponent13_D5 1
+Opponent13_D3 Opponent13_D6 7
+Opponent13_D3 Opponent13_F1 0
+Opponent13_D3 Opponent13_F2 1
+Opponent13_D3 Opponent13_M1 6
+Opponent13_D3 Opponent13_M2 5
+Opponent13_D3 Opponent13_M4 3
+Opponent13_D3 Opponent13_M6 0
+Opponent13_D3 Opponent13_M7 2
+Opponent13_D3 Opponent13_M8 1
+Opponent13_D3 Opponent13_G2 0
+
+[Opponent13_D4]
+Opponent13_D4 Opponent13_D2 4
+Opponent13_D4 Opponent13_D3 0
+Opponent13_D4 Opponent13_D4 0
+Opponent13_D4 Opponent13_D5 0
+Opponent13_D4 Opponent13_D6 0
+Opponent13_D4 Opponent13_F1 2
+Opponent13_D4 Opponent13_F2 0
+Opponent13_D4 Opponent13_M1 1
+Opponent13_D4 Opponent13_M2 7
+Opponent13_D4 Opponent13_M4 0
+Opponent13_D4 Opponent13_M6 2
+Opponent13_D4 Opponent13_M7 2
+Opponent13_D4 Opponent13_M8 3
+Opponent13_D4 Opponent13_G2 1
+
+[Opponent13_D5]
+Opponent13_D5 Opponent13_D2 3
+Opponent13_D5 Opponent13_D3 0
+Opponent13_D5 Opponent13_D4 1
+Opponent13_D5 Opponent13_D5 0
+Opponent13_D5 Opponent13_D6 1
+Opponent13_D5 Opponent13_F1 0
+Opponent13_D5 Opponent13_F2 0
+Opponent13_D5 Opponent13_M1 1
+Opponent13_D5 Opponent13_M2 5
+Opponent13_D5 Opponent13_M4 0
+Opponent13_D5 Opponent13_M6 0
+Opponent13_D5 Opponent13_M7 4
+Opponent13_D5 Opponent13_M8 0
+Opponent13_D5 Opponent13_G2 0
+
+[Opponent13_D6]
+Opponent13_D6 Opponent13_D2 5
+Opponent13_D6 Opponent13_D3 6
+Opponent13_D6 Opponent13_D4 0
+Opponent13_D6 Opponent13_D5 6
+Opponent13_D6 Opponent13_D6 0
+Opponent13_D6 Opponent13_F1 0
+Opponent13_D6 Opponent13_F2 0
+Opponent13_D6 Opponent13_M1 2
+Opponent13_D6 Opponent13_M2 5
+Opponent13_D6 Opponent13_M4 1
+Opponent13_D6 Opponent13_M6 1
+Opponent13_D6 Opponent13_M7 3
+Opponent13_D6 Opponent13_M8 0
+Opponent13_D6 Opponent13_G2 0
+
+[Opponent13_F1]
+Opponent13_F1 Opponent13_D2 1
+Opponent13_F1 Opponent13_D3 5
+Opponent13_F1 Opponent13_D4 2
+Opponent13_F1 Opponent13_D5 0
+Opponent13_F1 Opponent13_D6 0
+Opponent13_F1 Opponent13_F1 0
+Opponent13_F1 Opponent13_F2 0
+Opponent13_F1 Opponent13_M1 0
+Opponent13_F1 Opponent13_M2 3
+Opponent13_F1 Opponent13_M4 0
+Opponent13_F1 Opponent13_M6 1
+Opponent13_F1 Opponent13_M7 1
+Opponent13_F1 Opponent13_M8 0
+Opponent13_F1 Opponent13_G2 1
+
+[Opponent13_F2]
+Opponent13_F2 Opponent13_D2 1
+Opponent13_F2 Opponent13_D3 0
+Opponent13_F2 Opponent13_D4 0
+Opponent13_F2 Opponent13_D5 0
+Opponent13_F2 Opponent13_D6 0
+Opponent13_F2 Opponent13_F1 0
+Opponent13_F2 Opponent13_F2 0
+Opponent13_F2 Opponent13_M1 0
+Opponent13_F2 Opponent13_M2 0
+Opponent13_F2 Opponent13_M4 1
+Opponent13_F2 Opponent13_M6 0
+Opponent13_F2 Opponent13_M7 0
+Opponent13_F2 Opponent13_M8 0
+Opponent13_F2 Opponent13_G2 1
+
+[Opponent13_M1]
+Opponent13_M1 Opponent13_D2 0
+Opponent13_M1 Opponent13_D3 4
+Opponent13_M1 Opponent13_D4 1
+Opponent13_M1 Opponent13_D5 0
+Opponent13_M1 Opponent13_D6 6
+Opponent13_M1 Opponent13_F1 2
+Opponent13_M1 Opponent13_F2 0
+Opponent13_M1 Opponent13_M1 0
+Opponent13_M1 Opponent13_M2 4
+Opponent13_M1 Opponent13_M4 0
+Opponent13_M1 Opponent13_M6 1
+Opponent13_M1 Opponent13_M7 4
+Opponent13_M1 Opponent13_M8 0
+Opponent13_M1 Opponent13_G2 0
+
+[Opponent13_M2]
+Opponent13_M2 Opponent13_D2 4
+Opponent13_M2 Opponent13_D3 4
+Opponent13_M2 Opponent13_D4 8
+Opponent13_M2 Opponent13_D5 1
+Opponent13_M2 Opponent13_D6 4
+Opponent13_M2 Opponent13_F1 1
+Opponent13_M2 Opponent13_F2 0
+Opponent13_M2 Opponent13_M1 2
+Opponent13_M2 Opponent13_M2 0
+Opponent13_M2 Opponent13_M4 1
+Opponent13_M2 Opponent13_M6 3
+Opponent13_M2 Opponent13_M7 7
+Opponent13_M2 Opponent13_M8 1
+Opponent13_M2 Opponent13_G2 0
+
+[Opponent13_M4]
+Opponent13_M4 Opponent13_D2 0
+Opponent13_M4 Opponent13_D3 3
+Opponent13_M4 Opponent13_D4 0
+Opponent13_M4 Opponent13_D5 0
+Opponent13_M4 Opponent13_D6 0
+Opponent13_M4 Opponent13_F1 0
+Opponent13_M4 Opponent13_F2 0
+Opponent13_M4 Opponent13_M1 0
+Opponent13_M4 Opponent13_M2 1
+Opponent13_M4 Opponent13_M4 0
+Opponent13_M4 Opponent13_M6 0
+Opponent13_M4 Opponent13_M7 1
+Opponent13_M4 Opponent13_M8 0
+Opponent13_M4 Opponent13_G2 0
+
+[Opponent13_M6]
+Opponent13_M6 Opponent13_D2 4
+Opponent13_M6 Opponent13_D3 0
+Opponent13_M6 Opponent13_D4 1
+Opponent13_M6 Opponent13_D5 3
+Opponent13_M6 Opponent13_D6 1
+Opponent13_M6 Opponent13_F1 0
+Opponent13_M6 Opponent13_F2 0
+Opponent13_M6 Opponent13_M1 2
+Opponent13_M6 Opponent13_M2 2
+Opponent13_M6 Opponent13_M4 0
+Opponent13_M6 Opponent13_M6 0
+Opponent13_M6 Opponent13_M7 1
+Opponent13_M6 Opponent13_M8 0
+Opponent13_M6 Opponent13_G2 0
+
+[Opponent13_M7]
+Opponent13_M7 Opponent13_D2 1
+Opponent13_M7 Opponent13_D3 1
+Opponent13_M7 Opponent13_D4 2
+Opponent13_M7 Opponent13_D5 0
+Opponent13_M7 Opponent13_D6 6
+Opponent13_M7 Opponent13_F1 1
+Opponent13_M7 Opponent13_F2 1
+Opponent13_M7 Opponent13_M1 2
+Opponent13_M7 Opponent13_M2 5
+Opponent13_M7 Opponent13_M4 0
+Opponent13_M7 Opponent13_M6 4
+Opponent13_M7 Opponent13_M7 0
+Opponent13_M7 Opponent13_M8 0
+Opponent13_M7 Opponent13_G2 0
+
+[Opponent13_M8]
+Opponent13_M8 Opponent13_D2 2
+Opponent13_M8 Opponent13_D3 1
+Opponent13_M8 Opponent13_D4 2
+Opponent13_M8 Opponent13_D5 0
+Opponent13_M8 Opponent13_D6 0
+Opponent13_M8 Opponent13_F1 0
+Opponent13_M8 Opponent13_F2 1
+Opponent13_M8 Opponent13_M1 0
+Opponent13_M8 Opponent13_M2 0
+Opponent13_M8 Opponent13_M4 1
+Opponent13_M8 Opponent13_M6 0
+Opponent13_M8 Opponent13_M7 1
+Opponent13_M8 Opponent13_M8 0
+Opponent13_M8 Opponent13_G2 0
+
+[Opponent13_G2]
+Opponent13_G2 Opponent13_D2 0
+Opponent13_G2 Opponent13_D3 0
+Opponent13_G2 Opponent13_D4 0
+Opponent13_G2 Opponent13_D5 1
+Opponent13_G2 Opponent13_D6 2
+Opponent13_G2 Opponent13_F1 0
+Opponent13_G2 Opponent13_F2 0
+Opponent13_G2 Opponent13_M1 0
+Opponent13_G2 Opponent13_M2 0
+Opponent13_G2 Opponent13_M4 0
+Opponent13_G2 Opponent13_M6 0
+Opponent13_G2 Opponent13_M7 0
+Opponent13_G2 Opponent13_M8 1
+Opponent13_G2 Opponent13_G2 0
+
+

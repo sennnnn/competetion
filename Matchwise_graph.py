@@ -135,8 +135,10 @@ for MatchID in MatchID_list:
     M = G.number_of_edges()
 
     edge_colors = [300 for x in edge_info_list]
-    edge_alphas = [0.35 for x in edge_info_list]
+    
+    edge_info_list_one_normal = [1*(x/sum(edge_info_list)) for x in edge_info_list]
 
+    edge_alphas = [0.6*x/max(edge_info_list_one_normal) for x in edge_info_list_one_normal]
 
     nodes = nx.draw_networkx_nodes(G, pos, cmap=plt.cm.Blues , node_size=node_sizes)
     edges = nx.draw_networkx_edges(G, pos, node_size=node_sizes, arrowstyle='->',
