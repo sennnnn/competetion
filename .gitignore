@@ -3,6 +3,8 @@
 __pycache__
 Oppo*
 Husk*
+!Husk*.png
+!Oppo*.png
 
 # file
 try.py

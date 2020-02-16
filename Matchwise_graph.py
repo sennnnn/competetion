@@ -1,5 +1,6 @@
 import os
 import sys
+import math
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
@@ -129,28 +130,27 @@ for MatchID in MatchID_list:
 
     attrc_list = [members_info[members_ID[i]]['attrc'] for i in range(len(members_ID))]
 
-    node_sizes = [300*x/max(attrc_list) for x in attrc_list]
+    node_sizes = [500*x/max(attrc_list) for x in attrc_list]
 
     M = G.number_of_edges()
 
-    edge_colors = [x*5 for x in edge_info_list]
-    # edge_alphas = [(5 + i) / (M + 4) for i in range(M)]
+    edge_colors = [300 for x in edge_info_list]
+    edge_alphas = [0.35 for x in edge_info_list]
 
 
     nodes = nx.draw_networkx_nodes(G, pos, cmap=plt.cm.Blues , node_size=node_sizes)
     edges = nx.draw_networkx_edges(G, pos, node_size=node_sizes, arrowstyle='->',
-                                arrowsize=8, edge_color=edge_colors,
-                                edge_cmap=plt.cm.Blues, width=1)
+                                arrowsize=8, edge_color=edge_colors, width=1)
     labels = nx.draw_networkx_labels(G, pos, {i:members_ID[i].split('_')[1] for i in range(len(members_ID))})
 
     # set alpha value for each edge
-    # for i in range(M):
-        # edges[i].set_alpha(edge_alphas[i])
+    for i in range(M):
+        edges[i].set_alpha(edge_alphas[i])
 
     # pc = mpl.collections.PatchCollection(edges, cmap=plt.cm.Blues)
     # pc.set_array(edge_colors)
     # plt.colorbar(pc)
     ax = plt.gca()
     ax.set_axis_off()
-
-    plt.savefig('build/{}/pic/Match_{}_network.png'.format(team_name, MatchID))
+    # plt.show()
+    plt.savefig('build/{}/pic/Match_{}_network.png'.format(team_name, MatchID), transparent=True)
