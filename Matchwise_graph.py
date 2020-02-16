@@ -9,7 +9,7 @@ import numpy as np
 
 team_name = sys.argv[1]
 
-edge_num = 10
+edge_num = 4
 
 if(team_name == 'all'):
     os.system('python all.py')

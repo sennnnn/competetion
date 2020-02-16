@@ -232,6 +232,8 @@ if(flag_attractive_force_item_per_team_member):
             race_id_2 = info_2['MatchID']
             if(race_id_1 != race_id_2):
                 continue
+            if(info_1['MatchPeriod'] != info_2['MatchPeriod']):
+                continue
             for member in origin_team_members:
                 flag,time = catch_ball_time_calculate(info_1, info_2, member)
                 if(flag and time > 0):
