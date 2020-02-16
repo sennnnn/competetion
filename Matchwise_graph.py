@@ -9,6 +9,17 @@ import numpy as np
 
 team_name = sys.argv[1]
 
+edge_num = 10
+
+if(team_name == 'all'):
+    os.system('python all.py')
+
+team_name_list = ['Husk', 'Oppo', 'Opponent1_', 'Opponent2_', 'Opponent3_', 'Opponent4_', 'Opponent5_', 'Opponent6_', 'Opponent7_', 'Opponent8_', 'Opponent9_', 'Opponent10_', 'Opponent11_', 'Opponent12_', 'Opponent13_', 'Opponent14_', 'Opponent15_', 'Opponent16_', 'Opponent17_', 'Opponent18_', 'Opponent19']
+
+if(team_name not in team_name_list and team_name != 'all'):
+    print('Error,unknown team name.\nTeam name must be one of the list: {}'.format(team_name_list))
+    exit()
+
 result_path = 'result'
 
 f = open('build/{}/{}/Matchwise_attrct_cal.txt'.format(team_name, \
@@ -82,6 +93,9 @@ for MatchID in MatchID_list:
     [f.write('{} {}\n'.format(member, members_info[member]['attrc'])) for member in members_ID]
     f.write('\n')
 
+    #  球员按吸引力排序
+    members_ID = sorted(members_ID, key=lambda x: members_info[x]['attrc'], reverse=True)
+
     # 质心计算
     x_y = [members_info[member]['coordinate'] for member in members_ID]
     weight = [members_info[member]['attrc'] for member in members_ID]
@@ -91,15 +105,11 @@ for MatchID in MatchID_list:
     weight_point = (mixi/M*100, miyi/M*100)
     f_.write('{} {} {}\n'.format(MatchID, *weight_point))
 
-    G = nx.generators.directed.random_k_out_graph(len(members_ID), 3, 0.5)
+    edge_dict = {}
 
-    remove_list = [(x,y) for x,y,i in G.edges]
+    edge_info_dict = {}
 
-    G.remove_edges_from(remove_list)
-
-    edge_list = []
-
-    edge_info_list = []
+    edge_count = 0
 
     while(1):
         line = f_3.readline()
@@ -120,30 +130,58 @@ for MatchID in MatchID_list:
                     number = int(infos[2])
                     if(number == 0 or origin == dest or dest not in members_ID):
                         continue
-                    edge_list.append((members_ID.index(origin), members_ID.index(dest)))
-                    edge_info_list.append(number)
+                    edge_count += 1
+                    edge_dict[edge_count] = (number, (members_ID.index(origin), members_ID.index(dest)))
             break
 
-    G.add_edges_from(edge_list)
+    # 和由边的权重来排序边列表
+    edge_list_weight = [edge_dict[key] for key in edge_dict.keys()] 
+
+    edge_list_weight_sort = sorted(edge_list_weight, key=lambda x: x[0], reverse=True)
+
+    edge_list_sort = [x[1] for x in edge_list_weight_sort]
+
+    edge_info_list = [x[0] for x in edge_list_weight_sort]
+
+    edge_list_sub = edge_list_sort[:edge_num]
+
+    edge_info_list_sub = edge_info_list[:edge_num]
+
+    members_ID_sub_index = []
+    for edge in edge_list_sub:
+        if(edge[0] not in members_ID_sub_index):
+            members_ID_sub_index.append(edge[0])
+        if(edge[1] not in members_ID_sub_index):
+            members_ID_sub_index.append(edge[1])
+    members_ID_sub_index = sorted(members_ID_sub_index, key=lambda x: x)
+    members_ID_sub = [members_ID[x] for x in members_ID_sub_index]
+
+    G = nx.generators.directed.random_k_out_graph(len(members_ID), 3, 0.5)
+
+    remove_list = [(x,y) for x,y,i in G.edges]
+
+    G.remove_edges_from(remove_list)
+
+    G.add_edges_from(edge_list_sub)
 
     pos = {i:np.array(members_info[members_ID[i]]['coordinate']) for i in range(len(members_ID))}
 
     attrc_list = [members_info[members_ID[i]]['attrc'] for i in range(len(members_ID))]
 
-    node_sizes = [500*x/max(attrc_list) for x in attrc_list]
+    node_sizes = [500*attrc_list[i]/max(attrc_list) if(members_ID[i] in members_ID_sub) else 0 for i in range(len(attrc_list))]
 
     M = G.number_of_edges()
 
-    edge_colors = [300 for x in edge_info_list]
+    edge_colors = [300 for x in edge_info_list_sub]
     
-    edge_info_list_one_normal = [1*(x/sum(edge_info_list)) for x in edge_info_list]
+    edge_info_list_one_normal = [1*(x/sum(edge_info_list_sub)) for x in edge_info_list_sub]
 
     edge_alphas = [0.6*x/max(edge_info_list_one_normal) for x in edge_info_list_one_normal]
 
     nodes = nx.draw_networkx_nodes(G, pos, cmap=plt.cm.Blues , node_size=node_sizes)
     edges = nx.draw_networkx_edges(G, pos, node_size=node_sizes, arrowstyle='->',
                                 arrowsize=8, edge_color=edge_colors, width=1)
-    labels = nx.draw_networkx_labels(G, pos, {i:members_ID[i].split('_')[1] for i in range(len(members_ID))})
+    labels = nx.draw_networkx_labels(G, pos, {i:members_ID[i].split('_')[1] if(members_ID[i] in members_ID_sub) else '' for i in range(len(members_ID))})
 
     # set alpha value for each edge
     for i in range(M):
