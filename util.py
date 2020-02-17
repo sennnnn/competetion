@@ -16,7 +16,8 @@ def coordinate_info_extract(file_object, MatchID, info_dict):
             
             return info_dict
 
-def attractive_force_info_extract(file_object, MatchID, info_dict, catch_kind_weight, pass_kind_weight):
+def attractive_force_info_extract(file_object, MatchID, \
+    info_dict, catch_kind_weight, pass_kind_weight):
     line = file_object.readline()
     while(1):
         line = file_object.readline()
@@ -30,9 +31,12 @@ def attractive_force_info_extract(file_object, MatchID, info_dict, catch_kind_we
                 catch_time = float(infos[1])
                 catch_count = int(infos[2])
                 pass_count = int(infos[3])
-                catch_all_type_list = [int(x)*weight for x,weight in zip(infos[4:11], catch_kind_weight)]
-                pass_all_type_list = [int(x)*weight for x,weight in zip(infos[11:], pass_kind_weight)]
-                info_dict[infos[0]]['attrc'] = catch_time/60 + sum(catch_all_type_list) + sum(pass_all_type_list)
+                catch_all_type_list = \
+                [int(x)*weight for x,weight in zip(infos[4:11], catch_kind_weight)]
+                pass_all_type_list = \
+                [int(x)*weight for x,weight in zip(infos[11:], pass_kind_weight)]
+                info_dict[infos[0]]['attrc'] = \
+                catch_time/60 + sum(catch_all_type_list) + sum(pass_all_type_list)
             
             return info_dict
 
@@ -300,13 +304,16 @@ def cooperation_detect(info_1, info_2):
     time_stamp_1 = float(info_1['EventTime'])
     time_stamp_2 = float(info_2['EventTime'])
     # judge between the first pass and the second pass 
-    if((time_stamp_2-time_stamp_1) > 5 or (time_stamp_2-time_stamp_1) < 0):
+    if((time_stamp_2-time_stamp_1) > 5 \
+        or (time_stamp_2-time_stamp_1) < 0):
         return players, False
     else:
-        if(team_key_word_extract(Origin_1) != team_key_word_extract(Origin_2)):
+        if(Origin_1[:4] != Origin_2[:4]):
             return players, False
         else:
-            if(Dest_1 != Origin_2 or Origin_1 == Dest_1 or Origin_2 == Dest_2):
+            if(Dest_1 != Origin_2 or \
+               Origin_1 == Dest_1 or \
+               Origin_2 == Dest_2):
                 return players, False
             else:
                 players.append(Origin_1)

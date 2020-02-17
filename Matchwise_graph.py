@@ -86,9 +86,17 @@ for MatchID in MatchID_list:
     #===================================================================#
 
     #===================== node disperation calculation ===================#
-    node_distance_list = [distance((members_info[members_ID[i]]['coordinate'][0]*100, members_info[members_ID[i]]['coordinate'][1]*100), weight_point) for i in range(len(members_ID))]
+    node_distance_list = []
+    for i in range(len(members_ID)):
+        x = members_info[members_ID[i]]['coordinate'][0]*100
+        y = members_info[members_ID[i]]['coordinate'][1]*100
+        temp = distance((x,y), weight_point)
+        node_distance_list.append(temp)
+    
+    avg = average(node_distance_list)
 
-    S = math.sqrt(sum([(x - average(node_distance_list))**2 for x in node_distance_list])/len(node_distance_list))
+    S = [(x - avg)**2 for x in node_distance_list]
+    S = math.sqrt(sum(S)/len(node_distance_list))
     #=======================================================================#
 
     f_ex.write('{} {} '.format(MatchID, S))
@@ -101,7 +109,16 @@ for MatchID in MatchID_list:
     #===================== weighted average length calculation ===================#
     edge_weight = [y[0] for x,y in edge_dict.items()]
     edge_point = [(y[1][0],y[1][1]) for x,y in edge_dict.items()]
-    weighted_average_length = sum([w/max(edge_weight)*distance(members_info[members_ID[p[0]]]['coordinate'], members_info[members_ID[p[1]]]['coordinate']) for w,p in zip(edge_weight, edge_point)])
+    sum_weight = sum(edge_weight)
+    weighted_average_length = []
+    for w,p in zip(edge_weight, edge_point):
+        member_1 = members_ID[p[0]]
+        member_2 = members_ID[p[1]]
+        point_1 = members_info[member_1]['coordinate']
+        point_2 = members_info[member_2]['coordinate']
+        dis_point_1_2 = distance(point_1, point_2)
+        weighted_average_length.append(2/sum_weight*dis_point_1_2)
+    weighted_average_length = sum(weighted_average_length)
 
     f_ex.write('{} '.format(weighted_average_length))
     #==============================================================================#

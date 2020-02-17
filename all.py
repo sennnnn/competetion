@@ -5,4 +5,4 @@ team_name = ['Husk', 'Oppo', 'Opponent1_', 'Opponent2_', 'Opponent3_', 'Opponent
 
 for one in team_name:
     os.system('python pass_event_analyse.py {} --cp --pass_memberwise --attractive --coordinate'.format(one))
-    # os.system('python Matchwise_graph.py {}'.format(one))
+    os.system('python Matchwise_graph.py {}'.format(one))
