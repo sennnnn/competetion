@@ -7,13 +7,13 @@
 ``` python
 python pass_event_analyse.py [可选]
 可选项中有：  
---coop_pass 获取 [team_name]_cooperation&pass_count.txt
+--cp 获取 [team_name]_cooperation&pass_count.txt
 
---pass_ori_dst_pm 获取 [team_name]_pass_dest.txt [team_name]_pass_origin.txt
+--pass_memberwise 获取 [team_name]_pass_dest.txt [team_name]_pass_origin.txt
 
---attrc_force_item_pm 获取 [team_name]_attractive_force_item.txt
+--attractive 获取 [team_name]_attractive_force_item.txt
 
---coordinate_per_op 获取 [team_name]_coordinate_origin_dest_avg.txt
+--coordinate 获取 [team_name]_coordinate_origin_dest_avg.txt
 ```
 
 获得 result 路径下的文件，目前可获得的文件有：  
@@ -31,6 +31,6 @@ python pass_event_analyse.py [可选]
 首先执行：  
 
 ``` python
-python pass_event_analyse.py --coop_pass --pass_ori_dst_pm --attrc_force_item_pm --coordinate_per_op
+python pass_event_analyse.py --cp --pass_memberwise --attractive --coordinate
 python Matchwise_graph.py
 ```

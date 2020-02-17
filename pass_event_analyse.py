@@ -16,29 +16,44 @@ all_info = list(csv_file)
 
 team_name = sys.argv[1]
 
+team_list = ['Husk', 'Oppo', 'Opponent1_', 'Opponent2_', 'Opponent3_', 'Opponent4_', \
+             'Opponent5_', 'Opponent6_', 'Opponent7_', 'Opponent8_', 'Opponent9_', \
+             'Opponent10_', 'Opponent11_', 'Opponent12_', 'Opponent13_', 'Opponent14_', \
+             'Opponent15_', 'Opponent16_', 'Opponent17_', 'Opponent18_', 'Opponent19']
+
+# team_name must be one of the team list
+assert team_name in team_list, "Error,the first command line arg must be team name and the team name must be \
+one of the {}".format(team_name, team_list)
+
+# txt output file save path.
 result_path = 'result'
 
+# The save path of all generated file 
 if(not os.path.exists(os.path.join('build', team_name, result_path))):
     os.makedirs(os.path.join('build', team_name, result_path), 0x777)
 
-# 总共有这么些数据项目
+# data item list
 # ['MatchID', 'TeamID', 'OriginPlayerID', 'DestinationPlayerID', 'MatchPeriod', 'EventTime', \
 # 'EventSubType', 'EventOrigin_x', 'EventOrigin_y', 'EventDestination_x', 'EventDestination_y']
 
 all_info = csv_process(all_info)
 
+# Get informations of the selected teamw.
 teamwise_all_info = teamwise_info_get(all_info, team_name)
 
+# Get the match ID that the team has attended.
 MatchID_list = MatchID_list_get(teamwise_all_info)
 
+# Get single match information of the selected team.
 Matchwise_all_info = Matchwise_all_info_get(teamwise_all_info)
 
+# Parse the command line args.
 sys_args = sys.argv[2:]
 
-flag_cooperation_pass = True if('--coop_pass' in sys_args) else False
-flag_pass_origin_dest_per_team_member = True if('--pass_ori_dst_pm' in sys_args) else False
-flag_attractive_force_item_per_team_member = True if('--attrc_force_item_pm' in sys_args) else False
-flag_event_coordinate_per_player = True if('--coordinate_per_op' in sys_args) else False
+flag_cooperation_pass = True if('--cp' in sys_args) else False
+flag_pass_origin_dest_per_team_member = True if('--pass_memberwise' in sys_args) else False
+flag_attractive_force_item_per_team_member = True if('--attractive' in sys_args) else False
+flag_event_coordinate_per_player = True if('--coordinate' in sys_args) else False
 
 # 队伍综合能力
 # 队伍传球能力：每一场传球次数
@@ -80,7 +95,7 @@ if(flag_cooperation_pass):
     
     f = open('build/{}/{}/cooperation&pass_count.txt'.format(team_name, result_path), 'w', encoding='utf-8')
     f.write('p.s. 注意 Oppo 是敌队的意思。\n')
-    f.write('[传球次数统计] \n比赛场次 | {}队\n'.format('Husk', 'Oppo'))
+    f.write('[传球次数统计] \n比赛场次 | {}队\n'.format(team_name))
     for MatchID in MatchID_list:
         f.write('{}  {}  \n'.format(MatchID, team_pass_count[MatchID]))
 

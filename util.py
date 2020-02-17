@@ -1,5 +1,52 @@
 import math
 
+def pair_clustering_coff_cal(member_index_list, edge_list):
+    avg_c_f = 0
+    for member_index in member_index_list:
+        open_single = 0
+        close_single = 0
+        first_connect_node = []
+        for first_edge in edge_list:
+            if(first_edge[0] == member_index):
+                first_connect_node.append(first_edge[1])
+        for first in first_connect_node:
+            for second_edge in edge_list:
+                if(second_edge[0] == first):
+                    if(second_edge[1] == member_index):
+                        close_single += 1
+                    else:
+                        open_single += 1
+        avg_c_f += 2*close_single/(2*close_single + open_single)
+    
+    return avg_c_f/len(member_index_list)
+
+def clustering_coff_cal(member_index_list, edge_list):
+    avg_c_f = 0
+    for member_index in member_index_list:
+        open_single = 0
+        close_single = 0
+        first_connect_node = []
+        for first_edge in edge_list:
+            if(first_edge[0] == member_index):
+                first_connect_node.append(first_edge[1])
+        for first in first_connect_node:
+            second_connect_node = []
+            for second_edge in edge_list:
+                if(second_edge[0] == first):
+                    second_connect_node.append(second_edge[1])
+            
+            for second in second_connect_node:
+                for third_edge in edge_list:
+                    if(third_edge[0] == second):
+                        if(third_edge[1] == member_index):
+                            close_single += 1
+                        else:
+                            open_single += 1
+
+        avg_c_f += 3*close_single/(3*close_single + open_single)
+
+    return avg_c_f/len(member_index_list)
+
 def distance(point_x, point_y):
 
     return math.sqrt(((point_x[0] - point_y[0])**2 + (point_x[1] - point_y[1])**2))

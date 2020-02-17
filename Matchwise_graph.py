@@ -7,19 +7,20 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
 
-from util import distance,average
+from util import distance,average,clustering_coff_cal,pair_clustering_coff_cal
 
 team_name = sys.argv[1]
 
-edge_num = 10000
-
-if(team_name == 'all'):
-    os.system('python all.py')
+edge_num = 1000
 
 team_name_list = ['Husk', 'Oppo', 'Opponent1_', 'Opponent2_', 'Opponent3_', 'Opponent4_', 'Opponent5_', 'Opponent6_', 'Opponent7_', 'Opponent8_', 'Opponent9_', 'Opponent10_', 'Opponent11_', 'Opponent12_', 'Opponent13_', 'Opponent14_', 'Opponent15_', 'Opponent16_', 'Opponent17_', 'Opponent18_', 'Opponent19']
 
 if(team_name not in team_name_list and team_name != 'all'):
     print('Error,unknown team name.\nTeam name must be one of the list: {}'.format(team_name_list))
+    exit()
+
+if(team_name == 'all'):
+    os.system('python all.py')
     exit()
 
 result_path = 'result'
@@ -28,7 +29,7 @@ f = open('build/{}/{}/Matchwise_attrct_cal.txt'.format(team_name, \
          result_path), 'w', encoding='utf-8')
 f_ = open('build/{}/{}/Matchwise_weight_point.txt'.format(team_name, \
          result_path), 'w', encoding='utf-8')
-f_ex = open('build/{}/{}/S_and_path_avg_index.txt'.format(team_name, \
+f_ex = open('build/{}/{}/S_and_path_avg_c_ff_index.txt'.format(team_name, \
          result_path), 'w', encoding='utf-8')
 
 temp_f = open('build/{}/{}/extra_info.txt'.format(team_name, result_path), 'r')
@@ -150,7 +151,7 @@ for MatchID in MatchID_list:
 
     weight_length = sum([w/max(edge_weight)*distance(members_info[members_ID[p[0]]]['coordinate'], members_info[members_ID[p[1]]]['coordinate']) for w,p in zip(edge_weight, edge_point)])
 
-    f_ex.write('{} \n'.format(weight_length))
+    f_ex.write('{} '.format(weight_length))
 
     # 和由边的权重来排序边列表
     edge_list_weight = [edge_dict[key] for key in edge_dict.keys()] 
@@ -173,6 +174,12 @@ for MatchID in MatchID_list:
             members_ID_sub_index.append(edge[1])
     members_ID_sub_index = sorted(members_ID_sub_index, key=lambda x: x)
     members_ID_sub = [members_ID[x] for x in members_ID_sub_index]
+
+    clustering_coff = clustering_coff_cal(members_ID_sub_index, edge_list_sort)
+
+    pair_clustering_coff = pair_clustering_coff_cal(members_ID_sub_index, edge_list_sort)
+
+    f_ex.write('{} {}\n'.format(clustering_coff, pair_clustering_coff))
 
     G = nx.generators.directed.random_k_out_graph(len(members_ID), 3, 0.5)
 
