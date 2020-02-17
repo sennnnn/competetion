@@ -1,3 +1,4 @@
+member name | member x coordinate | member y coordinate
 [1]
 13
 Opponent1_D1 52.333333333333336 20.933333333333334

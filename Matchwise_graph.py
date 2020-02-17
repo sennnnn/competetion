@@ -7,17 +7,21 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
 
-from util import distance,average,clustering_coff_cal,pair_clustering_coff_cal
+from util import distance,average,clustering_coff_cal,pair_clustering_coff_cal,\
+                 coordinate_info_extract,attractive_force_info_extract,edge_info_extract
 
 team_name = sys.argv[1]
 
+# the max count of egde revealing in the graph.
 edge_num = 1000
 
-team_name_list = ['Husk', 'Oppo', 'Opponent1_', 'Opponent2_', 'Opponent3_', 'Opponent4_', 'Opponent5_', 'Opponent6_', 'Opponent7_', 'Opponent8_', 'Opponent9_', 'Opponent10_', 'Opponent11_', 'Opponent12_', 'Opponent13_', 'Opponent14_', 'Opponent15_', 'Opponent16_', 'Opponent17_', 'Opponent18_', 'Opponent19']
+team_list = ['Husk', 'Oppo', 'Opponent1_', 'Opponent2_', 'Opponent3_', 'Opponent4_', \
+             'Opponent5_', 'Opponent6_', 'Opponent7_', 'Opponent8_', 'Opponent9_', \
+             'Opponent10_', 'Opponent11_', 'Opponent12_', 'Opponent13_', 'Opponent14_', \
+             'Opponent15_', 'Opponent16_', 'Opponent17_', 'Opponent18_', 'Opponent19']
 
-if(team_name not in team_name_list and team_name != 'all'):
-    print('Error,unknown team name.\nTeam name must be one of the list: {}'.format(team_name_list))
-    exit()
+if(team_name not in team_list and team_name != 'all'):
+    assert False, 'Error,unknown team name.\nTeam name must be one of the list: {}'.format(team_list)
 
 if(team_name == 'all'):
     os.system('python all.py')
@@ -35,7 +39,7 @@ f_ex = open('build/{}/{}/S_and_path_avg_c_ff_index.txt'.format(team_name, \
 temp_f = open('build/{}/{}/extra_info.txt'.format(team_name, result_path), 'r')
 MatchID_list = eval(temp_f.readline().strip())
 pass_kind_weight = eval(temp_f.readline().strip())
-get_kind_weight = eval(temp_f.readline().strip())
+catch_kind_weight = eval(temp_f.readline().strip())
 
 for MatchID in MatchID_list:
     plt.cla()
@@ -48,60 +52,30 @@ for MatchID in MatchID_list:
     attrc_txt_path = 'build/{}/{}/attractive_force_item.txt'.format(team_name, result_path)
     pass_origin_path = 'build/{}/{}/pass_origin.txt'.format(team_name, result_path)
 
-    f_1 = open(coordinate_txt_path, 'r')
-    f_2 = open(attrc_txt_path, 'r')
-    f_3 = open(pass_origin_path)
-
     members_info = {}
 
-    while(1):
-        line = f_1.readline()
-        line = line.strip()
-        if(line == '[%d]'%(MatchID)):
-            line = f_1.readline().strip()
-            length = int(line)
-            for i in range(length):
-                line = f_1.readline().strip()
-                infos = line.split(' ')
-                members_info[infos[0]] = {}
-                members_info[infos[0]]['coordinate'] = (float(infos[1])/100, float(infos[2])/100)
-            break
+    coordinate_info_extract(open(coordinate_txt_path, 'r'), MatchID, members_info)
 
     members_ID = list(members_info.keys())
 
     pass_kind_weight = [1/x if x != 0 else 0 for x in pass_kind_weight];pass_kind_sum = sum(pass_kind_weight)
-    get_kind_weight = [1/x if x != 0 else 0 for x in get_kind_weight];get_kind_sum = sum(get_kind_weight)
+    catch_kind_weight = [1/x if x != 0 else 0 for x in catch_kind_weight];catch_kind_sum = sum(catch_kind_weight)
     pass_kind_weight = [x/pass_kind_sum for x in pass_kind_weight]
-    get_kind_weight = [x/get_kind_sum for x in get_kind_weight]
+    catch_kind_weight = [x/catch_kind_sum for x in catch_kind_weight]
 
-    pass_type_list = ['Head pass', 'Simple pass', 'Launch', 'High pass', 'Hand pass', 'Smart pass', 'Cross']
+    # pass types : 'Head pass', 'Simple pass', 'Launch', 'High pass', 'Hand pass', 'Smart pass', 'Cross'
 
-    while(1):
-        line = f_2.readline()
-        line = line.strip()
-        if(line == '[%d]'%(MatchID)):
-            line = f_2.readline().strip()
-            length = int(line)
-            for i in range(length):
-                line = f_2.readline().strip()
-                infos = line.split(' ')
-                catch_time = float(infos[1])
-                get_count = int(infos[2])
-                pass_count = int(infos[3])
-                get_all_type_list = [int(x)*weight for x,weight in zip(infos[4:11], get_kind_weight)]
-                pass_all_type_list = [int(x)*weight for x,weight in zip(infos[11:], pass_kind_weight)]
-                members_info[infos[0]]['attrc'] = catch_time/60 + sum(get_all_type_list) + sum(pass_all_type_list)
-            break
+    attractive_force_info_extract(open(attrc_txt_path, 'r'), MatchID, members_info, catch_kind_weight, pass_kind_weight)
 
-    # 吸引力计算
+    # attractive force item save. 
     f.write('[{}]\n'.format(MatchID))
     [f.write('{} {}\n'.format(member, members_info[member]['attrc'])) for member in members_ID]
     f.write('\n')
 
-    #  球员按吸引力排序
+    # sort by attractive force
     members_ID = sorted(members_ID, key=lambda x: members_info[x]['attrc'], reverse=True)
 
-    # 质心计算
+    #===================== weight point calculation ===================#
     x_y = [members_info[member]['coordinate'] for member in members_ID]
     weight = [members_info[member]['attrc'] for member in members_ID]
     M = sum(weight)
@@ -109,51 +83,30 @@ for MatchID in MatchID_list:
     miyi = sum([xy[1]*m for xy,m in zip(x_y, weight)])
     weight_point = (mixi/M*100, miyi/M*100)
     f_.write('{} {} {}\n'.format(MatchID, *weight_point))
+    #===================================================================#
 
-    # 结点离散程度计算
-    S = average([distance((members_info[members_ID[i]]['coordinate'][0]*100, members_info[members_ID[i]]['coordinate'][1]*100), weight_point) for i in range(len(members_ID))])
+    #===================== node disperation calculation ===================#
+    node_distance_list = [distance((members_info[members_ID[i]]['coordinate'][0]*100, members_info[members_ID[i]]['coordinate'][1]*100), weight_point) for i in range(len(members_ID))]
+
+    S = math.sqrt(sum([(x - average(node_distance_list))**2 for x in node_distance_list])/len(node_distance_list))
+    #=======================================================================#
 
     f_ex.write('{} {} '.format(MatchID, S))
 
     edge_dict = {}
 
-    edge_info_dict = {}
+    edge_info_extract(open(pass_origin_path, 'r'), MatchID, edge_dict, members_ID)
 
-    edge_count = 0
 
-    while(1):
-        line = f_3.readline()
-        line = line.strip()
-        if(line == '[%d]'%(MatchID)):
-            line = f_3.readline().strip()
-            length = int(line)
-            for i in range(length):
-                line = f_3.readline()
-                while(1):
-                    line = f_3.readline()
-                    if(line == '\n'):
-                        break
-                    line = line.strip()
-                    infos = line.split()
-                    origin = infos[0]
-                    dest = infos[1]
-                    number = int(infos[2])
-                    if(number == 0 or origin == dest or dest not in members_ID):
-                        continue
-                    edge_count += 1
-                    edge_dict[edge_count] = (number, (members_ID.index(origin), members_ID.index(dest)))
-            break
-
-    # 加权路径长度
-    # edge_with_weight = [x,y for x,y in edge_dict.items()]
+    #===================== weighted average length calculation ===================#
     edge_weight = [y[0] for x,y in edge_dict.items()]
     edge_point = [(y[1][0],y[1][1]) for x,y in edge_dict.items()]
+    weighted_average_length = sum([w/max(edge_weight)*distance(members_info[members_ID[p[0]]]['coordinate'], members_info[members_ID[p[1]]]['coordinate']) for w,p in zip(edge_weight, edge_point)])
 
-    weight_length = sum([w/max(edge_weight)*distance(members_info[members_ID[p[0]]]['coordinate'], members_info[members_ID[p[1]]]['coordinate']) for w,p in zip(edge_weight, edge_point)])
+    f_ex.write('{} '.format(weighted_average_length))
+    #==============================================================================#
 
-    f_ex.write('{} '.format(weight_length))
-
-    # 和由边的权重来排序边列表
+    # sort by the weght of the edge.
     edge_list_weight = [edge_dict[key] for key in edge_dict.keys()] 
 
     edge_list_weight_sort = sorted(edge_list_weight, key=lambda x: x[0], reverse=True)
@@ -212,10 +165,6 @@ for MatchID in MatchID_list:
     for i in range(M):
         edges[i].set_alpha(edge_alphas[i])
 
-    # pc = mpl.collections.PatchCollection(edges, cmap=plt.cm.Blues)
-    # pc.set_array(edge_colors)
-    # plt.colorbar(pc)
     ax = plt.gca()
     ax.set_axis_off()
-    # plt.show()
     plt.savefig('build/{}/pic/Match_{}_network.png'.format(team_name, MatchID), transparent=True)

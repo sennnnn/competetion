@@ -1,10 +1,10 @@
-p.s. 注意 Oppo 是敌队的意思。
-[传球次数统计] 
-比赛场次 | Opponent13_队
+p.s. Attention ! Oppo is the complex of the opponents.
+[pass count] 
+match id | Opponent13_ team
 13  504  
 37  246  
 
-[配合次数统计] 
-比赛场次 | Opponent13_队二元配合 | Opponent13_ 队三元配合
+[cooperation count] 
+match id | Opponent13_ team double-cooperation counts | Opponent13_ tri-cooperation counts
 13 80 274
 37 21 126

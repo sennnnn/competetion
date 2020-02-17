@@ -1,6 +1,6 @@
-p.s. 注意 Oppo 是敌队的意思。
-[传球次数统计] 
-比赛场次 | Husk队
+p.s. Attention ! Oppo is the complex of the opponents.
+[pass count] 
+match id | Husk team
 1  369  
 2  180  
 3  324  
@@ -40,8 +40,8 @@ p.s. 注意 Oppo 是敌队的意思。
 37  293  
 38  275  
 
-[配合次数统计] 
-比赛场次 | Husk队二元配合 | Husk 队三元配合
+[cooperation count] 
+match id | Husk team double-cooperation counts | Husk tri-cooperation counts
 1 42 196
 2 8 86
 3 31 195

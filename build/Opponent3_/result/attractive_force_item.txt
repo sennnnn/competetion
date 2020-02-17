@@ -1,3 +1,4 @@
+member name | ball catch time | catch ount | pass count | catch_Head pass | catch_Simple pass | catch_Launch | catch_High pass | catch_Hand pass | catch_Smart pass | catch_Cross  | pass_Head pass | pass_Simple pass | pass_Launch | pass_High pass | pass_Hand pass | pass_Smart pass | pass_Cross 
 [3]
 14
 Opponent3_D1 208.44330200000388 55 66 0 54 0 0 0 0 1 1 63 0 2 0 0 0 

@@ -1,5 +1,67 @@
 import math
 
+def coordinate_info_extract(file_object, MatchID, info_dict):
+    file_object.readline()
+    while(1):
+        line = file_object.readline()
+        line = line.strip()
+        if(line == '[%d]'%(MatchID)):
+            line = file_object.readline().strip()
+            length = int(line)
+            for i in range(length):
+                line = file_object.readline().strip()
+                infos = line.split(' ')
+                info_dict[infos[0]] = {}
+                info_dict[infos[0]]['coordinate'] = (float(infos[1])/100, float(infos[2])/100)
+            
+            return info_dict
+
+def attractive_force_info_extract(file_object, MatchID, info_dict, catch_kind_weight, pass_kind_weight):
+    line = file_object.readline()
+    while(1):
+        line = file_object.readline()
+        line = line.strip()
+        if(line == '[%d]'%(MatchID)):
+            line = file_object.readline().strip()
+            length = int(line)
+            for i in range(length):
+                line = file_object.readline().strip()
+                infos = line.split(' ')
+                catch_time = float(infos[1])
+                catch_count = int(infos[2])
+                pass_count = int(infos[3])
+                catch_all_type_list = [int(x)*weight for x,weight in zip(infos[4:11], catch_kind_weight)]
+                pass_all_type_list = [int(x)*weight for x,weight in zip(infos[11:], pass_kind_weight)]
+                info_dict[infos[0]]['attrc'] = catch_time/60 + sum(catch_all_type_list) + sum(pass_all_type_list)
+            
+            return info_dict
+
+def edge_info_extract(file_object, MatchID, edge_dict, members_ID):
+    edge_count = 0
+    while(1):
+        line = file_object.readline()
+        line = line.strip()
+        if(line == '[%d]'%(MatchID)):
+            line = file_object.readline().strip()
+            length = int(line)
+            for i in range(length):
+                line = file_object.readline()
+                while(1):
+                    line = file_object.readline()
+                    if(line == '\n'):
+                        break
+                    line = line.strip()
+                    infos = line.split()
+                    origin = infos[0]
+                    dest = infos[1]
+                    number = int(infos[2])
+                    if(number == 0 or origin == dest or dest not in members_ID):
+                        continue
+                    edge_count += 1
+                    edge_dict[edge_count] = (number, (members_ID.index(origin), members_ID.index(dest)))
+            
+            return edge_dict
+
 def pair_clustering_coff_cal(member_index_list, edge_list):
     avg_c_f = 0
     for member_index in member_index_list:
@@ -120,13 +182,13 @@ def average(iterable_object):
 
 def catch_ball_time_calculate(info_1, info_2, member):
     """
-    统计单个球员单次接球传球的时间。
+    count single catch ball time.
     Args:
-        info_1,info_2:信息条目。
-        member:成员标识名。
+        info_1,info_2:info item
+        member:player name
     Return:
-        bool:该球员是否成功控球。
-        time_period:该球员此次控球时间。
+        bool:fail to catch ball
+        time_period:catch ball time.
     """
     Origin_1 = info_1['OriginPlayerID']
     Origin_2 = info_2['OriginPlayerID']
@@ -180,18 +242,16 @@ def origin_or_dest_team_member_get(PlayerID_all, team_key_word):
 
 def team_member_get(OriginPlayerID_all, DestinationPlayerID_all, team_key_word):
     """
-    获取某个队伍的球员清单。
+    team member list get
     Args:
-        OriginPlayerID_all:所有传球队员记录。
-        DestinationPlayerID_all:所有接球队员记录。
-        team_key_word:球队的关键字。
+        OriginPlayerID_all:pass player records 
+        DestinationPlayerID_all:catch player records
+        team_key_word:key word of the team
     Return:
-        team_member_list:球队的成员列表，球员一般用 XXteam_XX 表示，'_' 后面的是球员的标识，
-        为一个字母和一个数字组合，该列表进行过排序球员首先按字母 D，F，M，G 排序，然后再安装数字排序
+        team_member_list:sorted member list
     """
     members = []
     for i,j in zip(OriginPlayerID_all, DestinationPlayerID_all):
-        # 判断这个球员是否为该队伍。
         if(team_key_word not in i or team_key_word not in j):
             continue
         if(i not in members):
@@ -209,11 +269,11 @@ def team_key_word_extract(ID):
 
 def pass_side_judge(info, team_key_word):
     """
-    判断传接球是否是选定方，我方关键词：Husk 敌方关键词：Oppo。
+    judge the pass side
     Args:
-        info:判断的数据条目。
+        info:judge info item
     Return:
-        bool:是否。
+        bool:True or False
     """
     Origin = info['OriginPlayerID']
     Dest = info['DestinationPlayerID']
@@ -224,12 +284,12 @@ def pass_side_judge(info, team_key_word):
 
 def cooperation_detect(info_1, info_2):
     """
-    通过输入三个信息条目，来检测是否构成一次配合。
+    detect if info_1 and info_2 construct a cooperation.
     Args:
-        info_1, info_2:两条条目。
+        info_1, info_2:info item
     Return:
-        players:构成配合的 player_name 列表。
-        flag:是否构成配合。
+        players:cooperation player name list
+        flag:if constructing a cooperation
     """
     players = []
     time_accu = 0
@@ -239,7 +299,7 @@ def cooperation_detect(info_1, info_2):
     Dest_2 = info_2['DestinationPlayerID']
     time_stamp_1 = float(info_1['EventTime'])
     time_stamp_2 = float(info_2['EventTime'])
-    # 第一次传球与第二次传球判断
+    # judge between the first pass and the second pass 
     if((time_stamp_2-time_stamp_1) > 5 or (time_stamp_2-time_stamp_1) < 0):
         return players, False
     else:
