@@ -1,3 +1,30 @@
+import math
+
+def distance(point_x, point_y):
+
+    return math.sqrt(((point_x[0] - point_y[0])**2 + (point_x[1] - point_y[1])**2))
+
+def r_coff(x, y):
+    avg_x = average(x)
+    avg_y = average(y)
+    under_x = 0
+    under_y = 0
+    above = 0
+    for i,j in zip(x,y):
+        above += (i - avg_x) * (j - avg_y)
+        under_x += (i - avg_x)**2
+        under_y += (j - avg_y)**2
+
+    return above/(math.sqrt(under_x) * math.sqrt(under_y))
+
+def l2_norm_sum(iter_object):
+    temp = 0
+    for i in iter_object:
+        temp += i**2
+
+    return math.sqrt(temp)
+
+
 def teamwise_info_get(all_info, team_name):
     ret_info = []
     for line in all_info:

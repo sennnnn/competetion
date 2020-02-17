@@ -1,10 +1,12 @@
 # folder
 .vscode/
 __pycache__/
-# build/Oppo*/
-# build/Husk*/
+!build/Oppo*/
+!build/Husk*/
 !Husk*.png
 !Oppo*.png
+/Husk*.txt
+/Oppo*.txt
 
 # file
-try.py
+/try.py

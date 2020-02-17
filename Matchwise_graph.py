@@ -7,9 +7,11 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
 
+from util import distance,average
+
 team_name = sys.argv[1]
 
-edge_num = 4
+edge_num = 10000
 
 if(team_name == 'all'):
     os.system('python all.py')
@@ -25,6 +27,8 @@ result_path = 'result'
 f = open('build/{}/{}/Matchwise_attrct_cal.txt'.format(team_name, \
          result_path), 'w', encoding='utf-8')
 f_ = open('build/{}/{}/Matchwise_weight_point.txt'.format(team_name, \
+         result_path), 'w', encoding='utf-8')
+f_ex = open('build/{}/{}/S_and_path_avg_index.txt'.format(team_name, \
          result_path), 'w', encoding='utf-8')
 
 temp_f = open('build/{}/{}/extra_info.txt'.format(team_name, result_path), 'r')
@@ -105,6 +109,11 @@ for MatchID in MatchID_list:
     weight_point = (mixi/M*100, miyi/M*100)
     f_.write('{} {} {}\n'.format(MatchID, *weight_point))
 
+    # 结点离散程度计算
+    S = average([distance((members_info[members_ID[i]]['coordinate'][0]*100, members_info[members_ID[i]]['coordinate'][1]*100), weight_point) for i in range(len(members_ID))])
+
+    f_ex.write('{} {} '.format(MatchID, S))
+
     edge_dict = {}
 
     edge_info_dict = {}
@@ -133,6 +142,15 @@ for MatchID in MatchID_list:
                     edge_count += 1
                     edge_dict[edge_count] = (number, (members_ID.index(origin), members_ID.index(dest)))
             break
+
+    # 加权路径长度
+    # edge_with_weight = [x,y for x,y in edge_dict.items()]
+    edge_weight = [y[0] for x,y in edge_dict.items()]
+    edge_point = [(y[1][0],y[1][1]) for x,y in edge_dict.items()]
+
+    weight_length = sum([w/max(edge_weight)*distance(members_info[members_ID[p[0]]]['coordinate'], members_info[members_ID[p[1]]]['coordinate']) for w,p in zip(edge_weight, edge_point)])
+
+    f_ex.write('{} \n'.format(weight_length))
 
     # 和由边的权重来排序边列表
     edge_list_weight = [edge_dict[key] for key in edge_dict.keys()] 
