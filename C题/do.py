@@ -15,14 +15,14 @@ col = csv.register_dialect('mydialect',delimiter='\t',quoting=csv.QUOTE_ALL)
 
 info_dict = None
 info_length = 0
+valid_line = []
 with open(item_path, 'r') as f:
     file_list  = csv.reader(f, 'mydialect')
-    valid_line = [next(file_list)]
+    valid_line.append(next(file_list))
     valid_length = len(valid_line[0])
     for i in range(file_length):
         try:
             content = next(file_list)
-            print(len(content))
             if(len(content) != valid_length): continue
             valid_line.append(content) 
             info_length += 1
@@ -32,6 +32,11 @@ with open(item_path, 'r') as f:
     info_dict = csv_preprocss(valid_line)
 
 base_name = os.path.split(item_path)[1].split('.')[0]
+
+with open(base_name + '_benchmark.txt', 'w') as f:
+    for line in valid_line:
+        line = ''.join([x+'\t' for x in line])
+        f.write(line + '\n')
 
 with open(base_name + '.txt', 'w') as f:
     f.write('marketplace customer_id string encode\n')
