@@ -1,0 +1,425 @@
+[17]
+13
+[Opponent17_D1]
+Opponent17_D1 Opponent17_D1 0
+Opponent17_D1 Opponent17_D2 8
+Opponent17_D1 Opponent17_D3 8
+Opponent17_D1 Opponent17_D4 0
+Opponent17_D1 Opponent17_F1 0
+Opponent17_D1 Opponent17_F2 0
+Opponent17_D1 Opponent17_M1 8
+Opponent17_D1 Opponent17_M2 0
+Opponent17_D1 Opponent17_M3 0
+Opponent17_D1 Opponent17_M4 1
+Opponent17_D1 Opponent17_M5 5
+Opponent17_D1 Opponent17_M6 0
+Opponent17_D1 Opponent17_G1 4
+
+[Opponent17_D2]
+Opponent17_D2 Opponent17_D1 12
+Opponent17_D2 Opponent17_D2 0
+Opponent17_D2 Opponent17_D3 0
+Opponent17_D2 Opponent17_D4 0
+Opponent17_D2 Opponent17_F1 0
+Opponent17_D2 Opponent17_F2 0
+Opponent17_D2 Opponent17_M1 6
+Opponent17_D2 Opponent17_M2 1
+Opponent17_D2 Opponent17_M3 2
+Opponent17_D2 Opponent17_M4 10
+Opponent17_D2 Opponent17_M5 7
+Opponent17_D2 Opponent17_M6 0
+Opponent17_D2 Opponent17_G1 1
+
+[Opponent17_D3]
+Opponent17_D3 Opponent17_D1 2
+Opponent17_D3 Opponent17_D2 2
+Opponent17_D3 Opponent17_D3 1
+Opponent17_D3 Opponent17_D4 13
+Opponent17_D3 Opponent17_F1 0
+Opponent17_D3 Opponent17_F2 0
+Opponent17_D3 Opponent17_M1 9
+Opponent17_D3 Opponent17_M2 1
+Opponent17_D3 Opponent17_M3 0
+Opponent17_D3 Opponent17_M4 1
+Opponent17_D3 Opponent17_M5 8
+Opponent17_D3 Opponent17_M6 0
+Opponent17_D3 Opponent17_G1 3
+
+[Opponent17_D4]
+Opponent17_D4 Opponent17_D1 0
+Opponent17_D4 Opponent17_D2 0
+Opponent17_D4 Opponent17_D3 13
+Opponent17_D4 Opponent17_D4 0
+Opponent17_D4 Opponent17_F1 1
+Opponent17_D4 Opponent17_F2 0
+Opponent17_D4 Opponent17_M1 1
+Opponent17_D4 Opponent17_M2 9
+Opponent17_D4 Opponent17_M3 1
+Opponent17_D4 Opponent17_M4 0
+Opponent17_D4 Opponent17_M5 6
+Opponent17_D4 Opponent17_M6 1
+Opponent17_D4 Opponent17_G1 1
+
+[Opponent17_F1]
+Opponent17_F1 Opponent17_D1 2
+Opponent17_F1 Opponent17_D2 3
+Opponent17_F1 Opponent17_D3 1
+Opponent17_F1 Opponent17_D4 0
+Opponent17_F1 Opponent17_F1 1
+Opponent17_F1 Opponent17_F2 1
+Opponent17_F1 Opponent17_M1 4
+Opponent17_F1 Opponent17_M2 1
+Opponent17_F1 Opponent17_M3 1
+Opponent17_F1 Opponent17_M4 1
+Opponent17_F1 Opponent17_M5 2
+Opponent17_F1 Opponent17_M6 0
+Opponent17_F1 Opponent17_G1 2
+
+[Opponent17_F2]
+Opponent17_F2 Opponent17_D1 1
+Opponent17_F2 Opponent17_D2 1
+Opponent17_F2 Opponent17_D3 1
+Opponent17_F2 Opponent17_D4 0
+Opponent17_F2 Opponent17_F1 2
+Opponent17_F2 Opponent17_F2 0
+Opponent17_F2 Opponent17_M1 0
+Opponent17_F2 Opponent17_M2 0
+Opponent17_F2 Opponent17_M3 0
+Opponent17_F2 Opponent17_M4 0
+Opponent17_F2 Opponent17_M5 1
+Opponent17_F2 Opponent17_M6 0
+Opponent17_F2 Opponent17_G1 1
+
+[Opponent17_M1]
+Opponent17_M1 Opponent17_D1 9
+Opponent17_M1 Opponent17_D2 5
+Opponent17_M1 Opponent17_D3 5
+Opponent17_M1 Opponent17_D4 5
+Opponent17_M1 Opponent17_F1 2
+Opponent17_M1 Opponent17_F2 0
+Opponent17_M1 Opponent17_M1 0
+Opponent17_M1 Opponent17_M2 4
+Opponent17_M1 Opponent17_M3 2
+Opponent17_M1 Opponent17_M4 2
+Opponent17_M1 Opponent17_M5 6
+Opponent17_M1 Opponent17_M6 0
+Opponent17_M1 Opponent17_G1 1
+
+[Opponent17_M2]
+Opponent17_M2 Opponent17_D1 1
+Opponent17_M2 Opponent17_D2 1
+Opponent17_M2 Opponent17_D3 6
+Opponent17_M2 Opponent17_D4 7
+Opponent17_M2 Opponent17_F1 1
+Opponent17_M2 Opponent17_F2 0
+Opponent17_M2 Opponent17_M1 4
+Opponent17_M2 Opponent17_M2 1
+Opponent17_M2 Opponent17_M3 3
+Opponent17_M2 Opponent17_M4 1
+Opponent17_M2 Opponent17_M5 6
+Opponent17_M2 Opponent17_M6 0
+Opponent17_M2 Opponent17_G1 0
+
+[Opponent17_M3]
+Opponent17_M3 Opponent17_D1 3
+Opponent17_M3 Opponent17_D2 1
+Opponent17_M3 Opponent17_D3 1
+Opponent17_M3 Opponent17_D4 1
+Opponent17_M3 Opponent17_F1 1
+Opponent17_M3 Opponent17_F2 0
+Opponent17_M3 Opponent17_M1 5
+Opponent17_M3 Opponent17_M2 0
+Opponent17_M3 Opponent17_M3 0
+Opponent17_M3 Opponent17_M4 6
+Opponent17_M3 Opponent17_M5 2
+Opponent17_M3 Opponent17_M6 0
+Opponent17_M3 Opponent17_G1 2
+
+[Opponent17_M4]
+Opponent17_M4 Opponent17_D1 5
+Opponent17_M4 Opponent17_D2 6
+Opponent17_M4 Opponent17_D3 4
+Opponent17_M4 Opponent17_D4 0
+Opponent17_M4 Opponent17_F1 1
+Opponent17_M4 Opponent17_F2 0
+Opponent17_M4 Opponent17_M1 6
+Opponent17_M4 Opponent17_M2 0
+Opponent17_M4 Opponent17_M3 4
+Opponent17_M4 Opponent17_M4 0
+Opponent17_M4 Opponent17_M5 7
+Opponent17_M4 Opponent17_M6 0
+Opponent17_M4 Opponent17_G1 0
+
+[Opponent17_M5]
+Opponent17_M5 Opponent17_D1 5
+Opponent17_M5 Opponent17_D2 8
+Opponent17_M5 Opponent17_D3 3
+Opponent17_M5 Opponent17_D4 6
+Opponent17_M5 Opponent17_F1 0
+Opponent17_M5 Opponent17_F2 0
+Opponent17_M5 Opponent17_M1 7
+Opponent17_M5 Opponent17_M2 5
+Opponent17_M5 Opponent17_M3 1
+Opponent17_M5 Opponent17_M4 8
+Opponent17_M5 Opponent17_M5 0
+Opponent17_M5 Opponent17_M6 0
+Opponent17_M5 Opponent17_G1 2
+
+[Opponent17_M6]
+Opponent17_M6 Opponent17_D1 0
+Opponent17_M6 Opponent17_D2 0
+Opponent17_M6 Opponent17_D3 1
+Opponent17_M6 Opponent17_D4 1
+Opponent17_M6 Opponent17_F1 1
+Opponent17_M6 Opponent17_F2 0
+Opponent17_M6 Opponent17_M1 0
+Opponent17_M6 Opponent17_M2 0
+Opponent17_M6 Opponent17_M3 0
+Opponent17_M6 Opponent17_M4 0
+Opponent17_M6 Opponent17_M5 1
+Opponent17_M6 Opponent17_M6 0
+Opponent17_M6 Opponent17_G1 0
+
+[Opponent17_G1]
+Opponent17_G1 Opponent17_D1 7
+Opponent17_G1 Opponent17_D2 2
+Opponent17_G1 Opponent17_D3 2
+Opponent17_G1 Opponent17_D4 3
+Opponent17_G1 Opponent17_F1 0
+Opponent17_G1 Opponent17_F2 0
+Opponent17_G1 Opponent17_M1 0
+Opponent17_G1 Opponent17_M2 0
+Opponent17_G1 Opponent17_M3 0
+Opponent17_G1 Opponent17_M4 0
+Opponent17_G1 Opponent17_M5 0
+Opponent17_G1 Opponent17_M6 0
+Opponent17_G1 Opponent17_G1 0
+
+
+[35]
+14
+[Opponent17_D1]
+Opponent17_D1 Opponent17_D1 0
+Opponent17_D1 Opponent17_D2 2
+Opponent17_D1 Opponent17_D3 1
+Opponent17_D1 Opponent17_D5 1
+Opponent17_D1 Opponent17_F1 0
+Opponent17_D1 Opponent17_F3 0
+Opponent17_D1 Opponent17_F4 0
+Opponent17_D1 Opponent17_M1 3
+Opponent17_D1 Opponent17_M2 2
+Opponent17_D1 Opponent17_M3 3
+Opponent17_D1 Opponent17_M5 0
+Opponent17_D1 Opponent17_M7 1
+Opponent17_D1 Opponent17_M8 0
+Opponent17_D1 Opponent17_G2 2
+
+[Opponent17_D2]
+Opponent17_D2 Opponent17_D1 4
+Opponent17_D2 Opponent17_D2 0
+Opponent17_D2 Opponent17_D3 1
+Opponent17_D2 Opponent17_D5 0
+Opponent17_D2 Opponent17_F1 1
+Opponent17_D2 Opponent17_F3 0
+Opponent17_D2 Opponent17_F4 1
+Opponent17_D2 Opponent17_M1 1
+Opponent17_D2 Opponent17_M2 4
+Opponent17_D2 Opponent17_M3 2
+Opponent17_D2 Opponent17_M5 0
+Opponent17_D2 Opponent17_M7 1
+Opponent17_D2 Opponent17_M8 1
+Opponent17_D2 Opponent17_G2 1
+
+[Opponent17_D3]
+Opponent17_D3 Opponent17_D1 2
+Opponent17_D3 Opponent17_D2 1
+Opponent17_D3 Opponent17_D3 1
+Opponent17_D3 Opponent17_D5 4
+Opponent17_D3 Opponent17_F1 0
+Opponent17_D3 Opponent17_F3 0
+Opponent17_D3 Opponent17_F4 0
+Opponent17_D3 Opponent17_M1 3
+Opponent17_D3 Opponent17_M2 1
+Opponent17_D3 Opponent17_M3 2
+Opponent17_D3 Opponent17_M5 1
+Opponent17_D3 Opponent17_M7 1
+Opponent17_D3 Opponent17_M8 0
+Opponent17_D3 Opponent17_G2 2
+
+[Opponent17_D5]
+Opponent17_D5 Opponent17_D1 0
+Opponent17_D5 Opponent17_D2 0
+Opponent17_D5 Opponent17_D3 4
+Opponent17_D5 Opponent17_D5 0
+Opponent17_D5 Opponent17_F1 1
+Opponent17_D5 Opponent17_F3 1
+Opponent17_D5 Opponent17_F4 3
+Opponent17_D5 Opponent17_M1 0
+Opponent17_D5 Opponent17_M2 1
+Opponent17_D5 Opponent17_M3 5
+Opponent17_D5 Opponent17_M5 1
+Opponent17_D5 Opponent17_M7 3
+Opponent17_D5 Opponent17_M8 0
+Opponent17_D5 Opponent17_G2 2
+
+[Opponent17_F1]
+Opponent17_F1 Opponent17_D1 0
+Opponent17_F1 Opponent17_D2 0
+Opponent17_F1 Opponent17_D3 0
+Opponent17_F1 Opponent17_D5 1
+Opponent17_F1 Opponent17_F1 0
+Opponent17_F1 Opponent17_F3 1
+Opponent17_F1 Opponent17_F4 0
+Opponent17_F1 Opponent17_M1 0
+Opponent17_F1 Opponent17_M2 1
+Opponent17_F1 Opponent17_M3 1
+Opponent17_F1 Opponent17_M5 0
+Opponent17_F1 Opponent17_M7 1
+Opponent17_F1 Opponent17_M8 0
+Opponent17_F1 Opponent17_G2 1
+
+[Opponent17_F3]
+Opponent17_F3 Opponent17_D1 2
+Opponent17_F3 Opponent17_D2 1
+Opponent17_F3 Opponent17_D3 1
+Opponent17_F3 Opponent17_D5 3
+Opponent17_F3 Opponent17_F1 0
+Opponent17_F3 Opponent17_F3 0
+Opponent17_F3 Opponent17_F4 6
+Opponent17_F3 Opponent17_M1 2
+Opponent17_F3 Opponent17_M2 6
+Opponent17_F3 Opponent17_M3 4
+Opponent17_F3 Opponent17_M5 0
+Opponent17_F3 Opponent17_M7 5
+Opponent17_F3 Opponent17_M8 0
+Opponent17_F3 Opponent17_G2 1
+
+[Opponent17_F4]
+Opponent17_F4 Opponent17_D1 1
+Opponent17_F4 Opponent17_D2 0
+Opponent17_F4 Opponent17_D3 3
+Opponent17_F4 Opponent17_D5 3
+Opponent17_F4 Opponent17_F1 0
+Opponent17_F4 Opponent17_F3 2
+Opponent17_F4 Opponent17_F4 0
+Opponent17_F4 Opponent17_M1 4
+Opponent17_F4 Opponent17_M2 3
+Opponent17_F4 Opponent17_M3 3
+Opponent17_F4 Opponent17_M5 0
+Opponent17_F4 Opponent17_M7 2
+Opponent17_F4 Opponent17_M8 0
+Opponent17_F4 Opponent17_G2 0
+
+[Opponent17_M1]
+Opponent17_M1 Opponent17_D1 2
+Opponent17_M1 Opponent17_D2 3
+Opponent17_M1 Opponent17_D3 4
+Opponent17_M1 Opponent17_D5 3
+Opponent17_M1 Opponent17_F1 0
+Opponent17_M1 Opponent17_F3 4
+Opponent17_M1 Opponent17_F4 2
+Opponent17_M1 Opponent17_M1 0
+Opponent17_M1 Opponent17_M2 2
+Opponent17_M1 Opponent17_M3 2
+Opponent17_M1 Opponent17_M5 0
+Opponent17_M1 Opponent17_M7 2
+Opponent17_M1 Opponent17_M8 0
+Opponent17_M1 Opponent17_G2 1
+
+[Opponent17_M2]
+Opponent17_M2 Opponent17_D1 3
+Opponent17_M2 Opponent17_D2 2
+Opponent17_M2 Opponent17_D3 1
+Opponent17_M2 Opponent17_D5 0
+Opponent17_M2 Opponent17_F1 0
+Opponent17_M2 Opponent17_F3 2
+Opponent17_M2 Opponent17_F4 1
+Opponent17_M2 Opponent17_M1 5
+Opponent17_M2 Opponent17_M2 0
+Opponent17_M2 Opponent17_M3 4
+Opponent17_M2 Opponent17_M5 0
+Opponent17_M2 Opponent17_M7 0
+Opponent17_M2 Opponent17_M8 0
+Opponent17_M2 Opponent17_G2 1
+
+[Opponent17_M3]
+Opponent17_M3 Opponent17_D1 1
+Opponent17_M3 Opponent17_D2 0
+Opponent17_M3 Opponent17_D3 6
+Opponent17_M3 Opponent17_D5 2
+Opponent17_M3 Opponent17_F1 1
+Opponent17_M3 Opponent17_F3 2
+Opponent17_M3 Opponent17_F4 0
+Opponent17_M3 Opponent17_M1 3
+Opponent17_M3 Opponent17_M2 1
+Opponent17_M3 Opponent17_M3 0
+Opponent17_M3 Opponent17_M5 3
+Opponent17_M3 Opponent17_M7 7
+Opponent17_M3 Opponent17_M8 0
+Opponent17_M3 Opponent17_G2 0
+
+[Opponent17_M5]
+Opponent17_M5 Opponent17_D1 0
+Opponent17_M5 Opponent17_D2 2
+Opponent17_M5 Opponent17_D3 2
+Opponent17_M5 Opponent17_D5 0
+Opponent17_M5 Opponent17_F1 0
+Opponent17_M5 Opponent17_F3 0
+Opponent17_M5 Opponent17_F4 0
+Opponent17_M5 Opponent17_M1 0
+Opponent17_M5 Opponent17_M2 0
+Opponent17_M5 Opponent17_M3 0
+Opponent17_M5 Opponent17_M5 1
+Opponent17_M5 Opponent17_M7 1
+Opponent17_M5 Opponent17_M8 0
+Opponent17_M5 Opponent17_G2 0
+
+[Opponent17_M7]
+Opponent17_M7 Opponent17_D1 1
+Opponent17_M7 Opponent17_D2 1
+Opponent17_M7 Opponent17_D3 4
+Opponent17_M7 Opponent17_D5 6
+Opponent17_M7 Opponent17_F1 0
+Opponent17_M7 Opponent17_F3 1
+Opponent17_M7 Opponent17_F4 1
+Opponent17_M7 Opponent17_M1 2
+Opponent17_M7 Opponent17_M2 1
+Opponent17_M7 Opponent17_M3 5
+Opponent17_M7 Opponent17_M5 1
+Opponent17_M7 Opponent17_M7 0
+Opponent17_M7 Opponent17_M8 1
+Opponent17_M7 Opponent17_G2 0
+
+[Opponent17_M8]
+Opponent17_M8 Opponent17_D1 0
+Opponent17_M8 Opponent17_D2 1
+Opponent17_M8 Opponent17_D3 0
+Opponent17_M8 Opponent17_D5 0
+Opponent17_M8 Opponent17_F1 0
+Opponent17_M8 Opponent17_F3 0
+Opponent17_M8 Opponent17_F4 0
+Opponent17_M8 Opponent17_M1 0
+Opponent17_M8 Opponent17_M2 0
+Opponent17_M8 Opponent17_M3 3
+Opponent17_M8 Opponent17_M5 0
+Opponent17_M8 Opponent17_M7 1
+Opponent17_M8 Opponent17_M8 0
+Opponent17_M8 Opponent17_G2 0
+
+[Opponent17_G2]
+Opponent17_G2 Opponent17_D1 1
+Opponent17_G2 Opponent17_D2 0
+Opponent17_G2 Opponent17_D3 3
+Opponent17_G2 Opponent17_D5 0
+Opponent17_G2 Opponent17_F1 0
+Opponent17_G2 Opponent17_F3 0
+Opponent17_G2 Opponent17_F4 0
+Opponent17_G2 Opponent17_M1 0
+Opponent17_G2 Opponent17_M2 2
+Opponent17_G2 Opponent17_M3 0
+Opponent17_G2 Opponent17_M5 0
+Opponent17_G2 Opponent17_M7 0
+Opponent17_G2 Opponent17_M8 0
+Opponent17_G2 Opponent17_G2 0
+
+

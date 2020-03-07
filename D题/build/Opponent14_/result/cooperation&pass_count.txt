@@ -1,0 +1,10 @@
+p.s. Attention ! Oppo is the complex of the opponents.
+[pass count] 
+match id | Opponent14_ team
+14  347  
+38  355  
+
+[cooperation count] 
+match id | Opponent14_ team double-cooperation counts | Opponent14_ tri-cooperation counts
+14 38 183
+38 54 170

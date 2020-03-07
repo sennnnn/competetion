@@ -1,4 +1,6 @@
 # folder
+
+# global
 .vscode/
 __pycache__/
 !build/Oppo*/
@@ -9,4 +11,6 @@ __pycache__/
 /Oppo*.txt
 
 # file
-/try.py
+
+# global
+try.py

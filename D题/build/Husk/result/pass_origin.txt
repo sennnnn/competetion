@@ -1,0 +1,8443 @@
+[1]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 14
+Huskies_D1 Huskies_D3 8
+Huskies_D1 Huskies_D4 1
+Huskies_D1 Huskies_D5 3
+Huskies_D1 Huskies_F1 3
+Huskies_D1 Huskies_F2 3
+Huskies_D1 Huskies_F3 1
+Huskies_D1 Huskies_M1 11
+Huskies_D1 Huskies_M2 1
+Huskies_D1 Huskies_M3 4
+Huskies_D1 Huskies_M4 1
+Huskies_D1 Huskies_M5 0
+Huskies_D1 Huskies_G1 2
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 11
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D3 18
+Huskies_D2 Huskies_D4 0
+Huskies_D2 Huskies_D5 0
+Huskies_D2 Huskies_F1 1
+Huskies_D2 Huskies_F2 3
+Huskies_D2 Huskies_F3 0
+Huskies_D2 Huskies_M1 1
+Huskies_D2 Huskies_M2 0
+Huskies_D2 Huskies_M3 1
+Huskies_D2 Huskies_M4 0
+Huskies_D2 Huskies_M5 0
+Huskies_D2 Huskies_G1 1
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 6
+Huskies_D3 Huskies_D2 6
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 9
+Huskies_D3 Huskies_D5 0
+Huskies_D3 Huskies_F1 1
+Huskies_D3 Huskies_F2 2
+Huskies_D3 Huskies_F3 1
+Huskies_D3 Huskies_M1 4
+Huskies_D3 Huskies_M2 5
+Huskies_D3 Huskies_M3 6
+Huskies_D3 Huskies_M4 1
+Huskies_D3 Huskies_M5 1
+Huskies_D3 Huskies_G1 6
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 0
+Huskies_D4 Huskies_D2 1
+Huskies_D4 Huskies_D3 4
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D5 0
+Huskies_D4 Huskies_F1 1
+Huskies_D4 Huskies_F2 2
+Huskies_D4 Huskies_F3 2
+Huskies_D4 Huskies_M1 1
+Huskies_D4 Huskies_M2 3
+Huskies_D4 Huskies_M3 2
+Huskies_D4 Huskies_M4 1
+Huskies_D4 Huskies_M5 0
+Huskies_D4 Huskies_G1 0
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 1
+Huskies_D5 Huskies_D2 0
+Huskies_D5 Huskies_D3 0
+Huskies_D5 Huskies_D4 0
+Huskies_D5 Huskies_D5 2
+Huskies_D5 Huskies_F1 1
+Huskies_D5 Huskies_F2 8
+Huskies_D5 Huskies_F3 0
+Huskies_D5 Huskies_M1 4
+Huskies_D5 Huskies_M2 0
+Huskies_D5 Huskies_M3 1
+Huskies_D5 Huskies_M4 0
+Huskies_D5 Huskies_M5 0
+Huskies_D5 Huskies_G1 0
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 2
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D5 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 5
+Huskies_F1 Huskies_F3 1
+Huskies_F1 Huskies_M1 1
+Huskies_F1 Huskies_M2 0
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M5 1
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 3
+Huskies_F2 Huskies_D2 0
+Huskies_F2 Huskies_D3 4
+Huskies_F2 Huskies_D4 2
+Huskies_F2 Huskies_D5 4
+Huskies_F2 Huskies_F1 3
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F3 1
+Huskies_F2 Huskies_M1 14
+Huskies_F2 Huskies_M2 0
+Huskies_F2 Huskies_M3 4
+Huskies_F2 Huskies_M4 2
+Huskies_F2 Huskies_M5 1
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F3]
+Huskies_F3 Huskies_D1 0
+Huskies_F3 Huskies_D2 1
+Huskies_F3 Huskies_D3 1
+Huskies_F3 Huskies_D4 0
+Huskies_F3 Huskies_D5 0
+Huskies_F3 Huskies_F1 1
+Huskies_F3 Huskies_F2 3
+Huskies_F3 Huskies_F3 0
+Huskies_F3 Huskies_M1 0
+Huskies_F3 Huskies_M2 1
+Huskies_F3 Huskies_M3 2
+Huskies_F3 Huskies_M4 0
+Huskies_F3 Huskies_M5 0
+Huskies_F3 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 13
+Huskies_M1 Huskies_D2 3
+Huskies_M1 Huskies_D3 0
+Huskies_M1 Huskies_D4 3
+Huskies_M1 Huskies_D5 2
+Huskies_M1 Huskies_F1 5
+Huskies_M1 Huskies_F2 10
+Huskies_M1 Huskies_F3 2
+Huskies_M1 Huskies_M1 1
+Huskies_M1 Huskies_M2 1
+Huskies_M1 Huskies_M3 8
+Huskies_M1 Huskies_M4 2
+Huskies_M1 Huskies_M5 1
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M2]
+Huskies_M2 Huskies_D1 0
+Huskies_M2 Huskies_D2 2
+Huskies_M2 Huskies_D3 2
+Huskies_M2 Huskies_D4 4
+Huskies_M2 Huskies_D5 0
+Huskies_M2 Huskies_F1 1
+Huskies_M2 Huskies_F2 0
+Huskies_M2 Huskies_F3 2
+Huskies_M2 Huskies_M1 1
+Huskies_M2 Huskies_M2 0
+Huskies_M2 Huskies_M3 7
+Huskies_M2 Huskies_M4 0
+Huskies_M2 Huskies_M5 0
+Huskies_M2 Huskies_G1 1
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 6
+Huskies_M3 Huskies_D2 3
+Huskies_M3 Huskies_D3 8
+Huskies_M3 Huskies_D4 2
+Huskies_M3 Huskies_D5 6
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 6
+Huskies_M3 Huskies_F3 1
+Huskies_M3 Huskies_M1 9
+Huskies_M3 Huskies_M2 4
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M5 0
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D2 0
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 2
+Huskies_M4 Huskies_D5 0
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 2
+Huskies_M4 Huskies_F3 2
+Huskies_M4 Huskies_M1 1
+Huskies_M4 Huskies_M2 0
+Huskies_M4 Huskies_M3 2
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M5 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M5]
+Huskies_M5 Huskies_D1 0
+Huskies_M5 Huskies_D2 0
+Huskies_M5 Huskies_D3 0
+Huskies_M5 Huskies_D4 0
+Huskies_M5 Huskies_D5 0
+Huskies_M5 Huskies_F1 0
+Huskies_M5 Huskies_F2 2
+Huskies_M5 Huskies_F3 0
+Huskies_M5 Huskies_M1 0
+Huskies_M5 Huskies_M2 0
+Huskies_M5 Huskies_M3 0
+Huskies_M5 Huskies_M4 1
+Huskies_M5 Huskies_M5 0
+Huskies_M5 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 2
+Huskies_G1 Huskies_D2 0
+Huskies_G1 Huskies_D3 2
+Huskies_G1 Huskies_D4 0
+Huskies_G1 Huskies_D5 2
+Huskies_G1 Huskies_F1 2
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F3 0
+Huskies_G1 Huskies_M1 3
+Huskies_G1 Huskies_M2 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M5 0
+Huskies_G1 Huskies_G1 1
+
+
+[2]
+13
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 4
+Huskies_D1 Huskies_D3 3
+Huskies_D1 Huskies_D4 0
+Huskies_D1 Huskies_D6 5
+Huskies_D1 Huskies_F1 0
+Huskies_D1 Huskies_F2 0
+Huskies_D1 Huskies_M1 3
+Huskies_D1 Huskies_M2 0
+Huskies_D1 Huskies_M3 1
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M6 0
+Huskies_D1 Huskies_M7 0
+Huskies_D1 Huskies_G1 7
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 4
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D3 3
+Huskies_D2 Huskies_D4 0
+Huskies_D2 Huskies_D6 0
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 0
+Huskies_D2 Huskies_M1 1
+Huskies_D2 Huskies_M2 0
+Huskies_D2 Huskies_M3 0
+Huskies_D2 Huskies_M4 1
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_M7 0
+Huskies_D2 Huskies_G1 1
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 3
+Huskies_D3 Huskies_D2 2
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 1
+Huskies_D3 Huskies_D6 0
+Huskies_D3 Huskies_F1 2
+Huskies_D3 Huskies_F2 2
+Huskies_D3 Huskies_M1 1
+Huskies_D3 Huskies_M2 0
+Huskies_D3 Huskies_M3 2
+Huskies_D3 Huskies_M4 0
+Huskies_D3 Huskies_M6 0
+Huskies_D3 Huskies_M7 0
+Huskies_D3 Huskies_G1 8
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 0
+Huskies_D4 Huskies_D2 0
+Huskies_D4 Huskies_D3 4
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D6 0
+Huskies_D4 Huskies_F1 1
+Huskies_D4 Huskies_F2 0
+Huskies_D4 Huskies_M1 0
+Huskies_D4 Huskies_M2 0
+Huskies_D4 Huskies_M3 2
+Huskies_D4 Huskies_M4 1
+Huskies_D4 Huskies_M6 0
+Huskies_D4 Huskies_M7 0
+Huskies_D4 Huskies_G1 1
+
+[Huskies_D6]
+Huskies_D6 Huskies_D1 0
+Huskies_D6 Huskies_D2 0
+Huskies_D6 Huskies_D3 0
+Huskies_D6 Huskies_D4 0
+Huskies_D6 Huskies_D6 1
+Huskies_D6 Huskies_F1 8
+Huskies_D6 Huskies_F2 2
+Huskies_D6 Huskies_M1 2
+Huskies_D6 Huskies_M2 0
+Huskies_D6 Huskies_M3 0
+Huskies_D6 Huskies_M4 2
+Huskies_D6 Huskies_M6 0
+Huskies_D6 Huskies_M7 0
+Huskies_D6 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D6 2
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 3
+Huskies_F1 Huskies_M1 2
+Huskies_F1 Huskies_M2 0
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M6 0
+Huskies_F1 Huskies_M7 1
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 1
+Huskies_F2 Huskies_D2 1
+Huskies_F2 Huskies_D3 2
+Huskies_F2 Huskies_D4 3
+Huskies_F2 Huskies_D6 3
+Huskies_F2 Huskies_F1 3
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_M1 3
+Huskies_F2 Huskies_M2 1
+Huskies_F2 Huskies_M3 1
+Huskies_F2 Huskies_M4 1
+Huskies_F2 Huskies_M6 0
+Huskies_F2 Huskies_M7 0
+Huskies_F2 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 3
+Huskies_M1 Huskies_D2 1
+Huskies_M1 Huskies_D3 2
+Huskies_M1 Huskies_D4 0
+Huskies_M1 Huskies_D6 8
+Huskies_M1 Huskies_F1 3
+Huskies_M1 Huskies_F2 5
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M2 0
+Huskies_M1 Huskies_M3 4
+Huskies_M1 Huskies_M4 1
+Huskies_M1 Huskies_M6 1
+Huskies_M1 Huskies_M7 0
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M2]
+Huskies_M2 Huskies_D1 0
+Huskies_M2 Huskies_D2 0
+Huskies_M2 Huskies_D3 0
+Huskies_M2 Huskies_D4 3
+Huskies_M2 Huskies_D6 0
+Huskies_M2 Huskies_F1 1
+Huskies_M2 Huskies_F2 1
+Huskies_M2 Huskies_M1 0
+Huskies_M2 Huskies_M2 0
+Huskies_M2 Huskies_M3 0
+Huskies_M2 Huskies_M4 0
+Huskies_M2 Huskies_M6 2
+Huskies_M2 Huskies_M7 0
+Huskies_M2 Huskies_G1 1
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 3
+Huskies_M3 Huskies_D2 1
+Huskies_M3 Huskies_D3 1
+Huskies_M3 Huskies_D4 6
+Huskies_M3 Huskies_D6 0
+Huskies_M3 Huskies_F1 1
+Huskies_M3 Huskies_F2 2
+Huskies_M3 Huskies_M1 1
+Huskies_M3 Huskies_M2 0
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M6 1
+Huskies_M3 Huskies_M7 0
+Huskies_M3 Huskies_G1 1
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 1
+Huskies_M4 Huskies_D2 0
+Huskies_M4 Huskies_D3 1
+Huskies_M4 Huskies_D4 0
+Huskies_M4 Huskies_D6 2
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 2
+Huskies_M4 Huskies_M1 2
+Huskies_M4 Huskies_M2 0
+Huskies_M4 Huskies_M3 1
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 0
+Huskies_M4 Huskies_M7 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D3 0
+Huskies_M6 Huskies_D4 2
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_F1 0
+Huskies_M6 Huskies_F2 2
+Huskies_M6 Huskies_M1 0
+Huskies_M6 Huskies_M2 0
+Huskies_M6 Huskies_M3 1
+Huskies_M6 Huskies_M4 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M7 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 1
+Huskies_G1 Huskies_D2 0
+Huskies_G1 Huskies_D3 1
+Huskies_G1 Huskies_D4 0
+Huskies_G1 Huskies_D6 1
+Huskies_G1 Huskies_F1 1
+Huskies_G1 Huskies_F2 1
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M2 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M7 0
+Huskies_G1 Huskies_G1 0
+
+
+[3]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 10
+Huskies_D1 Huskies_D3 0
+Huskies_D1 Huskies_D4 0
+Huskies_D1 Huskies_D6 6
+Huskies_D1 Huskies_F1 1
+Huskies_D1 Huskies_F2 3
+Huskies_D1 Huskies_F3 1
+Huskies_D1 Huskies_M1 1
+Huskies_D1 Huskies_M4 2
+Huskies_D1 Huskies_M6 0
+Huskies_D1 Huskies_M7 4
+Huskies_D1 Huskies_M8 0
+Huskies_D1 Huskies_G1 9
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 7
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D3 9
+Huskies_D2 Huskies_D4 0
+Huskies_D2 Huskies_D6 0
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 6
+Huskies_D2 Huskies_F3 0
+Huskies_D2 Huskies_M1 4
+Huskies_D2 Huskies_M4 3
+Huskies_D2 Huskies_M6 3
+Huskies_D2 Huskies_M7 2
+Huskies_D2 Huskies_M8 0
+Huskies_D2 Huskies_G1 3
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 3
+Huskies_D3 Huskies_D2 6
+Huskies_D3 Huskies_D3 2
+Huskies_D3 Huskies_D4 13
+Huskies_D3 Huskies_D6 0
+Huskies_D3 Huskies_F1 0
+Huskies_D3 Huskies_F2 0
+Huskies_D3 Huskies_F3 0
+Huskies_D3 Huskies_M1 2
+Huskies_D3 Huskies_M4 3
+Huskies_D3 Huskies_M6 1
+Huskies_D3 Huskies_M7 3
+Huskies_D3 Huskies_M8 0
+Huskies_D3 Huskies_G1 8
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 1
+Huskies_D4 Huskies_D2 2
+Huskies_D4 Huskies_D3 6
+Huskies_D4 Huskies_D4 1
+Huskies_D4 Huskies_D6 0
+Huskies_D4 Huskies_F1 1
+Huskies_D4 Huskies_F2 1
+Huskies_D4 Huskies_F3 0
+Huskies_D4 Huskies_M1 4
+Huskies_D4 Huskies_M4 2
+Huskies_D4 Huskies_M6 0
+Huskies_D4 Huskies_M7 0
+Huskies_D4 Huskies_M8 0
+Huskies_D4 Huskies_G1 1
+
+[Huskies_D6]
+Huskies_D6 Huskies_D1 4
+Huskies_D6 Huskies_D2 1
+Huskies_D6 Huskies_D3 0
+Huskies_D6 Huskies_D4 0
+Huskies_D6 Huskies_D6 1
+Huskies_D6 Huskies_F1 0
+Huskies_D6 Huskies_F2 6
+Huskies_D6 Huskies_F3 2
+Huskies_D6 Huskies_M1 1
+Huskies_D6 Huskies_M4 0
+Huskies_D6 Huskies_M6 3
+Huskies_D6 Huskies_M7 1
+Huskies_D6 Huskies_M8 0
+Huskies_D6 Huskies_G1 2
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D6 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F3 0
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M6 1
+Huskies_F1 Huskies_M7 0
+Huskies_F1 Huskies_M8 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 2
+Huskies_F2 Huskies_D2 1
+Huskies_F2 Huskies_D3 2
+Huskies_F2 Huskies_D4 0
+Huskies_F2 Huskies_D6 9
+Huskies_F2 Huskies_F1 2
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F3 4
+Huskies_F2 Huskies_M1 2
+Huskies_F2 Huskies_M4 2
+Huskies_F2 Huskies_M6 6
+Huskies_F2 Huskies_M7 0
+Huskies_F2 Huskies_M8 1
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F3]
+Huskies_F3 Huskies_D1 0
+Huskies_F3 Huskies_D2 0
+Huskies_F3 Huskies_D3 1
+Huskies_F3 Huskies_D4 0
+Huskies_F3 Huskies_D6 2
+Huskies_F3 Huskies_F1 0
+Huskies_F3 Huskies_F2 3
+Huskies_F3 Huskies_F3 0
+Huskies_F3 Huskies_M1 2
+Huskies_F3 Huskies_M4 0
+Huskies_F3 Huskies_M6 1
+Huskies_F3 Huskies_M7 0
+Huskies_F3 Huskies_M8 0
+Huskies_F3 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 4
+Huskies_M1 Huskies_D2 2
+Huskies_M1 Huskies_D3 3
+Huskies_M1 Huskies_D4 3
+Huskies_M1 Huskies_D6 1
+Huskies_M1 Huskies_F1 1
+Huskies_M1 Huskies_F2 6
+Huskies_M1 Huskies_F3 2
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M4 5
+Huskies_M1 Huskies_M6 4
+Huskies_M1 Huskies_M7 3
+Huskies_M1 Huskies_M8 0
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 3
+Huskies_M4 Huskies_D2 3
+Huskies_M4 Huskies_D3 2
+Huskies_M4 Huskies_D4 1
+Huskies_M4 Huskies_D6 2
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 4
+Huskies_M4 Huskies_F3 1
+Huskies_M4 Huskies_M1 7
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 0
+Huskies_M4 Huskies_M7 0
+Huskies_M4 Huskies_M8 0
+Huskies_M4 Huskies_G1 1
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D3 0
+Huskies_M6 Huskies_D4 8
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_F1 0
+Huskies_M6 Huskies_F2 4
+Huskies_M6 Huskies_F3 1
+Huskies_M6 Huskies_M1 3
+Huskies_M6 Huskies_M4 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M7 4
+Huskies_M6 Huskies_M8 1
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M7]
+Huskies_M7 Huskies_D1 3
+Huskies_M7 Huskies_D2 1
+Huskies_M7 Huskies_D3 3
+Huskies_M7 Huskies_D4 1
+Huskies_M7 Huskies_D6 3
+Huskies_M7 Huskies_F1 0
+Huskies_M7 Huskies_F2 2
+Huskies_M7 Huskies_F3 0
+Huskies_M7 Huskies_M1 5
+Huskies_M7 Huskies_M4 0
+Huskies_M7 Huskies_M6 2
+Huskies_M7 Huskies_M7 0
+Huskies_M7 Huskies_M8 0
+Huskies_M7 Huskies_G1 2
+
+[Huskies_M8]
+Huskies_M8 Huskies_D1 0
+Huskies_M8 Huskies_D2 0
+Huskies_M8 Huskies_D3 0
+Huskies_M8 Huskies_D4 0
+Huskies_M8 Huskies_D6 1
+Huskies_M8 Huskies_F1 0
+Huskies_M8 Huskies_F2 0
+Huskies_M8 Huskies_F3 0
+Huskies_M8 Huskies_M1 1
+Huskies_M8 Huskies_M4 0
+Huskies_M8 Huskies_M6 0
+Huskies_M8 Huskies_M7 0
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 2
+Huskies_G1 Huskies_D2 3
+Huskies_G1 Huskies_D3 6
+Huskies_G1 Huskies_D4 0
+Huskies_G1 Huskies_D6 2
+Huskies_G1 Huskies_F1 4
+Huskies_G1 Huskies_F2 2
+Huskies_G1 Huskies_F3 1
+Huskies_G1 Huskies_M1 3
+Huskies_G1 Huskies_M4 1
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M7 0
+Huskies_G1 Huskies_M8 0
+Huskies_G1 Huskies_G1 0
+
+
+[4]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 7
+Huskies_D1 Huskies_D4 1
+Huskies_D1 Huskies_D5 14
+Huskies_D1 Huskies_F1 0
+Huskies_D1 Huskies_F2 2
+Huskies_D1 Huskies_F3 0
+Huskies_D1 Huskies_M1 2
+Huskies_D1 Huskies_M2 2
+Huskies_D1 Huskies_M3 3
+Huskies_D1 Huskies_M4 1
+Huskies_D1 Huskies_M6 0
+Huskies_D1 Huskies_M9 1
+Huskies_D1 Huskies_G1 6
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 7
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D4 13
+Huskies_D2 Huskies_D5 2
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 1
+Huskies_D2 Huskies_F3 0
+Huskies_D2 Huskies_M1 1
+Huskies_D2 Huskies_M2 0
+Huskies_D2 Huskies_M3 6
+Huskies_D2 Huskies_M4 6
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_M9 0
+Huskies_D2 Huskies_G1 7
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 0
+Huskies_D4 Huskies_D2 8
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D5 1
+Huskies_D4 Huskies_F1 0
+Huskies_D4 Huskies_F2 6
+Huskies_D4 Huskies_F3 3
+Huskies_D4 Huskies_M1 2
+Huskies_D4 Huskies_M2 2
+Huskies_D4 Huskies_M3 5
+Huskies_D4 Huskies_M4 5
+Huskies_D4 Huskies_M6 7
+Huskies_D4 Huskies_M9 2
+Huskies_D4 Huskies_G1 2
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 8
+Huskies_D5 Huskies_D2 0
+Huskies_D5 Huskies_D4 0
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_F1 2
+Huskies_D5 Huskies_F2 11
+Huskies_D5 Huskies_F3 4
+Huskies_D5 Huskies_M1 10
+Huskies_D5 Huskies_M2 1
+Huskies_D5 Huskies_M3 7
+Huskies_D5 Huskies_M4 1
+Huskies_D5 Huskies_M6 1
+Huskies_D5 Huskies_M9 0
+Huskies_D5 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 1
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D5 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F3 0
+Huskies_F1 Huskies_M1 1
+Huskies_F1 Huskies_M2 0
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M6 0
+Huskies_F1 Huskies_M9 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 2
+Huskies_F2 Huskies_D2 0
+Huskies_F2 Huskies_D4 1
+Huskies_F2 Huskies_D5 5
+Huskies_F2 Huskies_F1 1
+Huskies_F2 Huskies_F2 1
+Huskies_F2 Huskies_F3 1
+Huskies_F2 Huskies_M1 5
+Huskies_F2 Huskies_M2 3
+Huskies_F2 Huskies_M3 2
+Huskies_F2 Huskies_M4 2
+Huskies_F2 Huskies_M6 0
+Huskies_F2 Huskies_M9 1
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F3]
+Huskies_F3 Huskies_D1 0
+Huskies_F3 Huskies_D2 1
+Huskies_F3 Huskies_D4 2
+Huskies_F3 Huskies_D5 3
+Huskies_F3 Huskies_F1 0
+Huskies_F3 Huskies_F2 2
+Huskies_F3 Huskies_F3 0
+Huskies_F3 Huskies_M1 0
+Huskies_F3 Huskies_M2 0
+Huskies_F3 Huskies_M3 0
+Huskies_F3 Huskies_M4 0
+Huskies_F3 Huskies_M6 1
+Huskies_F3 Huskies_M9 0
+Huskies_F3 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 1
+Huskies_M1 Huskies_D2 6
+Huskies_M1 Huskies_D4 3
+Huskies_M1 Huskies_D5 5
+Huskies_M1 Huskies_F1 1
+Huskies_M1 Huskies_F2 3
+Huskies_M1 Huskies_F3 3
+Huskies_M1 Huskies_M1 1
+Huskies_M1 Huskies_M2 2
+Huskies_M1 Huskies_M3 2
+Huskies_M1 Huskies_M4 1
+Huskies_M1 Huskies_M6 5
+Huskies_M1 Huskies_M9 0
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M2]
+Huskies_M2 Huskies_D1 0
+Huskies_M2 Huskies_D2 0
+Huskies_M2 Huskies_D4 1
+Huskies_M2 Huskies_D5 2
+Huskies_M2 Huskies_F1 0
+Huskies_M2 Huskies_F2 1
+Huskies_M2 Huskies_F3 0
+Huskies_M2 Huskies_M1 0
+Huskies_M2 Huskies_M2 1
+Huskies_M2 Huskies_M3 1
+Huskies_M2 Huskies_M4 0
+Huskies_M2 Huskies_M6 4
+Huskies_M2 Huskies_M9 0
+Huskies_M2 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 4
+Huskies_M3 Huskies_D2 6
+Huskies_M3 Huskies_D4 5
+Huskies_M3 Huskies_D5 4
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 1
+Huskies_M3 Huskies_F3 1
+Huskies_M3 Huskies_M1 5
+Huskies_M3 Huskies_M2 0
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M6 3
+Huskies_M3 Huskies_M9 0
+Huskies_M3 Huskies_G1 3
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D2 5
+Huskies_M4 Huskies_D4 3
+Huskies_M4 Huskies_D5 3
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 1
+Huskies_M4 Huskies_F3 0
+Huskies_M4 Huskies_M1 1
+Huskies_M4 Huskies_M2 0
+Huskies_M4 Huskies_M3 3
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 1
+Huskies_M4 Huskies_M9 1
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 1
+Huskies_M6 Huskies_D2 3
+Huskies_M6 Huskies_D4 8
+Huskies_M6 Huskies_D5 2
+Huskies_M6 Huskies_F1 0
+Huskies_M6 Huskies_F2 5
+Huskies_M6 Huskies_F3 3
+Huskies_M6 Huskies_M1 1
+Huskies_M6 Huskies_M2 2
+Huskies_M6 Huskies_M3 2
+Huskies_M6 Huskies_M4 1
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M9 1
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D1 0
+Huskies_M9 Huskies_D2 1
+Huskies_M9 Huskies_D4 0
+Huskies_M9 Huskies_D5 0
+Huskies_M9 Huskies_F1 1
+Huskies_M9 Huskies_F2 1
+Huskies_M9 Huskies_F3 0
+Huskies_M9 Huskies_M1 0
+Huskies_M9 Huskies_M2 0
+Huskies_M9 Huskies_M3 0
+Huskies_M9 Huskies_M4 1
+Huskies_M9 Huskies_M6 0
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 4
+Huskies_G1 Huskies_D2 2
+Huskies_G1 Huskies_D4 2
+Huskies_G1 Huskies_D5 5
+Huskies_G1 Huskies_F1 1
+Huskies_G1 Huskies_F2 1
+Huskies_G1 Huskies_F3 3
+Huskies_G1 Huskies_M1 1
+Huskies_G1 Huskies_M2 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 2
+Huskies_G1 Huskies_M9 0
+Huskies_G1 Huskies_G1 0
+
+
+[5]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 5
+Huskies_D1 Huskies_D3 2
+Huskies_D1 Huskies_D4 1
+Huskies_D1 Huskies_D5 12
+Huskies_D1 Huskies_F1 2
+Huskies_D1 Huskies_F2 3
+Huskies_D1 Huskies_F3 1
+Huskies_D1 Huskies_M1 3
+Huskies_D1 Huskies_M3 4
+Huskies_D1 Huskies_M4 2
+Huskies_D1 Huskies_M5 0
+Huskies_D1 Huskies_M6 1
+Huskies_D1 Huskies_G1 3
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 5
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D3 6
+Huskies_D2 Huskies_D4 0
+Huskies_D2 Huskies_D5 1
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 1
+Huskies_D2 Huskies_F3 0
+Huskies_D2 Huskies_M1 2
+Huskies_D2 Huskies_M3 2
+Huskies_D2 Huskies_M4 1
+Huskies_D2 Huskies_M5 1
+Huskies_D2 Huskies_M6 1
+Huskies_D2 Huskies_G1 5
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 1
+Huskies_D3 Huskies_D2 9
+Huskies_D3 Huskies_D3 1
+Huskies_D3 Huskies_D4 4
+Huskies_D3 Huskies_D5 1
+Huskies_D3 Huskies_F1 0
+Huskies_D3 Huskies_F2 1
+Huskies_D3 Huskies_F3 0
+Huskies_D3 Huskies_M1 4
+Huskies_D3 Huskies_M3 9
+Huskies_D3 Huskies_M4 1
+Huskies_D3 Huskies_M5 0
+Huskies_D3 Huskies_M6 2
+Huskies_D3 Huskies_G1 5
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 0
+Huskies_D4 Huskies_D2 0
+Huskies_D4 Huskies_D3 3
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D5 0
+Huskies_D4 Huskies_F1 2
+Huskies_D4 Huskies_F2 7
+Huskies_D4 Huskies_F3 3
+Huskies_D4 Huskies_M1 2
+Huskies_D4 Huskies_M3 5
+Huskies_D4 Huskies_M4 0
+Huskies_D4 Huskies_M5 1
+Huskies_D4 Huskies_M6 5
+Huskies_D4 Huskies_G1 0
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 6
+Huskies_D5 Huskies_D2 0
+Huskies_D5 Huskies_D3 0
+Huskies_D5 Huskies_D4 0
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_F1 0
+Huskies_D5 Huskies_F2 6
+Huskies_D5 Huskies_F3 1
+Huskies_D5 Huskies_M1 4
+Huskies_D5 Huskies_M3 5
+Huskies_D5 Huskies_M4 5
+Huskies_D5 Huskies_M5 2
+Huskies_D5 Huskies_M6 1
+Huskies_D5 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D3 1
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D5 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F3 1
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M5 0
+Huskies_F1 Huskies_M6 1
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 3
+Huskies_F2 Huskies_D2 1
+Huskies_F2 Huskies_D3 1
+Huskies_F2 Huskies_D4 5
+Huskies_F2 Huskies_D5 2
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F3 0
+Huskies_F2 Huskies_M1 9
+Huskies_F2 Huskies_M3 3
+Huskies_F2 Huskies_M4 5
+Huskies_F2 Huskies_M5 0
+Huskies_F2 Huskies_M6 4
+Huskies_F2 Huskies_G1 1
+
+[Huskies_F3]
+Huskies_F3 Huskies_D1 1
+Huskies_F3 Huskies_D2 0
+Huskies_F3 Huskies_D3 1
+Huskies_F3 Huskies_D4 1
+Huskies_F3 Huskies_D5 0
+Huskies_F3 Huskies_F1 1
+Huskies_F3 Huskies_F2 1
+Huskies_F3 Huskies_F3 0
+Huskies_F3 Huskies_M1 3
+Huskies_F3 Huskies_M3 0
+Huskies_F3 Huskies_M4 0
+Huskies_F3 Huskies_M5 0
+Huskies_F3 Huskies_M6 1
+Huskies_F3 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 3
+Huskies_M1 Huskies_D2 1
+Huskies_M1 Huskies_D3 6
+Huskies_M1 Huskies_D4 3
+Huskies_M1 Huskies_D5 3
+Huskies_M1 Huskies_F1 0
+Huskies_M1 Huskies_F2 15
+Huskies_M1 Huskies_F3 0
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 13
+Huskies_M1 Huskies_M4 4
+Huskies_M1 Huskies_M5 0
+Huskies_M1 Huskies_M6 5
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 9
+Huskies_M3 Huskies_D2 4
+Huskies_M3 Huskies_D3 7
+Huskies_M3 Huskies_D4 3
+Huskies_M3 Huskies_D5 5
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 5
+Huskies_M3 Huskies_F3 2
+Huskies_M3 Huskies_M1 12
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 1
+Huskies_M3 Huskies_M5 1
+Huskies_M3 Huskies_M6 8
+Huskies_M3 Huskies_G1 1
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 1
+Huskies_M4 Huskies_D2 0
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 0
+Huskies_M4 Huskies_D5 3
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 5
+Huskies_M4 Huskies_F3 0
+Huskies_M4 Huskies_M1 3
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M5 0
+Huskies_M4 Huskies_M6 2
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M5]
+Huskies_M5 Huskies_D1 1
+Huskies_M5 Huskies_D2 0
+Huskies_M5 Huskies_D3 0
+Huskies_M5 Huskies_D4 0
+Huskies_M5 Huskies_D5 0
+Huskies_M5 Huskies_F1 0
+Huskies_M5 Huskies_F2 0
+Huskies_M5 Huskies_F3 2
+Huskies_M5 Huskies_M1 0
+Huskies_M5 Huskies_M3 0
+Huskies_M5 Huskies_M4 0
+Huskies_M5 Huskies_M5 1
+Huskies_M5 Huskies_M6 0
+Huskies_M5 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 4
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D3 1
+Huskies_M6 Huskies_D4 6
+Huskies_M6 Huskies_D5 2
+Huskies_M6 Huskies_F1 1
+Huskies_M6 Huskies_F2 3
+Huskies_M6 Huskies_F3 1
+Huskies_M6 Huskies_M1 6
+Huskies_M6 Huskies_M3 4
+Huskies_M6 Huskies_M4 0
+Huskies_M6 Huskies_M5 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 2
+Huskies_G1 Huskies_D2 1
+Huskies_G1 Huskies_D3 4
+Huskies_G1 Huskies_D4 1
+Huskies_G1 Huskies_D5 1
+Huskies_G1 Huskies_F1 2
+Huskies_G1 Huskies_F2 3
+Huskies_G1 Huskies_F3 0
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 2
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M5 1
+Huskies_G1 Huskies_M6 1
+Huskies_G1 Huskies_G1 0
+
+
+[6]
+14
+[Huskies_D2]
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D4 4
+Huskies_D2 Huskies_D5 2
+Huskies_D2 Huskies_D6 11
+Huskies_D2 Huskies_D7 0
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 0
+Huskies_D2 Huskies_F4 0
+Huskies_D2 Huskies_M1 3
+Huskies_D2 Huskies_M2 0
+Huskies_D2 Huskies_M3 6
+Huskies_D2 Huskies_M4 0
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_G1 2
+
+[Huskies_D4]
+Huskies_D4 Huskies_D2 5
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D5 0
+Huskies_D4 Huskies_D6 0
+Huskies_D4 Huskies_D7 0
+Huskies_D4 Huskies_F1 2
+Huskies_D4 Huskies_F2 0
+Huskies_D4 Huskies_F4 3
+Huskies_D4 Huskies_M1 5
+Huskies_D4 Huskies_M2 3
+Huskies_D4 Huskies_M3 1
+Huskies_D4 Huskies_M4 0
+Huskies_D4 Huskies_M6 2
+Huskies_D4 Huskies_G1 2
+
+[Huskies_D5]
+Huskies_D5 Huskies_D2 0
+Huskies_D5 Huskies_D4 0
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D6 3
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_F1 4
+Huskies_D5 Huskies_F2 4
+Huskies_D5 Huskies_F4 1
+Huskies_D5 Huskies_M1 5
+Huskies_D5 Huskies_M2 2
+Huskies_D5 Huskies_M3 3
+Huskies_D5 Huskies_M4 1
+Huskies_D5 Huskies_M6 1
+Huskies_D5 Huskies_G1 2
+
+[Huskies_D6]
+Huskies_D6 Huskies_D2 4
+Huskies_D6 Huskies_D4 0
+Huskies_D6 Huskies_D5 2
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D7 0
+Huskies_D6 Huskies_F1 4
+Huskies_D6 Huskies_F2 2
+Huskies_D6 Huskies_F4 1
+Huskies_D6 Huskies_M1 3
+Huskies_D6 Huskies_M2 1
+Huskies_D6 Huskies_M3 8
+Huskies_D6 Huskies_M4 0
+Huskies_D6 Huskies_M6 0
+Huskies_D6 Huskies_G1 4
+
+[Huskies_D7]
+Huskies_D7 Huskies_D2 0
+Huskies_D7 Huskies_D4 0
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D6 0
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 2
+Huskies_D7 Huskies_F2 0
+Huskies_D7 Huskies_F4 0
+Huskies_D7 Huskies_M1 1
+Huskies_D7 Huskies_M2 0
+Huskies_D7 Huskies_M3 0
+Huskies_D7 Huskies_M4 1
+Huskies_D7 Huskies_M6 0
+Huskies_D7 Huskies_G1 0
+
+[Huskies_F1]
+Huskies_F1 Huskies_D2 1
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D5 0
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_D7 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 2
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M2 0
+Huskies_F1 Huskies_M3 2
+Huskies_F1 Huskies_M4 5
+Huskies_F1 Huskies_M6 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D2 0
+Huskies_F2 Huskies_D4 0
+Huskies_F2 Huskies_D5 4
+Huskies_F2 Huskies_D6 1
+Huskies_F2 Huskies_D7 0
+Huskies_F2 Huskies_F1 2
+Huskies_F2 Huskies_F2 1
+Huskies_F2 Huskies_F4 0
+Huskies_F2 Huskies_M1 4
+Huskies_F2 Huskies_M2 2
+Huskies_F2 Huskies_M3 4
+Huskies_F2 Huskies_M4 0
+Huskies_F2 Huskies_M6 1
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D4 2
+Huskies_F4 Huskies_D5 0
+Huskies_F4 Huskies_D6 0
+Huskies_F4 Huskies_D7 0
+Huskies_F4 Huskies_F1 1
+Huskies_F4 Huskies_F2 0
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_M1 0
+Huskies_F4 Huskies_M2 0
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M4 1
+Huskies_F4 Huskies_M6 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D2 3
+Huskies_M1 Huskies_D4 7
+Huskies_M1 Huskies_D5 8
+Huskies_M1 Huskies_D6 4
+Huskies_M1 Huskies_D7 2
+Huskies_M1 Huskies_F1 1
+Huskies_M1 Huskies_F2 11
+Huskies_M1 Huskies_F4 1
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M2 3
+Huskies_M1 Huskies_M3 11
+Huskies_M1 Huskies_M4 5
+Huskies_M1 Huskies_M6 6
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M2]
+Huskies_M2 Huskies_D2 1
+Huskies_M2 Huskies_D4 1
+Huskies_M2 Huskies_D5 1
+Huskies_M2 Huskies_D6 1
+Huskies_M2 Huskies_D7 0
+Huskies_M2 Huskies_F1 2
+Huskies_M2 Huskies_F2 2
+Huskies_M2 Huskies_F4 0
+Huskies_M2 Huskies_M1 2
+Huskies_M2 Huskies_M2 0
+Huskies_M2 Huskies_M3 3
+Huskies_M2 Huskies_M4 0
+Huskies_M2 Huskies_M6 2
+Huskies_M2 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D2 10
+Huskies_M3 Huskies_D4 4
+Huskies_M3 Huskies_D5 5
+Huskies_M3 Huskies_D6 2
+Huskies_M3 Huskies_D7 1
+Huskies_M3 Huskies_F1 1
+Huskies_M3 Huskies_F2 1
+Huskies_M3 Huskies_F4 1
+Huskies_M3 Huskies_M1 18
+Huskies_M3 Huskies_M2 1
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 1
+Huskies_M3 Huskies_M6 7
+Huskies_M3 Huskies_G1 1
+
+[Huskies_M4]
+Huskies_M4 Huskies_D2 1
+Huskies_M4 Huskies_D4 0
+Huskies_M4 Huskies_D5 4
+Huskies_M4 Huskies_D6 0
+Huskies_M4 Huskies_D7 1
+Huskies_M4 Huskies_F1 2
+Huskies_M4 Huskies_F2 0
+Huskies_M4 Huskies_F4 1
+Huskies_M4 Huskies_M1 4
+Huskies_M4 Huskies_M2 0
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D2 1
+Huskies_M6 Huskies_D4 6
+Huskies_M6 Huskies_D5 2
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_D7 0
+Huskies_M6 Huskies_F1 3
+Huskies_M6 Huskies_F2 0
+Huskies_M6 Huskies_F4 0
+Huskies_M6 Huskies_M1 5
+Huskies_M6 Huskies_M2 2
+Huskies_M6 Huskies_M3 1
+Huskies_M6 Huskies_M4 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_G1 1
+
+[Huskies_G1]
+Huskies_G1 Huskies_D2 1
+Huskies_G1 Huskies_D4 1
+Huskies_G1 Huskies_D5 2
+Huskies_G1 Huskies_D6 1
+Huskies_G1 Huskies_D7 0
+Huskies_G1 Huskies_F1 1
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_M1 1
+Huskies_G1 Huskies_M2 0
+Huskies_G1 Huskies_M3 3
+Huskies_G1 Huskies_M4 1
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_G1 0
+
+
+[7]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 9
+Huskies_D1 Huskies_D4 3
+Huskies_D1 Huskies_D5 11
+Huskies_D1 Huskies_F1 2
+Huskies_D1 Huskies_F2 0
+Huskies_D1 Huskies_F3 0
+Huskies_D1 Huskies_F4 1
+Huskies_D1 Huskies_M1 7
+Huskies_D1 Huskies_M3 3
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M6 3
+Huskies_D1 Huskies_M9 0
+Huskies_D1 Huskies_G1 4
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 10
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D4 14
+Huskies_D2 Huskies_D5 4
+Huskies_D2 Huskies_F1 1
+Huskies_D2 Huskies_F2 1
+Huskies_D2 Huskies_F3 1
+Huskies_D2 Huskies_F4 3
+Huskies_D2 Huskies_M1 4
+Huskies_D2 Huskies_M3 3
+Huskies_D2 Huskies_M4 0
+Huskies_D2 Huskies_M6 1
+Huskies_D2 Huskies_M9 1
+Huskies_D2 Huskies_G1 6
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 1
+Huskies_D4 Huskies_D2 10
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D5 0
+Huskies_D4 Huskies_F1 2
+Huskies_D4 Huskies_F2 0
+Huskies_D4 Huskies_F3 1
+Huskies_D4 Huskies_F4 6
+Huskies_D4 Huskies_M1 3
+Huskies_D4 Huskies_M3 7
+Huskies_D4 Huskies_M4 3
+Huskies_D4 Huskies_M6 7
+Huskies_D4 Huskies_M9 0
+Huskies_D4 Huskies_G1 1
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 9
+Huskies_D5 Huskies_D2 2
+Huskies_D5 Huskies_D4 0
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_F1 6
+Huskies_D5 Huskies_F2 2
+Huskies_D5 Huskies_F3 1
+Huskies_D5 Huskies_F4 1
+Huskies_D5 Huskies_M1 14
+Huskies_D5 Huskies_M3 2
+Huskies_D5 Huskies_M4 1
+Huskies_D5 Huskies_M6 1
+Huskies_D5 Huskies_M9 5
+Huskies_D5 Huskies_G1 2
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 2
+Huskies_F1 Huskies_D4 3
+Huskies_F1 Huskies_D5 2
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 1
+Huskies_F1 Huskies_F3 0
+Huskies_F1 Huskies_F4 1
+Huskies_F1 Huskies_M1 2
+Huskies_F1 Huskies_M3 2
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M6 2
+Huskies_F1 Huskies_M9 1
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 0
+Huskies_F2 Huskies_D2 2
+Huskies_F2 Huskies_D4 5
+Huskies_F2 Huskies_D5 1
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F3 0
+Huskies_F2 Huskies_F4 0
+Huskies_F2 Huskies_M1 2
+Huskies_F2 Huskies_M3 0
+Huskies_F2 Huskies_M4 1
+Huskies_F2 Huskies_M6 2
+Huskies_F2 Huskies_M9 0
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F3]
+Huskies_F3 Huskies_D1 1
+Huskies_F3 Huskies_D2 0
+Huskies_F3 Huskies_D4 0
+Huskies_F3 Huskies_D5 1
+Huskies_F3 Huskies_F1 0
+Huskies_F3 Huskies_F2 2
+Huskies_F3 Huskies_F3 0
+Huskies_F3 Huskies_F4 0
+Huskies_F3 Huskies_M1 0
+Huskies_F3 Huskies_M3 0
+Huskies_F3 Huskies_M4 1
+Huskies_F3 Huskies_M6 0
+Huskies_F3 Huskies_M9 0
+Huskies_F3 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D4 2
+Huskies_F4 Huskies_D5 1
+Huskies_F4 Huskies_F1 0
+Huskies_F4 Huskies_F2 0
+Huskies_F4 Huskies_F3 0
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_M1 2
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M4 0
+Huskies_F4 Huskies_M6 4
+Huskies_F4 Huskies_M9 1
+Huskies_F4 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 7
+Huskies_M1 Huskies_D2 8
+Huskies_M1 Huskies_D4 2
+Huskies_M1 Huskies_D5 14
+Huskies_M1 Huskies_F1 2
+Huskies_M1 Huskies_F2 2
+Huskies_M1 Huskies_F3 2
+Huskies_M1 Huskies_F4 5
+Huskies_M1 Huskies_M1 1
+Huskies_M1 Huskies_M3 10
+Huskies_M1 Huskies_M4 1
+Huskies_M1 Huskies_M6 3
+Huskies_M1 Huskies_M9 3
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 4
+Huskies_M3 Huskies_D2 3
+Huskies_M3 Huskies_D4 7
+Huskies_M3 Huskies_D5 3
+Huskies_M3 Huskies_F1 2
+Huskies_M3 Huskies_F2 0
+Huskies_M3 Huskies_F3 0
+Huskies_M3 Huskies_F4 1
+Huskies_M3 Huskies_M1 10
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M6 5
+Huskies_M3 Huskies_M9 1
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D2 1
+Huskies_M4 Huskies_D4 2
+Huskies_M4 Huskies_D5 0
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 2
+Huskies_M4 Huskies_F3 0
+Huskies_M4 Huskies_F4 0
+Huskies_M4 Huskies_M1 2
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 1
+Huskies_M4 Huskies_M6 1
+Huskies_M4 Huskies_M9 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D2 3
+Huskies_M6 Huskies_D4 3
+Huskies_M6 Huskies_D5 2
+Huskies_M6 Huskies_F1 2
+Huskies_M6 Huskies_F2 2
+Huskies_M6 Huskies_F3 0
+Huskies_M6 Huskies_F4 4
+Huskies_M6 Huskies_M1 2
+Huskies_M6 Huskies_M3 2
+Huskies_M6 Huskies_M4 1
+Huskies_M6 Huskies_M6 1
+Huskies_M6 Huskies_M9 1
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D1 0
+Huskies_M9 Huskies_D2 0
+Huskies_M9 Huskies_D4 1
+Huskies_M9 Huskies_D5 6
+Huskies_M9 Huskies_F1 1
+Huskies_M9 Huskies_F2 1
+Huskies_M9 Huskies_F3 0
+Huskies_M9 Huskies_F4 1
+Huskies_M9 Huskies_M1 3
+Huskies_M9 Huskies_M3 1
+Huskies_M9 Huskies_M4 0
+Huskies_M9 Huskies_M6 2
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 4
+Huskies_G1 Huskies_D2 3
+Huskies_G1 Huskies_D4 2
+Huskies_G1 Huskies_D5 0
+Huskies_G1 Huskies_F1 4
+Huskies_G1 Huskies_F2 1
+Huskies_G1 Huskies_F3 0
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M9 1
+Huskies_G1 Huskies_G1 0
+
+
+[8]
+13
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 13
+Huskies_D1 Huskies_D4 2
+Huskies_D1 Huskies_D6 8
+Huskies_D1 Huskies_F1 1
+Huskies_D1 Huskies_F2 2
+Huskies_D1 Huskies_F4 0
+Huskies_D1 Huskies_M1 10
+Huskies_D1 Huskies_M3 3
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M5 0
+Huskies_D1 Huskies_M6 0
+Huskies_D1 Huskies_M9 3
+Huskies_D1 Huskies_G1 3
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 13
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 8
+Huskies_D3 Huskies_D6 0
+Huskies_D3 Huskies_F1 3
+Huskies_D3 Huskies_F2 0
+Huskies_D3 Huskies_F4 0
+Huskies_D3 Huskies_M1 4
+Huskies_D3 Huskies_M3 5
+Huskies_D3 Huskies_M4 0
+Huskies_D3 Huskies_M5 1
+Huskies_D3 Huskies_M6 1
+Huskies_D3 Huskies_M9 0
+Huskies_D3 Huskies_G1 6
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 4
+Huskies_D4 Huskies_D3 6
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D6 0
+Huskies_D4 Huskies_F1 5
+Huskies_D4 Huskies_F2 5
+Huskies_D4 Huskies_F4 0
+Huskies_D4 Huskies_M1 2
+Huskies_D4 Huskies_M3 5
+Huskies_D4 Huskies_M4 0
+Huskies_D4 Huskies_M5 0
+Huskies_D4 Huskies_M6 1
+Huskies_D4 Huskies_M9 1
+Huskies_D4 Huskies_G1 3
+
+[Huskies_D6]
+Huskies_D6 Huskies_D1 5
+Huskies_D6 Huskies_D3 1
+Huskies_D6 Huskies_D4 1
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_F1 1
+Huskies_D6 Huskies_F2 2
+Huskies_D6 Huskies_F4 1
+Huskies_D6 Huskies_M1 2
+Huskies_D6 Huskies_M3 0
+Huskies_D6 Huskies_M4 0
+Huskies_D6 Huskies_M5 0
+Huskies_D6 Huskies_M6 1
+Huskies_D6 Huskies_M9 3
+Huskies_D6 Huskies_G1 3
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 4
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 2
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_M1 3
+Huskies_F1 Huskies_M3 2
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M5 0
+Huskies_F1 Huskies_M6 1
+Huskies_F1 Huskies_M9 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 1
+Huskies_F2 Huskies_D3 1
+Huskies_F2 Huskies_D4 4
+Huskies_F2 Huskies_D6 5
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 1
+Huskies_F2 Huskies_M1 3
+Huskies_F2 Huskies_M3 3
+Huskies_F2 Huskies_M4 0
+Huskies_F2 Huskies_M5 0
+Huskies_F2 Huskies_M6 2
+Huskies_F2 Huskies_M9 4
+Huskies_F2 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 2
+Huskies_M1 Huskies_D3 4
+Huskies_M1 Huskies_D4 2
+Huskies_M1 Huskies_D6 8
+Huskies_M1 Huskies_F1 2
+Huskies_M1 Huskies_F2 7
+Huskies_M1 Huskies_F4 0
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 7
+Huskies_M1 Huskies_M4 0
+Huskies_M1 Huskies_M5 0
+Huskies_M1 Huskies_M6 1
+Huskies_M1 Huskies_M9 1
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 5
+Huskies_M3 Huskies_D3 0
+Huskies_M3 Huskies_D4 11
+Huskies_M3 Huskies_D6 3
+Huskies_M3 Huskies_F1 5
+Huskies_M3 Huskies_F2 1
+Huskies_M3 Huskies_F4 0
+Huskies_M3 Huskies_M1 8
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M5 0
+Huskies_M3 Huskies_M6 2
+Huskies_M3 Huskies_M9 0
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 0
+Huskies_M4 Huskies_D6 1
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 0
+Huskies_M4 Huskies_F4 0
+Huskies_M4 Huskies_M1 0
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M5 0
+Huskies_M4 Huskies_M6 0
+Huskies_M4 Huskies_M9 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M5]
+Huskies_M5 Huskies_D1 0
+Huskies_M5 Huskies_D3 1
+Huskies_M5 Huskies_D4 0
+Huskies_M5 Huskies_D6 0
+Huskies_M5 Huskies_F1 0
+Huskies_M5 Huskies_F2 0
+Huskies_M5 Huskies_F4 0
+Huskies_M5 Huskies_M1 0
+Huskies_M5 Huskies_M3 0
+Huskies_M5 Huskies_M4 0
+Huskies_M5 Huskies_M5 0
+Huskies_M5 Huskies_M6 0
+Huskies_M5 Huskies_M9 2
+Huskies_M5 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 1
+Huskies_M6 Huskies_D3 0
+Huskies_M6 Huskies_D4 2
+Huskies_M6 Huskies_D6 3
+Huskies_M6 Huskies_F1 3
+Huskies_M6 Huskies_F2 1
+Huskies_M6 Huskies_F4 1
+Huskies_M6 Huskies_M1 3
+Huskies_M6 Huskies_M3 0
+Huskies_M6 Huskies_M4 0
+Huskies_M6 Huskies_M5 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M9 2
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D1 1
+Huskies_M9 Huskies_D3 0
+Huskies_M9 Huskies_D4 2
+Huskies_M9 Huskies_D6 3
+Huskies_M9 Huskies_F1 0
+Huskies_M9 Huskies_F2 1
+Huskies_M9 Huskies_F4 0
+Huskies_M9 Huskies_M1 3
+Huskies_M9 Huskies_M3 1
+Huskies_M9 Huskies_M4 0
+Huskies_M9 Huskies_M5 0
+Huskies_M9 Huskies_M6 3
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 4
+Huskies_G1 Huskies_D3 4
+Huskies_G1 Huskies_D4 1
+Huskies_G1 Huskies_D6 2
+Huskies_G1 Huskies_F1 0
+Huskies_G1 Huskies_F2 3
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 1
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M5 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M9 1
+Huskies_G1 Huskies_G1 0
+
+
+[9]
+13
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 1
+Huskies_D1 Huskies_D3 5
+Huskies_D1 Huskies_D4 0
+Huskies_D1 Huskies_D7 5
+Huskies_D1 Huskies_F1 0
+Huskies_D1 Huskies_F2 3
+Huskies_D1 Huskies_F4 1
+Huskies_D1 Huskies_M1 0
+Huskies_D1 Huskies_M4 3
+Huskies_D1 Huskies_M6 1
+Huskies_D1 Huskies_M9 1
+Huskies_D1 Huskies_M10 1
+Huskies_D1 Huskies_G1 2
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 1
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D3 1
+Huskies_D2 Huskies_D4 0
+Huskies_D2 Huskies_D7 0
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 1
+Huskies_D2 Huskies_F4 0
+Huskies_D2 Huskies_M1 0
+Huskies_D2 Huskies_M4 0
+Huskies_D2 Huskies_M6 1
+Huskies_D2 Huskies_M9 1
+Huskies_D2 Huskies_M10 0
+Huskies_D2 Huskies_G1 1
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 1
+Huskies_D3 Huskies_D2 1
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 7
+Huskies_D3 Huskies_D7 0
+Huskies_D3 Huskies_F1 0
+Huskies_D3 Huskies_F2 1
+Huskies_D3 Huskies_F4 0
+Huskies_D3 Huskies_M1 1
+Huskies_D3 Huskies_M4 2
+Huskies_D3 Huskies_M6 2
+Huskies_D3 Huskies_M9 0
+Huskies_D3 Huskies_M10 0
+Huskies_D3 Huskies_G1 3
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 0
+Huskies_D4 Huskies_D2 0
+Huskies_D4 Huskies_D3 3
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D7 0
+Huskies_D4 Huskies_F1 3
+Huskies_D4 Huskies_F2 3
+Huskies_D4 Huskies_F4 0
+Huskies_D4 Huskies_M1 2
+Huskies_D4 Huskies_M4 1
+Huskies_D4 Huskies_M6 0
+Huskies_D4 Huskies_M9 0
+Huskies_D4 Huskies_M10 0
+Huskies_D4 Huskies_G1 0
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 2
+Huskies_D7 Huskies_D2 0
+Huskies_D7 Huskies_D3 2
+Huskies_D7 Huskies_D4 0
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 1
+Huskies_D7 Huskies_F2 2
+Huskies_D7 Huskies_F4 0
+Huskies_D7 Huskies_M1 1
+Huskies_D7 Huskies_M4 3
+Huskies_D7 Huskies_M6 2
+Huskies_D7 Huskies_M9 2
+Huskies_D7 Huskies_M10 0
+Huskies_D7 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D7 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 3
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_M1 1
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M6 1
+Huskies_F1 Huskies_M9 2
+Huskies_F1 Huskies_M10 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 2
+Huskies_F2 Huskies_D2 1
+Huskies_F2 Huskies_D3 1
+Huskies_F2 Huskies_D4 1
+Huskies_F2 Huskies_D7 2
+Huskies_F2 Huskies_F1 2
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 0
+Huskies_F2 Huskies_M1 1
+Huskies_F2 Huskies_M4 0
+Huskies_F2 Huskies_M6 2
+Huskies_F2 Huskies_M9 4
+Huskies_F2 Huskies_M10 0
+Huskies_F2 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 1
+Huskies_M1 Huskies_D2 1
+Huskies_M1 Huskies_D3 1
+Huskies_M1 Huskies_D4 1
+Huskies_M1 Huskies_D7 2
+Huskies_M1 Huskies_F1 0
+Huskies_M1 Huskies_F2 3
+Huskies_M1 Huskies_F4 0
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M4 0
+Huskies_M1 Huskies_M6 2
+Huskies_M1 Huskies_M9 3
+Huskies_M1 Huskies_M10 0
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 3
+Huskies_M4 Huskies_D2 0
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 0
+Huskies_M4 Huskies_D7 1
+Huskies_M4 Huskies_F1 2
+Huskies_M4 Huskies_F2 1
+Huskies_M4 Huskies_F4 0
+Huskies_M4 Huskies_M1 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 0
+Huskies_M4 Huskies_M9 2
+Huskies_M4 Huskies_M10 1
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D3 1
+Huskies_M6 Huskies_D4 4
+Huskies_M6 Huskies_D7 2
+Huskies_M6 Huskies_F1 2
+Huskies_M6 Huskies_F2 2
+Huskies_M6 Huskies_F4 0
+Huskies_M6 Huskies_M1 1
+Huskies_M6 Huskies_M4 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M9 2
+Huskies_M6 Huskies_M10 2
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D1 1
+Huskies_M9 Huskies_D2 0
+Huskies_M9 Huskies_D3 2
+Huskies_M9 Huskies_D4 2
+Huskies_M9 Huskies_D7 4
+Huskies_M9 Huskies_F1 1
+Huskies_M9 Huskies_F2 2
+Huskies_M9 Huskies_F4 0
+Huskies_M9 Huskies_M1 2
+Huskies_M9 Huskies_M4 1
+Huskies_M9 Huskies_M6 2
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_M10 0
+Huskies_M9 Huskies_G1 0
+
+[Huskies_M10]
+Huskies_M10 Huskies_D1 1
+Huskies_M10 Huskies_D2 0
+Huskies_M10 Huskies_D3 1
+Huskies_M10 Huskies_D4 1
+Huskies_M10 Huskies_D7 1
+Huskies_M10 Huskies_F1 0
+Huskies_M10 Huskies_F2 0
+Huskies_M10 Huskies_F4 0
+Huskies_M10 Huskies_M1 0
+Huskies_M10 Huskies_M4 1
+Huskies_M10 Huskies_M6 0
+Huskies_M10 Huskies_M9 0
+Huskies_M10 Huskies_M10 0
+Huskies_M10 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 2
+Huskies_G1 Huskies_D2 0
+Huskies_G1 Huskies_D3 2
+Huskies_G1 Huskies_D4 1
+Huskies_G1 Huskies_D7 0
+Huskies_G1 Huskies_F1 3
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M9 0
+Huskies_G1 Huskies_M10 0
+Huskies_G1 Huskies_G1 0
+
+
+[10]
+14
+[Huskies_D2]
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D3 8
+Huskies_D2 Huskies_D4 8
+Huskies_D2 Huskies_D7 1
+Huskies_D2 Huskies_F1 2
+Huskies_D2 Huskies_F2 5
+Huskies_D2 Huskies_F4 0
+Huskies_D2 Huskies_M1 4
+Huskies_D2 Huskies_M4 1
+Huskies_D2 Huskies_M5 0
+Huskies_D2 Huskies_M6 1
+Huskies_D2 Huskies_M8 0
+Huskies_D2 Huskies_M11 2
+Huskies_D2 Huskies_G1 3
+
+[Huskies_D3]
+Huskies_D3 Huskies_D2 5
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 3
+Huskies_D3 Huskies_D7 7
+Huskies_D3 Huskies_F1 1
+Huskies_D3 Huskies_F2 5
+Huskies_D3 Huskies_F4 1
+Huskies_D3 Huskies_M1 5
+Huskies_D3 Huskies_M4 2
+Huskies_D3 Huskies_M5 2
+Huskies_D3 Huskies_M6 0
+Huskies_D3 Huskies_M8 4
+Huskies_D3 Huskies_M11 1
+Huskies_D3 Huskies_G1 4
+
+[Huskies_D4]
+Huskies_D4 Huskies_D2 4
+Huskies_D4 Huskies_D3 0
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D7 0
+Huskies_D4 Huskies_F1 1
+Huskies_D4 Huskies_F2 10
+Huskies_D4 Huskies_F4 5
+Huskies_D4 Huskies_M1 10
+Huskies_D4 Huskies_M4 2
+Huskies_D4 Huskies_M5 7
+Huskies_D4 Huskies_M6 1
+Huskies_D4 Huskies_M8 0
+Huskies_D4 Huskies_M11 0
+Huskies_D4 Huskies_G1 0
+
+[Huskies_D7]
+Huskies_D7 Huskies_D2 0
+Huskies_D7 Huskies_D3 5
+Huskies_D7 Huskies_D4 0
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 4
+Huskies_D7 Huskies_F2 5
+Huskies_D7 Huskies_F4 3
+Huskies_D7 Huskies_M1 4
+Huskies_D7 Huskies_M4 5
+Huskies_D7 Huskies_M5 0
+Huskies_D7 Huskies_M6 1
+Huskies_D7 Huskies_M8 8
+Huskies_D7 Huskies_M11 3
+Huskies_D7 Huskies_G1 2
+
+[Huskies_F1]
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D3 1
+Huskies_F1 Huskies_D4 1
+Huskies_F1 Huskies_D7 2
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F4 2
+Huskies_F1 Huskies_M1 1
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M5 1
+Huskies_F1 Huskies_M6 0
+Huskies_F1 Huskies_M8 0
+Huskies_F1 Huskies_M11 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D2 4
+Huskies_F2 Huskies_D3 2
+Huskies_F2 Huskies_D4 9
+Huskies_F2 Huskies_D7 7
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 2
+Huskies_F2 Huskies_M1 7
+Huskies_F2 Huskies_M4 4
+Huskies_F2 Huskies_M5 4
+Huskies_F2 Huskies_M6 0
+Huskies_F2 Huskies_M8 3
+Huskies_F2 Huskies_M11 3
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D3 0
+Huskies_F4 Huskies_D4 0
+Huskies_F4 Huskies_D7 1
+Huskies_F4 Huskies_F1 1
+Huskies_F4 Huskies_F2 2
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_M1 0
+Huskies_F4 Huskies_M4 0
+Huskies_F4 Huskies_M5 0
+Huskies_F4 Huskies_M6 0
+Huskies_F4 Huskies_M8 0
+Huskies_F4 Huskies_M11 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D2 6
+Huskies_M1 Huskies_D3 4
+Huskies_M1 Huskies_D4 12
+Huskies_M1 Huskies_D7 8
+Huskies_M1 Huskies_F1 0
+Huskies_M1 Huskies_F2 9
+Huskies_M1 Huskies_F4 3
+Huskies_M1 Huskies_M1 1
+Huskies_M1 Huskies_M4 5
+Huskies_M1 Huskies_M5 2
+Huskies_M1 Huskies_M6 2
+Huskies_M1 Huskies_M8 1
+Huskies_M1 Huskies_M11 1
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M4]
+Huskies_M4 Huskies_D2 3
+Huskies_M4 Huskies_D3 4
+Huskies_M4 Huskies_D4 2
+Huskies_M4 Huskies_D7 9
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 3
+Huskies_M4 Huskies_F4 1
+Huskies_M4 Huskies_M1 2
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M5 4
+Huskies_M4 Huskies_M6 0
+Huskies_M4 Huskies_M8 1
+Huskies_M4 Huskies_M11 1
+Huskies_M4 Huskies_G1 2
+
+[Huskies_M5]
+Huskies_M5 Huskies_D2 0
+Huskies_M5 Huskies_D3 1
+Huskies_M5 Huskies_D4 4
+Huskies_M5 Huskies_D7 2
+Huskies_M5 Huskies_F1 1
+Huskies_M5 Huskies_F2 5
+Huskies_M5 Huskies_F4 0
+Huskies_M5 Huskies_M1 3
+Huskies_M5 Huskies_M4 3
+Huskies_M5 Huskies_M5 0
+Huskies_M5 Huskies_M6 0
+Huskies_M5 Huskies_M8 1
+Huskies_M5 Huskies_M11 0
+Huskies_M5 Huskies_G1 1
+
+[Huskies_M6]
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D3 0
+Huskies_M6 Huskies_D4 2
+Huskies_M6 Huskies_D7 1
+Huskies_M6 Huskies_F1 0
+Huskies_M6 Huskies_F2 0
+Huskies_M6 Huskies_F4 0
+Huskies_M6 Huskies_M1 0
+Huskies_M6 Huskies_M4 0
+Huskies_M6 Huskies_M5 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 0
+Huskies_M6 Huskies_M11 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D2 0
+Huskies_M8 Huskies_D3 0
+Huskies_M8 Huskies_D4 0
+Huskies_M8 Huskies_D7 4
+Huskies_M8 Huskies_F1 0
+Huskies_M8 Huskies_F2 3
+Huskies_M8 Huskies_F4 0
+Huskies_M8 Huskies_M1 1
+Huskies_M8 Huskies_M4 2
+Huskies_M8 Huskies_M5 1
+Huskies_M8 Huskies_M6 0
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M11 0
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M11]
+Huskies_M11 Huskies_D2 1
+Huskies_M11 Huskies_D3 1
+Huskies_M11 Huskies_D4 1
+Huskies_M11 Huskies_D7 2
+Huskies_M11 Huskies_F1 2
+Huskies_M11 Huskies_F2 3
+Huskies_M11 Huskies_F4 0
+Huskies_M11 Huskies_M1 2
+Huskies_M11 Huskies_M4 4
+Huskies_M11 Huskies_M5 0
+Huskies_M11 Huskies_M6 0
+Huskies_M11 Huskies_M8 0
+Huskies_M11 Huskies_M11 0
+Huskies_M11 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D2 1
+Huskies_G1 Huskies_D3 0
+Huskies_G1 Huskies_D4 1
+Huskies_G1 Huskies_D7 0
+Huskies_G1 Huskies_F1 3
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 2
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M4 1
+Huskies_G1 Huskies_M5 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M8 0
+Huskies_G1 Huskies_M11 0
+Huskies_G1 Huskies_G1 0
+
+
+[11]
+13
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 2
+Huskies_D1 Huskies_D4 1
+Huskies_D1 Huskies_D7 1
+Huskies_D1 Huskies_F1 1
+Huskies_D1 Huskies_F2 0
+Huskies_D1 Huskies_F4 2
+Huskies_D1 Huskies_M1 5
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M6 0
+Huskies_D1 Huskies_M8 0
+Huskies_D1 Huskies_M10 0
+Huskies_D1 Huskies_M11 1
+Huskies_D1 Huskies_G1 1
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 2
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 0
+Huskies_D3 Huskies_D7 2
+Huskies_D3 Huskies_F1 1
+Huskies_D3 Huskies_F2 2
+Huskies_D3 Huskies_F4 0
+Huskies_D3 Huskies_M1 1
+Huskies_D3 Huskies_M4 3
+Huskies_D3 Huskies_M6 3
+Huskies_D3 Huskies_M8 0
+Huskies_D3 Huskies_M10 0
+Huskies_D3 Huskies_M11 1
+Huskies_D3 Huskies_G1 7
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 1
+Huskies_D4 Huskies_D3 1
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D7 1
+Huskies_D4 Huskies_F1 0
+Huskies_D4 Huskies_F2 3
+Huskies_D4 Huskies_F4 1
+Huskies_D4 Huskies_M1 4
+Huskies_D4 Huskies_M4 0
+Huskies_D4 Huskies_M6 0
+Huskies_D4 Huskies_M8 0
+Huskies_D4 Huskies_M10 0
+Huskies_D4 Huskies_M11 0
+Huskies_D4 Huskies_G1 2
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 0
+Huskies_D7 Huskies_D3 2
+Huskies_D7 Huskies_D4 1
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 1
+Huskies_D7 Huskies_F2 0
+Huskies_D7 Huskies_F4 3
+Huskies_D7 Huskies_M1 0
+Huskies_D7 Huskies_M4 1
+Huskies_D7 Huskies_M6 0
+Huskies_D7 Huskies_M8 1
+Huskies_D7 Huskies_M10 1
+Huskies_D7 Huskies_M11 2
+Huskies_D7 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D7 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F4 1
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M6 1
+Huskies_F1 Huskies_M8 0
+Huskies_F1 Huskies_M10 1
+Huskies_F1 Huskies_M11 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 1
+Huskies_F2 Huskies_D3 1
+Huskies_F2 Huskies_D4 4
+Huskies_F2 Huskies_D7 0
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 1
+Huskies_F2 Huskies_M1 4
+Huskies_F2 Huskies_M4 4
+Huskies_F2 Huskies_M6 0
+Huskies_F2 Huskies_M8 0
+Huskies_F2 Huskies_M10 0
+Huskies_F2 Huskies_M11 2
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D3 0
+Huskies_F4 Huskies_D4 0
+Huskies_F4 Huskies_D7 1
+Huskies_F4 Huskies_F1 0
+Huskies_F4 Huskies_F2 1
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_M1 0
+Huskies_F4 Huskies_M4 1
+Huskies_F4 Huskies_M6 2
+Huskies_F4 Huskies_M8 1
+Huskies_F4 Huskies_M10 2
+Huskies_F4 Huskies_M11 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 1
+Huskies_M1 Huskies_D3 1
+Huskies_M1 Huskies_D4 4
+Huskies_M1 Huskies_D7 2
+Huskies_M1 Huskies_F1 0
+Huskies_M1 Huskies_F2 6
+Huskies_M1 Huskies_F4 3
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M4 7
+Huskies_M1 Huskies_M6 1
+Huskies_M1 Huskies_M8 0
+Huskies_M1 Huskies_M10 1
+Huskies_M1 Huskies_M11 4
+Huskies_M1 Huskies_G1 2
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 2
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 1
+Huskies_M4 Huskies_D7 1
+Huskies_M4 Huskies_F1 1
+Huskies_M4 Huskies_F2 3
+Huskies_M4 Huskies_F4 1
+Huskies_M4 Huskies_M1 2
+Huskies_M4 Huskies_M4 1
+Huskies_M4 Huskies_M6 1
+Huskies_M4 Huskies_M8 1
+Huskies_M4 Huskies_M10 3
+Huskies_M4 Huskies_M11 1
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D3 4
+Huskies_M6 Huskies_D4 0
+Huskies_M6 Huskies_D7 4
+Huskies_M6 Huskies_F1 2
+Huskies_M6 Huskies_F2 1
+Huskies_M6 Huskies_F4 0
+Huskies_M6 Huskies_M1 1
+Huskies_M6 Huskies_M4 2
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 0
+Huskies_M6 Huskies_M10 0
+Huskies_M6 Huskies_M11 2
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M10]
+Huskies_M10 Huskies_D1 0
+Huskies_M10 Huskies_D3 1
+Huskies_M10 Huskies_D4 0
+Huskies_M10 Huskies_D7 0
+Huskies_M10 Huskies_F1 0
+Huskies_M10 Huskies_F2 0
+Huskies_M10 Huskies_F4 2
+Huskies_M10 Huskies_M1 0
+Huskies_M10 Huskies_M4 1
+Huskies_M10 Huskies_M6 0
+Huskies_M10 Huskies_M8 0
+Huskies_M10 Huskies_M10 0
+Huskies_M10 Huskies_M11 0
+Huskies_M10 Huskies_G1 0
+
+[Huskies_M11]
+Huskies_M11 Huskies_D1 0
+Huskies_M11 Huskies_D3 1
+Huskies_M11 Huskies_D4 1
+Huskies_M11 Huskies_D7 4
+Huskies_M11 Huskies_F1 0
+Huskies_M11 Huskies_F2 3
+Huskies_M11 Huskies_F4 0
+Huskies_M11 Huskies_M1 2
+Huskies_M11 Huskies_M4 1
+Huskies_M11 Huskies_M6 2
+Huskies_M11 Huskies_M8 0
+Huskies_M11 Huskies_M10 0
+Huskies_M11 Huskies_M11 0
+Huskies_M11 Huskies_G1 1
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 2
+Huskies_G1 Huskies_D3 1
+Huskies_G1 Huskies_D4 0
+Huskies_G1 Huskies_D7 1
+Huskies_G1 Huskies_F1 1
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 1
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M4 2
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M8 0
+Huskies_G1 Huskies_M10 0
+Huskies_G1 Huskies_M11 0
+Huskies_G1 Huskies_G1 0
+
+
+[12]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 2
+Huskies_D1 Huskies_D4 5
+Huskies_D1 Huskies_D7 2
+Huskies_D1 Huskies_F1 1
+Huskies_D1 Huskies_F3 0
+Huskies_D1 Huskies_F4 1
+Huskies_D1 Huskies_M1 1
+Huskies_D1 Huskies_M3 0
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M6 1
+Huskies_D1 Huskies_M8 0
+Huskies_D1 Huskies_M10 0
+Huskies_D1 Huskies_G1 3
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 4
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 1
+Huskies_D3 Huskies_D7 0
+Huskies_D3 Huskies_F1 0
+Huskies_D3 Huskies_F3 0
+Huskies_D3 Huskies_F4 1
+Huskies_D3 Huskies_M1 0
+Huskies_D3 Huskies_M3 1
+Huskies_D3 Huskies_M4 1
+Huskies_D3 Huskies_M6 1
+Huskies_D3 Huskies_M8 0
+Huskies_D3 Huskies_M10 1
+Huskies_D3 Huskies_G1 4
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 4
+Huskies_D4 Huskies_D3 0
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D7 0
+Huskies_D4 Huskies_F1 0
+Huskies_D4 Huskies_F3 1
+Huskies_D4 Huskies_F4 1
+Huskies_D4 Huskies_M1 1
+Huskies_D4 Huskies_M3 0
+Huskies_D4 Huskies_M4 1
+Huskies_D4 Huskies_M6 3
+Huskies_D4 Huskies_M8 0
+Huskies_D4 Huskies_M10 0
+Huskies_D4 Huskies_G1 1
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 0
+Huskies_D7 Huskies_D3 0
+Huskies_D7 Huskies_D4 0
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 1
+Huskies_D7 Huskies_F3 1
+Huskies_D7 Huskies_F4 2
+Huskies_D7 Huskies_M1 2
+Huskies_D7 Huskies_M3 1
+Huskies_D7 Huskies_M4 0
+Huskies_D7 Huskies_M6 1
+Huskies_D7 Huskies_M8 1
+Huskies_D7 Huskies_M10 0
+Huskies_D7 Huskies_G1 2
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 1
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D7 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F3 0
+Huskies_F1 Huskies_F4 2
+Huskies_F1 Huskies_M1 1
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M6 1
+Huskies_F1 Huskies_M8 0
+Huskies_F1 Huskies_M10 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F3]
+Huskies_F3 Huskies_D1 0
+Huskies_F3 Huskies_D3 0
+Huskies_F3 Huskies_D4 0
+Huskies_F3 Huskies_D7 1
+Huskies_F3 Huskies_F1 0
+Huskies_F3 Huskies_F3 0
+Huskies_F3 Huskies_F4 1
+Huskies_F3 Huskies_M1 0
+Huskies_F3 Huskies_M3 0
+Huskies_F3 Huskies_M4 0
+Huskies_F3 Huskies_M6 2
+Huskies_F3 Huskies_M8 0
+Huskies_F3 Huskies_M10 0
+Huskies_F3 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D3 0
+Huskies_F4 Huskies_D4 0
+Huskies_F4 Huskies_D7 0
+Huskies_F4 Huskies_F1 0
+Huskies_F4 Huskies_F3 1
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_M1 2
+Huskies_F4 Huskies_M3 1
+Huskies_F4 Huskies_M4 2
+Huskies_F4 Huskies_M6 2
+Huskies_F4 Huskies_M8 0
+Huskies_F4 Huskies_M10 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 1
+Huskies_M1 Huskies_D3 3
+Huskies_M1 Huskies_D4 0
+Huskies_M1 Huskies_D7 3
+Huskies_M1 Huskies_F1 2
+Huskies_M1 Huskies_F3 0
+Huskies_M1 Huskies_F4 1
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 2
+Huskies_M1 Huskies_M4 1
+Huskies_M1 Huskies_M6 1
+Huskies_M1 Huskies_M8 3
+Huskies_M1 Huskies_M10 0
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 1
+Huskies_M3 Huskies_D3 2
+Huskies_M3 Huskies_D4 2
+Huskies_M3 Huskies_D7 1
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F3 0
+Huskies_M3 Huskies_F4 0
+Huskies_M3 Huskies_M1 1
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M6 0
+Huskies_M3 Huskies_M8 0
+Huskies_M3 Huskies_M10 1
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 1
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 3
+Huskies_M4 Huskies_D7 0
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F3 0
+Huskies_M4 Huskies_F4 1
+Huskies_M4 Huskies_M1 0
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 1
+Huskies_M4 Huskies_M8 0
+Huskies_M4 Huskies_M10 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 3
+Huskies_M6 Huskies_D3 0
+Huskies_M6 Huskies_D4 3
+Huskies_M6 Huskies_D7 0
+Huskies_M6 Huskies_F1 1
+Huskies_M6 Huskies_F3 0
+Huskies_M6 Huskies_F4 3
+Huskies_M6 Huskies_M1 1
+Huskies_M6 Huskies_M3 1
+Huskies_M6 Huskies_M4 2
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 1
+Huskies_M6 Huskies_M10 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D1 0
+Huskies_M8 Huskies_D3 1
+Huskies_M8 Huskies_D4 1
+Huskies_M8 Huskies_D7 0
+Huskies_M8 Huskies_F1 0
+Huskies_M8 Huskies_F3 0
+Huskies_M8 Huskies_F4 1
+Huskies_M8 Huskies_M1 6
+Huskies_M8 Huskies_M3 0
+Huskies_M8 Huskies_M4 0
+Huskies_M8 Huskies_M6 0
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M10 0
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M10]
+Huskies_M10 Huskies_D1 1
+Huskies_M10 Huskies_D3 0
+Huskies_M10 Huskies_D4 0
+Huskies_M10 Huskies_D7 0
+Huskies_M10 Huskies_F1 0
+Huskies_M10 Huskies_F3 0
+Huskies_M10 Huskies_F4 1
+Huskies_M10 Huskies_M1 0
+Huskies_M10 Huskies_M3 0
+Huskies_M10 Huskies_M4 0
+Huskies_M10 Huskies_M6 1
+Huskies_M10 Huskies_M8 0
+Huskies_M10 Huskies_M10 0
+Huskies_M10 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 0
+Huskies_G1 Huskies_D3 0
+Huskies_G1 Huskies_D4 0
+Huskies_G1 Huskies_D7 1
+Huskies_G1 Huskies_F1 0
+Huskies_G1 Huskies_F3 0
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_M1 1
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M8 1
+Huskies_G1 Huskies_M10 0
+Huskies_G1 Huskies_G1 0
+
+
+[13]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 1
+Huskies_D1 Huskies_D3 4
+Huskies_D1 Huskies_D4 0
+Huskies_D1 Huskies_D7 1
+Huskies_D1 Huskies_F1 2
+Huskies_D1 Huskies_M1 1
+Huskies_D1 Huskies_M3 2
+Huskies_D1 Huskies_M5 0
+Huskies_D1 Huskies_M6 2
+Huskies_D1 Huskies_M8 0
+Huskies_D1 Huskies_M9 0
+Huskies_D1 Huskies_M10 1
+Huskies_D1 Huskies_G1 1
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 3
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D3 3
+Huskies_D2 Huskies_D4 0
+Huskies_D2 Huskies_D7 2
+Huskies_D2 Huskies_F1 4
+Huskies_D2 Huskies_M1 2
+Huskies_D2 Huskies_M3 2
+Huskies_D2 Huskies_M5 0
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_M8 0
+Huskies_D2 Huskies_M9 1
+Huskies_D2 Huskies_M10 0
+Huskies_D2 Huskies_G1 1
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 1
+Huskies_D3 Huskies_D2 3
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 1
+Huskies_D3 Huskies_D7 1
+Huskies_D3 Huskies_F1 4
+Huskies_D3 Huskies_M1 2
+Huskies_D3 Huskies_M3 1
+Huskies_D3 Huskies_M5 0
+Huskies_D3 Huskies_M6 1
+Huskies_D3 Huskies_M8 8
+Huskies_D3 Huskies_M9 2
+Huskies_D3 Huskies_M10 0
+Huskies_D3 Huskies_G1 5
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 0
+Huskies_D4 Huskies_D2 0
+Huskies_D4 Huskies_D3 0
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D7 0
+Huskies_D4 Huskies_F1 0
+Huskies_D4 Huskies_M1 2
+Huskies_D4 Huskies_M3 1
+Huskies_D4 Huskies_M5 0
+Huskies_D4 Huskies_M6 0
+Huskies_D4 Huskies_M8 0
+Huskies_D4 Huskies_M9 0
+Huskies_D4 Huskies_M10 0
+Huskies_D4 Huskies_G1 1
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 3
+Huskies_D7 Huskies_D2 1
+Huskies_D7 Huskies_D3 0
+Huskies_D7 Huskies_D4 0
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 5
+Huskies_D7 Huskies_M1 4
+Huskies_D7 Huskies_M3 2
+Huskies_D7 Huskies_M5 2
+Huskies_D7 Huskies_M6 3
+Huskies_D7 Huskies_M8 1
+Huskies_D7 Huskies_M9 0
+Huskies_D7 Huskies_M10 2
+Huskies_D7 Huskies_G1 2
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D7 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_M1 3
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M5 0
+Huskies_F1 Huskies_M6 2
+Huskies_F1 Huskies_M8 1
+Huskies_F1 Huskies_M9 0
+Huskies_F1 Huskies_M10 1
+Huskies_F1 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 1
+Huskies_M1 Huskies_D2 3
+Huskies_M1 Huskies_D3 4
+Huskies_M1 Huskies_D4 1
+Huskies_M1 Huskies_D7 5
+Huskies_M1 Huskies_F1 2
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 7
+Huskies_M1 Huskies_M5 0
+Huskies_M1 Huskies_M6 7
+Huskies_M1 Huskies_M8 4
+Huskies_M1 Huskies_M9 0
+Huskies_M1 Huskies_M10 3
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 1
+Huskies_M3 Huskies_D2 1
+Huskies_M3 Huskies_D3 1
+Huskies_M3 Huskies_D4 2
+Huskies_M3 Huskies_D7 5
+Huskies_M3 Huskies_F1 4
+Huskies_M3 Huskies_M1 5
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M5 2
+Huskies_M3 Huskies_M6 3
+Huskies_M3 Huskies_M8 5
+Huskies_M3 Huskies_M9 1
+Huskies_M3 Huskies_M10 1
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M5]
+Huskies_M5 Huskies_D1 0
+Huskies_M5 Huskies_D2 2
+Huskies_M5 Huskies_D3 1
+Huskies_M5 Huskies_D4 0
+Huskies_M5 Huskies_D7 2
+Huskies_M5 Huskies_F1 2
+Huskies_M5 Huskies_M1 0
+Huskies_M5 Huskies_M3 0
+Huskies_M5 Huskies_M5 0
+Huskies_M5 Huskies_M6 1
+Huskies_M5 Huskies_M8 3
+Huskies_M5 Huskies_M9 0
+Huskies_M5 Huskies_M10 0
+Huskies_M5 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 2
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D3 0
+Huskies_M6 Huskies_D4 0
+Huskies_M6 Huskies_D7 5
+Huskies_M6 Huskies_F1 2
+Huskies_M6 Huskies_M1 4
+Huskies_M6 Huskies_M3 1
+Huskies_M6 Huskies_M5 1
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 1
+Huskies_M6 Huskies_M9 2
+Huskies_M6 Huskies_M10 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D1 0
+Huskies_M8 Huskies_D2 2
+Huskies_M8 Huskies_D3 7
+Huskies_M8 Huskies_D4 0
+Huskies_M8 Huskies_D7 2
+Huskies_M8 Huskies_F1 3
+Huskies_M8 Huskies_M1 2
+Huskies_M8 Huskies_M3 1
+Huskies_M8 Huskies_M5 3
+Huskies_M8 Huskies_M6 0
+Huskies_M8 Huskies_M8 1
+Huskies_M8 Huskies_M9 2
+Huskies_M8 Huskies_M10 1
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D1 0
+Huskies_M9 Huskies_D2 0
+Huskies_M9 Huskies_D3 1
+Huskies_M9 Huskies_D4 0
+Huskies_M9 Huskies_D7 0
+Huskies_M9 Huskies_F1 0
+Huskies_M9 Huskies_M1 1
+Huskies_M9 Huskies_M3 0
+Huskies_M9 Huskies_M5 0
+Huskies_M9 Huskies_M6 1
+Huskies_M9 Huskies_M8 1
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_M10 1
+Huskies_M9 Huskies_G1 0
+
+[Huskies_M10]
+Huskies_M10 Huskies_D1 0
+Huskies_M10 Huskies_D2 0
+Huskies_M10 Huskies_D3 0
+Huskies_M10 Huskies_D4 0
+Huskies_M10 Huskies_D7 3
+Huskies_M10 Huskies_F1 0
+Huskies_M10 Huskies_M1 2
+Huskies_M10 Huskies_M3 2
+Huskies_M10 Huskies_M5 0
+Huskies_M10 Huskies_M6 0
+Huskies_M10 Huskies_M8 0
+Huskies_M10 Huskies_M9 1
+Huskies_M10 Huskies_M10 0
+Huskies_M10 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 0
+Huskies_G1 Huskies_D2 0
+Huskies_G1 Huskies_D3 2
+Huskies_G1 Huskies_D4 0
+Huskies_G1 Huskies_D7 2
+Huskies_G1 Huskies_F1 9
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M5 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M8 1
+Huskies_G1 Huskies_M9 0
+Huskies_G1 Huskies_M10 0
+Huskies_G1 Huskies_G1 0
+
+
+[14]
+14
+[Huskies_D2]
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D5 6
+Huskies_D2 Huskies_D6 8
+Huskies_D2 Huskies_D7 0
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 13
+Huskies_D2 Huskies_M1 5
+Huskies_D2 Huskies_M4 1
+Huskies_D2 Huskies_M6 2
+Huskies_D2 Huskies_M8 0
+Huskies_D2 Huskies_M9 0
+Huskies_D2 Huskies_M10 0
+Huskies_D2 Huskies_M11 0
+Huskies_D2 Huskies_G1 3
+
+[Huskies_D5]
+Huskies_D5 Huskies_D2 5
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D6 0
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_F1 3
+Huskies_D5 Huskies_F2 7
+Huskies_D5 Huskies_M1 0
+Huskies_D5 Huskies_M4 2
+Huskies_D5 Huskies_M6 4
+Huskies_D5 Huskies_M8 3
+Huskies_D5 Huskies_M9 1
+Huskies_D5 Huskies_M10 2
+Huskies_D5 Huskies_M11 1
+Huskies_D5 Huskies_G1 3
+
+[Huskies_D6]
+Huskies_D6 Huskies_D2 7
+Huskies_D6 Huskies_D5 1
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D7 5
+Huskies_D6 Huskies_F1 5
+Huskies_D6 Huskies_F2 3
+Huskies_D6 Huskies_M1 5
+Huskies_D6 Huskies_M4 1
+Huskies_D6 Huskies_M6 2
+Huskies_D6 Huskies_M8 1
+Huskies_D6 Huskies_M9 0
+Huskies_D6 Huskies_M10 0
+Huskies_D6 Huskies_M11 1
+Huskies_D6 Huskies_G1 5
+
+[Huskies_D7]
+Huskies_D7 Huskies_D2 0
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D6 4
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 6
+Huskies_D7 Huskies_F2 4
+Huskies_D7 Huskies_M1 4
+Huskies_D7 Huskies_M4 5
+Huskies_D7 Huskies_M6 0
+Huskies_D7 Huskies_M8 4
+Huskies_D7 Huskies_M9 0
+Huskies_D7 Huskies_M10 0
+Huskies_D7 Huskies_M11 1
+Huskies_D7 Huskies_G1 2
+
+[Huskies_F1]
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D5 0
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_D7 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 2
+Huskies_F1 Huskies_M1 1
+Huskies_F1 Huskies_M4 3
+Huskies_F1 Huskies_M6 2
+Huskies_F1 Huskies_M8 3
+Huskies_F1 Huskies_M9 0
+Huskies_F1 Huskies_M10 0
+Huskies_F1 Huskies_M11 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D2 5
+Huskies_F2 Huskies_D5 9
+Huskies_F2 Huskies_D6 8
+Huskies_F2 Huskies_D7 2
+Huskies_F2 Huskies_F1 4
+Huskies_F2 Huskies_F2 1
+Huskies_F2 Huskies_M1 6
+Huskies_F2 Huskies_M4 4
+Huskies_F2 Huskies_M6 11
+Huskies_F2 Huskies_M8 3
+Huskies_F2 Huskies_M9 0
+Huskies_F2 Huskies_M10 0
+Huskies_F2 Huskies_M11 0
+Huskies_F2 Huskies_G1 1
+
+[Huskies_M1]
+Huskies_M1 Huskies_D2 5
+Huskies_M1 Huskies_D5 5
+Huskies_M1 Huskies_D6 5
+Huskies_M1 Huskies_D7 5
+Huskies_M1 Huskies_F1 1
+Huskies_M1 Huskies_F2 9
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M4 7
+Huskies_M1 Huskies_M6 4
+Huskies_M1 Huskies_M8 2
+Huskies_M1 Huskies_M9 0
+Huskies_M1 Huskies_M10 1
+Huskies_M1 Huskies_M11 1
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M4]
+Huskies_M4 Huskies_D2 1
+Huskies_M4 Huskies_D5 1
+Huskies_M4 Huskies_D6 0
+Huskies_M4 Huskies_D7 10
+Huskies_M4 Huskies_F1 1
+Huskies_M4 Huskies_F2 0
+Huskies_M4 Huskies_M1 3
+Huskies_M4 Huskies_M4 1
+Huskies_M4 Huskies_M6 5
+Huskies_M4 Huskies_M8 4
+Huskies_M4 Huskies_M9 0
+Huskies_M4 Huskies_M10 0
+Huskies_M4 Huskies_M11 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D2 2
+Huskies_M6 Huskies_D5 3
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_D7 2
+Huskies_M6 Huskies_F1 5
+Huskies_M6 Huskies_F2 6
+Huskies_M6 Huskies_M1 5
+Huskies_M6 Huskies_M4 1
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 4
+Huskies_M6 Huskies_M9 0
+Huskies_M6 Huskies_M10 0
+Huskies_M6 Huskies_M11 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D2 0
+Huskies_M8 Huskies_D5 4
+Huskies_M8 Huskies_D6 0
+Huskies_M8 Huskies_D7 3
+Huskies_M8 Huskies_F1 3
+Huskies_M8 Huskies_F2 5
+Huskies_M8 Huskies_M1 3
+Huskies_M8 Huskies_M4 3
+Huskies_M8 Huskies_M6 0
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M9 0
+Huskies_M8 Huskies_M10 0
+Huskies_M8 Huskies_M11 0
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D2 0
+Huskies_M9 Huskies_D5 1
+Huskies_M9 Huskies_D6 0
+Huskies_M9 Huskies_D7 0
+Huskies_M9 Huskies_F1 0
+Huskies_M9 Huskies_F2 0
+Huskies_M9 Huskies_M1 0
+Huskies_M9 Huskies_M4 0
+Huskies_M9 Huskies_M6 1
+Huskies_M9 Huskies_M8 0
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_M10 0
+Huskies_M9 Huskies_M11 1
+Huskies_M9 Huskies_G1 0
+
+[Huskies_M10]
+Huskies_M10 Huskies_D2 0
+Huskies_M10 Huskies_D5 1
+Huskies_M10 Huskies_D6 0
+Huskies_M10 Huskies_D7 0
+Huskies_M10 Huskies_F1 0
+Huskies_M10 Huskies_F2 0
+Huskies_M10 Huskies_M1 0
+Huskies_M10 Huskies_M4 0
+Huskies_M10 Huskies_M6 1
+Huskies_M10 Huskies_M8 0
+Huskies_M10 Huskies_M9 0
+Huskies_M10 Huskies_M10 0
+Huskies_M10 Huskies_M11 1
+Huskies_M10 Huskies_G1 0
+
+[Huskies_M11]
+Huskies_M11 Huskies_D2 0
+Huskies_M11 Huskies_D5 0
+Huskies_M11 Huskies_D6 2
+Huskies_M11 Huskies_D7 1
+Huskies_M11 Huskies_F1 0
+Huskies_M11 Huskies_F2 0
+Huskies_M11 Huskies_M1 1
+Huskies_M11 Huskies_M4 1
+Huskies_M11 Huskies_M6 0
+Huskies_M11 Huskies_M8 0
+Huskies_M11 Huskies_M9 1
+Huskies_M11 Huskies_M10 0
+Huskies_M11 Huskies_M11 0
+Huskies_M11 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D2 2
+Huskies_G1 Huskies_D5 1
+Huskies_G1 Huskies_D6 0
+Huskies_G1 Huskies_D7 0
+Huskies_G1 Huskies_F1 8
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 1
+Huskies_G1 Huskies_M8 1
+Huskies_G1 Huskies_M9 0
+Huskies_G1 Huskies_M10 0
+Huskies_G1 Huskies_M11 0
+Huskies_G1 Huskies_G1 0
+
+
+[15]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 0
+Huskies_D1 Huskies_D5 0
+Huskies_D1 Huskies_D6 1
+Huskies_D1 Huskies_D7 2
+Huskies_D1 Huskies_F1 1
+Huskies_D1 Huskies_F2 0
+Huskies_D1 Huskies_M1 0
+Huskies_D1 Huskies_M3 0
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M6 0
+Huskies_D1 Huskies_M8 0
+Huskies_D1 Huskies_M10 0
+Huskies_D1 Huskies_G1 1
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 0
+Huskies_D2 Huskies_D2 1
+Huskies_D2 Huskies_D5 3
+Huskies_D2 Huskies_D6 4
+Huskies_D2 Huskies_D7 1
+Huskies_D2 Huskies_F1 2
+Huskies_D2 Huskies_F2 5
+Huskies_D2 Huskies_M1 1
+Huskies_D2 Huskies_M3 0
+Huskies_D2 Huskies_M4 1
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_M8 0
+Huskies_D2 Huskies_M10 1
+Huskies_D2 Huskies_G1 3
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 0
+Huskies_D5 Huskies_D2 4
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D6 2
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_F1 3
+Huskies_D5 Huskies_F2 5
+Huskies_D5 Huskies_M1 2
+Huskies_D5 Huskies_M3 0
+Huskies_D5 Huskies_M4 0
+Huskies_D5 Huskies_M6 4
+Huskies_D5 Huskies_M8 0
+Huskies_D5 Huskies_M10 1
+Huskies_D5 Huskies_G1 1
+
+[Huskies_D6]
+Huskies_D6 Huskies_D1 0
+Huskies_D6 Huskies_D2 1
+Huskies_D6 Huskies_D5 1
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D7 2
+Huskies_D6 Huskies_F1 3
+Huskies_D6 Huskies_F2 2
+Huskies_D6 Huskies_M1 5
+Huskies_D6 Huskies_M3 2
+Huskies_D6 Huskies_M4 5
+Huskies_D6 Huskies_M6 0
+Huskies_D6 Huskies_M8 1
+Huskies_D6 Huskies_M10 0
+Huskies_D6 Huskies_G1 2
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 2
+Huskies_D7 Huskies_D2 0
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D6 2
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 4
+Huskies_D7 Huskies_F2 5
+Huskies_D7 Huskies_M1 3
+Huskies_D7 Huskies_M3 0
+Huskies_D7 Huskies_M4 7
+Huskies_D7 Huskies_M6 2
+Huskies_D7 Huskies_M8 3
+Huskies_D7 Huskies_M10 3
+Huskies_D7 Huskies_G1 2
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D5 1
+Huskies_F1 Huskies_D6 1
+Huskies_F1 Huskies_D7 1
+Huskies_F1 Huskies_F1 1
+Huskies_F1 Huskies_F2 1
+Huskies_F1 Huskies_M1 1
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M6 5
+Huskies_F1 Huskies_M8 3
+Huskies_F1 Huskies_M10 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 0
+Huskies_F2 Huskies_D2 4
+Huskies_F2 Huskies_D5 7
+Huskies_F2 Huskies_D6 2
+Huskies_F2 Huskies_D7 4
+Huskies_F2 Huskies_F1 1
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_M1 1
+Huskies_F2 Huskies_M3 1
+Huskies_F2 Huskies_M4 5
+Huskies_F2 Huskies_M6 7
+Huskies_F2 Huskies_M8 1
+Huskies_F2 Huskies_M10 0
+Huskies_F2 Huskies_G1 1
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 0
+Huskies_M1 Huskies_D2 4
+Huskies_M1 Huskies_D5 3
+Huskies_M1 Huskies_D6 1
+Huskies_M1 Huskies_D7 5
+Huskies_M1 Huskies_F1 1
+Huskies_M1 Huskies_F2 7
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 1
+Huskies_M1 Huskies_M4 0
+Huskies_M1 Huskies_M6 5
+Huskies_M1 Huskies_M8 1
+Huskies_M1 Huskies_M10 2
+Huskies_M1 Huskies_G1 3
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 1
+Huskies_M3 Huskies_D2 0
+Huskies_M3 Huskies_D5 0
+Huskies_M3 Huskies_D6 0
+Huskies_M3 Huskies_D7 2
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 0
+Huskies_M3 Huskies_M1 0
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M6 0
+Huskies_M3 Huskies_M8 0
+Huskies_M3 Huskies_M10 2
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D2 0
+Huskies_M4 Huskies_D5 1
+Huskies_M4 Huskies_D6 1
+Huskies_M4 Huskies_D7 7
+Huskies_M4 Huskies_F1 2
+Huskies_M4 Huskies_F2 4
+Huskies_M4 Huskies_M1 3
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 1
+Huskies_M4 Huskies_M6 1
+Huskies_M4 Huskies_M8 4
+Huskies_M4 Huskies_M10 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D5 6
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_D7 0
+Huskies_M6 Huskies_F1 3
+Huskies_M6 Huskies_F2 3
+Huskies_M6 Huskies_M1 6
+Huskies_M6 Huskies_M3 0
+Huskies_M6 Huskies_M4 4
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 0
+Huskies_M6 Huskies_M10 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D1 0
+Huskies_M8 Huskies_D2 0
+Huskies_M8 Huskies_D5 0
+Huskies_M8 Huskies_D6 0
+Huskies_M8 Huskies_D7 3
+Huskies_M8 Huskies_F1 2
+Huskies_M8 Huskies_F2 1
+Huskies_M8 Huskies_M1 0
+Huskies_M8 Huskies_M3 0
+Huskies_M8 Huskies_M4 0
+Huskies_M8 Huskies_M6 0
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M10 0
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M10]
+Huskies_M10 Huskies_D1 1
+Huskies_M10 Huskies_D2 0
+Huskies_M10 Huskies_D5 1
+Huskies_M10 Huskies_D6 0
+Huskies_M10 Huskies_D7 5
+Huskies_M10 Huskies_F1 1
+Huskies_M10 Huskies_F2 0
+Huskies_M10 Huskies_M1 1
+Huskies_M10 Huskies_M3 1
+Huskies_M10 Huskies_M4 0
+Huskies_M10 Huskies_M6 0
+Huskies_M10 Huskies_M8 0
+Huskies_M10 Huskies_M10 0
+Huskies_M10 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 0
+Huskies_G1 Huskies_D2 1
+Huskies_G1 Huskies_D5 2
+Huskies_G1 Huskies_D6 4
+Huskies_G1 Huskies_D7 0
+Huskies_G1 Huskies_F1 6
+Huskies_G1 Huskies_F2 1
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 2
+Huskies_G1 Huskies_M8 0
+Huskies_G1 Huskies_M10 0
+Huskies_G1 Huskies_G1 0
+
+
+[16]
+13
+[Huskies_D2]
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D5 1
+Huskies_D2 Huskies_D6 0
+Huskies_D2 Huskies_D7 0
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 1
+Huskies_D2 Huskies_F4 0
+Huskies_D2 Huskies_M1 0
+Huskies_D2 Huskies_M3 0
+Huskies_D2 Huskies_M4 1
+Huskies_D2 Huskies_M6 1
+Huskies_D2 Huskies_M8 0
+Huskies_D2 Huskies_G1 2
+
+[Huskies_D5]
+Huskies_D5 Huskies_D2 2
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D6 0
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_F1 0
+Huskies_D5 Huskies_F2 0
+Huskies_D5 Huskies_F4 1
+Huskies_D5 Huskies_M1 2
+Huskies_D5 Huskies_M3 0
+Huskies_D5 Huskies_M4 0
+Huskies_D5 Huskies_M6 2
+Huskies_D5 Huskies_M8 0
+Huskies_D5 Huskies_G1 0
+
+[Huskies_D6]
+Huskies_D6 Huskies_D2 1
+Huskies_D6 Huskies_D5 0
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D7 1
+Huskies_D6 Huskies_F1 0
+Huskies_D6 Huskies_F2 2
+Huskies_D6 Huskies_F4 0
+Huskies_D6 Huskies_M1 1
+Huskies_D6 Huskies_M3 0
+Huskies_D6 Huskies_M4 0
+Huskies_D6 Huskies_M6 0
+Huskies_D6 Huskies_M8 1
+Huskies_D6 Huskies_G1 1
+
+[Huskies_D7]
+Huskies_D7 Huskies_D2 0
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D6 0
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 0
+Huskies_D7 Huskies_F2 1
+Huskies_D7 Huskies_F4 1
+Huskies_D7 Huskies_M1 1
+Huskies_D7 Huskies_M3 0
+Huskies_D7 Huskies_M4 0
+Huskies_D7 Huskies_M6 0
+Huskies_D7 Huskies_M8 1
+Huskies_D7 Huskies_G1 0
+
+[Huskies_F1]
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D5 1
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_D7 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 1
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_M1 1
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M6 1
+Huskies_F1 Huskies_M8 1
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D2 1
+Huskies_F2 Huskies_D5 1
+Huskies_F2 Huskies_D6 0
+Huskies_F2 Huskies_D7 3
+Huskies_F2 Huskies_F1 2
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 1
+Huskies_F2 Huskies_M1 0
+Huskies_F2 Huskies_M3 0
+Huskies_F2 Huskies_M4 1
+Huskies_F2 Huskies_M6 0
+Huskies_F2 Huskies_M8 0
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D5 0
+Huskies_F4 Huskies_D6 0
+Huskies_F4 Huskies_D7 0
+Huskies_F4 Huskies_F1 1
+Huskies_F4 Huskies_F2 0
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_M1 0
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M4 0
+Huskies_F4 Huskies_M6 1
+Huskies_F4 Huskies_M8 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D2 0
+Huskies_M1 Huskies_D5 0
+Huskies_M1 Huskies_D6 2
+Huskies_M1 Huskies_D7 0
+Huskies_M1 Huskies_F1 0
+Huskies_M1 Huskies_F2 4
+Huskies_M1 Huskies_F4 1
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 1
+Huskies_M1 Huskies_M4 0
+Huskies_M1 Huskies_M6 1
+Huskies_M1 Huskies_M8 1
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D2 1
+Huskies_M3 Huskies_D5 1
+Huskies_M3 Huskies_D6 0
+Huskies_M3 Huskies_D7 0
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 1
+Huskies_M3 Huskies_F4 0
+Huskies_M3 Huskies_M1 0
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M6 0
+Huskies_M3 Huskies_M8 1
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D2 1
+Huskies_M4 Huskies_D5 1
+Huskies_M4 Huskies_D6 0
+Huskies_M4 Huskies_D7 1
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 0
+Huskies_M4 Huskies_F4 0
+Huskies_M4 Huskies_M1 3
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 0
+Huskies_M4 Huskies_M8 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D5 0
+Huskies_M6 Huskies_D6 1
+Huskies_M6 Huskies_D7 0
+Huskies_M6 Huskies_F1 1
+Huskies_M6 Huskies_F2 0
+Huskies_M6 Huskies_F4 4
+Huskies_M6 Huskies_M1 0
+Huskies_M6 Huskies_M3 1
+Huskies_M6 Huskies_M4 1
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D2 0
+Huskies_M8 Huskies_D5 0
+Huskies_M8 Huskies_D6 0
+Huskies_M8 Huskies_D7 1
+Huskies_M8 Huskies_F1 1
+Huskies_M8 Huskies_F2 3
+Huskies_M8 Huskies_F4 0
+Huskies_M8 Huskies_M1 1
+Huskies_M8 Huskies_M3 0
+Huskies_M8 Huskies_M4 0
+Huskies_M8 Huskies_M6 0
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D2 0
+Huskies_G1 Huskies_D5 0
+Huskies_G1 Huskies_D6 0
+Huskies_G1 Huskies_D7 2
+Huskies_G1 Huskies_F1 4
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M8 0
+Huskies_G1 Huskies_G1 0
+
+
+[17]
+14
+[Huskies_D2]
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D3 0
+Huskies_D2 Huskies_D5 8
+Huskies_D2 Huskies_D6 5
+Huskies_D2 Huskies_D7 1
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 2
+Huskies_D2 Huskies_M1 5
+Huskies_D2 Huskies_M3 5
+Huskies_D2 Huskies_M4 0
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_M8 0
+Huskies_D2 Huskies_M9 0
+Huskies_D2 Huskies_G1 2
+
+[Huskies_D3]
+Huskies_D3 Huskies_D2 0
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D5 0
+Huskies_D3 Huskies_D6 0
+Huskies_D3 Huskies_D7 0
+Huskies_D3 Huskies_F1 0
+Huskies_D3 Huskies_F2 0
+Huskies_D3 Huskies_M1 0
+Huskies_D3 Huskies_M3 0
+Huskies_D3 Huskies_M4 0
+Huskies_D3 Huskies_M6 0
+Huskies_D3 Huskies_M8 0
+Huskies_D3 Huskies_M9 1
+Huskies_D3 Huskies_G1 0
+
+[Huskies_D5]
+Huskies_D5 Huskies_D2 6
+Huskies_D5 Huskies_D3 0
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D6 2
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_F1 0
+Huskies_D5 Huskies_F2 9
+Huskies_D5 Huskies_M1 3
+Huskies_D5 Huskies_M3 13
+Huskies_D5 Huskies_M4 0
+Huskies_D5 Huskies_M6 7
+Huskies_D5 Huskies_M8 0
+Huskies_D5 Huskies_M9 0
+Huskies_D5 Huskies_G1 1
+
+[Huskies_D6]
+Huskies_D6 Huskies_D2 7
+Huskies_D6 Huskies_D3 0
+Huskies_D6 Huskies_D5 2
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D7 4
+Huskies_D6 Huskies_F1 1
+Huskies_D6 Huskies_F2 2
+Huskies_D6 Huskies_M1 4
+Huskies_D6 Huskies_M3 4
+Huskies_D6 Huskies_M4 0
+Huskies_D6 Huskies_M6 1
+Huskies_D6 Huskies_M8 0
+Huskies_D6 Huskies_M9 1
+Huskies_D6 Huskies_G1 6
+
+[Huskies_D7]
+Huskies_D7 Huskies_D2 0
+Huskies_D7 Huskies_D3 0
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D6 3
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 1
+Huskies_D7 Huskies_F2 3
+Huskies_D7 Huskies_M1 5
+Huskies_D7 Huskies_M3 1
+Huskies_D7 Huskies_M4 0
+Huskies_D7 Huskies_M6 2
+Huskies_D7 Huskies_M8 3
+Huskies_D7 Huskies_M9 3
+Huskies_D7 Huskies_G1 2
+
+[Huskies_F1]
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D5 1
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_D7 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 2
+Huskies_F1 Huskies_M1 3
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M6 0
+Huskies_F1 Huskies_M8 1
+Huskies_F1 Huskies_M9 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D2 0
+Huskies_F2 Huskies_D3 0
+Huskies_F2 Huskies_D5 6
+Huskies_F2 Huskies_D6 4
+Huskies_F2 Huskies_D7 4
+Huskies_F2 Huskies_F1 2
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_M1 3
+Huskies_F2 Huskies_M3 4
+Huskies_F2 Huskies_M4 0
+Huskies_F2 Huskies_M6 5
+Huskies_F2 Huskies_M8 2
+Huskies_F2 Huskies_M9 0
+Huskies_F2 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D2 6
+Huskies_M1 Huskies_D3 0
+Huskies_M1 Huskies_D5 5
+Huskies_M1 Huskies_D6 12
+Huskies_M1 Huskies_D7 9
+Huskies_M1 Huskies_F1 1
+Huskies_M1 Huskies_F2 6
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 9
+Huskies_M1 Huskies_M4 1
+Huskies_M1 Huskies_M6 6
+Huskies_M1 Huskies_M8 4
+Huskies_M1 Huskies_M9 0
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M3]
+Huskies_M3 Huskies_D2 3
+Huskies_M3 Huskies_D3 0
+Huskies_M3 Huskies_D5 10
+Huskies_M3 Huskies_D6 6
+Huskies_M3 Huskies_D7 3
+Huskies_M3 Huskies_F1 1
+Huskies_M3 Huskies_F2 1
+Huskies_M3 Huskies_M1 14
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M6 1
+Huskies_M3 Huskies_M8 1
+Huskies_M3 Huskies_M9 0
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D2 0
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D5 0
+Huskies_M4 Huskies_D6 0
+Huskies_M4 Huskies_D7 0
+Huskies_M4 Huskies_F1 1
+Huskies_M4 Huskies_F2 0
+Huskies_M4 Huskies_M1 1
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 0
+Huskies_M4 Huskies_M8 0
+Huskies_M4 Huskies_M9 0
+Huskies_M4 Huskies_G1 1
+
+[Huskies_M6]
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D3 0
+Huskies_M6 Huskies_D5 4
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_D7 0
+Huskies_M6 Huskies_F1 1
+Huskies_M6 Huskies_F2 6
+Huskies_M6 Huskies_M1 4
+Huskies_M6 Huskies_M3 3
+Huskies_M6 Huskies_M4 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 0
+Huskies_M6 Huskies_M9 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D2 0
+Huskies_M8 Huskies_D3 0
+Huskies_M8 Huskies_D5 0
+Huskies_M8 Huskies_D6 0
+Huskies_M8 Huskies_D7 1
+Huskies_M8 Huskies_F1 1
+Huskies_M8 Huskies_F2 1
+Huskies_M8 Huskies_M1 1
+Huskies_M8 Huskies_M3 1
+Huskies_M8 Huskies_M4 0
+Huskies_M8 Huskies_M6 1
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M9 0
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D2 0
+Huskies_M9 Huskies_D3 0
+Huskies_M9 Huskies_D5 0
+Huskies_M9 Huskies_D6 0
+Huskies_M9 Huskies_D7 3
+Huskies_M9 Huskies_F1 1
+Huskies_M9 Huskies_F2 1
+Huskies_M9 Huskies_M1 0
+Huskies_M9 Huskies_M3 1
+Huskies_M9 Huskies_M4 0
+Huskies_M9 Huskies_M6 0
+Huskies_M9 Huskies_M8 0
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D2 0
+Huskies_G1 Huskies_D3 0
+Huskies_G1 Huskies_D5 1
+Huskies_G1 Huskies_D6 1
+Huskies_G1 Huskies_D7 1
+Huskies_G1 Huskies_F1 2
+Huskies_G1 Huskies_F2 1
+Huskies_G1 Huskies_M1 1
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M8 0
+Huskies_G1 Huskies_M9 0
+Huskies_G1 Huskies_G1 0
+
+
+[18]
+13
+[Huskies_D2]
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D5 6
+Huskies_D2 Huskies_D6 10
+Huskies_D2 Huskies_D7 0
+Huskies_D2 Huskies_F1 1
+Huskies_D2 Huskies_F2 3
+Huskies_D2 Huskies_M1 5
+Huskies_D2 Huskies_M3 5
+Huskies_D2 Huskies_M4 0
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_M8 0
+Huskies_D2 Huskies_M10 0
+Huskies_D2 Huskies_G1 3
+
+[Huskies_D5]
+Huskies_D5 Huskies_D2 5
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D6 1
+Huskies_D5 Huskies_D7 1
+Huskies_D5 Huskies_F1 2
+Huskies_D5 Huskies_F2 5
+Huskies_D5 Huskies_M1 5
+Huskies_D5 Huskies_M3 5
+Huskies_D5 Huskies_M4 1
+Huskies_D5 Huskies_M6 9
+Huskies_D5 Huskies_M8 0
+Huskies_D5 Huskies_M10 0
+Huskies_D5 Huskies_G1 2
+
+[Huskies_D6]
+Huskies_D6 Huskies_D2 3
+Huskies_D6 Huskies_D5 0
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D7 6
+Huskies_D6 Huskies_F1 3
+Huskies_D6 Huskies_F2 1
+Huskies_D6 Huskies_M1 8
+Huskies_D6 Huskies_M3 6
+Huskies_D6 Huskies_M4 2
+Huskies_D6 Huskies_M6 0
+Huskies_D6 Huskies_M8 1
+Huskies_D6 Huskies_M10 1
+Huskies_D6 Huskies_G1 7
+
+[Huskies_D7]
+Huskies_D7 Huskies_D2 2
+Huskies_D7 Huskies_D5 1
+Huskies_D7 Huskies_D6 6
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 1
+Huskies_D7 Huskies_F2 1
+Huskies_D7 Huskies_M1 4
+Huskies_D7 Huskies_M3 1
+Huskies_D7 Huskies_M4 1
+Huskies_D7 Huskies_M6 2
+Huskies_D7 Huskies_M8 5
+Huskies_D7 Huskies_M10 0
+Huskies_D7 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D5 3
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_D7 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 2
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M3 1
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M6 1
+Huskies_F1 Huskies_M8 0
+Huskies_F1 Huskies_M10 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D2 1
+Huskies_F2 Huskies_D5 4
+Huskies_F2 Huskies_D6 3
+Huskies_F2 Huskies_D7 4
+Huskies_F2 Huskies_F1 1
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_M1 5
+Huskies_F2 Huskies_M3 5
+Huskies_F2 Huskies_M4 2
+Huskies_F2 Huskies_M6 2
+Huskies_F2 Huskies_M8 2
+Huskies_F2 Huskies_M10 0
+Huskies_F2 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D2 6
+Huskies_M1 Huskies_D5 5
+Huskies_M1 Huskies_D6 10
+Huskies_M1 Huskies_D7 5
+Huskies_M1 Huskies_F1 3
+Huskies_M1 Huskies_F2 10
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 7
+Huskies_M1 Huskies_M4 1
+Huskies_M1 Huskies_M6 4
+Huskies_M1 Huskies_M8 3
+Huskies_M1 Huskies_M10 1
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M3]
+Huskies_M3 Huskies_D2 5
+Huskies_M3 Huskies_D5 4
+Huskies_M3 Huskies_D6 4
+Huskies_M3 Huskies_D7 2
+Huskies_M3 Huskies_F1 1
+Huskies_M3 Huskies_F2 4
+Huskies_M3 Huskies_M1 10
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M6 3
+Huskies_M3 Huskies_M8 2
+Huskies_M3 Huskies_M10 0
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D2 1
+Huskies_M4 Huskies_D5 0
+Huskies_M4 Huskies_D6 0
+Huskies_M4 Huskies_D7 0
+Huskies_M4 Huskies_F1 1
+Huskies_M4 Huskies_F2 1
+Huskies_M4 Huskies_M1 4
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 0
+Huskies_M4 Huskies_M8 2
+Huskies_M4 Huskies_M10 2
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D2 2
+Huskies_M6 Huskies_D5 5
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_D7 0
+Huskies_M6 Huskies_F1 4
+Huskies_M6 Huskies_F2 4
+Huskies_M6 Huskies_M1 2
+Huskies_M6 Huskies_M3 2
+Huskies_M6 Huskies_M4 1
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 0
+Huskies_M6 Huskies_M10 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D2 0
+Huskies_M8 Huskies_D5 0
+Huskies_M8 Huskies_D6 1
+Huskies_M8 Huskies_D7 5
+Huskies_M8 Huskies_F1 0
+Huskies_M8 Huskies_F2 2
+Huskies_M8 Huskies_M1 1
+Huskies_M8 Huskies_M3 1
+Huskies_M8 Huskies_M4 1
+Huskies_M8 Huskies_M6 0
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M10 0
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M10]
+Huskies_M10 Huskies_D2 0
+Huskies_M10 Huskies_D5 0
+Huskies_M10 Huskies_D6 1
+Huskies_M10 Huskies_D7 0
+Huskies_M10 Huskies_F1 0
+Huskies_M10 Huskies_F2 0
+Huskies_M10 Huskies_M1 0
+Huskies_M10 Huskies_M3 0
+Huskies_M10 Huskies_M4 1
+Huskies_M10 Huskies_M6 1
+Huskies_M10 Huskies_M8 0
+Huskies_M10 Huskies_M10 0
+Huskies_M10 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D2 0
+Huskies_G1 Huskies_D5 0
+Huskies_G1 Huskies_D6 5
+Huskies_G1 Huskies_D7 0
+Huskies_G1 Huskies_F1 1
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_M1 1
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 1
+Huskies_G1 Huskies_M8 0
+Huskies_G1 Huskies_M10 0
+Huskies_G1 Huskies_G1 0
+
+
+[19]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 0
+Huskies_D1 Huskies_D3 2
+Huskies_D1 Huskies_D5 0
+Huskies_D1 Huskies_D7 8
+Huskies_D1 Huskies_F1 4
+Huskies_D1 Huskies_F3 2
+Huskies_D1 Huskies_M1 0
+Huskies_D1 Huskies_M3 1
+Huskies_D1 Huskies_M4 2
+Huskies_D1 Huskies_M6 1
+Huskies_D1 Huskies_M8 2
+Huskies_D1 Huskies_M11 1
+Huskies_D1 Huskies_G1 4
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 1
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D3 1
+Huskies_D2 Huskies_D5 0
+Huskies_D2 Huskies_D7 1
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F3 0
+Huskies_D2 Huskies_M1 0
+Huskies_D2 Huskies_M3 0
+Huskies_D2 Huskies_M4 0
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_M8 0
+Huskies_D2 Huskies_M11 2
+Huskies_D2 Huskies_G1 1
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 2
+Huskies_D3 Huskies_D2 3
+Huskies_D3 Huskies_D3 1
+Huskies_D3 Huskies_D5 4
+Huskies_D3 Huskies_D7 2
+Huskies_D3 Huskies_F1 4
+Huskies_D3 Huskies_F3 0
+Huskies_D3 Huskies_M1 1
+Huskies_D3 Huskies_M3 5
+Huskies_D3 Huskies_M4 0
+Huskies_D3 Huskies_M6 3
+Huskies_D3 Huskies_M8 0
+Huskies_D3 Huskies_M11 1
+Huskies_D3 Huskies_G1 4
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 0
+Huskies_D5 Huskies_D2 0
+Huskies_D5 Huskies_D3 5
+Huskies_D5 Huskies_D5 1
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_F1 4
+Huskies_D5 Huskies_F3 0
+Huskies_D5 Huskies_M1 0
+Huskies_D5 Huskies_M3 3
+Huskies_D5 Huskies_M4 1
+Huskies_D5 Huskies_M6 7
+Huskies_D5 Huskies_M8 0
+Huskies_D5 Huskies_M11 0
+Huskies_D5 Huskies_G1 2
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 4
+Huskies_D7 Huskies_D2 0
+Huskies_D7 Huskies_D3 1
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 3
+Huskies_D7 Huskies_F3 3
+Huskies_D7 Huskies_M1 4
+Huskies_D7 Huskies_M3 1
+Huskies_D7 Huskies_M4 0
+Huskies_D7 Huskies_M6 1
+Huskies_D7 Huskies_M8 2
+Huskies_D7 Huskies_M11 1
+Huskies_D7 Huskies_G1 3
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D3 1
+Huskies_F1 Huskies_D5 3
+Huskies_F1 Huskies_D7 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F3 2
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M3 3
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M6 2
+Huskies_F1 Huskies_M8 1
+Huskies_F1 Huskies_M11 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F3]
+Huskies_F3 Huskies_D1 0
+Huskies_F3 Huskies_D2 0
+Huskies_F3 Huskies_D3 0
+Huskies_F3 Huskies_D5 1
+Huskies_F3 Huskies_D7 3
+Huskies_F3 Huskies_F1 2
+Huskies_F3 Huskies_F3 0
+Huskies_F3 Huskies_M1 0
+Huskies_F3 Huskies_M3 1
+Huskies_F3 Huskies_M4 0
+Huskies_F3 Huskies_M6 3
+Huskies_F3 Huskies_M8 0
+Huskies_F3 Huskies_M11 1
+Huskies_F3 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 1
+Huskies_M1 Huskies_D2 0
+Huskies_M1 Huskies_D3 2
+Huskies_M1 Huskies_D5 0
+Huskies_M1 Huskies_D7 4
+Huskies_M1 Huskies_F1 1
+Huskies_M1 Huskies_F3 0
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 4
+Huskies_M1 Huskies_M4 1
+Huskies_M1 Huskies_M6 0
+Huskies_M1 Huskies_M8 2
+Huskies_M1 Huskies_M11 0
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 2
+Huskies_M3 Huskies_D2 1
+Huskies_M3 Huskies_D3 8
+Huskies_M3 Huskies_D5 8
+Huskies_M3 Huskies_D7 4
+Huskies_M3 Huskies_F1 2
+Huskies_M3 Huskies_F3 0
+Huskies_M3 Huskies_M1 3
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 5
+Huskies_M3 Huskies_M6 2
+Huskies_M3 Huskies_M8 0
+Huskies_M3 Huskies_M11 1
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 1
+Huskies_M4 Huskies_D2 0
+Huskies_M4 Huskies_D3 1
+Huskies_M4 Huskies_D5 1
+Huskies_M4 Huskies_D7 0
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F3 0
+Huskies_M4 Huskies_M1 0
+Huskies_M4 Huskies_M3 1
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 4
+Huskies_M4 Huskies_M8 0
+Huskies_M4 Huskies_M11 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D3 2
+Huskies_M6 Huskies_D5 5
+Huskies_M6 Huskies_D7 2
+Huskies_M6 Huskies_F1 3
+Huskies_M6 Huskies_F3 1
+Huskies_M6 Huskies_M1 0
+Huskies_M6 Huskies_M3 2
+Huskies_M6 Huskies_M4 3
+Huskies_M6 Huskies_M6 1
+Huskies_M6 Huskies_M8 0
+Huskies_M6 Huskies_M11 2
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D1 1
+Huskies_M8 Huskies_D2 0
+Huskies_M8 Huskies_D3 0
+Huskies_M8 Huskies_D5 0
+Huskies_M8 Huskies_D7 2
+Huskies_M8 Huskies_F1 2
+Huskies_M8 Huskies_F3 0
+Huskies_M8 Huskies_M1 1
+Huskies_M8 Huskies_M3 1
+Huskies_M8 Huskies_M4 0
+Huskies_M8 Huskies_M6 1
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M11 0
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M11]
+Huskies_M11 Huskies_D1 0
+Huskies_M11 Huskies_D2 0
+Huskies_M11 Huskies_D3 2
+Huskies_M11 Huskies_D5 0
+Huskies_M11 Huskies_D7 0
+Huskies_M11 Huskies_F1 1
+Huskies_M11 Huskies_F3 2
+Huskies_M11 Huskies_M1 0
+Huskies_M11 Huskies_M3 3
+Huskies_M11 Huskies_M4 0
+Huskies_M11 Huskies_M6 2
+Huskies_M11 Huskies_M8 0
+Huskies_M11 Huskies_M11 0
+Huskies_M11 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 2
+Huskies_G1 Huskies_D2 0
+Huskies_G1 Huskies_D3 0
+Huskies_G1 Huskies_D5 1
+Huskies_G1 Huskies_D7 1
+Huskies_G1 Huskies_F1 9
+Huskies_G1 Huskies_F3 1
+Huskies_G1 Huskies_M1 1
+Huskies_G1 Huskies_M3 2
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M8 0
+Huskies_G1 Huskies_M11 0
+Huskies_G1 Huskies_G1 0
+
+
+[20]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 1
+Huskies_D1 Huskies_D5 6
+Huskies_D1 Huskies_D6 2
+Huskies_D1 Huskies_D7 3
+Huskies_D1 Huskies_F1 1
+Huskies_D1 Huskies_F4 2
+Huskies_D1 Huskies_M3 0
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M6 2
+Huskies_D1 Huskies_M8 0
+Huskies_D1 Huskies_M11 0
+Huskies_D1 Huskies_M12 3
+Huskies_D1 Huskies_G1 2
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 5
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D5 1
+Huskies_D2 Huskies_D6 6
+Huskies_D2 Huskies_D7 0
+Huskies_D2 Huskies_F1 1
+Huskies_D2 Huskies_F4 0
+Huskies_D2 Huskies_M3 1
+Huskies_D2 Huskies_M4 1
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_M8 0
+Huskies_D2 Huskies_M11 0
+Huskies_D2 Huskies_M12 0
+Huskies_D2 Huskies_G1 2
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 2
+Huskies_D5 Huskies_D2 2
+Huskies_D5 Huskies_D5 1
+Huskies_D5 Huskies_D6 0
+Huskies_D5 Huskies_D7 1
+Huskies_D5 Huskies_F1 2
+Huskies_D5 Huskies_F4 0
+Huskies_D5 Huskies_M3 10
+Huskies_D5 Huskies_M4 2
+Huskies_D5 Huskies_M6 2
+Huskies_D5 Huskies_M8 1
+Huskies_D5 Huskies_M11 0
+Huskies_D5 Huskies_M12 3
+Huskies_D5 Huskies_G1 0
+
+[Huskies_D6]
+Huskies_D6 Huskies_D1 1
+Huskies_D6 Huskies_D2 2
+Huskies_D6 Huskies_D5 0
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D7 3
+Huskies_D6 Huskies_F1 3
+Huskies_D6 Huskies_F4 0
+Huskies_D6 Huskies_M3 3
+Huskies_D6 Huskies_M4 5
+Huskies_D6 Huskies_M6 0
+Huskies_D6 Huskies_M8 2
+Huskies_D6 Huskies_M11 0
+Huskies_D6 Huskies_M12 5
+Huskies_D6 Huskies_G1 1
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 0
+Huskies_D7 Huskies_D2 2
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D6 1
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 1
+Huskies_D7 Huskies_F4 0
+Huskies_D7 Huskies_M3 5
+Huskies_D7 Huskies_M4 5
+Huskies_D7 Huskies_M6 1
+Huskies_D7 Huskies_M8 2
+Huskies_D7 Huskies_M11 0
+Huskies_D7 Huskies_M12 1
+Huskies_D7 Huskies_G1 0
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 1
+Huskies_F1 Huskies_D5 0
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_D7 2
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_M3 1
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M6 0
+Huskies_F1 Huskies_M8 0
+Huskies_F1 Huskies_M11 0
+Huskies_F1 Huskies_M12 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D5 1
+Huskies_F4 Huskies_D6 0
+Huskies_F4 Huskies_D7 0
+Huskies_F4 Huskies_F1 0
+Huskies_F4 Huskies_F4 1
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M4 0
+Huskies_F4 Huskies_M6 1
+Huskies_F4 Huskies_M8 0
+Huskies_F4 Huskies_M11 0
+Huskies_F4 Huskies_M12 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 4
+Huskies_M3 Huskies_D2 2
+Huskies_M3 Huskies_D5 7
+Huskies_M3 Huskies_D6 2
+Huskies_M3 Huskies_D7 4
+Huskies_M3 Huskies_F1 3
+Huskies_M3 Huskies_F4 1
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 4
+Huskies_M3 Huskies_M6 4
+Huskies_M3 Huskies_M8 0
+Huskies_M3 Huskies_M11 0
+Huskies_M3 Huskies_M12 4
+Huskies_M3 Huskies_G1 1
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 2
+Huskies_M4 Huskies_D2 3
+Huskies_M4 Huskies_D5 0
+Huskies_M4 Huskies_D6 3
+Huskies_M4 Huskies_D7 5
+Huskies_M4 Huskies_F1 2
+Huskies_M4 Huskies_F4 0
+Huskies_M4 Huskies_M3 1
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 4
+Huskies_M4 Huskies_M8 1
+Huskies_M4 Huskies_M11 0
+Huskies_M4 Huskies_M12 2
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 2
+Huskies_M6 Huskies_D2 1
+Huskies_M6 Huskies_D5 8
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_D7 2
+Huskies_M6 Huskies_F1 0
+Huskies_M6 Huskies_F4 1
+Huskies_M6 Huskies_M3 3
+Huskies_M6 Huskies_M4 1
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 2
+Huskies_M6 Huskies_M11 0
+Huskies_M6 Huskies_M12 6
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D1 0
+Huskies_M8 Huskies_D2 0
+Huskies_M8 Huskies_D5 0
+Huskies_M8 Huskies_D6 1
+Huskies_M8 Huskies_D7 1
+Huskies_M8 Huskies_F1 0
+Huskies_M8 Huskies_F4 2
+Huskies_M8 Huskies_M3 0
+Huskies_M8 Huskies_M4 1
+Huskies_M8 Huskies_M6 1
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M11 0
+Huskies_M8 Huskies_M12 0
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M11]
+Huskies_M11 Huskies_D1 0
+Huskies_M11 Huskies_D2 0
+Huskies_M11 Huskies_D5 1
+Huskies_M11 Huskies_D6 0
+Huskies_M11 Huskies_D7 0
+Huskies_M11 Huskies_F1 0
+Huskies_M11 Huskies_F4 0
+Huskies_M11 Huskies_M3 0
+Huskies_M11 Huskies_M4 0
+Huskies_M11 Huskies_M6 0
+Huskies_M11 Huskies_M8 0
+Huskies_M11 Huskies_M11 0
+Huskies_M11 Huskies_M12 0
+Huskies_M11 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 1
+Huskies_M12 Huskies_D2 0
+Huskies_M12 Huskies_D5 2
+Huskies_M12 Huskies_D6 0
+Huskies_M12 Huskies_D7 2
+Huskies_M12 Huskies_F1 1
+Huskies_M12 Huskies_F4 0
+Huskies_M12 Huskies_M3 2
+Huskies_M12 Huskies_M4 1
+Huskies_M12 Huskies_M6 2
+Huskies_M12 Huskies_M8 0
+Huskies_M12 Huskies_M11 0
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 1
+Huskies_G1 Huskies_D2 0
+Huskies_G1 Huskies_D5 1
+Huskies_G1 Huskies_D6 4
+Huskies_G1 Huskies_D7 2
+Huskies_G1 Huskies_F1 0
+Huskies_G1 Huskies_F4 1
+Huskies_G1 Huskies_M3 1
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M8 1
+Huskies_G1 Huskies_M11 0
+Huskies_G1 Huskies_M12 0
+Huskies_G1 Huskies_G1 1
+
+
+[21]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 8
+Huskies_D1 Huskies_D5 1
+Huskies_D1 Huskies_D7 6
+Huskies_D1 Huskies_F1 1
+Huskies_D1 Huskies_F2 1
+Huskies_D1 Huskies_F4 0
+Huskies_D1 Huskies_M1 7
+Huskies_D1 Huskies_M3 4
+Huskies_D1 Huskies_M6 2
+Huskies_D1 Huskies_M8 1
+Huskies_D1 Huskies_M12 0
+Huskies_D1 Huskies_M13 2
+Huskies_D1 Huskies_G1 10
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 5
+Huskies_D3 Huskies_D3 1
+Huskies_D3 Huskies_D5 7
+Huskies_D3 Huskies_D7 5
+Huskies_D3 Huskies_F1 2
+Huskies_D3 Huskies_F2 2
+Huskies_D3 Huskies_F4 2
+Huskies_D3 Huskies_M1 1
+Huskies_D3 Huskies_M3 4
+Huskies_D3 Huskies_M6 7
+Huskies_D3 Huskies_M8 1
+Huskies_D3 Huskies_M12 0
+Huskies_D3 Huskies_M13 3
+Huskies_D3 Huskies_G1 7
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 1
+Huskies_D5 Huskies_D3 3
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_F1 4
+Huskies_D5 Huskies_F2 3
+Huskies_D5 Huskies_F4 2
+Huskies_D5 Huskies_M1 3
+Huskies_D5 Huskies_M3 5
+Huskies_D5 Huskies_M6 7
+Huskies_D5 Huskies_M8 1
+Huskies_D5 Huskies_M12 2
+Huskies_D5 Huskies_M13 3
+Huskies_D5 Huskies_G1 3
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 6
+Huskies_D7 Huskies_D3 1
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D7 1
+Huskies_D7 Huskies_F1 3
+Huskies_D7 Huskies_F2 1
+Huskies_D7 Huskies_F4 1
+Huskies_D7 Huskies_M1 3
+Huskies_D7 Huskies_M3 2
+Huskies_D7 Huskies_M6 0
+Huskies_D7 Huskies_M8 4
+Huskies_D7 Huskies_M12 0
+Huskies_D7 Huskies_M13 0
+Huskies_D7 Huskies_G1 4
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D3 1
+Huskies_F1 Huskies_D5 0
+Huskies_F1 Huskies_D7 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_M1 3
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M6 1
+Huskies_F1 Huskies_M8 2
+Huskies_F1 Huskies_M12 0
+Huskies_F1 Huskies_M13 2
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 0
+Huskies_F2 Huskies_D3 4
+Huskies_F2 Huskies_D5 5
+Huskies_F2 Huskies_D7 0
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 1
+Huskies_F2 Huskies_M1 1
+Huskies_F2 Huskies_M3 1
+Huskies_F2 Huskies_M6 1
+Huskies_F2 Huskies_M8 2
+Huskies_F2 Huskies_M12 1
+Huskies_F2 Huskies_M13 0
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D3 0
+Huskies_F4 Huskies_D5 0
+Huskies_F4 Huskies_D7 0
+Huskies_F4 Huskies_F1 0
+Huskies_F4 Huskies_F2 0
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_M1 2
+Huskies_F4 Huskies_M3 1
+Huskies_F4 Huskies_M6 4
+Huskies_F4 Huskies_M8 0
+Huskies_F4 Huskies_M12 1
+Huskies_F4 Huskies_M13 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 9
+Huskies_M1 Huskies_D3 5
+Huskies_M1 Huskies_D5 7
+Huskies_M1 Huskies_D7 4
+Huskies_M1 Huskies_F1 1
+Huskies_M1 Huskies_F2 2
+Huskies_M1 Huskies_F4 1
+Huskies_M1 Huskies_M1 1
+Huskies_M1 Huskies_M3 9
+Huskies_M1 Huskies_M6 4
+Huskies_M1 Huskies_M8 2
+Huskies_M1 Huskies_M12 0
+Huskies_M1 Huskies_M13 2
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 5
+Huskies_M3 Huskies_D3 6
+Huskies_M3 Huskies_D5 2
+Huskies_M3 Huskies_D7 3
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 4
+Huskies_M3 Huskies_F4 1
+Huskies_M3 Huskies_M1 10
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M6 5
+Huskies_M3 Huskies_M8 1
+Huskies_M3 Huskies_M12 0
+Huskies_M3 Huskies_M13 4
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D3 1
+Huskies_M6 Huskies_D5 9
+Huskies_M6 Huskies_D7 0
+Huskies_M6 Huskies_F1 0
+Huskies_M6 Huskies_F2 2
+Huskies_M6 Huskies_F4 3
+Huskies_M6 Huskies_M1 1
+Huskies_M6 Huskies_M3 5
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 6
+Huskies_M6 Huskies_M12 1
+Huskies_M6 Huskies_M13 3
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D1 0
+Huskies_M8 Huskies_D3 1
+Huskies_M8 Huskies_D5 0
+Huskies_M8 Huskies_D7 5
+Huskies_M8 Huskies_F1 2
+Huskies_M8 Huskies_F2 1
+Huskies_M8 Huskies_F4 1
+Huskies_M8 Huskies_M1 3
+Huskies_M8 Huskies_M3 0
+Huskies_M8 Huskies_M6 0
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M12 0
+Huskies_M8 Huskies_M13 0
+Huskies_M8 Huskies_G1 1
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D3 1
+Huskies_M12 Huskies_D5 1
+Huskies_M12 Huskies_D7 0
+Huskies_M12 Huskies_F1 0
+Huskies_M12 Huskies_F2 0
+Huskies_M12 Huskies_F4 2
+Huskies_M12 Huskies_M1 0
+Huskies_M12 Huskies_M3 0
+Huskies_M12 Huskies_M6 0
+Huskies_M12 Huskies_M8 1
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_M13 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_M13]
+Huskies_M13 Huskies_D1 2
+Huskies_M13 Huskies_D3 0
+Huskies_M13 Huskies_D5 3
+Huskies_M13 Huskies_D7 2
+Huskies_M13 Huskies_F1 0
+Huskies_M13 Huskies_F2 0
+Huskies_M13 Huskies_F4 0
+Huskies_M13 Huskies_M1 2
+Huskies_M13 Huskies_M3 4
+Huskies_M13 Huskies_M6 3
+Huskies_M13 Huskies_M8 0
+Huskies_M13 Huskies_M12 0
+Huskies_M13 Huskies_M13 1
+Huskies_M13 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 8
+Huskies_G1 Huskies_D3 4
+Huskies_G1 Huskies_D5 0
+Huskies_G1 Huskies_D7 3
+Huskies_G1 Huskies_F1 3
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 2
+Huskies_G1 Huskies_M1 2
+Huskies_G1 Huskies_M3 1
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M8 1
+Huskies_G1 Huskies_M12 1
+Huskies_G1 Huskies_M13 0
+Huskies_G1 Huskies_G1 0
+
+
+[22]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 1
+Huskies_D1 Huskies_D5 1
+Huskies_D1 Huskies_D6 3
+Huskies_D1 Huskies_F1 0
+Huskies_D1 Huskies_F2 2
+Huskies_D1 Huskies_F4 0
+Huskies_D1 Huskies_M3 0
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M8 0
+Huskies_D1 Huskies_M9 0
+Huskies_D1 Huskies_M12 1
+Huskies_D1 Huskies_M13 0
+Huskies_D1 Huskies_G1 2
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 2
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D5 4
+Huskies_D2 Huskies_D6 0
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 2
+Huskies_D2 Huskies_F4 1
+Huskies_D2 Huskies_M3 4
+Huskies_D2 Huskies_M4 1
+Huskies_D2 Huskies_M8 1
+Huskies_D2 Huskies_M9 0
+Huskies_D2 Huskies_M12 1
+Huskies_D2 Huskies_M13 0
+Huskies_D2 Huskies_G1 3
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 0
+Huskies_D5 Huskies_D2 2
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D6 1
+Huskies_D5 Huskies_F1 0
+Huskies_D5 Huskies_F2 6
+Huskies_D5 Huskies_F4 4
+Huskies_D5 Huskies_M3 4
+Huskies_D5 Huskies_M4 2
+Huskies_D5 Huskies_M8 2
+Huskies_D5 Huskies_M9 1
+Huskies_D5 Huskies_M12 5
+Huskies_D5 Huskies_M13 0
+Huskies_D5 Huskies_G1 4
+
+[Huskies_D6]
+Huskies_D6 Huskies_D1 2
+Huskies_D6 Huskies_D2 0
+Huskies_D6 Huskies_D5 1
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_F1 0
+Huskies_D6 Huskies_F2 2
+Huskies_D6 Huskies_F4 3
+Huskies_D6 Huskies_M3 3
+Huskies_D6 Huskies_M4 3
+Huskies_D6 Huskies_M8 0
+Huskies_D6 Huskies_M9 4
+Huskies_D6 Huskies_M12 1
+Huskies_D6 Huskies_M13 0
+Huskies_D6 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D5 0
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_M3 1
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M8 0
+Huskies_F1 Huskies_M9 0
+Huskies_F1 Huskies_M12 0
+Huskies_F1 Huskies_M13 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 0
+Huskies_F2 Huskies_D2 1
+Huskies_F2 Huskies_D5 9
+Huskies_F2 Huskies_D6 4
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 0
+Huskies_F2 Huskies_M3 7
+Huskies_F2 Huskies_M4 2
+Huskies_F2 Huskies_M8 0
+Huskies_F2 Huskies_M9 3
+Huskies_F2 Huskies_M12 3
+Huskies_F2 Huskies_M13 0
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D5 0
+Huskies_F4 Huskies_D6 2
+Huskies_F4 Huskies_F1 0
+Huskies_F4 Huskies_F2 2
+Huskies_F4 Huskies_F4 2
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M4 1
+Huskies_F4 Huskies_M8 1
+Huskies_F4 Huskies_M9 2
+Huskies_F4 Huskies_M12 0
+Huskies_F4 Huskies_M13 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 1
+Huskies_M3 Huskies_D2 2
+Huskies_M3 Huskies_D5 2
+Huskies_M3 Huskies_D6 6
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 8
+Huskies_M3 Huskies_F4 2
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 1
+Huskies_M3 Huskies_M8 0
+Huskies_M3 Huskies_M9 4
+Huskies_M3 Huskies_M12 3
+Huskies_M3 Huskies_M13 2
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 4
+Huskies_M4 Huskies_D2 0
+Huskies_M4 Huskies_D5 3
+Huskies_M4 Huskies_D6 0
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 4
+Huskies_M4 Huskies_F4 1
+Huskies_M4 Huskies_M3 3
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M8 1
+Huskies_M4 Huskies_M9 2
+Huskies_M4 Huskies_M12 2
+Huskies_M4 Huskies_M13 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D1 0
+Huskies_M8 Huskies_D2 0
+Huskies_M8 Huskies_D5 1
+Huskies_M8 Huskies_D6 0
+Huskies_M8 Huskies_F1 0
+Huskies_M8 Huskies_F2 0
+Huskies_M8 Huskies_F4 0
+Huskies_M8 Huskies_M3 1
+Huskies_M8 Huskies_M4 0
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M9 0
+Huskies_M8 Huskies_M12 0
+Huskies_M8 Huskies_M13 2
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D1 1
+Huskies_M9 Huskies_D2 1
+Huskies_M9 Huskies_D5 0
+Huskies_M9 Huskies_D6 11
+Huskies_M9 Huskies_F1 0
+Huskies_M9 Huskies_F2 2
+Huskies_M9 Huskies_F4 3
+Huskies_M9 Huskies_M3 1
+Huskies_M9 Huskies_M4 3
+Huskies_M9 Huskies_M8 1
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_M12 0
+Huskies_M9 Huskies_M13 2
+Huskies_M9 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D2 0
+Huskies_M12 Huskies_D5 7
+Huskies_M12 Huskies_D6 1
+Huskies_M12 Huskies_F1 0
+Huskies_M12 Huskies_F2 4
+Huskies_M12 Huskies_F4 3
+Huskies_M12 Huskies_M3 0
+Huskies_M12 Huskies_M4 1
+Huskies_M12 Huskies_M8 0
+Huskies_M12 Huskies_M9 1
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_M13 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_M13]
+Huskies_M13 Huskies_D1 1
+Huskies_M13 Huskies_D2 2
+Huskies_M13 Huskies_D5 0
+Huskies_M13 Huskies_D6 1
+Huskies_M13 Huskies_F1 1
+Huskies_M13 Huskies_F2 0
+Huskies_M13 Huskies_F4 1
+Huskies_M13 Huskies_M3 3
+Huskies_M13 Huskies_M4 0
+Huskies_M13 Huskies_M8 0
+Huskies_M13 Huskies_M9 3
+Huskies_M13 Huskies_M12 0
+Huskies_M13 Huskies_M13 0
+Huskies_M13 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 2
+Huskies_G1 Huskies_D2 4
+Huskies_G1 Huskies_D5 1
+Huskies_G1 Huskies_D6 1
+Huskies_G1 Huskies_F1 0
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 1
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M8 0
+Huskies_G1 Huskies_M9 0
+Huskies_G1 Huskies_M12 1
+Huskies_G1 Huskies_M13 0
+Huskies_G1 Huskies_G1 0
+
+
+[23]
+14
+[Huskies_D3]
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D5 2
+Huskies_D3 Huskies_D6 3
+Huskies_D3 Huskies_D7 1
+Huskies_D3 Huskies_F1 1
+Huskies_D3 Huskies_F2 2
+Huskies_D3 Huskies_F5 0
+Huskies_D3 Huskies_M1 2
+Huskies_D3 Huskies_M3 0
+Huskies_D3 Huskies_M6 0
+Huskies_D3 Huskies_M8 1
+Huskies_D3 Huskies_M12 2
+Huskies_D3 Huskies_M13 0
+Huskies_D3 Huskies_G1 7
+
+[Huskies_D5]
+Huskies_D5 Huskies_D3 5
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D6 0
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_F1 1
+Huskies_D5 Huskies_F2 7
+Huskies_D5 Huskies_F5 1
+Huskies_D5 Huskies_M1 11
+Huskies_D5 Huskies_M3 0
+Huskies_D5 Huskies_M6 3
+Huskies_D5 Huskies_M8 0
+Huskies_D5 Huskies_M12 0
+Huskies_D5 Huskies_M13 3
+Huskies_D5 Huskies_G1 1
+
+[Huskies_D6]
+Huskies_D6 Huskies_D3 2
+Huskies_D6 Huskies_D5 0
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D7 2
+Huskies_D6 Huskies_F1 0
+Huskies_D6 Huskies_F2 1
+Huskies_D6 Huskies_F5 1
+Huskies_D6 Huskies_M1 1
+Huskies_D6 Huskies_M3 1
+Huskies_D6 Huskies_M6 1
+Huskies_D6 Huskies_M8 0
+Huskies_D6 Huskies_M12 1
+Huskies_D6 Huskies_M13 0
+Huskies_D6 Huskies_G1 5
+
+[Huskies_D7]
+Huskies_D7 Huskies_D3 1
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D6 1
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 1
+Huskies_D7 Huskies_F2 0
+Huskies_D7 Huskies_F5 1
+Huskies_D7 Huskies_M1 2
+Huskies_D7 Huskies_M3 0
+Huskies_D7 Huskies_M6 0
+Huskies_D7 Huskies_M8 4
+Huskies_D7 Huskies_M12 0
+Huskies_D7 Huskies_M13 2
+Huskies_D7 Huskies_G1 2
+
+[Huskies_F1]
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D5 0
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_D7 2
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F5 0
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M6 1
+Huskies_F1 Huskies_M8 0
+Huskies_F1 Huskies_M12 0
+Huskies_F1 Huskies_M13 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D3 0
+Huskies_F2 Huskies_D5 2
+Huskies_F2 Huskies_D6 0
+Huskies_F2 Huskies_D7 2
+Huskies_F2 Huskies_F1 1
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F5 0
+Huskies_F2 Huskies_M1 4
+Huskies_F2 Huskies_M3 1
+Huskies_F2 Huskies_M6 1
+Huskies_F2 Huskies_M8 1
+Huskies_F2 Huskies_M12 2
+Huskies_F2 Huskies_M13 3
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D3 0
+Huskies_F5 Huskies_D5 0
+Huskies_F5 Huskies_D6 0
+Huskies_F5 Huskies_D7 2
+Huskies_F5 Huskies_F1 0
+Huskies_F5 Huskies_F2 4
+Huskies_F5 Huskies_F5 1
+Huskies_F5 Huskies_M1 1
+Huskies_F5 Huskies_M3 0
+Huskies_F5 Huskies_M6 2
+Huskies_F5 Huskies_M8 0
+Huskies_F5 Huskies_M12 1
+Huskies_F5 Huskies_M13 1
+Huskies_F5 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D3 3
+Huskies_M1 Huskies_D5 11
+Huskies_M1 Huskies_D6 2
+Huskies_M1 Huskies_D7 5
+Huskies_M1 Huskies_F1 0
+Huskies_M1 Huskies_F2 8
+Huskies_M1 Huskies_F5 4
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 4
+Huskies_M1 Huskies_M6 4
+Huskies_M1 Huskies_M8 2
+Huskies_M1 Huskies_M12 1
+Huskies_M1 Huskies_M13 2
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D3 1
+Huskies_M3 Huskies_D5 2
+Huskies_M3 Huskies_D6 1
+Huskies_M3 Huskies_D7 1
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 2
+Huskies_M3 Huskies_F5 0
+Huskies_M3 Huskies_M1 2
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M6 0
+Huskies_M3 Huskies_M8 1
+Huskies_M3 Huskies_M12 0
+Huskies_M3 Huskies_M13 0
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D3 1
+Huskies_M6 Huskies_D5 5
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_D7 0
+Huskies_M6 Huskies_F1 0
+Huskies_M6 Huskies_F2 2
+Huskies_M6 Huskies_F5 4
+Huskies_M6 Huskies_M1 2
+Huskies_M6 Huskies_M3 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M8 0
+Huskies_M6 Huskies_M12 0
+Huskies_M6 Huskies_M13 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M8]
+Huskies_M8 Huskies_D3 0
+Huskies_M8 Huskies_D5 0
+Huskies_M8 Huskies_D6 0
+Huskies_M8 Huskies_D7 4
+Huskies_M8 Huskies_F1 0
+Huskies_M8 Huskies_F2 2
+Huskies_M8 Huskies_F5 1
+Huskies_M8 Huskies_M1 0
+Huskies_M8 Huskies_M3 1
+Huskies_M8 Huskies_M6 0
+Huskies_M8 Huskies_M8 0
+Huskies_M8 Huskies_M12 0
+Huskies_M8 Huskies_M13 1
+Huskies_M8 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D3 0
+Huskies_M12 Huskies_D5 0
+Huskies_M12 Huskies_D6 2
+Huskies_M12 Huskies_D7 1
+Huskies_M12 Huskies_F1 0
+Huskies_M12 Huskies_F2 0
+Huskies_M12 Huskies_F5 2
+Huskies_M12 Huskies_M1 1
+Huskies_M12 Huskies_M3 0
+Huskies_M12 Huskies_M6 0
+Huskies_M12 Huskies_M8 0
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_M13 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_M13]
+Huskies_M13 Huskies_D3 2
+Huskies_M13 Huskies_D5 2
+Huskies_M13 Huskies_D6 2
+Huskies_M13 Huskies_D7 5
+Huskies_M13 Huskies_F1 1
+Huskies_M13 Huskies_F2 4
+Huskies_M13 Huskies_F5 2
+Huskies_M13 Huskies_M1 3
+Huskies_M13 Huskies_M3 0
+Huskies_M13 Huskies_M6 1
+Huskies_M13 Huskies_M8 0
+Huskies_M13 Huskies_M12 2
+Huskies_M13 Huskies_M13 0
+Huskies_M13 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D3 2
+Huskies_G1 Huskies_D5 3
+Huskies_G1 Huskies_D6 3
+Huskies_G1 Huskies_D7 0
+Huskies_G1 Huskies_F1 3
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F5 0
+Huskies_G1 Huskies_M1 2
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M8 0
+Huskies_G1 Huskies_M12 0
+Huskies_G1 Huskies_M13 0
+Huskies_G1 Huskies_G1 0
+
+
+[24]
+14
+[Huskies_D2]
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D5 6
+Huskies_D2 Huskies_D6 8
+Huskies_D2 Huskies_D7 4
+Huskies_D2 Huskies_F2 5
+Huskies_D2 Huskies_F4 0
+Huskies_D2 Huskies_F5 1
+Huskies_D2 Huskies_F6 1
+Huskies_D2 Huskies_M3 6
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_M9 2
+Huskies_D2 Huskies_M12 1
+Huskies_D2 Huskies_M13 1
+Huskies_D2 Huskies_G1 4
+
+[Huskies_D5]
+Huskies_D5 Huskies_D2 7
+Huskies_D5 Huskies_D5 1
+Huskies_D5 Huskies_D6 3
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_F2 5
+Huskies_D5 Huskies_F4 0
+Huskies_D5 Huskies_F5 2
+Huskies_D5 Huskies_F6 1
+Huskies_D5 Huskies_M3 4
+Huskies_D5 Huskies_M6 5
+Huskies_D5 Huskies_M9 4
+Huskies_D5 Huskies_M12 5
+Huskies_D5 Huskies_M13 3
+Huskies_D5 Huskies_G1 0
+
+[Huskies_D6]
+Huskies_D6 Huskies_D2 8
+Huskies_D6 Huskies_D5 1
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D7 2
+Huskies_D6 Huskies_F2 2
+Huskies_D6 Huskies_F4 0
+Huskies_D6 Huskies_F5 2
+Huskies_D6 Huskies_F6 6
+Huskies_D6 Huskies_M3 3
+Huskies_D6 Huskies_M6 1
+Huskies_D6 Huskies_M9 1
+Huskies_D6 Huskies_M12 0
+Huskies_D6 Huskies_M13 1
+Huskies_D6 Huskies_G1 4
+
+[Huskies_D7]
+Huskies_D7 Huskies_D2 1
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D6 7
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F2 0
+Huskies_D7 Huskies_F4 0
+Huskies_D7 Huskies_F5 4
+Huskies_D7 Huskies_F6 9
+Huskies_D7 Huskies_M3 2
+Huskies_D7 Huskies_M6 0
+Huskies_D7 Huskies_M9 0
+Huskies_D7 Huskies_M12 0
+Huskies_D7 Huskies_M13 2
+Huskies_D7 Huskies_G1 6
+
+[Huskies_F2]
+Huskies_F2 Huskies_D2 6
+Huskies_F2 Huskies_D5 5
+Huskies_F2 Huskies_D6 2
+Huskies_F2 Huskies_D7 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 1
+Huskies_F2 Huskies_F5 0
+Huskies_F2 Huskies_F6 2
+Huskies_F2 Huskies_M3 2
+Huskies_F2 Huskies_M6 0
+Huskies_F2 Huskies_M9 0
+Huskies_F2 Huskies_M12 3
+Huskies_F2 Huskies_M13 0
+Huskies_F2 Huskies_G1 1
+
+[Huskies_F4]
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D5 0
+Huskies_F4 Huskies_D6 0
+Huskies_F4 Huskies_D7 0
+Huskies_F4 Huskies_F2 0
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_F5 0
+Huskies_F4 Huskies_F6 0
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M6 1
+Huskies_F4 Huskies_M9 0
+Huskies_F4 Huskies_M12 1
+Huskies_F4 Huskies_M13 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D2 1
+Huskies_F5 Huskies_D5 2
+Huskies_F5 Huskies_D6 1
+Huskies_F5 Huskies_D7 2
+Huskies_F5 Huskies_F2 0
+Huskies_F5 Huskies_F4 0
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 5
+Huskies_F5 Huskies_M3 0
+Huskies_F5 Huskies_M6 2
+Huskies_F5 Huskies_M9 2
+Huskies_F5 Huskies_M12 0
+Huskies_F5 Huskies_M13 2
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D2 1
+Huskies_F6 Huskies_D5 0
+Huskies_F6 Huskies_D6 0
+Huskies_F6 Huskies_D7 5
+Huskies_F6 Huskies_F2 0
+Huskies_F6 Huskies_F4 3
+Huskies_F6 Huskies_F5 2
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M3 1
+Huskies_F6 Huskies_M6 3
+Huskies_F6 Huskies_M9 1
+Huskies_F6 Huskies_M12 0
+Huskies_F6 Huskies_M13 3
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D2 2
+Huskies_M3 Huskies_D5 6
+Huskies_M3 Huskies_D6 4
+Huskies_M3 Huskies_D7 6
+Huskies_M3 Huskies_F2 4
+Huskies_M3 Huskies_F4 0
+Huskies_M3 Huskies_F5 1
+Huskies_M3 Huskies_F6 1
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M6 0
+Huskies_M3 Huskies_M9 2
+Huskies_M3 Huskies_M12 2
+Huskies_M3 Huskies_M13 2
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D2 1
+Huskies_M6 Huskies_D5 6
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_D7 1
+Huskies_M6 Huskies_F2 0
+Huskies_M6 Huskies_F4 1
+Huskies_M6 Huskies_F5 3
+Huskies_M6 Huskies_F6 1
+Huskies_M6 Huskies_M3 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M9 7
+Huskies_M6 Huskies_M12 1
+Huskies_M6 Huskies_M13 1
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D2 0
+Huskies_M9 Huskies_D5 3
+Huskies_M9 Huskies_D6 0
+Huskies_M9 Huskies_D7 0
+Huskies_M9 Huskies_F2 0
+Huskies_M9 Huskies_F4 0
+Huskies_M9 Huskies_F5 3
+Huskies_M9 Huskies_F6 0
+Huskies_M9 Huskies_M3 1
+Huskies_M9 Huskies_M6 6
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_M12 0
+Huskies_M9 Huskies_M13 3
+Huskies_M9 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D2 0
+Huskies_M12 Huskies_D5 10
+Huskies_M12 Huskies_D6 0
+Huskies_M12 Huskies_D7 1
+Huskies_M12 Huskies_F2 2
+Huskies_M12 Huskies_F4 0
+Huskies_M12 Huskies_F5 1
+Huskies_M12 Huskies_F6 0
+Huskies_M12 Huskies_M3 0
+Huskies_M12 Huskies_M6 3
+Huskies_M12 Huskies_M9 0
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_M13 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_M13]
+Huskies_M13 Huskies_D2 3
+Huskies_M13 Huskies_D5 1
+Huskies_M13 Huskies_D6 1
+Huskies_M13 Huskies_D7 5
+Huskies_M13 Huskies_F2 0
+Huskies_M13 Huskies_F4 0
+Huskies_M13 Huskies_F5 1
+Huskies_M13 Huskies_F6 1
+Huskies_M13 Huskies_M3 5
+Huskies_M13 Huskies_M6 2
+Huskies_M13 Huskies_M9 2
+Huskies_M13 Huskies_M12 0
+Huskies_M13 Huskies_M13 0
+Huskies_M13 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D2 4
+Huskies_G1 Huskies_D5 0
+Huskies_G1 Huskies_D6 3
+Huskies_G1 Huskies_D7 2
+Huskies_G1 Huskies_F2 1
+Huskies_G1 Huskies_F4 1
+Huskies_G1 Huskies_F5 0
+Huskies_G1 Huskies_F6 0
+Huskies_G1 Huskies_M3 1
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M9 0
+Huskies_G1 Huskies_M12 0
+Huskies_G1 Huskies_M13 1
+Huskies_G1 Huskies_G1 0
+
+
+[25]
+13
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 3
+Huskies_D1 Huskies_D5 4
+Huskies_D1 Huskies_D8 1
+Huskies_D1 Huskies_F1 0
+Huskies_D1 Huskies_F2 2
+Huskies_D1 Huskies_F4 3
+Huskies_D1 Huskies_F6 2
+Huskies_D1 Huskies_M1 6
+Huskies_D1 Huskies_M3 0
+Huskies_D1 Huskies_M4 1
+Huskies_D1 Huskies_M6 2
+Huskies_D1 Huskies_G1 4
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 3
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D5 0
+Huskies_D3 Huskies_D8 2
+Huskies_D3 Huskies_F1 0
+Huskies_D3 Huskies_F2 2
+Huskies_D3 Huskies_F4 1
+Huskies_D3 Huskies_F6 2
+Huskies_D3 Huskies_M1 0
+Huskies_D3 Huskies_M3 0
+Huskies_D3 Huskies_M4 3
+Huskies_D3 Huskies_M6 1
+Huskies_D3 Huskies_G1 5
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 2
+Huskies_D5 Huskies_D3 2
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D8 0
+Huskies_D5 Huskies_F1 0
+Huskies_D5 Huskies_F2 4
+Huskies_D5 Huskies_F4 4
+Huskies_D5 Huskies_F6 0
+Huskies_D5 Huskies_M1 3
+Huskies_D5 Huskies_M3 0
+Huskies_D5 Huskies_M4 3
+Huskies_D5 Huskies_M6 6
+Huskies_D5 Huskies_G1 0
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 0
+Huskies_D8 Huskies_D3 5
+Huskies_D8 Huskies_D5 0
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_F1 0
+Huskies_D8 Huskies_F2 3
+Huskies_D8 Huskies_F4 7
+Huskies_D8 Huskies_F6 6
+Huskies_D8 Huskies_M1 2
+Huskies_D8 Huskies_M3 0
+Huskies_D8 Huskies_M4 5
+Huskies_D8 Huskies_M6 0
+Huskies_D8 Huskies_G1 3
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D5 0
+Huskies_F1 Huskies_D8 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_F6 0
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 2
+Huskies_F1 Huskies_M6 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 5
+Huskies_F2 Huskies_D3 2
+Huskies_F2 Huskies_D5 5
+Huskies_F2 Huskies_D8 8
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 2
+Huskies_F2 Huskies_F6 0
+Huskies_F2 Huskies_M1 4
+Huskies_F2 Huskies_M3 0
+Huskies_F2 Huskies_M4 2
+Huskies_F2 Huskies_M6 2
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D3 0
+Huskies_F4 Huskies_D5 0
+Huskies_F4 Huskies_D8 1
+Huskies_F4 Huskies_F1 0
+Huskies_F4 Huskies_F2 1
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_F6 2
+Huskies_F4 Huskies_M1 1
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M4 1
+Huskies_F4 Huskies_M6 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 0
+Huskies_F6 Huskies_D3 2
+Huskies_F6 Huskies_D5 0
+Huskies_F6 Huskies_D8 8
+Huskies_F6 Huskies_F1 0
+Huskies_F6 Huskies_F2 1
+Huskies_F6 Huskies_F4 2
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 1
+Huskies_F6 Huskies_M3 0
+Huskies_F6 Huskies_M4 5
+Huskies_F6 Huskies_M6 2
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 4
+Huskies_M1 Huskies_D3 3
+Huskies_M1 Huskies_D5 3
+Huskies_M1 Huskies_D8 6
+Huskies_M1 Huskies_F1 0
+Huskies_M1 Huskies_F2 9
+Huskies_M1 Huskies_F4 2
+Huskies_M1 Huskies_F6 3
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 1
+Huskies_M1 Huskies_M4 2
+Huskies_M1 Huskies_M6 3
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 0
+Huskies_M3 Huskies_D3 0
+Huskies_M3 Huskies_D5 0
+Huskies_M3 Huskies_D8 0
+Huskies_M3 Huskies_F1 1
+Huskies_M3 Huskies_F2 0
+Huskies_M3 Huskies_F4 0
+Huskies_M3 Huskies_F6 0
+Huskies_M3 Huskies_M1 0
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 1
+Huskies_M3 Huskies_M6 0
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 1
+Huskies_M4 Huskies_D3 1
+Huskies_M4 Huskies_D5 0
+Huskies_M4 Huskies_D8 1
+Huskies_M4 Huskies_F1 1
+Huskies_M4 Huskies_F2 2
+Huskies_M4 Huskies_F4 1
+Huskies_M4 Huskies_F6 2
+Huskies_M4 Huskies_M1 5
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 1
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D3 1
+Huskies_M6 Huskies_D5 5
+Huskies_M6 Huskies_D8 1
+Huskies_M6 Huskies_F1 0
+Huskies_M6 Huskies_F2 4
+Huskies_M6 Huskies_F4 2
+Huskies_M6 Huskies_F6 1
+Huskies_M6 Huskies_M1 3
+Huskies_M6 Huskies_M3 0
+Huskies_M6 Huskies_M4 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 5
+Huskies_G1 Huskies_D3 3
+Huskies_G1 Huskies_D5 1
+Huskies_G1 Huskies_D8 0
+Huskies_G1 Huskies_F1 2
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 2
+Huskies_G1 Huskies_F6 1
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 2
+Huskies_G1 Huskies_M6 2
+Huskies_G1 Huskies_G1 0
+
+
+[26]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 3
+Huskies_D1 Huskies_D5 0
+Huskies_D1 Huskies_D7 5
+Huskies_D1 Huskies_D9 2
+Huskies_D1 Huskies_F1 0
+Huskies_D1 Huskies_F4 1
+Huskies_D1 Huskies_F5 0
+Huskies_D1 Huskies_F6 1
+Huskies_D1 Huskies_M1 1
+Huskies_D1 Huskies_M3 1
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M12 1
+Huskies_D1 Huskies_G1 0
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 1
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D5 1
+Huskies_D2 Huskies_D7 7
+Huskies_D2 Huskies_D9 8
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F4 1
+Huskies_D2 Huskies_F5 0
+Huskies_D2 Huskies_F6 2
+Huskies_D2 Huskies_M1 3
+Huskies_D2 Huskies_M3 3
+Huskies_D2 Huskies_M4 0
+Huskies_D2 Huskies_M12 0
+Huskies_D2 Huskies_G1 3
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 0
+Huskies_D5 Huskies_D2 1
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_D9 4
+Huskies_D5 Huskies_F1 3
+Huskies_D5 Huskies_F4 3
+Huskies_D5 Huskies_F5 0
+Huskies_D5 Huskies_F6 0
+Huskies_D5 Huskies_M1 1
+Huskies_D5 Huskies_M3 6
+Huskies_D5 Huskies_M4 2
+Huskies_D5 Huskies_M12 5
+Huskies_D5 Huskies_G1 1
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 1
+Huskies_D7 Huskies_D2 8
+Huskies_D7 Huskies_D5 1
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_D9 0
+Huskies_D7 Huskies_F1 2
+Huskies_D7 Huskies_F4 3
+Huskies_D7 Huskies_F5 0
+Huskies_D7 Huskies_F6 4
+Huskies_D7 Huskies_M1 5
+Huskies_D7 Huskies_M3 6
+Huskies_D7 Huskies_M4 0
+Huskies_D7 Huskies_M12 5
+Huskies_D7 Huskies_G1 0
+
+[Huskies_D9]
+Huskies_D9 Huskies_D1 1
+Huskies_D9 Huskies_D2 7
+Huskies_D9 Huskies_D5 9
+Huskies_D9 Huskies_D7 1
+Huskies_D9 Huskies_D9 0
+Huskies_D9 Huskies_F1 1
+Huskies_D9 Huskies_F4 1
+Huskies_D9 Huskies_F5 0
+Huskies_D9 Huskies_F6 2
+Huskies_D9 Huskies_M1 3
+Huskies_D9 Huskies_M3 6
+Huskies_D9 Huskies_M4 1
+Huskies_D9 Huskies_M12 1
+Huskies_D9 Huskies_G1 3
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D5 0
+Huskies_F1 Huskies_D7 0
+Huskies_F1 Huskies_D9 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F4 1
+Huskies_F1 Huskies_F5 1
+Huskies_F1 Huskies_F6 0
+Huskies_F1 Huskies_M1 2
+Huskies_F1 Huskies_M3 1
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M12 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D5 2
+Huskies_F4 Huskies_D7 0
+Huskies_F4 Huskies_D9 1
+Huskies_F4 Huskies_F1 1
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_F5 0
+Huskies_F4 Huskies_F6 2
+Huskies_F4 Huskies_M1 1
+Huskies_F4 Huskies_M3 1
+Huskies_F4 Huskies_M4 0
+Huskies_F4 Huskies_M12 2
+Huskies_F4 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D2 0
+Huskies_F5 Huskies_D5 1
+Huskies_F5 Huskies_D7 0
+Huskies_F5 Huskies_D9 0
+Huskies_F5 Huskies_F1 0
+Huskies_F5 Huskies_F4 0
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 0
+Huskies_F5 Huskies_M1 0
+Huskies_F5 Huskies_M3 0
+Huskies_F5 Huskies_M4 1
+Huskies_F5 Huskies_M12 1
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 0
+Huskies_F6 Huskies_D2 0
+Huskies_F6 Huskies_D5 0
+Huskies_F6 Huskies_D7 2
+Huskies_F6 Huskies_D9 0
+Huskies_F6 Huskies_F1 0
+Huskies_F6 Huskies_F4 3
+Huskies_F6 Huskies_F5 0
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 0
+Huskies_F6 Huskies_M3 3
+Huskies_F6 Huskies_M4 1
+Huskies_F6 Huskies_M12 0
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 3
+Huskies_M1 Huskies_D2 2
+Huskies_M1 Huskies_D5 2
+Huskies_M1 Huskies_D7 6
+Huskies_M1 Huskies_D9 3
+Huskies_M1 Huskies_F1 1
+Huskies_M1 Huskies_F4 2
+Huskies_M1 Huskies_F5 0
+Huskies_M1 Huskies_F6 2
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 5
+Huskies_M1 Huskies_M4 4
+Huskies_M1 Huskies_M12 3
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 2
+Huskies_M3 Huskies_D2 2
+Huskies_M3 Huskies_D5 2
+Huskies_M3 Huskies_D7 11
+Huskies_M3 Huskies_D9 3
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F4 1
+Huskies_M3 Huskies_F5 1
+Huskies_M3 Huskies_F6 3
+Huskies_M3 Huskies_M1 8
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 4
+Huskies_M3 Huskies_M12 5
+Huskies_M3 Huskies_G1 3
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D2 1
+Huskies_M4 Huskies_D5 3
+Huskies_M4 Huskies_D7 0
+Huskies_M4 Huskies_D9 1
+Huskies_M4 Huskies_F1 2
+Huskies_M4 Huskies_F4 1
+Huskies_M4 Huskies_F5 2
+Huskies_M4 Huskies_F6 0
+Huskies_M4 Huskies_M1 2
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M12 1
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D2 0
+Huskies_M12 Huskies_D5 1
+Huskies_M12 Huskies_D7 4
+Huskies_M12 Huskies_D9 0
+Huskies_M12 Huskies_F1 0
+Huskies_M12 Huskies_F4 2
+Huskies_M12 Huskies_F5 0
+Huskies_M12 Huskies_F6 0
+Huskies_M12 Huskies_M1 2
+Huskies_M12 Huskies_M3 1
+Huskies_M12 Huskies_M4 0
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 2
+Huskies_G1 Huskies_D2 3
+Huskies_G1 Huskies_D5 0
+Huskies_G1 Huskies_D7 2
+Huskies_G1 Huskies_D9 5
+Huskies_G1 Huskies_F1 1
+Huskies_G1 Huskies_F4 1
+Huskies_G1 Huskies_F5 0
+Huskies_G1 Huskies_F6 1
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M12 0
+Huskies_G1 Huskies_G1 0
+
+
+[27]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D2 0
+Huskies_D1 Huskies_D5 2
+Huskies_D1 Huskies_D7 0
+Huskies_D1 Huskies_D8 7
+Huskies_D1 Huskies_D9 4
+Huskies_D1 Huskies_F2 1
+Huskies_D1 Huskies_F4 3
+Huskies_D1 Huskies_F6 3
+Huskies_D1 Huskies_M1 1
+Huskies_D1 Huskies_M3 0
+Huskies_D1 Huskies_M4 2
+Huskies_D1 Huskies_M6 1
+Huskies_D1 Huskies_G1 4
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 1
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D5 0
+Huskies_D2 Huskies_D7 4
+Huskies_D2 Huskies_D8 1
+Huskies_D2 Huskies_D9 0
+Huskies_D2 Huskies_F2 4
+Huskies_D2 Huskies_F4 2
+Huskies_D2 Huskies_F6 2
+Huskies_D2 Huskies_M1 1
+Huskies_D2 Huskies_M3 0
+Huskies_D2 Huskies_M4 1
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_G1 1
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 0
+Huskies_D5 Huskies_D2 2
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D7 0
+Huskies_D5 Huskies_D8 0
+Huskies_D5 Huskies_D9 0
+Huskies_D5 Huskies_F2 7
+Huskies_D5 Huskies_F4 7
+Huskies_D5 Huskies_F6 2
+Huskies_D5 Huskies_M1 3
+Huskies_D5 Huskies_M3 1
+Huskies_D5 Huskies_M4 3
+Huskies_D5 Huskies_M6 2
+Huskies_D5 Huskies_G1 0
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 0
+Huskies_D7 Huskies_D2 0
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_D8 0
+Huskies_D7 Huskies_D9 0
+Huskies_D7 Huskies_F2 5
+Huskies_D7 Huskies_F4 2
+Huskies_D7 Huskies_F6 4
+Huskies_D7 Huskies_M1 2
+Huskies_D7 Huskies_M3 0
+Huskies_D7 Huskies_M4 0
+Huskies_D7 Huskies_M6 1
+Huskies_D7 Huskies_G1 0
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 6
+Huskies_D8 Huskies_D2 0
+Huskies_D8 Huskies_D5 2
+Huskies_D8 Huskies_D7 0
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_D9 0
+Huskies_D8 Huskies_F2 1
+Huskies_D8 Huskies_F4 1
+Huskies_D8 Huskies_F6 6
+Huskies_D8 Huskies_M1 2
+Huskies_D8 Huskies_M3 0
+Huskies_D8 Huskies_M4 2
+Huskies_D8 Huskies_M6 0
+Huskies_D8 Huskies_G1 0
+
+[Huskies_D9]
+Huskies_D9 Huskies_D1 6
+Huskies_D9 Huskies_D2 0
+Huskies_D9 Huskies_D5 1
+Huskies_D9 Huskies_D7 0
+Huskies_D9 Huskies_D8 0
+Huskies_D9 Huskies_D9 0
+Huskies_D9 Huskies_F2 3
+Huskies_D9 Huskies_F4 2
+Huskies_D9 Huskies_F6 1
+Huskies_D9 Huskies_M1 1
+Huskies_D9 Huskies_M3 0
+Huskies_D9 Huskies_M4 2
+Huskies_D9 Huskies_M6 0
+Huskies_D9 Huskies_G1 5
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 2
+Huskies_F2 Huskies_D2 3
+Huskies_F2 Huskies_D5 6
+Huskies_F2 Huskies_D7 1
+Huskies_F2 Huskies_D8 2
+Huskies_F2 Huskies_D9 3
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 0
+Huskies_F2 Huskies_F6 6
+Huskies_F2 Huskies_M1 13
+Huskies_F2 Huskies_M3 0
+Huskies_F2 Huskies_M4 1
+Huskies_F2 Huskies_M6 3
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D5 0
+Huskies_F4 Huskies_D7 0
+Huskies_F4 Huskies_D8 0
+Huskies_F4 Huskies_D9 1
+Huskies_F4 Huskies_F2 1
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_F6 1
+Huskies_F4 Huskies_M1 0
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M4 3
+Huskies_F4 Huskies_M6 4
+Huskies_F4 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 2
+Huskies_F6 Huskies_D2 1
+Huskies_F6 Huskies_D5 2
+Huskies_F6 Huskies_D7 5
+Huskies_F6 Huskies_D8 5
+Huskies_F6 Huskies_D9 0
+Huskies_F6 Huskies_F2 2
+Huskies_F6 Huskies_F4 3
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 1
+Huskies_F6 Huskies_M3 0
+Huskies_F6 Huskies_M4 3
+Huskies_F6 Huskies_M6 2
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 6
+Huskies_M1 Huskies_D2 1
+Huskies_M1 Huskies_D5 0
+Huskies_M1 Huskies_D7 0
+Huskies_M1 Huskies_D8 4
+Huskies_M1 Huskies_D9 0
+Huskies_M1 Huskies_F2 10
+Huskies_M1 Huskies_F4 1
+Huskies_M1 Huskies_F6 4
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 0
+Huskies_M1 Huskies_M4 5
+Huskies_M1 Huskies_M6 2
+Huskies_M1 Huskies_G1 3
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 0
+Huskies_M3 Huskies_D2 0
+Huskies_M3 Huskies_D5 0
+Huskies_M3 Huskies_D7 1
+Huskies_M3 Huskies_D8 0
+Huskies_M3 Huskies_D9 0
+Huskies_M3 Huskies_F2 0
+Huskies_M3 Huskies_F4 1
+Huskies_M3 Huskies_F6 0
+Huskies_M3 Huskies_M1 0
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M6 0
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D2 0
+Huskies_M4 Huskies_D5 2
+Huskies_M4 Huskies_D7 1
+Huskies_M4 Huskies_D8 1
+Huskies_M4 Huskies_D9 1
+Huskies_M4 Huskies_F2 5
+Huskies_M4 Huskies_F4 1
+Huskies_M4 Huskies_F6 3
+Huskies_M4 Huskies_M1 1
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 2
+Huskies_M4 Huskies_M6 5
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D5 3
+Huskies_M6 Huskies_D7 0
+Huskies_M6 Huskies_D8 0
+Huskies_M6 Huskies_D9 0
+Huskies_M6 Huskies_F2 1
+Huskies_M6 Huskies_F4 2
+Huskies_M6 Huskies_F6 1
+Huskies_M6 Huskies_M1 0
+Huskies_M6 Huskies_M3 0
+Huskies_M6 Huskies_M4 2
+Huskies_M6 Huskies_M6 1
+Huskies_M6 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 2
+Huskies_G1 Huskies_D2 1
+Huskies_G1 Huskies_D5 1
+Huskies_G1 Huskies_D7 0
+Huskies_G1 Huskies_D8 1
+Huskies_G1 Huskies_D9 4
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_F6 0
+Huskies_G1 Huskies_M1 1
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_G1 0
+
+
+[28]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 1
+Huskies_D1 Huskies_D2 0
+Huskies_D1 Huskies_D5 1
+Huskies_D1 Huskies_D7 1
+Huskies_D1 Huskies_F1 0
+Huskies_D1 Huskies_F2 3
+Huskies_D1 Huskies_F4 0
+Huskies_D1 Huskies_F5 1
+Huskies_D1 Huskies_F6 3
+Huskies_D1 Huskies_M1 4
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M6 2
+Huskies_D1 Huskies_M12 2
+Huskies_D1 Huskies_G1 3
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 2
+Huskies_D2 Huskies_D2 0
+Huskies_D2 Huskies_D5 1
+Huskies_D2 Huskies_D7 5
+Huskies_D2 Huskies_F1 0
+Huskies_D2 Huskies_F2 1
+Huskies_D2 Huskies_F4 1
+Huskies_D2 Huskies_F5 1
+Huskies_D2 Huskies_F6 3
+Huskies_D2 Huskies_M1 3
+Huskies_D2 Huskies_M4 4
+Huskies_D2 Huskies_M6 0
+Huskies_D2 Huskies_M12 0
+Huskies_D2 Huskies_G1 3
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 4
+Huskies_D5 Huskies_D2 2
+Huskies_D5 Huskies_D5 0
+Huskies_D5 Huskies_D7 1
+Huskies_D5 Huskies_F1 0
+Huskies_D5 Huskies_F2 7
+Huskies_D5 Huskies_F4 2
+Huskies_D5 Huskies_F5 0
+Huskies_D5 Huskies_F6 0
+Huskies_D5 Huskies_M1 2
+Huskies_D5 Huskies_M4 1
+Huskies_D5 Huskies_M6 2
+Huskies_D5 Huskies_M12 2
+Huskies_D5 Huskies_G1 1
+
+[Huskies_D7]
+Huskies_D7 Huskies_D1 0
+Huskies_D7 Huskies_D2 3
+Huskies_D7 Huskies_D5 0
+Huskies_D7 Huskies_D7 0
+Huskies_D7 Huskies_F1 0
+Huskies_D7 Huskies_F2 2
+Huskies_D7 Huskies_F4 1
+Huskies_D7 Huskies_F5 1
+Huskies_D7 Huskies_F6 5
+Huskies_D7 Huskies_M1 4
+Huskies_D7 Huskies_M4 4
+Huskies_D7 Huskies_M6 2
+Huskies_D7 Huskies_M12 0
+Huskies_D7 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D5 1
+Huskies_F1 Huskies_D7 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_F5 0
+Huskies_F1 Huskies_F6 0
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M6 0
+Huskies_F1 Huskies_M12 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 3
+Huskies_F2 Huskies_D2 1
+Huskies_F2 Huskies_D5 7
+Huskies_F2 Huskies_D7 3
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 1
+Huskies_F2 Huskies_F4 2
+Huskies_F2 Huskies_F5 0
+Huskies_F2 Huskies_F6 3
+Huskies_F2 Huskies_M1 5
+Huskies_F2 Huskies_M4 1
+Huskies_F2 Huskies_M6 2
+Huskies_F2 Huskies_M12 0
+Huskies_F2 Huskies_G1 1
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D5 1
+Huskies_F4 Huskies_D7 0
+Huskies_F4 Huskies_F1 0
+Huskies_F4 Huskies_F2 1
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_F5 0
+Huskies_F4 Huskies_F6 2
+Huskies_F4 Huskies_M1 1
+Huskies_F4 Huskies_M4 0
+Huskies_F4 Huskies_M6 1
+Huskies_F4 Huskies_M12 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D2 0
+Huskies_F5 Huskies_D5 1
+Huskies_F5 Huskies_D7 0
+Huskies_F5 Huskies_F1 0
+Huskies_F5 Huskies_F2 0
+Huskies_F5 Huskies_F4 0
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 1
+Huskies_F5 Huskies_M1 1
+Huskies_F5 Huskies_M4 1
+Huskies_F5 Huskies_M6 3
+Huskies_F5 Huskies_M12 1
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 0
+Huskies_F6 Huskies_D2 1
+Huskies_F6 Huskies_D5 0
+Huskies_F6 Huskies_D7 3
+Huskies_F6 Huskies_F1 0
+Huskies_F6 Huskies_F2 0
+Huskies_F6 Huskies_F4 4
+Huskies_F6 Huskies_F5 3
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 3
+Huskies_F6 Huskies_M4 3
+Huskies_F6 Huskies_M6 0
+Huskies_F6 Huskies_M12 1
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 4
+Huskies_M1 Huskies_D2 4
+Huskies_M1 Huskies_D5 4
+Huskies_M1 Huskies_D7 5
+Huskies_M1 Huskies_F1 0
+Huskies_M1 Huskies_F2 8
+Huskies_M1 Huskies_F4 1
+Huskies_M1 Huskies_F5 0
+Huskies_M1 Huskies_F6 4
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M4 4
+Huskies_M1 Huskies_M6 5
+Huskies_M1 Huskies_M12 0
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D2 4
+Huskies_M4 Huskies_D5 0
+Huskies_M4 Huskies_D7 5
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 0
+Huskies_M4 Huskies_F4 2
+Huskies_M4 Huskies_F5 0
+Huskies_M4 Huskies_F6 2
+Huskies_M4 Huskies_M1 2
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 3
+Huskies_M4 Huskies_M12 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D5 1
+Huskies_M6 Huskies_D7 1
+Huskies_M6 Huskies_F1 0
+Huskies_M6 Huskies_F2 1
+Huskies_M6 Huskies_F4 3
+Huskies_M6 Huskies_F5 1
+Huskies_M6 Huskies_F6 1
+Huskies_M6 Huskies_M1 3
+Huskies_M6 Huskies_M4 3
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M12 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D2 0
+Huskies_M12 Huskies_D5 1
+Huskies_M12 Huskies_D7 0
+Huskies_M12 Huskies_F1 0
+Huskies_M12 Huskies_F2 0
+Huskies_M12 Huskies_F4 0
+Huskies_M12 Huskies_F5 0
+Huskies_M12 Huskies_F6 0
+Huskies_M12 Huskies_M1 0
+Huskies_M12 Huskies_M4 0
+Huskies_M12 Huskies_M6 0
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 1
+Huskies_G1 Huskies_D2 2
+Huskies_G1 Huskies_D5 0
+Huskies_G1 Huskies_D7 1
+Huskies_G1 Huskies_F1 0
+Huskies_G1 Huskies_F2 1
+Huskies_G1 Huskies_F4 3
+Huskies_G1 Huskies_F5 0
+Huskies_G1 Huskies_F6 2
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M12 0
+Huskies_G1 Huskies_G1 0
+
+
+[29]
+13
+[Huskies_D1]
+Huskies_D1 Huskies_D1 1
+Huskies_D1 Huskies_D2 3
+Huskies_D1 Huskies_D5 2
+Huskies_D1 Huskies_D8 0
+Huskies_D1 Huskies_F1 1
+Huskies_D1 Huskies_F2 0
+Huskies_D1 Huskies_F4 0
+Huskies_D1 Huskies_F5 1
+Huskies_D1 Huskies_F6 0
+Huskies_D1 Huskies_M1 1
+Huskies_D1 Huskies_M4 2
+Huskies_D1 Huskies_M6 1
+Huskies_D1 Huskies_M12 0
+Huskies_D1 Huskies_G1 1
+
+[Huskies_D2]
+Huskies_D2 Huskies_D1 2
+Huskies_D2 Huskies_D2 1
+Huskies_D2 Huskies_D5 1
+Huskies_D2 Huskies_D8 1
+Huskies_D2 Huskies_F1 1
+Huskies_D2 Huskies_F2 2
+Huskies_D2 Huskies_F4 0
+Huskies_D2 Huskies_F5 2
+Huskies_D2 Huskies_F6 0
+Huskies_D2 Huskies_M1 1
+Huskies_D2 Huskies_M4 0
+Huskies_D2 Huskies_M6 2
+Huskies_D2 Huskies_M12 0
+Huskies_D2 Huskies_G1 2
+
+[Huskies_D5]
+Huskies_D5 Huskies_D1 3
+Huskies_D5 Huskies_D2 0
+Huskies_D5 Huskies_D5 1
+Huskies_D5 Huskies_D8 2
+Huskies_D5 Huskies_F1 7
+Huskies_D5 Huskies_F2 1
+Huskies_D5 Huskies_F4 2
+Huskies_D5 Huskies_F5 3
+Huskies_D5 Huskies_F6 0
+Huskies_D5 Huskies_M1 3
+Huskies_D5 Huskies_M4 4
+Huskies_D5 Huskies_M6 3
+Huskies_D5 Huskies_M12 1
+Huskies_D5 Huskies_G1 2
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 0
+Huskies_D8 Huskies_D2 4
+Huskies_D8 Huskies_D5 0
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_F1 2
+Huskies_D8 Huskies_F2 1
+Huskies_D8 Huskies_F4 0
+Huskies_D8 Huskies_F5 1
+Huskies_D8 Huskies_F6 8
+Huskies_D8 Huskies_M1 1
+Huskies_D8 Huskies_M4 1
+Huskies_D8 Huskies_M6 1
+Huskies_D8 Huskies_M12 0
+Huskies_D8 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D2 0
+Huskies_F1 Huskies_D5 4
+Huskies_F1 Huskies_D8 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 1
+Huskies_F1 Huskies_F4 2
+Huskies_F1 Huskies_F5 1
+Huskies_F1 Huskies_F6 1
+Huskies_F1 Huskies_M1 3
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M6 4
+Huskies_F1 Huskies_M12 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 3
+Huskies_F2 Huskies_D2 1
+Huskies_F2 Huskies_D5 2
+Huskies_F2 Huskies_D8 3
+Huskies_F2 Huskies_F1 4
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 1
+Huskies_F2 Huskies_F5 2
+Huskies_F2 Huskies_F6 1
+Huskies_F2 Huskies_M1 2
+Huskies_F2 Huskies_M4 0
+Huskies_F2 Huskies_M6 0
+Huskies_F2 Huskies_M12 0
+Huskies_F2 Huskies_G1 1
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D2 0
+Huskies_F4 Huskies_D5 2
+Huskies_F4 Huskies_D8 0
+Huskies_F4 Huskies_F1 1
+Huskies_F4 Huskies_F2 1
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_F5 0
+Huskies_F4 Huskies_F6 0
+Huskies_F4 Huskies_M1 0
+Huskies_F4 Huskies_M4 0
+Huskies_F4 Huskies_M6 0
+Huskies_F4 Huskies_M12 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D2 0
+Huskies_F5 Huskies_D5 3
+Huskies_F5 Huskies_D8 0
+Huskies_F5 Huskies_F1 4
+Huskies_F5 Huskies_F2 2
+Huskies_F5 Huskies_F4 0
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 1
+Huskies_F5 Huskies_M1 0
+Huskies_F5 Huskies_M4 1
+Huskies_F5 Huskies_M6 4
+Huskies_F5 Huskies_M12 0
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 0
+Huskies_F6 Huskies_D2 3
+Huskies_F6 Huskies_D5 1
+Huskies_F6 Huskies_D8 4
+Huskies_F6 Huskies_F1 1
+Huskies_F6 Huskies_F2 1
+Huskies_F6 Huskies_F4 0
+Huskies_F6 Huskies_F5 2
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 2
+Huskies_F6 Huskies_M4 2
+Huskies_F6 Huskies_M6 1
+Huskies_F6 Huskies_M12 0
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 2
+Huskies_M1 Huskies_D2 1
+Huskies_M1 Huskies_D5 2
+Huskies_M1 Huskies_D8 4
+Huskies_M1 Huskies_F1 3
+Huskies_M1 Huskies_F2 5
+Huskies_M1 Huskies_F4 1
+Huskies_M1 Huskies_F5 1
+Huskies_M1 Huskies_F6 5
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M4 1
+Huskies_M1 Huskies_M6 1
+Huskies_M1 Huskies_M12 0
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 1
+Huskies_M4 Huskies_D2 2
+Huskies_M4 Huskies_D5 1
+Huskies_M4 Huskies_D8 2
+Huskies_M4 Huskies_F1 1
+Huskies_M4 Huskies_F2 0
+Huskies_M4 Huskies_F4 0
+Huskies_M4 Huskies_F5 0
+Huskies_M4 Huskies_F6 1
+Huskies_M4 Huskies_M1 1
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 3
+Huskies_M4 Huskies_M12 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 0
+Huskies_M6 Huskies_D2 0
+Huskies_M6 Huskies_D5 3
+Huskies_M6 Huskies_D8 0
+Huskies_M6 Huskies_F1 7
+Huskies_M6 Huskies_F2 0
+Huskies_M6 Huskies_F4 0
+Huskies_M6 Huskies_F5 5
+Huskies_M6 Huskies_F6 6
+Huskies_M6 Huskies_M1 1
+Huskies_M6 Huskies_M4 0
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M12 0
+Huskies_M6 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 0
+Huskies_G1 Huskies_D2 1
+Huskies_G1 Huskies_D5 0
+Huskies_G1 Huskies_D8 0
+Huskies_G1 Huskies_F1 4
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_F5 1
+Huskies_G1 Huskies_F6 0
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 0
+Huskies_G1 Huskies_M12 0
+Huskies_G1 Huskies_G1 0
+
+
+[30]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 6
+Huskies_D1 Huskies_D4 7
+Huskies_D1 Huskies_D6 0
+Huskies_D1 Huskies_D8 1
+Huskies_D1 Huskies_F1 0
+Huskies_D1 Huskies_F2 5
+Huskies_D1 Huskies_F5 3
+Huskies_D1 Huskies_F6 1
+Huskies_D1 Huskies_M2 0
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M6 2
+Huskies_D1 Huskies_M12 1
+Huskies_D1 Huskies_G1 3
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 7
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 1
+Huskies_D3 Huskies_D6 3
+Huskies_D3 Huskies_D8 1
+Huskies_D3 Huskies_F1 0
+Huskies_D3 Huskies_F2 10
+Huskies_D3 Huskies_F5 2
+Huskies_D3 Huskies_F6 4
+Huskies_D3 Huskies_M2 0
+Huskies_D3 Huskies_M4 8
+Huskies_D3 Huskies_M6 1
+Huskies_D3 Huskies_M12 0
+Huskies_D3 Huskies_G1 5
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 9
+Huskies_D4 Huskies_D3 1
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D6 0
+Huskies_D4 Huskies_D8 0
+Huskies_D4 Huskies_F1 0
+Huskies_D4 Huskies_F2 11
+Huskies_D4 Huskies_F5 7
+Huskies_D4 Huskies_F6 0
+Huskies_D4 Huskies_M2 0
+Huskies_D4 Huskies_M4 2
+Huskies_D4 Huskies_M6 4
+Huskies_D4 Huskies_M12 4
+Huskies_D4 Huskies_G1 2
+
+[Huskies_D6]
+Huskies_D6 Huskies_D1 0
+Huskies_D6 Huskies_D3 2
+Huskies_D6 Huskies_D4 0
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D8 0
+Huskies_D6 Huskies_F1 0
+Huskies_D6 Huskies_F2 1
+Huskies_D6 Huskies_F5 0
+Huskies_D6 Huskies_F6 0
+Huskies_D6 Huskies_M2 1
+Huskies_D6 Huskies_M4 1
+Huskies_D6 Huskies_M6 0
+Huskies_D6 Huskies_M12 0
+Huskies_D6 Huskies_G1 1
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 1
+Huskies_D8 Huskies_D3 3
+Huskies_D8 Huskies_D4 0
+Huskies_D8 Huskies_D6 1
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_F1 1
+Huskies_D8 Huskies_F2 0
+Huskies_D8 Huskies_F5 1
+Huskies_D8 Huskies_F6 7
+Huskies_D8 Huskies_M2 1
+Huskies_D8 Huskies_M4 6
+Huskies_D8 Huskies_M6 0
+Huskies_D8 Huskies_M12 0
+Huskies_D8 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_D8 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 1
+Huskies_F1 Huskies_F5 0
+Huskies_F1 Huskies_F6 0
+Huskies_F1 Huskies_M2 0
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M6 0
+Huskies_F1 Huskies_M12 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 5
+Huskies_F2 Huskies_D3 9
+Huskies_F2 Huskies_D4 8
+Huskies_F2 Huskies_D6 0
+Huskies_F2 Huskies_D8 4
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F5 4
+Huskies_F2 Huskies_F6 1
+Huskies_F2 Huskies_M2 2
+Huskies_F2 Huskies_M4 7
+Huskies_F2 Huskies_M6 7
+Huskies_F2 Huskies_M12 2
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D3 0
+Huskies_F5 Huskies_D4 8
+Huskies_F5 Huskies_D6 0
+Huskies_F5 Huskies_D8 1
+Huskies_F5 Huskies_F1 0
+Huskies_F5 Huskies_F2 2
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 1
+Huskies_F5 Huskies_M2 0
+Huskies_F5 Huskies_M4 2
+Huskies_F5 Huskies_M6 5
+Huskies_F5 Huskies_M12 4
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 1
+Huskies_F6 Huskies_D3 0
+Huskies_F6 Huskies_D4 0
+Huskies_F6 Huskies_D6 0
+Huskies_F6 Huskies_D8 5
+Huskies_F6 Huskies_F1 0
+Huskies_F6 Huskies_F2 2
+Huskies_F6 Huskies_F5 1
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M2 0
+Huskies_F6 Huskies_M4 4
+Huskies_F6 Huskies_M6 3
+Huskies_F6 Huskies_M12 1
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M2]
+Huskies_M2 Huskies_D1 1
+Huskies_M2 Huskies_D3 0
+Huskies_M2 Huskies_D4 1
+Huskies_M2 Huskies_D6 0
+Huskies_M2 Huskies_D8 1
+Huskies_M2 Huskies_F1 0
+Huskies_M2 Huskies_F2 1
+Huskies_M2 Huskies_F5 0
+Huskies_M2 Huskies_F6 0
+Huskies_M2 Huskies_M2 0
+Huskies_M2 Huskies_M4 0
+Huskies_M2 Huskies_M6 0
+Huskies_M2 Huskies_M12 0
+Huskies_M2 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 1
+Huskies_M4 Huskies_D3 6
+Huskies_M4 Huskies_D4 2
+Huskies_M4 Huskies_D6 1
+Huskies_M4 Huskies_D8 3
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 7
+Huskies_M4 Huskies_F5 2
+Huskies_M4 Huskies_F6 5
+Huskies_M4 Huskies_M2 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M6 2
+Huskies_M4 Huskies_M12 1
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M6]
+Huskies_M6 Huskies_D1 3
+Huskies_M6 Huskies_D3 1
+Huskies_M6 Huskies_D4 6
+Huskies_M6 Huskies_D6 0
+Huskies_M6 Huskies_D8 0
+Huskies_M6 Huskies_F1 0
+Huskies_M6 Huskies_F2 3
+Huskies_M6 Huskies_F5 1
+Huskies_M6 Huskies_F6 4
+Huskies_M6 Huskies_M2 0
+Huskies_M6 Huskies_M4 2
+Huskies_M6 Huskies_M6 0
+Huskies_M6 Huskies_M12 4
+Huskies_M6 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D3 0
+Huskies_M12 Huskies_D4 4
+Huskies_M12 Huskies_D6 0
+Huskies_M12 Huskies_D8 0
+Huskies_M12 Huskies_F1 0
+Huskies_M12 Huskies_F2 0
+Huskies_M12 Huskies_F5 2
+Huskies_M12 Huskies_F6 3
+Huskies_M12 Huskies_M2 0
+Huskies_M12 Huskies_M4 0
+Huskies_M12 Huskies_M6 1
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 3
+Huskies_G1 Huskies_D3 4
+Huskies_G1 Huskies_D4 0
+Huskies_G1 Huskies_D6 0
+Huskies_G1 Huskies_D8 0
+Huskies_G1 Huskies_F1 0
+Huskies_G1 Huskies_F2 1
+Huskies_G1 Huskies_F5 1
+Huskies_G1 Huskies_F6 1
+Huskies_G1 Huskies_M2 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M6 1
+Huskies_G1 Huskies_M12 3
+Huskies_G1 Huskies_G1 0
+
+
+[31]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 3
+Huskies_D1 Huskies_D4 10
+Huskies_D1 Huskies_D6 0
+Huskies_D1 Huskies_D8 1
+Huskies_D1 Huskies_F1 1
+Huskies_D1 Huskies_F2 6
+Huskies_D1 Huskies_F5 1
+Huskies_D1 Huskies_F6 1
+Huskies_D1 Huskies_M1 10
+Huskies_D1 Huskies_M3 0
+Huskies_D1 Huskies_M4 2
+Huskies_D1 Huskies_M12 1
+Huskies_D1 Huskies_G1 4
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 5
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 3
+Huskies_D3 Huskies_D6 0
+Huskies_D3 Huskies_D8 8
+Huskies_D3 Huskies_F1 1
+Huskies_D3 Huskies_F2 8
+Huskies_D3 Huskies_F5 3
+Huskies_D3 Huskies_F6 2
+Huskies_D3 Huskies_M1 3
+Huskies_D3 Huskies_M3 0
+Huskies_D3 Huskies_M4 2
+Huskies_D3 Huskies_M12 0
+Huskies_D3 Huskies_G1 6
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 10
+Huskies_D4 Huskies_D3 2
+Huskies_D4 Huskies_D4 1
+Huskies_D4 Huskies_D6 0
+Huskies_D4 Huskies_D8 0
+Huskies_D4 Huskies_F1 4
+Huskies_D4 Huskies_F2 6
+Huskies_D4 Huskies_F5 3
+Huskies_D4 Huskies_F6 1
+Huskies_D4 Huskies_M1 7
+Huskies_D4 Huskies_M3 2
+Huskies_D4 Huskies_M4 0
+Huskies_D4 Huskies_M12 4
+Huskies_D4 Huskies_G1 1
+
+[Huskies_D6]
+Huskies_D6 Huskies_D1 0
+Huskies_D6 Huskies_D3 0
+Huskies_D6 Huskies_D4 0
+Huskies_D6 Huskies_D6 0
+Huskies_D6 Huskies_D8 1
+Huskies_D6 Huskies_F1 0
+Huskies_D6 Huskies_F2 0
+Huskies_D6 Huskies_F5 1
+Huskies_D6 Huskies_F6 0
+Huskies_D6 Huskies_M1 0
+Huskies_D6 Huskies_M3 0
+Huskies_D6 Huskies_M4 0
+Huskies_D6 Huskies_M12 0
+Huskies_D6 Huskies_G1 0
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 1
+Huskies_D8 Huskies_D3 6
+Huskies_D8 Huskies_D4 0
+Huskies_D8 Huskies_D6 1
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_F1 0
+Huskies_D8 Huskies_F2 4
+Huskies_D8 Huskies_F5 2
+Huskies_D8 Huskies_F6 9
+Huskies_D8 Huskies_M1 1
+Huskies_D8 Huskies_M3 0
+Huskies_D8 Huskies_M4 1
+Huskies_D8 Huskies_M12 1
+Huskies_D8 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D3 2
+Huskies_F1 Huskies_D4 3
+Huskies_F1 Huskies_D6 0
+Huskies_F1 Huskies_D8 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 1
+Huskies_F1 Huskies_F5 0
+Huskies_F1 Huskies_F6 2
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M12 2
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 8
+Huskies_F2 Huskies_D3 11
+Huskies_F2 Huskies_D4 9
+Huskies_F2 Huskies_D6 0
+Huskies_F2 Huskies_D8 4
+Huskies_F2 Huskies_F1 1
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F5 2
+Huskies_F2 Huskies_F6 3
+Huskies_F2 Huskies_M1 9
+Huskies_F2 Huskies_M3 0
+Huskies_F2 Huskies_M4 2
+Huskies_F2 Huskies_M12 2
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D3 0
+Huskies_F5 Huskies_D4 1
+Huskies_F5 Huskies_D6 0
+Huskies_F5 Huskies_D8 0
+Huskies_F5 Huskies_F1 2
+Huskies_F5 Huskies_F2 2
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 1
+Huskies_F5 Huskies_M1 3
+Huskies_F5 Huskies_M3 0
+Huskies_F5 Huskies_M4 1
+Huskies_F5 Huskies_M12 0
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 1
+Huskies_F6 Huskies_D3 1
+Huskies_F6 Huskies_D4 0
+Huskies_F6 Huskies_D6 0
+Huskies_F6 Huskies_D8 6
+Huskies_F6 Huskies_F1 3
+Huskies_F6 Huskies_F2 5
+Huskies_F6 Huskies_F5 1
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 2
+Huskies_F6 Huskies_M3 0
+Huskies_F6 Huskies_M4 1
+Huskies_F6 Huskies_M12 3
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 4
+Huskies_M1 Huskies_D3 4
+Huskies_M1 Huskies_D4 6
+Huskies_M1 Huskies_D6 1
+Huskies_M1 Huskies_D8 7
+Huskies_M1 Huskies_F1 1
+Huskies_M1 Huskies_F2 9
+Huskies_M1 Huskies_F5 1
+Huskies_M1 Huskies_F6 4
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 0
+Huskies_M1 Huskies_M4 4
+Huskies_M1 Huskies_M12 4
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 0
+Huskies_M3 Huskies_D3 0
+Huskies_M3 Huskies_D4 0
+Huskies_M3 Huskies_D6 0
+Huskies_M3 Huskies_D8 0
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 0
+Huskies_M3 Huskies_F5 0
+Huskies_M3 Huskies_F6 0
+Huskies_M3 Huskies_M1 2
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M12 0
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 2
+Huskies_M4 Huskies_D6 0
+Huskies_M4 Huskies_D8 1
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 2
+Huskies_M4 Huskies_F5 0
+Huskies_M4 Huskies_F6 0
+Huskies_M4 Huskies_M1 5
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M12 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D3 1
+Huskies_M12 Huskies_D4 3
+Huskies_M12 Huskies_D6 0
+Huskies_M12 Huskies_D8 0
+Huskies_M12 Huskies_F1 0
+Huskies_M12 Huskies_F2 1
+Huskies_M12 Huskies_F5 4
+Huskies_M12 Huskies_F6 0
+Huskies_M12 Huskies_M1 1
+Huskies_M12 Huskies_M3 1
+Huskies_M12 Huskies_M4 0
+Huskies_M12 Huskies_M12 1
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 6
+Huskies_G1 Huskies_D3 1
+Huskies_G1 Huskies_D4 1
+Huskies_G1 Huskies_D6 0
+Huskies_G1 Huskies_D8 1
+Huskies_G1 Huskies_F1 0
+Huskies_G1 Huskies_F2 1
+Huskies_G1 Huskies_F5 1
+Huskies_G1 Huskies_F6 0
+Huskies_G1 Huskies_M1 3
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M12 1
+Huskies_G1 Huskies_G1 0
+
+
+[32]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 4
+Huskies_D1 Huskies_D4 4
+Huskies_D1 Huskies_D8 0
+Huskies_D1 Huskies_F1 0
+Huskies_D1 Huskies_F2 3
+Huskies_D1 Huskies_F4 0
+Huskies_D1 Huskies_F5 1
+Huskies_D1 Huskies_F6 1
+Huskies_D1 Huskies_M3 1
+Huskies_D1 Huskies_M4 0
+Huskies_D1 Huskies_M11 0
+Huskies_D1 Huskies_M12 0
+Huskies_D1 Huskies_G1 2
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 3
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 1
+Huskies_D3 Huskies_D8 1
+Huskies_D3 Huskies_F1 0
+Huskies_D3 Huskies_F2 1
+Huskies_D3 Huskies_F4 2
+Huskies_D3 Huskies_F5 0
+Huskies_D3 Huskies_F6 1
+Huskies_D3 Huskies_M3 2
+Huskies_D3 Huskies_M4 0
+Huskies_D3 Huskies_M11 1
+Huskies_D3 Huskies_M12 2
+Huskies_D3 Huskies_G1 3
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 3
+Huskies_D4 Huskies_D3 1
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D8 0
+Huskies_D4 Huskies_F1 0
+Huskies_D4 Huskies_F2 1
+Huskies_D4 Huskies_F4 0
+Huskies_D4 Huskies_F5 1
+Huskies_D4 Huskies_F6 0
+Huskies_D4 Huskies_M3 3
+Huskies_D4 Huskies_M4 3
+Huskies_D4 Huskies_M11 0
+Huskies_D4 Huskies_M12 2
+Huskies_D4 Huskies_G1 3
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 1
+Huskies_D8 Huskies_D3 1
+Huskies_D8 Huskies_D4 0
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_F1 1
+Huskies_D8 Huskies_F2 0
+Huskies_D8 Huskies_F4 0
+Huskies_D8 Huskies_F5 0
+Huskies_D8 Huskies_F6 2
+Huskies_D8 Huskies_M3 0
+Huskies_D8 Huskies_M4 0
+Huskies_D8 Huskies_M11 1
+Huskies_D8 Huskies_M12 0
+Huskies_D8 Huskies_G1 0
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 1
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 1
+Huskies_F1 Huskies_D8 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_F5 1
+Huskies_F1 Huskies_F6 0
+Huskies_F1 Huskies_M3 1
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M11 0
+Huskies_F1 Huskies_M12 1
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 1
+Huskies_F2 Huskies_D3 1
+Huskies_F2 Huskies_D4 0
+Huskies_F2 Huskies_D8 2
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 0
+Huskies_F2 Huskies_F5 1
+Huskies_F2 Huskies_F6 0
+Huskies_F2 Huskies_M3 0
+Huskies_F2 Huskies_M4 0
+Huskies_F2 Huskies_M11 0
+Huskies_F2 Huskies_M12 0
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D3 0
+Huskies_F4 Huskies_D4 0
+Huskies_F4 Huskies_D8 1
+Huskies_F4 Huskies_F1 0
+Huskies_F4 Huskies_F2 0
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_F5 0
+Huskies_F4 Huskies_F6 0
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M4 0
+Huskies_F4 Huskies_M11 0
+Huskies_F4 Huskies_M12 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D3 0
+Huskies_F5 Huskies_D4 0
+Huskies_F5 Huskies_D8 1
+Huskies_F5 Huskies_F1 0
+Huskies_F5 Huskies_F2 0
+Huskies_F5 Huskies_F4 0
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 0
+Huskies_F5 Huskies_M3 0
+Huskies_F5 Huskies_M4 0
+Huskies_F5 Huskies_M11 0
+Huskies_F5 Huskies_M12 0
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 0
+Huskies_F6 Huskies_D3 1
+Huskies_F6 Huskies_D4 0
+Huskies_F6 Huskies_D8 2
+Huskies_F6 Huskies_F1 1
+Huskies_F6 Huskies_F2 0
+Huskies_F6 Huskies_F4 1
+Huskies_F6 Huskies_F5 0
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M3 0
+Huskies_F6 Huskies_M4 0
+Huskies_F6 Huskies_M11 0
+Huskies_F6 Huskies_M12 0
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 0
+Huskies_M3 Huskies_D3 0
+Huskies_M3 Huskies_D4 7
+Huskies_M3 Huskies_D8 1
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 1
+Huskies_M3 Huskies_F4 0
+Huskies_M3 Huskies_F5 0
+Huskies_M3 Huskies_F6 0
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M11 0
+Huskies_M3 Huskies_M12 1
+Huskies_M3 Huskies_G1 1
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 2
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 1
+Huskies_M4 Huskies_D8 0
+Huskies_M4 Huskies_F1 3
+Huskies_M4 Huskies_F2 0
+Huskies_M4 Huskies_F4 0
+Huskies_M4 Huskies_F5 0
+Huskies_M4 Huskies_F6 0
+Huskies_M4 Huskies_M3 2
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M11 1
+Huskies_M4 Huskies_M12 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M11]
+Huskies_M11 Huskies_D1 0
+Huskies_M11 Huskies_D3 2
+Huskies_M11 Huskies_D4 0
+Huskies_M11 Huskies_D8 2
+Huskies_M11 Huskies_F1 0
+Huskies_M11 Huskies_F2 0
+Huskies_M11 Huskies_F4 1
+Huskies_M11 Huskies_F5 0
+Huskies_M11 Huskies_F6 0
+Huskies_M11 Huskies_M3 1
+Huskies_M11 Huskies_M4 1
+Huskies_M11 Huskies_M11 0
+Huskies_M11 Huskies_M12 0
+Huskies_M11 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D3 0
+Huskies_M12 Huskies_D4 2
+Huskies_M12 Huskies_D8 0
+Huskies_M12 Huskies_F1 1
+Huskies_M12 Huskies_F2 0
+Huskies_M12 Huskies_F4 0
+Huskies_M12 Huskies_F5 0
+Huskies_M12 Huskies_F6 0
+Huskies_M12 Huskies_M3 1
+Huskies_M12 Huskies_M4 0
+Huskies_M12 Huskies_M11 0
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 0
+Huskies_G1 Huskies_D3 2
+Huskies_G1 Huskies_D4 0
+Huskies_G1 Huskies_D8 0
+Huskies_G1 Huskies_F1 1
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_F5 0
+Huskies_G1 Huskies_F6 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M11 0
+Huskies_G1 Huskies_M12 1
+Huskies_G1 Huskies_G1 0
+
+
+[33]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 6
+Huskies_D1 Huskies_D4 10
+Huskies_D1 Huskies_D8 2
+Huskies_D1 Huskies_F1 1
+Huskies_D1 Huskies_F2 0
+Huskies_D1 Huskies_F5 3
+Huskies_D1 Huskies_F6 0
+Huskies_D1 Huskies_M1 0
+Huskies_D1 Huskies_M3 3
+Huskies_D1 Huskies_M4 1
+Huskies_D1 Huskies_M11 0
+Huskies_D1 Huskies_M12 1
+Huskies_D1 Huskies_G1 3
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 10
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 0
+Huskies_D3 Huskies_D8 5
+Huskies_D3 Huskies_F1 0
+Huskies_D3 Huskies_F2 1
+Huskies_D3 Huskies_F5 0
+Huskies_D3 Huskies_F6 3
+Huskies_D3 Huskies_M1 0
+Huskies_D3 Huskies_M3 3
+Huskies_D3 Huskies_M4 1
+Huskies_D3 Huskies_M11 0
+Huskies_D3 Huskies_M12 0
+Huskies_D3 Huskies_G1 5
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 4
+Huskies_D4 Huskies_D3 1
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D8 0
+Huskies_D4 Huskies_F1 3
+Huskies_D4 Huskies_F2 2
+Huskies_D4 Huskies_F5 5
+Huskies_D4 Huskies_F6 1
+Huskies_D4 Huskies_M1 1
+Huskies_D4 Huskies_M3 2
+Huskies_D4 Huskies_M4 2
+Huskies_D4 Huskies_M11 2
+Huskies_D4 Huskies_M12 2
+Huskies_D4 Huskies_G1 0
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 0
+Huskies_D8 Huskies_D3 10
+Huskies_D8 Huskies_D4 0
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_F1 0
+Huskies_D8 Huskies_F2 1
+Huskies_D8 Huskies_F5 3
+Huskies_D8 Huskies_F6 2
+Huskies_D8 Huskies_M1 1
+Huskies_D8 Huskies_M3 1
+Huskies_D8 Huskies_M4 1
+Huskies_D8 Huskies_M11 0
+Huskies_D8 Huskies_M12 0
+Huskies_D8 Huskies_G1 0
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D3 0
+Huskies_F1 Huskies_D4 6
+Huskies_F1 Huskies_D8 0
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F5 0
+Huskies_F1 Huskies_F6 0
+Huskies_F1 Huskies_M1 1
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 0
+Huskies_F1 Huskies_M11 2
+Huskies_F1 Huskies_M12 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 1
+Huskies_F2 Huskies_D3 2
+Huskies_F2 Huskies_D4 1
+Huskies_F2 Huskies_D8 1
+Huskies_F2 Huskies_F1 0
+Huskies_F2 Huskies_F2 1
+Huskies_F2 Huskies_F5 1
+Huskies_F2 Huskies_F6 1
+Huskies_F2 Huskies_M1 0
+Huskies_F2 Huskies_M3 2
+Huskies_F2 Huskies_M4 0
+Huskies_F2 Huskies_M11 0
+Huskies_F2 Huskies_M12 1
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D3 0
+Huskies_F5 Huskies_D4 3
+Huskies_F5 Huskies_D8 1
+Huskies_F5 Huskies_F1 1
+Huskies_F5 Huskies_F2 1
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 1
+Huskies_F5 Huskies_M1 1
+Huskies_F5 Huskies_M3 1
+Huskies_F5 Huskies_M4 2
+Huskies_F5 Huskies_M11 0
+Huskies_F5 Huskies_M12 1
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 1
+Huskies_F6 Huskies_D3 1
+Huskies_F6 Huskies_D4 0
+Huskies_F6 Huskies_D8 0
+Huskies_F6 Huskies_F1 1
+Huskies_F6 Huskies_F2 0
+Huskies_F6 Huskies_F5 2
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 2
+Huskies_F6 Huskies_M3 2
+Huskies_F6 Huskies_M4 2
+Huskies_F6 Huskies_M11 0
+Huskies_F6 Huskies_M12 0
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 1
+Huskies_M1 Huskies_D3 0
+Huskies_M1 Huskies_D4 4
+Huskies_M1 Huskies_D8 1
+Huskies_M1 Huskies_F1 2
+Huskies_M1 Huskies_F2 0
+Huskies_M1 Huskies_F5 0
+Huskies_M1 Huskies_F6 2
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 2
+Huskies_M1 Huskies_M4 2
+Huskies_M1 Huskies_M11 0
+Huskies_M1 Huskies_M12 0
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 4
+Huskies_M3 Huskies_D3 4
+Huskies_M3 Huskies_D4 3
+Huskies_M3 Huskies_D8 4
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 3
+Huskies_M3 Huskies_F5 2
+Huskies_M3 Huskies_F6 1
+Huskies_M3 Huskies_M1 2
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 1
+Huskies_M3 Huskies_M11 0
+Huskies_M3 Huskies_M12 4
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D3 1
+Huskies_M4 Huskies_D4 1
+Huskies_M4 Huskies_D8 1
+Huskies_M4 Huskies_F1 0
+Huskies_M4 Huskies_F2 0
+Huskies_M4 Huskies_F5 1
+Huskies_M4 Huskies_F6 0
+Huskies_M4 Huskies_M1 1
+Huskies_M4 Huskies_M3 1
+Huskies_M4 Huskies_M4 1
+Huskies_M4 Huskies_M11 0
+Huskies_M4 Huskies_M12 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M11]
+Huskies_M11 Huskies_D1 0
+Huskies_M11 Huskies_D3 1
+Huskies_M11 Huskies_D4 0
+Huskies_M11 Huskies_D8 0
+Huskies_M11 Huskies_F1 1
+Huskies_M11 Huskies_F2 0
+Huskies_M11 Huskies_F5 0
+Huskies_M11 Huskies_F6 0
+Huskies_M11 Huskies_M1 0
+Huskies_M11 Huskies_M3 1
+Huskies_M11 Huskies_M4 0
+Huskies_M11 Huskies_M11 0
+Huskies_M11 Huskies_M12 0
+Huskies_M11 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D3 0
+Huskies_M12 Huskies_D4 2
+Huskies_M12 Huskies_D8 0
+Huskies_M12 Huskies_F1 0
+Huskies_M12 Huskies_F2 2
+Huskies_M12 Huskies_F5 1
+Huskies_M12 Huskies_F6 0
+Huskies_M12 Huskies_M1 0
+Huskies_M12 Huskies_M3 1
+Huskies_M12 Huskies_M4 0
+Huskies_M12 Huskies_M11 0
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 1
+Huskies_G1 Huskies_D3 0
+Huskies_G1 Huskies_D4 0
+Huskies_G1 Huskies_D8 0
+Huskies_G1 Huskies_F1 1
+Huskies_G1 Huskies_F2 0
+Huskies_G1 Huskies_F5 0
+Huskies_G1 Huskies_F6 0
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 1
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M11 0
+Huskies_G1 Huskies_M12 1
+Huskies_G1 Huskies_G1 0
+
+
+[34]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 8
+Huskies_D1 Huskies_D4 7
+Huskies_D1 Huskies_D8 1
+Huskies_D1 Huskies_D10 0
+Huskies_D1 Huskies_F2 3
+Huskies_D1 Huskies_F5 3
+Huskies_D1 Huskies_F6 1
+Huskies_D1 Huskies_M1 2
+Huskies_D1 Huskies_M3 6
+Huskies_D1 Huskies_M9 0
+Huskies_D1 Huskies_M11 0
+Huskies_D1 Huskies_M12 1
+Huskies_D1 Huskies_G1 8
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 6
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 0
+Huskies_D3 Huskies_D8 9
+Huskies_D3 Huskies_D10 0
+Huskies_D3 Huskies_F2 3
+Huskies_D3 Huskies_F5 5
+Huskies_D3 Huskies_F6 2
+Huskies_D3 Huskies_M1 0
+Huskies_D3 Huskies_M3 5
+Huskies_D3 Huskies_M9 0
+Huskies_D3 Huskies_M11 0
+Huskies_D3 Huskies_M12 2
+Huskies_D3 Huskies_G1 5
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 4
+Huskies_D4 Huskies_D3 2
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D8 0
+Huskies_D4 Huskies_D10 2
+Huskies_D4 Huskies_F2 2
+Huskies_D4 Huskies_F5 5
+Huskies_D4 Huskies_F6 0
+Huskies_D4 Huskies_M1 3
+Huskies_D4 Huskies_M3 4
+Huskies_D4 Huskies_M9 1
+Huskies_D4 Huskies_M11 1
+Huskies_D4 Huskies_M12 3
+Huskies_D4 Huskies_G1 3
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 1
+Huskies_D8 Huskies_D3 7
+Huskies_D8 Huskies_D4 0
+Huskies_D8 Huskies_D8 1
+Huskies_D8 Huskies_D10 0
+Huskies_D8 Huskies_F2 1
+Huskies_D8 Huskies_F5 4
+Huskies_D8 Huskies_F6 7
+Huskies_D8 Huskies_M1 1
+Huskies_D8 Huskies_M3 1
+Huskies_D8 Huskies_M9 0
+Huskies_D8 Huskies_M11 0
+Huskies_D8 Huskies_M12 2
+Huskies_D8 Huskies_G1 4
+
+[Huskies_D10]
+Huskies_D10 Huskies_D1 0
+Huskies_D10 Huskies_D3 2
+Huskies_D10 Huskies_D4 1
+Huskies_D10 Huskies_D8 0
+Huskies_D10 Huskies_D10 0
+Huskies_D10 Huskies_F2 0
+Huskies_D10 Huskies_F5 0
+Huskies_D10 Huskies_F6 1
+Huskies_D10 Huskies_M1 0
+Huskies_D10 Huskies_M3 0
+Huskies_D10 Huskies_M9 0
+Huskies_D10 Huskies_M11 0
+Huskies_D10 Huskies_M12 0
+Huskies_D10 Huskies_G1 1
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 3
+Huskies_F2 Huskies_D3 2
+Huskies_F2 Huskies_D4 4
+Huskies_F2 Huskies_D8 7
+Huskies_F2 Huskies_D10 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F5 2
+Huskies_F2 Huskies_F6 1
+Huskies_F2 Huskies_M1 5
+Huskies_F2 Huskies_M3 8
+Huskies_F2 Huskies_M9 0
+Huskies_F2 Huskies_M11 1
+Huskies_F2 Huskies_M12 3
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D3 0
+Huskies_F5 Huskies_D4 3
+Huskies_F5 Huskies_D8 2
+Huskies_F5 Huskies_D10 1
+Huskies_F5 Huskies_F2 7
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 3
+Huskies_F5 Huskies_M1 0
+Huskies_F5 Huskies_M3 0
+Huskies_F5 Huskies_M9 1
+Huskies_F5 Huskies_M11 0
+Huskies_F5 Huskies_M12 1
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 1
+Huskies_F6 Huskies_D3 0
+Huskies_F6 Huskies_D4 1
+Huskies_F6 Huskies_D8 3
+Huskies_F6 Huskies_D10 0
+Huskies_F6 Huskies_F2 2
+Huskies_F6 Huskies_F5 0
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 2
+Huskies_F6 Huskies_M3 0
+Huskies_F6 Huskies_M9 0
+Huskies_F6 Huskies_M11 1
+Huskies_F6 Huskies_M12 0
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 2
+Huskies_M1 Huskies_D3 4
+Huskies_M1 Huskies_D4 4
+Huskies_M1 Huskies_D8 2
+Huskies_M1 Huskies_D10 0
+Huskies_M1 Huskies_F2 4
+Huskies_M1 Huskies_F5 2
+Huskies_M1 Huskies_F6 1
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 8
+Huskies_M1 Huskies_M9 0
+Huskies_M1 Huskies_M11 0
+Huskies_M1 Huskies_M12 7
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 5
+Huskies_M3 Huskies_D3 5
+Huskies_M3 Huskies_D4 4
+Huskies_M3 Huskies_D8 4
+Huskies_M3 Huskies_D10 1
+Huskies_M3 Huskies_F2 10
+Huskies_M3 Huskies_F5 3
+Huskies_M3 Huskies_F6 1
+Huskies_M3 Huskies_M1 14
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M9 0
+Huskies_M3 Huskies_M11 0
+Huskies_M3 Huskies_M12 6
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D1 0
+Huskies_M9 Huskies_D3 0
+Huskies_M9 Huskies_D4 0
+Huskies_M9 Huskies_D8 0
+Huskies_M9 Huskies_D10 0
+Huskies_M9 Huskies_F2 0
+Huskies_M9 Huskies_F5 0
+Huskies_M9 Huskies_F6 0
+Huskies_M9 Huskies_M1 0
+Huskies_M9 Huskies_M3 0
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_M11 1
+Huskies_M9 Huskies_M12 0
+Huskies_M9 Huskies_G1 0
+
+[Huskies_M11]
+Huskies_M11 Huskies_D1 0
+Huskies_M11 Huskies_D3 0
+Huskies_M11 Huskies_D4 0
+Huskies_M11 Huskies_D8 1
+Huskies_M11 Huskies_D10 0
+Huskies_M11 Huskies_F2 2
+Huskies_M11 Huskies_F5 1
+Huskies_M11 Huskies_F6 1
+Huskies_M11 Huskies_M1 0
+Huskies_M11 Huskies_M3 2
+Huskies_M11 Huskies_M9 0
+Huskies_M11 Huskies_M11 0
+Huskies_M11 Huskies_M12 0
+Huskies_M11 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D3 0
+Huskies_M12 Huskies_D4 6
+Huskies_M12 Huskies_D8 0
+Huskies_M12 Huskies_D10 0
+Huskies_M12 Huskies_F2 1
+Huskies_M12 Huskies_F5 3
+Huskies_M12 Huskies_F6 0
+Huskies_M12 Huskies_M1 2
+Huskies_M12 Huskies_M3 2
+Huskies_M12 Huskies_M9 0
+Huskies_M12 Huskies_M11 0
+Huskies_M12 Huskies_M12 1
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 5
+Huskies_G1 Huskies_D3 4
+Huskies_G1 Huskies_D4 1
+Huskies_G1 Huskies_D8 1
+Huskies_G1 Huskies_D10 0
+Huskies_G1 Huskies_F2 1
+Huskies_G1 Huskies_F5 3
+Huskies_G1 Huskies_F6 0
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 2
+Huskies_G1 Huskies_M9 0
+Huskies_G1 Huskies_M11 0
+Huskies_G1 Huskies_M12 4
+Huskies_G1 Huskies_G1 0
+
+
+[35]
+13
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 16
+Huskies_D1 Huskies_D4 13
+Huskies_D1 Huskies_D8 1
+Huskies_D1 Huskies_F1 0
+Huskies_D1 Huskies_F2 3
+Huskies_D1 Huskies_F4 0
+Huskies_D1 Huskies_F5 1
+Huskies_D1 Huskies_F6 1
+Huskies_D1 Huskies_M1 6
+Huskies_D1 Huskies_M3 5
+Huskies_D1 Huskies_M4 1
+Huskies_D1 Huskies_M12 2
+Huskies_D1 Huskies_G1 4
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 13
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 1
+Huskies_D3 Huskies_D8 4
+Huskies_D3 Huskies_F1 1
+Huskies_D3 Huskies_F2 6
+Huskies_D3 Huskies_F4 0
+Huskies_D3 Huskies_F5 0
+Huskies_D3 Huskies_F6 4
+Huskies_D3 Huskies_M1 6
+Huskies_D3 Huskies_M3 4
+Huskies_D3 Huskies_M4 1
+Huskies_D3 Huskies_M12 3
+Huskies_D3 Huskies_G1 4
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 10
+Huskies_D4 Huskies_D3 0
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D8 2
+Huskies_D4 Huskies_F1 0
+Huskies_D4 Huskies_F2 4
+Huskies_D4 Huskies_F4 0
+Huskies_D4 Huskies_F5 5
+Huskies_D4 Huskies_F6 3
+Huskies_D4 Huskies_M1 4
+Huskies_D4 Huskies_M3 7
+Huskies_D4 Huskies_M4 3
+Huskies_D4 Huskies_M12 4
+Huskies_D4 Huskies_G1 0
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 0
+Huskies_D8 Huskies_D3 7
+Huskies_D8 Huskies_D4 0
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_F1 1
+Huskies_D8 Huskies_F2 3
+Huskies_D8 Huskies_F4 0
+Huskies_D8 Huskies_F5 2
+Huskies_D8 Huskies_F6 1
+Huskies_D8 Huskies_M1 2
+Huskies_D8 Huskies_M3 0
+Huskies_D8 Huskies_M4 1
+Huskies_D8 Huskies_M12 2
+Huskies_D8 Huskies_G1 1
+
+[Huskies_F1]
+Huskies_F1 Huskies_D1 0
+Huskies_F1 Huskies_D3 1
+Huskies_F1 Huskies_D4 0
+Huskies_F1 Huskies_D8 1
+Huskies_F1 Huskies_F1 0
+Huskies_F1 Huskies_F2 0
+Huskies_F1 Huskies_F4 0
+Huskies_F1 Huskies_F5 0
+Huskies_F1 Huskies_F6 0
+Huskies_F1 Huskies_M1 0
+Huskies_F1 Huskies_M3 0
+Huskies_F1 Huskies_M4 1
+Huskies_F1 Huskies_M12 0
+Huskies_F1 Huskies_G1 0
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 7
+Huskies_F2 Huskies_D3 9
+Huskies_F2 Huskies_D4 3
+Huskies_F2 Huskies_D8 5
+Huskies_F2 Huskies_F1 1
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 0
+Huskies_F2 Huskies_F5 0
+Huskies_F2 Huskies_F6 2
+Huskies_F2 Huskies_M1 2
+Huskies_F2 Huskies_M3 7
+Huskies_F2 Huskies_M4 2
+Huskies_F2 Huskies_M12 1
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D3 1
+Huskies_F5 Huskies_D4 1
+Huskies_F5 Huskies_D8 1
+Huskies_F5 Huskies_F1 0
+Huskies_F5 Huskies_F2 2
+Huskies_F5 Huskies_F4 0
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 3
+Huskies_F5 Huskies_M1 1
+Huskies_F5 Huskies_M3 0
+Huskies_F5 Huskies_M4 0
+Huskies_F5 Huskies_M12 2
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 0
+Huskies_F6 Huskies_D3 1
+Huskies_F6 Huskies_D4 1
+Huskies_F6 Huskies_D8 3
+Huskies_F6 Huskies_F1 0
+Huskies_F6 Huskies_F2 4
+Huskies_F6 Huskies_F4 0
+Huskies_F6 Huskies_F5 4
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 1
+Huskies_F6 Huskies_M3 1
+Huskies_F6 Huskies_M4 1
+Huskies_F6 Huskies_M12 1
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 4
+Huskies_M1 Huskies_D3 3
+Huskies_M1 Huskies_D4 3
+Huskies_M1 Huskies_D8 5
+Huskies_M1 Huskies_F1 0
+Huskies_M1 Huskies_F2 7
+Huskies_M1 Huskies_F4 1
+Huskies_M1 Huskies_F5 1
+Huskies_M1 Huskies_F6 2
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 4
+Huskies_M1 Huskies_M4 0
+Huskies_M1 Huskies_M12 3
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 4
+Huskies_M3 Huskies_D3 2
+Huskies_M3 Huskies_D4 9
+Huskies_M3 Huskies_D8 3
+Huskies_M3 Huskies_F1 0
+Huskies_M3 Huskies_F2 5
+Huskies_M3 Huskies_F4 0
+Huskies_M3 Huskies_F5 1
+Huskies_M3 Huskies_F6 5
+Huskies_M3 Huskies_M1 5
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M12 3
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 1
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 2
+Huskies_M4 Huskies_D8 1
+Huskies_M4 Huskies_F1 1
+Huskies_M4 Huskies_F2 2
+Huskies_M4 Huskies_F4 0
+Huskies_M4 Huskies_F5 0
+Huskies_M4 Huskies_F6 0
+Huskies_M4 Huskies_M1 4
+Huskies_M4 Huskies_M3 0
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M12 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 3
+Huskies_M12 Huskies_D3 0
+Huskies_M12 Huskies_D4 7
+Huskies_M12 Huskies_D8 1
+Huskies_M12 Huskies_F1 0
+Huskies_M12 Huskies_F2 1
+Huskies_M12 Huskies_F4 0
+Huskies_M12 Huskies_F5 0
+Huskies_M12 Huskies_F6 1
+Huskies_M12 Huskies_M1 1
+Huskies_M12 Huskies_M3 1
+Huskies_M12 Huskies_M4 0
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 7
+Huskies_G1 Huskies_D3 2
+Huskies_G1 Huskies_D4 1
+Huskies_G1 Huskies_D8 2
+Huskies_G1 Huskies_F1 1
+Huskies_G1 Huskies_F2 2
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_F5 0
+Huskies_G1 Huskies_F6 1
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 2
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M12 0
+Huskies_G1 Huskies_G1 0
+
+
+[36]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 2
+Huskies_D1 Huskies_D4 2
+Huskies_D1 Huskies_D8 1
+Huskies_D1 Huskies_D10 0
+Huskies_D1 Huskies_F2 4
+Huskies_D1 Huskies_F4 0
+Huskies_D1 Huskies_F5 3
+Huskies_D1 Huskies_F6 4
+Huskies_D1 Huskies_M1 2
+Huskies_D1 Huskies_M3 1
+Huskies_D1 Huskies_M4 1
+Huskies_D1 Huskies_M9 1
+Huskies_D1 Huskies_G1 4
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 4
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 1
+Huskies_D3 Huskies_D8 4
+Huskies_D3 Huskies_D10 1
+Huskies_D3 Huskies_F2 2
+Huskies_D3 Huskies_F4 0
+Huskies_D3 Huskies_F5 2
+Huskies_D3 Huskies_F6 3
+Huskies_D3 Huskies_M1 2
+Huskies_D3 Huskies_M3 2
+Huskies_D3 Huskies_M4 0
+Huskies_D3 Huskies_M9 5
+Huskies_D3 Huskies_G1 5
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 4
+Huskies_D4 Huskies_D3 0
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D8 0
+Huskies_D4 Huskies_D10 0
+Huskies_D4 Huskies_F2 3
+Huskies_D4 Huskies_F4 1
+Huskies_D4 Huskies_F5 3
+Huskies_D4 Huskies_F6 8
+Huskies_D4 Huskies_M1 4
+Huskies_D4 Huskies_M3 6
+Huskies_D4 Huskies_M4 0
+Huskies_D4 Huskies_M9 1
+Huskies_D4 Huskies_G1 1
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 0
+Huskies_D8 Huskies_D3 1
+Huskies_D8 Huskies_D4 0
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_D10 0
+Huskies_D8 Huskies_F2 5
+Huskies_D8 Huskies_F4 2
+Huskies_D8 Huskies_F5 1
+Huskies_D8 Huskies_F6 1
+Huskies_D8 Huskies_M1 3
+Huskies_D8 Huskies_M3 2
+Huskies_D8 Huskies_M4 0
+Huskies_D8 Huskies_M9 8
+Huskies_D8 Huskies_G1 1
+
+[Huskies_D10]
+Huskies_D10 Huskies_D1 0
+Huskies_D10 Huskies_D3 2
+Huskies_D10 Huskies_D4 0
+Huskies_D10 Huskies_D8 0
+Huskies_D10 Huskies_D10 0
+Huskies_D10 Huskies_F2 0
+Huskies_D10 Huskies_F4 0
+Huskies_D10 Huskies_F5 0
+Huskies_D10 Huskies_F6 1
+Huskies_D10 Huskies_M1 1
+Huskies_D10 Huskies_M3 1
+Huskies_D10 Huskies_M4 0
+Huskies_D10 Huskies_M9 0
+Huskies_D10 Huskies_G1 1
+
+[Huskies_F2]
+Huskies_F2 Huskies_D1 2
+Huskies_F2 Huskies_D3 2
+Huskies_F2 Huskies_D4 5
+Huskies_F2 Huskies_D8 5
+Huskies_F2 Huskies_D10 0
+Huskies_F2 Huskies_F2 0
+Huskies_F2 Huskies_F4 0
+Huskies_F2 Huskies_F5 3
+Huskies_F2 Huskies_F6 3
+Huskies_F2 Huskies_M1 3
+Huskies_F2 Huskies_M3 3
+Huskies_F2 Huskies_M4 0
+Huskies_F2 Huskies_M9 3
+Huskies_F2 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D3 0
+Huskies_F4 Huskies_D4 1
+Huskies_F4 Huskies_D8 0
+Huskies_F4 Huskies_D10 0
+Huskies_F4 Huskies_F2 0
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_F5 0
+Huskies_F4 Huskies_F6 0
+Huskies_F4 Huskies_M1 0
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M4 0
+Huskies_F4 Huskies_M9 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D3 0
+Huskies_F5 Huskies_D4 0
+Huskies_F5 Huskies_D8 1
+Huskies_F5 Huskies_D10 0
+Huskies_F5 Huskies_F2 3
+Huskies_F5 Huskies_F4 0
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 1
+Huskies_F5 Huskies_M1 2
+Huskies_F5 Huskies_M3 0
+Huskies_F5 Huskies_M4 0
+Huskies_F5 Huskies_M9 1
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 0
+Huskies_F6 Huskies_D3 0
+Huskies_F6 Huskies_D4 1
+Huskies_F6 Huskies_D8 1
+Huskies_F6 Huskies_D10 0
+Huskies_F6 Huskies_F2 5
+Huskies_F6 Huskies_F4 0
+Huskies_F6 Huskies_F5 3
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 4
+Huskies_F6 Huskies_M3 3
+Huskies_F6 Huskies_M4 3
+Huskies_F6 Huskies_M9 0
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 1
+Huskies_M1 Huskies_D3 2
+Huskies_M1 Huskies_D4 10
+Huskies_M1 Huskies_D8 3
+Huskies_M1 Huskies_D10 1
+Huskies_M1 Huskies_F2 7
+Huskies_M1 Huskies_F4 1
+Huskies_M1 Huskies_F5 2
+Huskies_M1 Huskies_F6 2
+Huskies_M1 Huskies_M1 0
+Huskies_M1 Huskies_M3 9
+Huskies_M1 Huskies_M4 0
+Huskies_M1 Huskies_M9 3
+Huskies_M1 Huskies_G1 1
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 6
+Huskies_M3 Huskies_D3 4
+Huskies_M3 Huskies_D4 12
+Huskies_M3 Huskies_D8 4
+Huskies_M3 Huskies_D10 0
+Huskies_M3 Huskies_F2 4
+Huskies_M3 Huskies_F4 2
+Huskies_M3 Huskies_F5 2
+Huskies_M3 Huskies_F6 4
+Huskies_M3 Huskies_M1 13
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 0
+Huskies_M3 Huskies_M9 0
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 0
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 0
+Huskies_M4 Huskies_D8 2
+Huskies_M4 Huskies_D10 0
+Huskies_M4 Huskies_F2 0
+Huskies_M4 Huskies_F4 0
+Huskies_M4 Huskies_F5 0
+Huskies_M4 Huskies_F6 2
+Huskies_M4 Huskies_M1 1
+Huskies_M4 Huskies_M3 2
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M9 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M9]
+Huskies_M9 Huskies_D1 1
+Huskies_M9 Huskies_D3 1
+Huskies_M9 Huskies_D4 1
+Huskies_M9 Huskies_D8 7
+Huskies_M9 Huskies_D10 0
+Huskies_M9 Huskies_F2 1
+Huskies_M9 Huskies_F4 0
+Huskies_M9 Huskies_F5 1
+Huskies_M9 Huskies_F6 1
+Huskies_M9 Huskies_M1 1
+Huskies_M9 Huskies_M3 1
+Huskies_M9 Huskies_M4 0
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 1
+Huskies_G1 Huskies_D3 2
+Huskies_G1 Huskies_D4 1
+Huskies_G1 Huskies_D8 2
+Huskies_G1 Huskies_D10 1
+Huskies_G1 Huskies_F2 2
+Huskies_G1 Huskies_F4 1
+Huskies_G1 Huskies_F5 0
+Huskies_G1 Huskies_F6 0
+Huskies_G1 Huskies_M1 0
+Huskies_G1 Huskies_M3 2
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M9 0
+Huskies_G1 Huskies_G1 0
+
+
+[37]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 7
+Huskies_D1 Huskies_D4 5
+Huskies_D1 Huskies_D8 4
+Huskies_D1 Huskies_D10 1
+Huskies_D1 Huskies_F4 1
+Huskies_D1 Huskies_F5 0
+Huskies_D1 Huskies_M1 3
+Huskies_D1 Huskies_M2 0
+Huskies_D1 Huskies_M3 2
+Huskies_D1 Huskies_M4 2
+Huskies_D1 Huskies_M9 0
+Huskies_D1 Huskies_M12 0
+Huskies_D1 Huskies_G1 5
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 3
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 2
+Huskies_D3 Huskies_D8 6
+Huskies_D3 Huskies_D10 6
+Huskies_D3 Huskies_F4 0
+Huskies_D3 Huskies_F5 1
+Huskies_D3 Huskies_M1 5
+Huskies_D3 Huskies_M2 0
+Huskies_D3 Huskies_M3 4
+Huskies_D3 Huskies_M4 1
+Huskies_D3 Huskies_M9 1
+Huskies_D3 Huskies_M12 0
+Huskies_D3 Huskies_G1 7
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 2
+Huskies_D4 Huskies_D3 0
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D8 0
+Huskies_D4 Huskies_D10 1
+Huskies_D4 Huskies_F4 1
+Huskies_D4 Huskies_F5 3
+Huskies_D4 Huskies_M1 4
+Huskies_D4 Huskies_M2 1
+Huskies_D4 Huskies_M3 8
+Huskies_D4 Huskies_M4 2
+Huskies_D4 Huskies_M9 2
+Huskies_D4 Huskies_M12 0
+Huskies_D4 Huskies_G1 1
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 2
+Huskies_D8 Huskies_D3 0
+Huskies_D8 Huskies_D4 0
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_D10 0
+Huskies_D8 Huskies_F4 1
+Huskies_D8 Huskies_F5 2
+Huskies_D8 Huskies_M1 6
+Huskies_D8 Huskies_M2 2
+Huskies_D8 Huskies_M3 5
+Huskies_D8 Huskies_M4 4
+Huskies_D8 Huskies_M9 0
+Huskies_D8 Huskies_M12 3
+Huskies_D8 Huskies_G1 1
+
+[Huskies_D10]
+Huskies_D10 Huskies_D1 1
+Huskies_D10 Huskies_D3 5
+Huskies_D10 Huskies_D4 6
+Huskies_D10 Huskies_D8 0
+Huskies_D10 Huskies_D10 0
+Huskies_D10 Huskies_F4 0
+Huskies_D10 Huskies_F5 1
+Huskies_D10 Huskies_M1 1
+Huskies_D10 Huskies_M2 0
+Huskies_D10 Huskies_M3 2
+Huskies_D10 Huskies_M4 1
+Huskies_D10 Huskies_M9 0
+Huskies_D10 Huskies_M12 0
+Huskies_D10 Huskies_G1 4
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D3 0
+Huskies_F4 Huskies_D4 0
+Huskies_F4 Huskies_D8 3
+Huskies_F4 Huskies_D10 0
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_F5 1
+Huskies_F4 Huskies_M1 1
+Huskies_F4 Huskies_M2 0
+Huskies_F4 Huskies_M3 0
+Huskies_F4 Huskies_M4 1
+Huskies_F4 Huskies_M9 0
+Huskies_F4 Huskies_M12 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 1
+Huskies_F5 Huskies_D3 0
+Huskies_F5 Huskies_D4 4
+Huskies_F5 Huskies_D8 3
+Huskies_F5 Huskies_D10 0
+Huskies_F5 Huskies_F4 0
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_M1 0
+Huskies_F5 Huskies_M2 1
+Huskies_F5 Huskies_M3 1
+Huskies_F5 Huskies_M4 1
+Huskies_F5 Huskies_M9 1
+Huskies_F5 Huskies_M12 0
+Huskies_F5 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 1
+Huskies_M1 Huskies_D3 4
+Huskies_M1 Huskies_D4 6
+Huskies_M1 Huskies_D8 9
+Huskies_M1 Huskies_D10 1
+Huskies_M1 Huskies_F4 3
+Huskies_M1 Huskies_F5 1
+Huskies_M1 Huskies_M1 1
+Huskies_M1 Huskies_M2 1
+Huskies_M1 Huskies_M3 6
+Huskies_M1 Huskies_M4 3
+Huskies_M1 Huskies_M9 0
+Huskies_M1 Huskies_M12 1
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M2]
+Huskies_M2 Huskies_D1 1
+Huskies_M2 Huskies_D3 0
+Huskies_M2 Huskies_D4 0
+Huskies_M2 Huskies_D8 0
+Huskies_M2 Huskies_D10 0
+Huskies_M2 Huskies_F4 0
+Huskies_M2 Huskies_F5 0
+Huskies_M2 Huskies_M1 1
+Huskies_M2 Huskies_M2 0
+Huskies_M2 Huskies_M3 0
+Huskies_M2 Huskies_M4 3
+Huskies_M2 Huskies_M9 0
+Huskies_M2 Huskies_M12 0
+Huskies_M2 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 3
+Huskies_M3 Huskies_D3 4
+Huskies_M3 Huskies_D4 5
+Huskies_M3 Huskies_D8 4
+Huskies_M3 Huskies_D10 4
+Huskies_M3 Huskies_F4 0
+Huskies_M3 Huskies_F5 1
+Huskies_M3 Huskies_M1 7
+Huskies_M3 Huskies_M2 0
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 7
+Huskies_M3 Huskies_M9 3
+Huskies_M3 Huskies_M12 0
+Huskies_M3 Huskies_G1 0
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 2
+Huskies_M4 Huskies_D3 2
+Huskies_M4 Huskies_D4 4
+Huskies_M4 Huskies_D8 8
+Huskies_M4 Huskies_D10 0
+Huskies_M4 Huskies_F4 0
+Huskies_M4 Huskies_F5 0
+Huskies_M4 Huskies_M1 7
+Huskies_M4 Huskies_M2 1
+Huskies_M4 Huskies_M3 4
+Huskies_M4 Huskies_M4 1
+Huskies_M4 Huskies_M9 0
+Huskies_M4 Huskies_M12 1
+Huskies_M4 Huskies_G1 1
+
+[Huskies_M9]
+Huskies_M9 Huskies_D1 0
+Huskies_M9 Huskies_D3 0
+Huskies_M9 Huskies_D4 4
+Huskies_M9 Huskies_D8 0
+Huskies_M9 Huskies_D10 0
+Huskies_M9 Huskies_F4 0
+Huskies_M9 Huskies_F5 0
+Huskies_M9 Huskies_M1 1
+Huskies_M9 Huskies_M2 0
+Huskies_M9 Huskies_M3 2
+Huskies_M9 Huskies_M4 1
+Huskies_M9 Huskies_M9 0
+Huskies_M9 Huskies_M12 0
+Huskies_M9 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D3 1
+Huskies_M12 Huskies_D4 0
+Huskies_M12 Huskies_D8 1
+Huskies_M12 Huskies_D10 0
+Huskies_M12 Huskies_F4 0
+Huskies_M12 Huskies_F5 1
+Huskies_M12 Huskies_M1 0
+Huskies_M12 Huskies_M2 0
+Huskies_M12 Huskies_M3 0
+Huskies_M12 Huskies_M4 0
+Huskies_M12 Huskies_M9 0
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 4
+Huskies_G1 Huskies_D3 2
+Huskies_G1 Huskies_D4 1
+Huskies_G1 Huskies_D8 0
+Huskies_G1 Huskies_D10 5
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_F5 2
+Huskies_G1 Huskies_M1 1
+Huskies_G1 Huskies_M2 0
+Huskies_G1 Huskies_M3 0
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M9 0
+Huskies_G1 Huskies_M12 0
+Huskies_G1 Huskies_G1 0
+
+
+[38]
+14
+[Huskies_D1]
+Huskies_D1 Huskies_D1 0
+Huskies_D1 Huskies_D3 1
+Huskies_D1 Huskies_D4 1
+Huskies_D1 Huskies_D8 4
+Huskies_D1 Huskies_D10 1
+Huskies_D1 Huskies_F4 4
+Huskies_D1 Huskies_F5 2
+Huskies_D1 Huskies_F6 0
+Huskies_D1 Huskies_M1 5
+Huskies_D1 Huskies_M2 0
+Huskies_D1 Huskies_M3 7
+Huskies_D1 Huskies_M4 3
+Huskies_D1 Huskies_M12 0
+Huskies_D1 Huskies_G1 2
+
+[Huskies_D3]
+Huskies_D3 Huskies_D1 3
+Huskies_D3 Huskies_D3 0
+Huskies_D3 Huskies_D4 3
+Huskies_D3 Huskies_D8 2
+Huskies_D3 Huskies_D10 2
+Huskies_D3 Huskies_F4 1
+Huskies_D3 Huskies_F5 1
+Huskies_D3 Huskies_F6 0
+Huskies_D3 Huskies_M1 3
+Huskies_D3 Huskies_M2 0
+Huskies_D3 Huskies_M3 1
+Huskies_D3 Huskies_M4 1
+Huskies_D3 Huskies_M12 0
+Huskies_D3 Huskies_G1 1
+
+[Huskies_D4]
+Huskies_D4 Huskies_D1 0
+Huskies_D4 Huskies_D3 1
+Huskies_D4 Huskies_D4 0
+Huskies_D4 Huskies_D8 0
+Huskies_D4 Huskies_D10 0
+Huskies_D4 Huskies_F4 7
+Huskies_D4 Huskies_F5 1
+Huskies_D4 Huskies_F6 7
+Huskies_D4 Huskies_M1 1
+Huskies_D4 Huskies_M2 0
+Huskies_D4 Huskies_M3 3
+Huskies_D4 Huskies_M4 5
+Huskies_D4 Huskies_M12 0
+Huskies_D4 Huskies_G1 0
+
+[Huskies_D8]
+Huskies_D8 Huskies_D1 0
+Huskies_D8 Huskies_D3 2
+Huskies_D8 Huskies_D4 0
+Huskies_D8 Huskies_D8 0
+Huskies_D8 Huskies_D10 0
+Huskies_D8 Huskies_F4 0
+Huskies_D8 Huskies_F5 2
+Huskies_D8 Huskies_F6 0
+Huskies_D8 Huskies_M1 3
+Huskies_D8 Huskies_M2 2
+Huskies_D8 Huskies_M3 0
+Huskies_D8 Huskies_M4 7
+Huskies_D8 Huskies_M12 2
+Huskies_D8 Huskies_G1 1
+
+[Huskies_D10]
+Huskies_D10 Huskies_D1 0
+Huskies_D10 Huskies_D3 1
+Huskies_D10 Huskies_D4 1
+Huskies_D10 Huskies_D8 0
+Huskies_D10 Huskies_D10 0
+Huskies_D10 Huskies_F4 0
+Huskies_D10 Huskies_F5 0
+Huskies_D10 Huskies_F6 0
+Huskies_D10 Huskies_M1 1
+Huskies_D10 Huskies_M2 0
+Huskies_D10 Huskies_M3 2
+Huskies_D10 Huskies_M4 1
+Huskies_D10 Huskies_M12 0
+Huskies_D10 Huskies_G1 0
+
+[Huskies_F4]
+Huskies_F4 Huskies_D1 0
+Huskies_F4 Huskies_D3 0
+Huskies_F4 Huskies_D4 1
+Huskies_F4 Huskies_D8 2
+Huskies_F4 Huskies_D10 0
+Huskies_F4 Huskies_F4 0
+Huskies_F4 Huskies_F5 4
+Huskies_F4 Huskies_F6 3
+Huskies_F4 Huskies_M1 5
+Huskies_F4 Huskies_M2 3
+Huskies_F4 Huskies_M3 2
+Huskies_F4 Huskies_M4 2
+Huskies_F4 Huskies_M12 0
+Huskies_F4 Huskies_G1 0
+
+[Huskies_F5]
+Huskies_F5 Huskies_D1 0
+Huskies_F5 Huskies_D3 0
+Huskies_F5 Huskies_D4 0
+Huskies_F5 Huskies_D8 0
+Huskies_F5 Huskies_D10 0
+Huskies_F5 Huskies_F4 2
+Huskies_F5 Huskies_F5 0
+Huskies_F5 Huskies_F6 0
+Huskies_F5 Huskies_M1 0
+Huskies_F5 Huskies_M2 0
+Huskies_F5 Huskies_M3 0
+Huskies_F5 Huskies_M4 6
+Huskies_F5 Huskies_M12 0
+Huskies_F5 Huskies_G1 0
+
+[Huskies_F6]
+Huskies_F6 Huskies_D1 2
+Huskies_F6 Huskies_D3 0
+Huskies_F6 Huskies_D4 4
+Huskies_F6 Huskies_D8 0
+Huskies_F6 Huskies_D10 0
+Huskies_F6 Huskies_F4 0
+Huskies_F6 Huskies_F5 0
+Huskies_F6 Huskies_F6 0
+Huskies_F6 Huskies_M1 1
+Huskies_F6 Huskies_M2 3
+Huskies_F6 Huskies_M3 0
+Huskies_F6 Huskies_M4 0
+Huskies_F6 Huskies_M12 0
+Huskies_F6 Huskies_G1 0
+
+[Huskies_M1]
+Huskies_M1 Huskies_D1 6
+Huskies_M1 Huskies_D3 2
+Huskies_M1 Huskies_D4 5
+Huskies_M1 Huskies_D8 5
+Huskies_M1 Huskies_D10 1
+Huskies_M1 Huskies_F4 9
+Huskies_M1 Huskies_F5 1
+Huskies_M1 Huskies_F6 2
+Huskies_M1 Huskies_M1 1
+Huskies_M1 Huskies_M2 3
+Huskies_M1 Huskies_M3 9
+Huskies_M1 Huskies_M4 5
+Huskies_M1 Huskies_M12 1
+Huskies_M1 Huskies_G1 0
+
+[Huskies_M2]
+Huskies_M2 Huskies_D1 0
+Huskies_M2 Huskies_D3 1
+Huskies_M2 Huskies_D4 2
+Huskies_M2 Huskies_D8 2
+Huskies_M2 Huskies_D10 0
+Huskies_M2 Huskies_F4 3
+Huskies_M2 Huskies_F5 0
+Huskies_M2 Huskies_F6 0
+Huskies_M2 Huskies_M1 2
+Huskies_M2 Huskies_M2 1
+Huskies_M2 Huskies_M3 1
+Huskies_M2 Huskies_M4 2
+Huskies_M2 Huskies_M12 0
+Huskies_M2 Huskies_G1 0
+
+[Huskies_M3]
+Huskies_M3 Huskies_D1 4
+Huskies_M3 Huskies_D3 3
+Huskies_M3 Huskies_D4 6
+Huskies_M3 Huskies_D8 2
+Huskies_M3 Huskies_D10 1
+Huskies_M3 Huskies_F4 3
+Huskies_M3 Huskies_F5 1
+Huskies_M3 Huskies_F6 1
+Huskies_M3 Huskies_M1 9
+Huskies_M3 Huskies_M2 2
+Huskies_M3 Huskies_M3 0
+Huskies_M3 Huskies_M4 2
+Huskies_M3 Huskies_M12 0
+Huskies_M3 Huskies_G1 1
+
+[Huskies_M4]
+Huskies_M4 Huskies_D1 4
+Huskies_M4 Huskies_D3 0
+Huskies_M4 Huskies_D4 2
+Huskies_M4 Huskies_D8 5
+Huskies_M4 Huskies_D10 1
+Huskies_M4 Huskies_F4 2
+Huskies_M4 Huskies_F5 1
+Huskies_M4 Huskies_F6 1
+Huskies_M4 Huskies_M1 4
+Huskies_M4 Huskies_M2 2
+Huskies_M4 Huskies_M3 6
+Huskies_M4 Huskies_M4 0
+Huskies_M4 Huskies_M12 0
+Huskies_M4 Huskies_G1 0
+
+[Huskies_M12]
+Huskies_M12 Huskies_D1 0
+Huskies_M12 Huskies_D3 0
+Huskies_M12 Huskies_D4 0
+Huskies_M12 Huskies_D8 0
+Huskies_M12 Huskies_D10 0
+Huskies_M12 Huskies_F4 1
+Huskies_M12 Huskies_F5 0
+Huskies_M12 Huskies_F6 0
+Huskies_M12 Huskies_M1 1
+Huskies_M12 Huskies_M2 0
+Huskies_M12 Huskies_M3 0
+Huskies_M12 Huskies_M4 0
+Huskies_M12 Huskies_M12 0
+Huskies_M12 Huskies_G1 0
+
+[Huskies_G1]
+Huskies_G1 Huskies_D1 3
+Huskies_G1 Huskies_D3 1
+Huskies_G1 Huskies_D4 0
+Huskies_G1 Huskies_D8 0
+Huskies_G1 Huskies_D10 0
+Huskies_G1 Huskies_F4 0
+Huskies_G1 Huskies_F5 0
+Huskies_G1 Huskies_F6 0
+Huskies_G1 Huskies_M1 3
+Huskies_G1 Huskies_M2 0
+Huskies_G1 Huskies_M3 1
+Huskies_G1 Huskies_M4 0
+Huskies_G1 Huskies_M12 0
+Huskies_G1 Huskies_G1 0
+
+
