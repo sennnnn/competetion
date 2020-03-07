@@ -6,10 +6,11 @@ import time
 from util import csv_preprocss, string_preprocess, record_word_frequency
 
 item_path = sys.argv[1]
-file_length = int(sys.argv[2])
 
 if(not os.path.exists(item_path)):
     assert False, "第一个命令行参数必须输入有效路径"
+
+file_length = len(open(item_path, 'r').readlines())
 
 col = csv.register_dialect('mydialect',delimiter='\t',quoting=csv.QUOTE_ALL)
 
