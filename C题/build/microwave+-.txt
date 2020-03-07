@@ -1,0 +1,11 @@
+score_1=['like','well','good','easy','nice','fit','love','fine','stainless','happy','pretty','simple','powerful','worth','easily','quickly','pleased','available','ok','compact','definitely','cheap','simply','evenly','exact','quick','quiet','cool','properly','thanks','satisfied','please','normal','convenient','attractive','nicely','thank','strong','cute','faster','beautiful','surprised','special','safety','okay','automatically',']
+
+
+
+score_2=['great','perfect','perfectly','best','excellent','wonderful']
+
+
+
+
+
+score_n1=['problem','old','sharp','problems','bad','hard','issues','expensive','failed','short','error','defrost','damaged','complaints','poor','heavy','wrong','difficult','broken','negative','disappointed','smell','noisy','junk','unfortunately','complaint','cracked','break','burning','worse','damage','defective','terrible','sorry','mistake','fail','burn','horrible','smoke','disappointing','burnt','awesome','dangerous']

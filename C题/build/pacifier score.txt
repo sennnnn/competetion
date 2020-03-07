@@ -1,0 +1,12 @@
+score_1=['great', 'like', 'love', 'loves', 'easy', 'cute', 'perfect', 'clean', 'loved', 'better', 'best', 'soft', 'easily', 'fit', 'likes', 'easier', 'pretty', 'favorite', 'wanted', 
+'want ', 'adorable', 'comfortable', 'atttached', 'helps', 'awesome', 'free', 'safe','perfectly', 'excellent', 'fun', 'durable', 'glad', 'natural', 'cheap', 'thank', 
+'amazing', 'pleased', 'bright', 'thanks', 'safety', 'real',  'helped', 'comfort', 'warm', 'strong', 'cheaper', 'available', 'excited', 'working', 'useful', 
+'cool', 'beautiful', 'convenient', 'lightweight', 'nicely',  'secure', 'enjoy', 'soothe', 'important', 'soothing', 'fantastic',  'satisfied', 'enjoys', 'pros','adjustable','compliments','properly','interested','plenty','smooth','impressed','please','cutest','surprised','quiet','comfy','sweet','calm','colorful','decent','flexible','enjoyed','practical','peace','interest','affordable','clearly','comfortably','compact','security','cheaply','friendly','happier','effective','wonderfully','securely','positive','soothed','happily','nicer','attractive','excelent']
+
+
+
+
+score_n1=['hard', 'never', 'difficult', 'disappointed', 'heavy', 'bad', 'expensive', 'problems', 'issues', 'unfortunately', 'worry', 'stuck','wrong', 'leak', 'noise', 'dirty','broke','waste', 'break', 'harder', 'complaint','tight', 'trouble', 'bulky', 'pain', 'annoying', 'cold', 'snap', 'crying', 'loose', 'leaks', 'returned', 'hate', 'worried', 'crazy', 'useless','broken','hated','poor','negative','pricey','complaints','hurt','losing','mess','choking','horrible','uncomfortable','refused','downside','bother','hassle','awkward','upset','worn','disappointing','hazard','afraid','tired','terrible','stiff','fault','frustrating','complain','silly','smells','sadly','worse','risk','dangerous','dirt','worst','awful','frustrated','regret','germs','damaged','damage','messy','rejected']
+
+
+
