@@ -1,4 +1,4 @@
-score_1=['like','well','good','easy','nice','fit','love','fine','stainless','happy','pretty','simple','powerful','worth','easily','quickly','pleased','available','ok','compact','definitely','cheap','simply','evenly','exact','quick','quiet','cool','properly','thanks','satisfied','please','normal','convenient','attractive','nicely','thank','strong','cute','faster','beautiful','surprised','special','safety','okay','automatically',']
+score_1=['like','well','good','easy','nice','fit','love','fine','stainless','happy','pretty','simple','powerful','worth','easily','quickly','pleased','available','ok','compact','definitely','cheap','simply','evenly','exact','quick','quiet','cool','properly','thanks','satisfied','please','normal','convenient','attractive','nicely','thank','strong','cute','faster','beautiful','surprised','special','safety','okay','automatically']
 
 
 

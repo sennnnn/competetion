@@ -1,9 +1,0 @@
-score_1=['happy','love','beautiful','beauty','good','well','easy','powerful','quickly','fast','cool','fine','new','quiet','compact','lightweight','strong','super','quite','cheap','loved','feature','smooth','warm','professional','easily','soft','liked','loves','pleased','quick','shiny','fit','awesome','glad','already','believable','beneficial','terrisic','benevolent','benevolently','impressed','clean','gift','convenient','kind','natural','satisfied','bright','thank','handy','nicely','plenty','thanks','comfortable','surprised','okay','decent','fantastic','silky','available','likes','reasonable'','inexpensive','please','figured','naturally','ready','original','efficient','healthy','excited','useful','special','durable','reliable','adjustable','positive','fancy','effective','honestly','reasonably','wide','properly','hopefully','authorized','surprise','convenience','amazed']
-
-
-
-
-score_2=['great','nice','best','perfect','pretty','excellent','amazing','perfectly','thrilled','fabulous']
-
-
-score_n1=['broke', 'died', 'bad', 'disappointed', 'noisy', 'difficult', 'damage',  'burning', 'waste',  'burn', 'burned', 'negative','blast',  'stuck',  'coarse', 'damaged', 'smoke', 'con', 'defective', 'refund', 'junk', 'worst', 'flimsy', 'skeptical', 'poor',  'horrible', 'die', 'vanity', 'failed', 'hassle', 'dead', 'worry', 'breaking', 'werid', 'disappointing', 'worse', 'tangle', 'overly','damaging', 'frustrating', 'overheating',  'lack', 'flaw', 'worried', 'disappointment', 'suck', 'trash', 'split', 'fault', 'uncomfortable', 'slowly', 'slowly', 'complained', 'downside', 'dies', 'popping', 'stiff', 'burst',  'odd', 'garbage']

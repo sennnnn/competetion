@@ -1,3 +1,4 @@
+import re
 
 letter_list = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', \
             'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
@@ -80,3 +81,25 @@ def col_extract(lines):
         ret.append(eval(col))
     
     return ret
+
+def txt_get(txt_path):
+    f = open(txt_path, 'r')
+    
+    return f.read()
+
+def parse_score(txt_content):
+    score_dict = {}
+    pattern = 'score_.*=\[.*\]'
+    pattern_obj = re.compile(pattern)
+    result = pattern_obj.findall(txt_content)
+    for s in result:
+        flag = 1
+        head = s.split('=')[0]
+        tail = s.split('=')[1]
+        head = head.replace('score_', '')
+        if('n' in head): 
+            flag = -1
+            head = head.replace('n', '')
+        score_dict[flag*int(head)] = eval(tail)
+    
+    return score_dict
